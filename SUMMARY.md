@@ -1,7 +1,10 @@
 # Table of contents
 
-* [Il mio nome è Kimo](README.md)
-* [Introduzione](panoramica.md)
+* [Piacere, sono Kimo](README.md)
+* [Introduzione](panoramica/README.md)
+  * [Funzionalità chiave](panoramica/funzionalita-chiave.md)
+  * [App e moduli](panoramica/app-e-moduli.md)
+  * [Come ottenere assistenza](panoramica/come-ottenere-assistenza.md)
 * [Integrazione](kimo-integrator/README.md)
   * [Kimo integrator](kimo-integrator/kimo-integrator-1.md)
   * [Database schema](kimo-integrator/database-schema.md)
