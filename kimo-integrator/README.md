@@ -2,7 +2,7 @@
 description: in questa sezione è descritta l'integrazione di Kimo con Erp e Crm
 ---
 
-# Kimo integrator
+# Integrazione
 
 ## Introduzione <a id="introduzione"></a>
 
@@ -91,22 +91,6 @@ il campo **Status** può assumere i seguenti valori:
 * **2**: import dati da parte di Kimo dal database di integrazione
 * **3**: export dati da parte di Kimo nel database di integrazione
 * **4**: import dati da parte dell’ERP dal database di integrazione
-
-## Impostazioni di sistema <a id="impostazioni-di-sistema"></a>
-
-Attraverso l'entità IntegratorSystemSettings è possibile andare a specificare come far gestire a Kimo Integrator i tipi di dato dell'Erp Integrator.
-
-## Mapping <a id="mapping"></a>
-
-L'entità IntegratorMapping mappa tabelle e campi dell'Erp Integrator nel Kimo \(Integrator\)
-
-Il mapping delle tabelle che vogliono essere utilizzate in Kimo è obbligatorio anche nel caso il nome della tabella dell'Erp sia lo stesso di quella in Kimo Integrator.
-
-Invece il mapping dei campi con lo stesso nome viene effettuato automaticamente.
-
-## Filtri importazione <a id="filtri-importazione"></a>
-
-L'entità IntegratorImportFilter permette di definire query sul database di integrazione, da usare nel mapping.
 
 ## Import da Erp / Crm <a id="import-da-erp-crm"></a>
 

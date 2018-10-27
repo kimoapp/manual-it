@@ -1,25 +1,21 @@
 # Table of contents
 
-* [Introduzione a Kimo](README.md)
-* [Panoramica](panoramica.md)
-
-## integrazione
-
-* [Kimo integrator](integrazione/kimo-integrator.md)
-* [Database schema](integrazione/database-schema.md)
-
-## funzionalità
-
-* [Clienti](funzionalita/clienti.md)
-* [Catalogo](funzionalita/catalogo.md)
-* [Documenti di vendita](funzionalita/documenti-di-vendita.md)
-* [Documenti da Erp](funzionalita/documenti-da-erp.md)
-* [Documenti aziendali e personali](funzionalita/documenti-aziendali-e-personali.md)
-* [Scadenzario](funzionalita/scadenzario.md)
-* [Riassortimenti](funzionalita/riassortimenti.md)
-* [Statistiche](funzionalita/statistiche.md)
-* [Budget](funzionalita/budget.md)
-* [Comunicazioni](funzionalita/comunicazioni.md)
+* [Cosa è Kimo](README.md)
+* [Introduzione](panoramica.md)
+* [Integrazione](kimo-integrator/README.md)
+  * [Kimo integrator](kimo-integrator/kimo-integrator-1.md)
+  * [Database schema](kimo-integrator/database-schema.md)
+* [Funzionalità](funzionalita-1/README.md)
+  * [Clienti](funzionalita-1/clienti.md)
+  * [Catalogo](funzionalita-1/catalogo.md)
+  * [Documenti di vendita](funzionalita-1/documenti-di-vendita.md)
+  * [Documenti da Erp](funzionalita-1/documenti-da-erp.md)
+  * [Documenti aziendali e personali](funzionalita-1/documenti-aziendali-e-personali.md)
+  * [Scadenzario](funzionalita-1/scadenzario.md)
+  * [Riassortimenti](funzionalita-1/riassortimenti.md)
+  * [Statistiche](funzionalita-1/statistiche.md)
+  * [Budget](funzionalita-1/budget.md)
+  * [Comunicazioni](funzionalita-1/comunicazioni.md)
 
 ## setup
 
