@@ -6,3 +6,7 @@ description: >-
 
 # Introduzione a Kimo
 
+Kimo ti dà il benvenuto!
+
+qui troverai maggiori informazioni sulle opzioni a tua disposizione.
+
