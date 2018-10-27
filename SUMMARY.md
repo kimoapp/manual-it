@@ -4,6 +4,10 @@
 * [Introduzione](panoramica/README.md)
   * [Funzionalità chiave](panoramica/funzionalita-chiave.md)
   * [App e moduli](panoramica/app-e-moduli.md)
+  * [User interface](panoramica/user-interface/README.md)
+    * [Layout](panoramica/user-interface/layout.md)
+    * [Scenari](panoramica/user-interface/scenari.md)
+  * [Utenti](panoramica/utenti.md)
   * [Come ottenere assistenza](panoramica/come-ottenere-assistenza.md)
 * [Integrazione](kimo-integrator/README.md)
   * [Kimo integrator](kimo-integrator/kimo-integrator-1.md)
@@ -20,11 +24,4 @@
   * [Statistiche](funzionalita-1/statistiche.md)
   * [Budget](funzionalita-1/budget.md)
   * [Comunicazioni](funzionalita-1/comunicazioni.md)
-
-## setup
-
-* [User interface](setup/user-interface/README.md)
-  * [Layout](setup/user-interface/layout.md)
-  * [Scenari](setup/user-interface/scenari.md)
-* [Utenti](setup/utenti.md)
 
