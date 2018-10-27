@@ -4,7 +4,7 @@ description: >-
   canali di vendita, rendendoli disponibili sempre e ovunque
 ---
 
-# Cosa è Kimo
+# Il mio nome è Kimo
 
 Kimo ti dà il benvenuto!
 

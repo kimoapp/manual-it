@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Cosa è Kimo](README.md)
+* [Il mio nome è Kimo](README.md)
 * [Introduzione](panoramica.md)
 * [Integrazione](kimo-integrator/README.md)
   * [Kimo integrator](kimo-integrator/kimo-integrator-1.md)
