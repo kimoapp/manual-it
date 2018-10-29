@@ -8,5 +8,5 @@ description: >-
 
 Kimo ti dà il benvenuto!
 
-qui troverai maggiori informazioni sulle opzioni a tua disposizione.
+Qui troverai maggiori informazioni sulle opzioni a tua disposizione.
 
