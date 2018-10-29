@@ -1,10 +1,3 @@
----
-title: Account
-description:
-keywords: schema, Account
-uid: kimo-integrator-schema/Account
----
-
 # Account
 
 <br>
