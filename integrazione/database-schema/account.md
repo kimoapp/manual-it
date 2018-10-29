@@ -1,4 +1,11 @@
-# Account
+---
+title: Account
+description:
+keywords: schema, Account
+uid: kimo-integrator-schema/Account
+---
+
+# Account for DocFX
 
 <br>
 **Chiavi**
