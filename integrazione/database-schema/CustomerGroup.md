@@ -1,0 +1,19 @@
+---
+title: CustomerGroup
+description:
+keywords: schema, CustomerGroup
+uid: kimo-integrator-schema/CustomerGroup
+---
+
+# CustomerGroup
+
+<br>
+**Chiavi**
+- *Id*
+<br><br>
+
+| Campo | Descrizione | Tipo | Dimensione | Note |
+| --- | --- | --- | --- | --- |
+| Description | Descrizione | text | 100 |  |
+| Id | Id | text | 50 |  |
+

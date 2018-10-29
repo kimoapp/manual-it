@@ -1,0 +1,19 @@
+---
+title: TransportMode
+description:
+keywords: schema, TransportMode
+uid: kimo-integrator-schema/TransportMode
+---
+
+# TransportMode
+
+<br>
+**Chiavi**
+- *Id*
+<br><br>
+
+| Campo | Descrizione | Tipo | Dimensione | Note |
+| --- | --- | --- | --- | --- |
+| Description | Descrizione | text | 100 |  |
+| Id | Id | text | 50 |  |
+
