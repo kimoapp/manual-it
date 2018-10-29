@@ -12,6 +12,7 @@
 * [Integrazione](integrazione/README.md)
   * [Kimo integrator](integrazione/kimo-integrator.md)
   * [Database schema](integrazione/database-schema/README.md)
+    * [Account](integrazione/database-schema/account.md)
     * [Item](integrazione/database-schema/item.md)
     * [Prova1](integrazione/database-schema/prova1.md)
 * [Funzionalità](funzionalita/README.md)
