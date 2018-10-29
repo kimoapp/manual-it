@@ -1,7 +1,3 @@
----
-description: in questa sezione è descritta l'integrazione di Kimo con Erp e Crm
----
-
 # Integrazione
 
 ## Introduzione <a id="introduzione"></a>
