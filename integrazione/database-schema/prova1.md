@@ -1,12 +1,12 @@
 # Prova1
 
-<br>
-**Chiavi**
-- *Id*
-<br><br>
+  
+ **Chiavi**
+
+* _Id_
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- |
 | AccountFilterId | Id del filtro clienti | text | 50 | questo campo è un valore sul quale possono essere filtrati i clienti in fase di ricerca. I valori utilizzati hanno un'anagrafica associata ovvero l'entità AccountFilter |
 | AccountTypeId | Tipo cliente | enum |  | 0: Undefined, 1: Customer, 2: ShipmentSite, 3: Prospect |
 | AddressCity | Città | text | 40 |  |
@@ -20,7 +20,7 @@
 | BankCin | Codice CIN | text | 1 |  |
 | BankIban | Codice IBAN | text | 50 |  |
 | CarrierId | Id del vettore | text | 50 |  |
-| CertifiedMail | Mail certificata (PEC - Posta Elettronica Certificata | text | 100 |  |
+| CertifiedMail | Mail certificata \(PEC - Posta Elettronica Certificata | text | 100 |  |
 | ContactInfo | Info di contatto del cliente | text | text |  |
 | CreationDate | Data di creazione | dt |  |  |
 | CreationReason | Indica se è un nuovo cliente, se è un cliente modificato o se è stato creato un cliente a partire da un prospect | enum |  | 0: Undefined, 1: AccountEdited, 2: NewAccount, 3: ProspectConvertedToCustomer |
@@ -74,7 +74,7 @@
 | LanguageId | Id della lingua | text | 50 |  |
 | LastModifiedTimeStamp | Data dell'ultima modifica | dt |  |  |
 | LastModifiedUserId | Id dell'agente che ha effettuato l'ultima modifica | text | 50 |  |
-| Level | Indica il tipo di cliente | enum |  | 0: Standard, 1: SHOULD_USE_JUST_FOR_COMPATIBILITY_Prospect, 3: Bronze, 4: Silver, 5: Gold |
+| Level | Indica il tipo di cliente | enum |  | 0: Standard, 1: SHOULD\_USE\_JUST\_FOR\_COMPATIBILITY\_Prospect, 3: Bronze, 4: Silver, 5: Gold |
 | Locked | Indica se il cliente è bloccato | bool |  |  |
 | LogisticCallRequest |  | bool |  |  |
 | LogisticDeliveryToFloor |  | bool |  |  |
@@ -90,7 +90,7 @@
 | MobilePhone | Telefono mobile | text | 50 |  |
 | Name | Ragione sociale | text | 100 |  |
 | Name2 | Ragione sociale 2 | text | 100 |  |
-| NickName | Nickname | text | 100 | Nome usato 'comunemente' per indicare l'account, può essere differente dalla ragione sociale (es. nome con cui è conosciuto un bar) |
+| NickName | Nickname | text | 100 | Nome usato 'comunemente' per indicare l'account, può essere differente dalla ragione sociale \(es. nome con cui è conosciuto un bar\) |
 | Notes | Note | text | text |  |
 | OpeningDays | Giorni di apertura o chiusura | text | 30 |  |
 | PaymentMethodId | Id del metodo di pagamento | text | 50 |  |
@@ -103,7 +103,7 @@
 | RegistrationDocumentTypeId | Id del tipo di documento di registrazione | text | 50 |  |
 | ResponsibleForTransportId | Id per il responsabile del trasporto | text | 50 |  |
 | RetailPriceListId | Id del listino retail associato al cliente | text | 50 |  |
-| ShipmentMethodId | Id del metodo di consegna (porto) | text | 50 |  |
+| ShipmentMethodId | Id del metodo di consegna \(porto\) | text | 50 |  |
 | StatisticClassId | Id della classe statistica | text | 50 |  |
 | SyncReference | Riferimento | text | 50 |  |
 | TransportModeId | Id del mezzo di trasporto | text | 50 |  |
