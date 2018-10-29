@@ -1,13 +1,13 @@
 # ShipmentParamsPerDocument
 
-  
- **Chiavi**
-
-* _Id_
-* TrademarkId, SeasonId, DocumentTypeId, ShipmentNumber
+<br>
+**Chiavi**
+- *Id*
+- TrademarkId, SeasonId, DocumentTypeId, ShipmentNumber
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | Description | Descrizione | text | 100 |  |
 | DocumentTypeId | Id del tipo documento | text | 50 |  |
 | Id | Id | text | 50 |  |

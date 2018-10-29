@@ -1,12 +1,12 @@
 # PaymentMethod
 
-  
- **Chiavi**
-
-* _Id_
+<br>
+**Chiavi**
+- *Id*
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | Description | Descrizione | text | 100 |  |
 | Discount1 | Sconto | dec |  |  |
 | Discount2 | Sconto | dec |  |  |

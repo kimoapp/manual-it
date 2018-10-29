@@ -1,13 +1,13 @@
 # BudgetLineActual
 
-  
- **Chiavi**
-
-* _Id_
-* BudgetId, AccountId
+<br>
+**Chiavi**
+- *Id*
+- BudgetId, AccountId
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | AccountId | Id del cliente | text | 50 |  |
 | Amount | Importo | dec |  |  |
 | BudgetId | Id del budget | text | 50 |  |

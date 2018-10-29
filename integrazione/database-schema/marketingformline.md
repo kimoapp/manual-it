@@ -1,12 +1,12 @@
 # MarketingFormLine
 
-  
- **Chiavi**
-
-* _Id_
+<br>
+**Chiavi**
+- *Id*
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | CreationDate | Data di creazione | dt |  |  |
 | CreatorId | Id dell'agente che ha creato il record | text | 50 |  |
 | FieldId | Id del campo | text | 50 |  |

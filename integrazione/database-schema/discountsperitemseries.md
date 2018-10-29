@@ -1,13 +1,13 @@
 # DiscountsPerItemSeries
 
-  
- **Chiavi**
-
-* _Id_
-* AccountId, ItemSeriesId, StartDate, EndDate
+<br>
+**Chiavi**
+- *Id*
+- AccountId, ItemSeriesId, StartDate, EndDate
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | AccountId | Id del cliente | text | 50 |  |
 | Discount1 | Sconto | dec |  |  |
 | Discount2 | Sconto | dec |  |  |

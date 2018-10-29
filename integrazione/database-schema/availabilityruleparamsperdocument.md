@@ -1,13 +1,13 @@
 # AvailabilityRuleParamsPerDocument
 
-  
- **Chiavi**
-
-* _Id_
-* TrademarkId, SeasonId, DocumentTypeId, DocumentStartDate, DocumentEndDate, ShipmentStartDate, ShipmentEndDate
+<br>
+**Chiavi**
+- *Id*
+- TrademarkId, SeasonId, DocumentTypeId, DocumentStartDate, DocumentEndDate, ShipmentStartDate, ShipmentEndDate
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | DocumentEndDate | Data fine validità | date |  |  |
 | DocumentStartDate | Data inizio validità | date |  |  |
 | DocumentTypeId | Id del tipo documento | text | 50 |  |

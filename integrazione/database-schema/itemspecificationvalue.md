@@ -1,13 +1,13 @@
 # ItemSpecificationValue
 
-  
- **Chiavi**
-
-* _Id_
-* ItemId, SpecificationId
+<br>
+**Chiavi**
+- *Id*
+- ItemId, SpecificationId
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | Id | Id | text | 50 |  |
 | ItemId | Id articolo | text | 50 |  |
 | SpecificationId | Id specifica | text | 50 |  |

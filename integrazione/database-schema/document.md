@@ -1,12 +1,12 @@
 # Document
 
-  
- **Chiavi**
-
-* _Id_
+<br>
+**Chiavi**
+- *Id*
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | AccountAddressCity | Città | text | 40 |  |
 | AccountAddressCountry | Paese | text | 20 |  |
 | AccountAddressCountrySubdivision | Provincia | text | 20 |  |
@@ -142,7 +142,7 @@
 | SeasonGroupId | Id del gruppo stagioni | text | 50 |  |
 | SeasonId | Id della stagione | text | 50 |  |
 | ShipmentDescription | Descrizione spedizione | text | text |  |
-| ShipmentMethodId | Id del metodo di spedizione \(porto\) | text | 50 |  |
+| ShipmentMethodId | Id del metodo di spedizione (porto) | text | 50 |  |
 | ShipmentSiteAddressCity | Città | text | 40 |  |
 | ShipmentSiteAddressCountry | Paese | text | 20 |  |
 | ShipmentSiteAddressCountrySubdivision | Provincia | text | 20 |  |

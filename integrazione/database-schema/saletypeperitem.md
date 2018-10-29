@@ -1,13 +1,13 @@
 # SaleTypePerItem
 
-  
- **Chiavi**
-
-* _Id_
-* ItemId, SaleTypeId
+<br>
+**Chiavi**
+- *Id*
+- ItemId, SaleTypeId
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | Id | Id | text | 50 |  |
 | ItemId | Id dell'articolo | text | 50 |  |
 | Priority | Priorità di utilizzo | int |  |  |

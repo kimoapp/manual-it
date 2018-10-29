@@ -1,13 +1,13 @@
 # ItemCharge
 
-  
- **Chiavi**
-
-* _Id_
-* ItemChargeTypeId, ItemId, AccountId, StartDate, EndDate, CurrencyId
+<br>
+**Chiavi**
+- *Id*
+- ItemChargeTypeId, ItemId, AccountId, StartDate, EndDate, CurrencyId
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | AccountId | Id del cliente | text | 50 |  |
 | CurrencyId | Id della valuta | text | 50 |  |
 | EndDate | Data fine validità | date |  |  |

@@ -1,13 +1,13 @@
 # InvoiceDiscountParams
 
-  
- **Chiavi**
-
-* _Id_
-* InvoiceDiscountId, CurrencyId, MinimumAmount
+<br>
+**Chiavi**
+- *Id*
+- InvoiceDiscountId, CurrencyId, MinimumAmount
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | CurrencyId | Id valuta | text | 50 |  |
 | Discount | Sconto | dec |  |  |
 | Id | Id | text | 50 |  |

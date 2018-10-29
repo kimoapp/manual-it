@@ -1,13 +1,13 @@
 # PromotionFilter
 
-  
- **Chiavi**
-
-* _Id_
-* PromotionId, EncodingType, EncodingKey, StartDate, EndDate
+<br>
+**Chiavi**
+- *Id*
+- PromotionId, EncodingType, EncodingKey, StartDate, EndDate
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | EncodingKey | Chiave | text | 50 | I campi EncodingType ed EncodingKey permettono di definire quali sono le entità a cui va applicata la promozione |
 | EncodingType | Prefisso | text | 50 | I campi EncodingType ed EncodingKey permettono di definire quali sono le entità a cui va applicata la promozione |
 | EndDate | Data fine validità | date |  |  |

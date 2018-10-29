@@ -1,13 +1,13 @@
 # ItemListPrice
 
-  
- **Chiavi**
-
-* _Id_
-* ItemId, AccountId, PriceListId, SalesUomId, UnitsPerPack, CurrencyId, StartDate, EndDate, StartQuantityRange, EndQuantityRange, PriceListType, SalesConditionKey, SalesAgentId
+<br>
+**Chiavi**
+- *Id*
+- ItemId, AccountId, PriceListId, SalesUomId, UnitsPerPack, CurrencyId, StartDate, EndDate, StartQuantityRange, EndQuantityRange, PriceListType, SalesConditionKey, SalesAgentId
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | AccountId | Id del cliente | text | 50 |  |
 | CurrencyId | Id della valuta | text | 50 |  |
 | Discount1 | Sconto | dec |  |  |

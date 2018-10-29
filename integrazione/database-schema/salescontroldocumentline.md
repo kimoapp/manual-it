@@ -1,15 +1,15 @@
 # SalesControlDocumentLine
 
-  
- **Chiavi**
-
-* _Id_
-* SalesControlType, ChannelsEnabled, ItemId, SalesUomId, AccountId, SalesAgentId, DocumentTypeId, CurrencyId, SeasonId, TrademarkId, StartDate, EndDate
+<br>
+**Chiavi**
+- *Id*
+- SalesControlType, ChannelsEnabled, ItemId, SalesUomId, AccountId, SalesAgentId, DocumentTypeId, CurrencyId, SeasonId, TrademarkId, StartDate, EndDate
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | AccountId | Id del cliente | text | 50 |  |
-| ChannelsEnabled | Indica per quali canali è abilitato \(se non specificato vale per tutti i canali\) | enum |  |  |
+| ChannelsEnabled | Indica per quali canali è abilitato (se non specificato vale per tutti i canali) | enum |  |  |
 | CurrencyId | Id della valuta | text | 50 |  |
 | DocumentTypeId | Id del tipo documento | text | 50 |  |
 | EndDate | Data fine validità | date |  |  |
@@ -26,5 +26,5 @@
 | SeasonId | Id della stagione | text | 50 |  |
 | StartDate | Data inizio validità | date |  |  |
 | TrademarkId | Id del trademark | text | 50 |  |
-| Value | Valore \(vedi documentazione dei Controlli Commerciali\) | dec |  |  |
+| Value | Valore (vedi documentazione dei Controlli Commerciali) | dec |  |  |
 

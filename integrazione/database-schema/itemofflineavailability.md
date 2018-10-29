@@ -1,13 +1,13 @@
 # ItemOfflineAvailability
 
-  
- **Chiavi**
-
-* _Id_
-* ItemId, WarehouseId, VariableItemId, StartAvailabilityDate
+<br>
+**Chiavi**
+- *Id*
+- ItemId, WarehouseId, VariableItemId, StartAvailabilityDate
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | AvailabilityAsFreeText | Campo testo libero in cui riportare la disponibilità strutturata come richiesto dal cliente | text | text |  |
 | ErpStatusId1 |  | text | 50 |  |
 | ErpStatusId2 |  | text | 50 |  |

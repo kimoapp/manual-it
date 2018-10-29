@@ -1,13 +1,13 @@
 # ActivityAssignee
 
-  
- **Chiavi**
-
-* _Id_
-* ActivityId, AssigneeId
+<br>
+**Chiavi**
+- *Id*
+- ActivityId, AssigneeId
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | ActivityId | Id dell'attività | text | 50 |  |
 | AssigneeId | Id dell'assegnatario | text | 50 |  |
 | AssigneeType | Tipo dell'assegnatario | enum |  | 1: User |

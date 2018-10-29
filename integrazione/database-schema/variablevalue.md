@@ -1,13 +1,13 @@
 # VariableValue
 
-  
- **Chiavi**
-
-* _Id_
-* VariableId, ValueId
+<br>
+**Chiavi**
+- *Id*
+- VariableId, ValueId
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | Description | Descrizione | text | 100 |  |
 | Id |  | text | 50 |  |
 | SortPriority | Priorità di ordinamento | int |  |  |

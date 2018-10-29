@@ -1,12 +1,12 @@
 # Budget
 
-  
- **Chiavi**
-
-* _Id_
+<br>
+**Chiavi**
+- *Id*
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | Amount | Importo | dec |  |  |
 | AverageUnitPrice | Prezzo unitario medio | dec |  |  |
 | CreationDate | Data di creazione | dt |  |  |

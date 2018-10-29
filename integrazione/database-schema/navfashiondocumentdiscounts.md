@@ -1,13 +1,13 @@
 # NavFashionDocumentDiscounts
 
-  
- **Chiavi**
-
-* _Id_
-* AccountId, TrademarkId, PaymentMethodId
+<br>
+**Chiavi**
+- *Id*
+- AccountId, TrademarkId, PaymentMethodId
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | AccountId | Id del cliente | text | 50 |  |
 | Discount1 | Sconto | dec |  |  |
 | Discount2 | Sconto | dec |  |  |

@@ -1,12 +1,12 @@
 # SalesAgent
 
-  
- **Chiavi**
-
-* _Id_
+<br>
+**Chiavi**
+- *Id*
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | AddressCity | Città | text | 40 |  |
 | AddressCountry | Paese | text | 20 |  |
 | AddressCountrySubdivision | Provincia | text | 20 |  |

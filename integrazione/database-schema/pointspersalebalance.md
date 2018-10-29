@@ -1,13 +1,13 @@
 # PointsPerSaleBalance
 
-  
- **Chiavi**
-
-* _Id_
-* AccountId, SalesAgentId
+<br>
+**Chiavi**
+- *Id*
+- AccountId, SalesAgentId
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | AccountId | Id del cliente | text | 50 |  |
 | Id | Id | text | 50 |  |
 | Points | Punti | dec |  |  |

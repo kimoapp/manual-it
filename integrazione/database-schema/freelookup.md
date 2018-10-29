@@ -1,13 +1,13 @@
 # FreeLookup
 
-  
- **Chiavi**
-
-* _Id_
-* Entity, FieldIndex, Context, ValueId
+<br>
+**Chiavi**
+- *Id*
+- Entity, FieldIndex, Context, ValueId
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | Context |  | text | 50 |  |
 | Description | Descrizione | text | 100 |  |
 | Entity |  | text | 50 |  |

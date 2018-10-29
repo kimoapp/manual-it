@@ -1,12 +1,12 @@
 # ReceivableInstallment
 
-  
- **Chiavi**
-
-* _Id_
+<br>
+**Chiavi**
+- *Id*
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | BankAbi | Codice ABI | text | 5 |  |
 | BankCab | Codice CAB | text | 5 |  |
 | BankCc | Codice CC | text | 20 |  |

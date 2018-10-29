@@ -1,12 +1,12 @@
 # RecurrentActivity
 
-  
- **Chiavi**
-
-* _Id_
+<br>
+**Chiavi**
+- *Id*
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | AccountId | Id del cliente | text | 50 |  |
 | ActivityTypeId | Id del tipo attività | text | 50 |  |
 | ContactId | Contatto | text | 50 |  |

@@ -1,14 +1,14 @@
 # ItemTranslation
 
-  
- **Chiavi**
-
-* _Id_
-* ItemId, LanguageId
+<br>
+**Chiavi**
+- *Id*
+- ItemId, LanguageId
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
-| Description | Descrizione in lingua | text | 130 |  |
+| --- | --- | --- | --- | --- |
+| Description | Descrizione in lingua  | text | 130 |  |
 | Id | Id | text | 50 |  |
 | ItemId |  | text | 50 |  |
 | LanguageId |  | text | 50 |  |

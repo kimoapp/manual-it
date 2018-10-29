@@ -1,12 +1,12 @@
 # ErpDocumentLine
 
-  
- **Chiavi**
-
-* _Id_
+<br>
+**Chiavi**
+- *Id*
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | Amount | Totale documento | dec |  |  |
 | AmountIncludingVat | Totale documento incluso di IVA | dec |  |  |
 | DeliveryDate | Data di consegna | date |  |  |
@@ -49,8 +49,8 @@
 | Id | Id della riga documento | text | 50 |  |
 | IsDiscountEdited | Indica se lo sconto è stato modificato | bool |  |  |
 | IsUnitPriceEdited | Identifica se il prezzo unitario è stato modificato | bool |  |  |
-| ItemChargesAmount | Valore delle spese per l'articolo \(RAEE, ...\) | dec |  |  |
-| ItemChargesTypeDescription | Descrizione delle spese per l'articolo applicate \(RAEE, ...\) | text | text |  |
+| ItemChargesAmount | Valore delle spese per l'articolo (RAEE, ...) | dec |  |  |
+| ItemChargesTypeDescription | Descrizione delle spese per l'articolo applicate (RAEE, ...) | text | text |  |
 | ItemDescription | Descrizione articolo | text | 130 |  |
 | ItemId | Tipo dell'articolo | text | 50 |  |
 | LineNumber | Numero riga | int |  |  |

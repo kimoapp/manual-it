@@ -1,13 +1,13 @@
 # NavSalesPrice
 
-  
- **Chiavi**
-
-* _Id_
-* ItemId, SeasonId, ConstantVariableId, VariableId1, VariableValueId1, VariableId2, VariableValueId2, SalesType, SalesCode, UomId, CurrencyId, StartDate, EndDate, StartQuantityRange, EndQuantityRange, SalesDocumentType, SalesDocumentCode
+<br>
+**Chiavi**
+- *Id*
+- ItemId, SeasonId, ConstantVariableId, VariableId1, VariableValueId1, VariableId2, VariableValueId2, SalesType, SalesCode, UomId, CurrencyId, StartDate, EndDate, StartQuantityRange, EndQuantityRange, SalesDocumentType, SalesDocumentCode
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | AllowInvoiceDiscount | Indica se sono permessi gli sconti fattura | bool |  |  |
 | AllowLineDiscount | Indica se sono permessi gli sconti a livello di riga ordine | bool |  |  |
 | ConstantVariableId | Id variante costante | text | 50 |  |

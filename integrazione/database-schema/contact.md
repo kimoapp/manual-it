@@ -1,12 +1,12 @@
 # Contact
 
-  
- **Chiavi**
-
-* _Id_
+<br>
+**Chiavi**
+- *Id*
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | AccountId | Codice cliente | text | 50 |  |
 | AddressCity | Città | text | 40 |  |
 | AddressCountry | Paese | text | 20 |  |

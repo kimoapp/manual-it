@@ -1,13 +1,13 @@
 # MichelangeloSalesMultiplierCondition
 
-  
- **Chiavi**
-
-* _Id_
-* ItemId, SalesUomId, UnitsPerPack, CurrencyId, StartDate, EndDate, SalesAgentId
+<br>
+**Chiavi**
+- *Id*
+- ItemId, SalesUomId, UnitsPerPack, CurrencyId, StartDate, EndDate, SalesAgentId
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | CurrencyId | Id della valuta | text | 50 |  |
 | DiscardOnNetCost | Condizione di ricarico da scartare se costo è netto | bool |  |  |
 | EndDate | Data fine validità | date |  |  |

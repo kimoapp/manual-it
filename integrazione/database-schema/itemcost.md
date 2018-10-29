@@ -1,13 +1,13 @@
 # ItemCost
 
-  
- **Chiavi**
-
-* _Id_
-* ItemId, StartDate, EndDate, CurrencyId, SalesUomId, UnitsPerPack
+<br>
+**Chiavi**
+- *Id*
+- ItemId, StartDate, EndDate, CurrencyId, SalesUomId, UnitsPerPack
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | CurrencyId | Id della valuta | text | 50 |  |
 | EndDate | Data fine validità | date |  |  |
 | GrossCost | Costo lordo | dec |  |  |

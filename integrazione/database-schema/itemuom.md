@@ -1,13 +1,13 @@
 # ItemUom
 
-  
- **Chiavi**
-
-* _Id_
-* ItemId, PackUomId, PackUnitUomId, SalesUomId, UnitsPerPack, Barcode
+<br>
+**Chiavi**
+- *Id*
+- ItemId, PackUomId, PackUnitUomId, SalesUomId, UnitsPerPack, Barcode
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | Barcode | Codice a barre | text | 50 |  |
 | Id | Id | text | 50 |  |
 | ItemId | Id dell'articolo | text | 50 |  |

@@ -1,13 +1,13 @@
 # TrademarkPerAccount
 
-  
- **Chiavi**
-
-* _Id_
-* AccountId, TrademarkId, SalesAgentId
+<br>
+**Chiavi**
+- *Id*
+- AccountId, TrademarkId, SalesAgentId
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | AccountId | Id del cliente | text | 50 |  |
 | Id | Id | text | 50 |  |
 | SalesAgentId | Id dell'agente | text | 50 |  |

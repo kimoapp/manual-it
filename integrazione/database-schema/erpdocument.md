@@ -1,12 +1,12 @@
 # ErpDocument
 
-  
- **Chiavi**
-
-* _Id_
+<br>
+**Chiavi**
+- *Id*
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | AccountAddressCity | Città | text | 40 |  |
 | AccountAddressCountry | Paese | text | 20 |  |
 | AccountAddressCountrySubdivision | Provincia | text | 20 |  |

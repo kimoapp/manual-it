@@ -1,13 +1,13 @@
 # NavSalesLineDiscount
 
-  
- **Chiavi**
-
-* _Id_
-* Code, Type, SalesType, SalesCode, StartQuantityRange, EndQuantityRange, UomId, CurrencyId, StartDate, EndDate, VariableItemId
+<br>
+**Chiavi**
+- *Id*
+- Code, Type, SalesType, SalesCode, StartQuantityRange, EndQuantityRange, UomId, CurrencyId, StartDate, EndDate, VariableItemId
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | Code | Codice sconto | text | 50 |  |
 | CurrencyId | Id della valuta | text | 50 |  |
 | Discount1 | Sconto | dec |  |  |

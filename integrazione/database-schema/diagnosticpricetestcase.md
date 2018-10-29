@@ -1,13 +1,13 @@
 # DiagnosticPriceTestCase
 
-  
- **Chiavi**
-
-* _Id_
-* AccountId, ItemId, SalesUomId, PackUomId, PackUnitUomId, PriceListId, CustomerPriceGroupId, CustomerDiscountGroupId, CurrencyId, SalesQty, ReferenceDate
+<br>
+**Chiavi**
+- *Id*
+- AccountId, ItemId, SalesUomId, PackUomId, PackUnitUomId, PriceListId, CustomerPriceGroupId, CustomerDiscountGroupId, CurrencyId, SalesQty, ReferenceDate
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | AccountId |  | text | 50 |  |
 | CurrencyId |  | text | 50 |  |
 | CustomerDiscountGroupId |  | text | 50 |  |

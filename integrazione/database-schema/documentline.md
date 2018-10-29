@@ -1,12 +1,12 @@
 # DocumentLine
 
-  
- **Chiavi**
-
-* _Id_
+<br>
+**Chiavi**
+- *Id*
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | Amount | Totale documento | dec |  |  |
 | AmountIncludingVat | Totale documento incluso di IVA | dec |  |  |
 | AvailabilityMode | Modalità disponibilità | enum |  | 0: Regular, 1: Virtual |
@@ -50,8 +50,8 @@
 | IsDeleted | Indica se il record è stato cancellato | bool |  |  |
 | IsDiscountEdited | Indica se lo sconto è stato modificato | bool |  |  |
 | IsUnitPriceEdited | Indica se il prezzo unitario è stato modificato | bool |  |  |
-| ItemChargesAmount | Valore delle spese per l'articolo \(RAEE, ...\) | dec |  |  |
-| ItemChargesTypeDescription | Descrizione delle spese per l'articolo applicate \(RAEE, ...\) | text | text |  |
+| ItemChargesAmount | Valore delle spese per l'articolo (RAEE, ...) | dec |  |  |
+| ItemChargesTypeDescription | Descrizione delle spese per l'articolo applicate (RAEE, ...) | text | text |  |
 | ItemDescription | Descrizione articolo | text | 130 |  |
 | ItemId | Id dell'articolo | text | 50 |  |
 | LastModifiedUserId | Id dell'agente che ha effettuato l'ultima modifica | text | 50 |  |
@@ -71,11 +71,11 @@
 | OriginalDiscount4 | Sconto | dec |  |  |
 | OriginalDiscount5 | Sconto | dec |  |  |
 | OriginalFixedDiscount |  | dec |  |  |
-| OriginalNetUnitPrice | Prezzo unitario netto \(originale\) | dec |  |  |
-| OriginalPriceIncludesVat | Indica se il prezzo è ivato \(originale\) | bool |  |  |
-| OriginalPriceListId | Id listino \(originale\) | text | 50 |  |
-| OriginalPriceListInfo | Info listino \(originale\) | text | text |  |
-| OriginalUnitPrice | Prezzo unitario \(originale\) | dec |  |  |
+| OriginalNetUnitPrice | Prezzo unitario netto (originale) | dec |  |  |
+| OriginalPriceIncludesVat | Indica se il prezzo è ivato (originale) | bool |  |  |
+| OriginalPriceListId | Id listino (originale) | text | 50 |  |
+| OriginalPriceListInfo | Info listino (originale) | text | text |  |
+| OriginalUnitPrice | Prezzo unitario (originale) | dec |  |  |
 | PackUnitQty | Quantità espressa nell'unità di misura unitaria d'imballo | dec |  |  |
 | PackUnitUomId | Unità di misura unitaria d'imballo | text | 20 |  |
 | PackUnitUomToSalesUomQtyRatio | Rapporto di conversione da unità di misura unitaria d'imballo a unità di misura di vendita | dec |  |  |
@@ -98,10 +98,10 @@
 | RetailDiscount4 | Sconto | dec |  |  |
 | RetailDiscount5 | Sconto | dec |  |  |
 | RetailFixedDiscount |  | dec |  |  |
-| RetailNetUnitPrice | Prezzo unitario netto \(retail\) | dec |  |  |
-| RetailPriceIncludesVat | Indica se il prezzo è ivato \(retail\) | bool |  |  |
-| RetailPriceListId | Id listino \(retail\) | text | 50 |  |
-| RetailUnitPrice | prezzo unitario \(retail\) | dec |  |  |
+| RetailNetUnitPrice | Prezzo unitario netto (retail) | dec |  |  |
+| RetailPriceIncludesVat | Indica se il prezzo è ivato (retail) | bool |  |  |
+| RetailPriceListId | Id listino (retail) | text | 50 |  |
+| RetailUnitPrice | prezzo unitario (retail) | dec |  |  |
 | SalesQty | Quantità totale espressa nell'unità di misura di vendita | dec |  |  |
 | SalesUomId | Unità di misura di vendita | text | 10 |  |
 | SaleTypeId | Id | text | 50 |  |

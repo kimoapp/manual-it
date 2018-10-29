@@ -1,13 +1,13 @@
 # MarketingForm
 
-  
- **Chiavi**
-
-* _Id_
-* AccountId, FormTypeId
+<br>
+**Chiavi**
+- *Id*
+- AccountId, FormTypeId
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | AccountId | Id del cliente | text | 50 |  |
 | CreationDate | Data di creazione | dt |  |  |
 | CreatorId | Id dell'agente che ha creato il record | text | 50 |  |

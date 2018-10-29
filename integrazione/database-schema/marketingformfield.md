@@ -1,13 +1,13 @@
 # MarketingFormField
 
-  
- **Chiavi**
-
-* _Id_
-* FormTypeId, FieldId
+<br>
+**Chiavi**
+- *Id*
+- FormTypeId, FieldId
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | Column | Colonna | int |  |  |
 | DefaultValue | Valore di default | text | text |  |
 | Description | Descrizione | text | 255 |  |

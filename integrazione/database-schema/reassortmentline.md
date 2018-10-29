@@ -1,12 +1,12 @@
 # ReassortmentLine
 
-  
- **Chiavi**
-
-* _Id_
+<br>
+**Chiavi**
+- *Id*
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | ActiveStatus |  | enum |  | 0: Active, 1: Deactivated |
 | Availability | Disponibilità | dec |  |  |
 | AverageDiscount | Sconto | dec |  |  |
@@ -29,16 +29,16 @@
 | FreeDecimal1 | Campo decimale libero | dec |  |  |
 | FreeDecimal2 | Campo decimale libero | dec |  |  |
 | FreeDecimal3 | Campo decimale libero | dec |  |  |
-| FreeQty1\_NumberOfPurchases | Numero ordini | int |  |  |
-| FreeQty1\_SalesQty | Quantità di vendita | dec |  |  |
-| FreeQty2\_NumberOfPurchases | Numero ordini | int |  |  |
-| FreeQty2\_SalesQty | Quantità di vendita | dec |  |  |
-| FreeQty3\_NumberOfPurchases | Numero ordini | int |  |  |
-| FreeQty3\_SalesQty | Quantità di vendita | dec |  |  |
-| FreeQty4\_NumberOfPurchases | Numero ordini | int |  |  |
-| FreeQty4\_SalesQty | Quantità di vendita | dec |  |  |
-| FreeQty5\_NumberOfPurchases | Numero ordini | int |  |  |
-| FreeQty5\_SalesQty | Quantità di vendita | dec |  |  |
+| FreeQty1_NumberOfPurchases | Numero ordini | int |  |  |
+| FreeQty1_SalesQty | Quantità di vendita | dec |  |  |
+| FreeQty2_NumberOfPurchases | Numero ordini | int |  |  |
+| FreeQty2_SalesQty | Quantità di vendita | dec |  |  |
+| FreeQty3_NumberOfPurchases | Numero ordini | int |  |  |
+| FreeQty3_SalesQty | Quantità di vendita | dec |  |  |
+| FreeQty4_NumberOfPurchases | Numero ordini | int |  |  |
+| FreeQty4_SalesQty | Quantità di vendita | dec |  |  |
+| FreeQty5_NumberOfPurchases | Numero ordini | int |  |  |
+| FreeQty5_SalesQty | Quantità di vendita | dec |  |  |
 | FreeText1 | Campo testo libero | text | text |  |
 | FreeText2 | Campo testo libero | text | text |  |
 | FreeText3 | Campo testo libero | text | text |  |

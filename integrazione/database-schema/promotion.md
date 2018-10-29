@@ -1,15 +1,15 @@
 # Promotion
 
-  
- **Chiavi**
-
-* _Id_
+<br>
+**Chiavi**
+- *Id*
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | ActivationMode | Modalità di attivazione | enum |  | 0: Default, 1: Automatic |
 | AlternativePaymentId | Id del pagamento alternativo | text | 50 |  |
-| CustomerDiscountsRule | Regola per lo sconto cliente | enum |  | 0: Default\_Or\_IncludeForCustomerGroupOnMichelangelo, 1: IncludeForCustomer, 2: IncludeForGrossCost, 3: PreserveDiscountsOnImposedUnitPrice, 4: TakeGrossUnitPrice, 5: TakeNetUnitPrice |
+| CustomerDiscountsRule | Regola per lo sconto cliente | enum |  | 0: Default_Or_IncludeForCustomerGroupOnMichelangelo, 1: IncludeForCustomer, 2: IncludeForGrossCost, 3: PreserveDiscountsOnImposedUnitPrice, 4: TakeGrossUnitPrice, 5: TakeNetUnitPrice |
 | Description | Descrizione | text | text |  |
 | Discount1 | Sconto | dec |  |  |
 | Discount2 | Sconto | dec |  |  |
@@ -28,19 +28,19 @@
 | Number | Numero promozione | text | 50 |  |
 | PackUomId |  | text | 20 |  |
 | PricePrintingRule | Regole di stampa | enum |  | 0: Print, 1: NoPrint |
-| PromotionType | Tipo promozione | enum |  | 0: Classic, 1: Kit, 2: NPlusM, 3: NPlusM\_MonoReference |
-| QuantityRange1\_Discount | Sconto | dec |  |  |
-| QuantityRange1\_ImposedUnitPrice | Prezzo unitario imposto | dec |  |  |
-| QuantityRange1\_Quantity | Quantità | dec |  |  |
-| QuantityRange2\_Discount | Sconto | dec |  |  |
-| QuantityRange2\_ImposedUnitPrice | Prezzo unitario imposto | dec |  |  |
-| QuantityRange2\_Quantity | Quantità | dec |  |  |
-| QuantityRange3\_Discount | Sconto | dec |  |  |
-| QuantityRange3\_ImposedUnitPrice | Prezzo unitario imposto | dec |  |  |
-| QuantityRange3\_Quantity | Quantità | dec |  |  |
-| QuantityRange4\_Discount | Sconto | dec |  |  |
-| QuantityRange4\_ImposedUnitPrice | Prezzo unitario imposto | dec |  |  |
-| QuantityRange4\_Quantity | Quantità | dec |  |  |
+| PromotionType | Tipo promozione | enum |  | 0: Classic, 1: Kit, 2: NPlusM, 3: NPlusM_MonoReference |
+| QuantityRange1_Discount | Sconto | dec |  |  |
+| QuantityRange1_ImposedUnitPrice | Prezzo unitario imposto | dec |  |  |
+| QuantityRange1_Quantity | Quantità | dec |  |  |
+| QuantityRange2_Discount | Sconto | dec |  |  |
+| QuantityRange2_ImposedUnitPrice | Prezzo unitario imposto | dec |  |  |
+| QuantityRange2_Quantity | Quantità | dec |  |  |
+| QuantityRange3_Discount | Sconto | dec |  |  |
+| QuantityRange3_ImposedUnitPrice | Prezzo unitario imposto | dec |  |  |
+| QuantityRange3_Quantity | Quantità | dec |  |  |
+| QuantityRange4_Discount | Sconto | dec |  |  |
+| QuantityRange4_ImposedUnitPrice | Prezzo unitario imposto | dec |  |  |
+| QuantityRange4_Quantity | Quantità | dec |  |  |
 | SaleTypeId | Tipo vendita | text | 50 |  |
 | StartDate | Data inizio validità | date |  |  |
 

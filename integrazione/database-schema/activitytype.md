@@ -1,12 +1,12 @@
 # ActivityType
 
-  
- **Chiavi**
-
-* _Id_
+<br>
+**Chiavi**
+- *Id*
+<br><br>
 
 | Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | Description | Descrizione | text | 100 |  |
 | Duration |  | int |  |  |
 | Id | Id | text | 50 |  |
