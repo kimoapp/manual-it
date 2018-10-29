@@ -1,7 +1,7 @@
 ---
 description: >-
   Kimo è il software che aiuta le imprese a gestire in modo smart i propri
-  canali di vendita, rendendoli disponibili sempre e ovunque
+  canali di vendita, rendendoli disponibili sempre e ovunque.
 ---
 
 # Piacere, sono Kimo
