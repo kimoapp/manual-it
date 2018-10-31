@@ -1,8 +1,10 @@
 # Prova
 
+
+
 | Campo | Descrizione | Tipo | Dimensione | Note |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | DocumentEditorLayout il saldo punti |  | 4 |  |
+| 1 _**fsd**_ | DocumentEditorLayout il saldo punti |  | 4 |  |
 | 2 | DocumentEditorLayout il saldo punti |  | 4 |  |
 | 3 | DocumentEditorLayout il saldo punti |  | 454 |  questo campo è un valore sul quale possono essere filtrati i clienti in fase di ricerca. I valori utilizzati hanno un'anagrafica associata ovvero l'entità AccountFilter |
 | 4 | DocumentEditorLayout il saldo punti |  | 5 |  |
