@@ -5,7 +5,7 @@
 | Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
 | AccountFilterId | Id del filtro clienti | text | 50 |
-| AccountTypeId | Tipo cliente | enum |  |
+| [AccountTypeId](prova-2.md#sezione-3) | Tipo cliente | enum |  |
 | AddressCity | Città | text | 40 |
 | AddressCountry | Paese | text | 20 |
 | AddressCountrySubdivision | Provincia | text | 20 |
@@ -106,8 +106,26 @@
 | TransportModeId | Id del mezzo di trasporto | text | 50 |
 | UploadToServerTimeStamp |  | dt |  |
 | UseExceptionsPriceList | Indica se il cliente usa un listino eccezioni | bool |  |
-| VatNumber | Partita Iva | text | 30 |
+| VatNumber | Partita Iva ℹ  | text | 30 |
 | VatRateId | Id dell'aliquota IVA | text | 50 |
 | WarehouseId | Id del magazzino | text | 50 |
 | ZoneId | Id della zona | text | 50 |
+
+Campo 1  
+asdasdasda
+
+> dadasda sdasd asdasd adaas
+>
+> asdadadadasdas  
+> asdadasdas
+
+
+
+#### asd asd ada ℹ 
+
+#### Sezione 3
+
+awqewwrewrwer
+
+rewrwerwer
 
