@@ -29,36 +29,17 @@
 | CustomerTypeId | Indica se il cliente è una persona fisica o un'organizzazione | enum |  |
 | DeliveryDateTypeId | Id del tipo di data consegna | text | 50 |
 | Discount1 | Sconto | dec |  |
-| Discount2 | Sconto | dec |  |
-| Discount3 | Sconto | dec |  |
 | EditMode | Edit Mode | text | 50 |
 | EntityStatus | Campo che definisce lo stato del record | enum |  |
 | ErpStatusId1 |  | text | 50 |
-| ErpStatusId2 |  | text | 50 |
 | ErpStatusId3 |  | text | 50 |
 | ExceptionsPriceListId | Id del listino eccezioni associato al cliente | text | 50 |
 | Fax | Fax | text | 50 |
 | FiscalCode | Codice fiscale | text | 30 |
 | FixedDiscount | Sconto importo | dec |  |
-| FreeBoolean1 | Campo booleano libero | bool |  |
-| FreeBoolean2 | Campo booleano libero | bool |  |
-| FreeBoolean3 | Campo booleano libero | bool |  |
-| FreeBoolean4 | Campo booleano libero | bool |  |
-| FreeBoolean5 | Campo booleano libero | bool |  |
-| FreeBoolean6 | Campo booleano libero | bool |  |
 | FreeBoolean7 | Campo booleano libero | bool |  |
-| FreeDecimal1 | Campo decimale libero | dec |  |
-| FreeDecimal2 | Campo decimale libero | dec |  |
 | FreeDecimal3 | Campo decimale libero | dec |  |
-| FreeLookup1 | Campo per dati tabellati | text | 50 |
-| FreeLookup2 | Campo per dati tabellati | text | 50 |
-| FreeLookup3 | Campo per dati tabellati | text | 50 |
-| FreeLookup4 | Campo per dati tabellati | text | 50 |
 | FreeLookup5 | Campo per dati tabellati | text | 50 |
-| FreeText1 | Campo testo libero | text | text |
-| FreeText2 | Campo testo libero | text | text |
-| FreeText3 | Campo testo libero | text | text |
-| FreeText4 | Campo testo libero | text | text |
 | FreeText5 | Campo testo libero | text | text |
 | GoodsAspectId | Id dell'aspetto beni | text | 50 |
 | HeadOfficeId | Id della sede legale in caso si tratti di un record per identificare una destinazione merce | text | 50 |
