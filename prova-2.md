@@ -5,7 +5,7 @@
 | Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
 | AccountFilterId | Id del filtro clienti | text | 50 |
-| [AccountTypeId](prova-2.md#sezione-3) | Tipo cliente | enum |  |
+| [AccountTypeId](prova-2.md#accounttypeid) | Tipo cliente | enum |  |
 | AddressCity | Città | text | 40 |
 | AddressCountry | Paese | text | 20 |
 | AddressCountrySubdivision | Provincia | text | 20 |
@@ -111,21 +111,12 @@
 | WarehouseId | Id del magazzino | text | 50 |
 | ZoneId | Id della zona | text | 50 |
 
-Campo 1  
-asdasdasda
-
-> dadasda sdasd asdasd adaas
->
-> asdadadadasdas  
-> asdadasdas
 
 
+#### AccountTypeId
 
-#### asd asd ada ℹ 
+* 0: bla
+* 1: ffdsgfdgd
 
-#### Sezione 3
 
-awqewwrewrwer
-
-rewrwerwer
 
