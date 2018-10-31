@@ -1,12 +1,5 @@
 # Prova 2
 
-
-
-  
- **Chiavi**
-
-* _Id_
-
 | Campo | Descrizione | Tipo | Dimensione | Note |
 | :--- | :--- | :--- | :--- | :--- |
 | AccountFilterId | Id del filtro clienti | text | 50 | questo campo è un valore sul quale possono essere filtrati i clienti in fase di ricerca. I valori utilizzati hanno un'anagrafica associata ovvero l'entità AccountFilter |
