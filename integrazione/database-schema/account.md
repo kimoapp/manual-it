@@ -7,7 +7,7 @@
 
 | Campo | Descrizione | Tipo | Dimensione | 
 | --- | --- | --- | --- | --- |
-| [AccountFilterId](#AccountFilterId) | Id del filtro clienti | text | 50 |
+| [AccountFilterId](account.md#AccountFilterId) | Id del filtro clienti | text | 50 |
 | [AccountTypeId](#AccountTypeId) | Tipo di account (cliente, prospect, destinazione merci, ... | enum |  |
 | AddressCity | Città | text | 40 |
 | AddressCountry | Paese | text | 20 |
