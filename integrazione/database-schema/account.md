@@ -7,7 +7,7 @@
 
 | Campo | Descrizione | Tipo | Dimensione | 
 | --- | --- | --- | --- | --- |
-| [AccountFilterId](account.md#AccountFilterId) | Id del filtro clienti | text | 50 |
+| [AccountFilterId](accpunt.md#AccountFilterId) | Id del filtro clienti | text | 50 |
 | [AccountTypeId](#AccountTypeId) | Tipo di account (cliente, prospect, destinazione merci, ... | enum |  |
 | AddressCity | Città | text | 40 |
 | AddressCountry | Paese | text | 20 |
@@ -114,7 +114,7 @@
 | WarehouseId | Id del magazzino | text | 50 |
 | ZoneId | Id della zona | text | 50 |
 
-####AccountFilterId
+###AccountFilterId
 questo campo è un valore sul quale possono essere filtrati i clienti in fase di ricerca. I valori utilizzati hanno un'anagrafica associata ovvero l'entità AccountFilter
 AccountTypeId
 ---
