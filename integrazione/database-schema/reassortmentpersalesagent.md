@@ -1,14 +1,14 @@
 # ReassortmentPerSalesAgent
 
-  
- **Chiavi**
+<br>
+**Chiavi**
+- *Id*
+- SalesAgentId, ReassortmentId
+<br><br>
 
-* _Id_
-* SalesAgentId, ReassortmentId
-
-| Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
-| Id | Id | text | 50 |  |
-| ReassortmentId |  | text | 50 |  |
-| SalesAgentId |  | text | 50 |  |
+| Campo | Descrizione | Tipo | Dimensione | 
+| --- | --- | --- | --- | --- |
+| Id | Id | text | 50 |
+| ReassortmentId |  | text | 50 |
+| SalesAgentId |  | text | 50 |
 

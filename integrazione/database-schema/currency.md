@@ -1,13 +1,13 @@
 # Currency
 
-  
- **Chiavi**
+<br>
+**Chiavi**
+- *Id*
+<br><br>
 
-* _Id_
-
-| Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
-| Description | Descrizione | text | 100 |  |
-| Id | Id | text | 50 |  |
-| Symbol | Simbolo | text | 10 |  |
+| Campo | Descrizione | Tipo | Dimensione | 
+| --- | --- | --- | --- | --- |
+| Description | Descrizione | text | 100 |
+| Id | Id | text | 50 |
+| Symbol | Simbolo | text | 10 |
 

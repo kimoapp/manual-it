@@ -1,12 +1,12 @@
 # Language
 
-  
- **Chiavi**
+<br>
+**Chiavi**
+- *Id*
+<br><br>
 
-* _Id_
-
-| Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
-| Description | Descrizione | text | 100 |  |
-| Id | Id | text | 50 |  |
+| Campo | Descrizione | Tipo | Dimensione | 
+| --- | --- | --- | --- | --- |
+| Description | Descrizione | text | 100 |
+| Id | Id | text | 50 |
 

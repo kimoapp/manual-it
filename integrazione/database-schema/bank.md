@@ -1,14 +1,14 @@
 # Bank
 
-  
- **Chiavi**
+<br>
+**Chiavi**
+- *Id*
+- Abi
+<br><br>
 
-* _Id_
-* Abi
-
-| Campo | Descrizione | Tipo | Dimensione | Note |
-| :--- | :--- | :--- | :--- | :--- |
-| Abi | Codice ABI | text | 5 |  |
-| Id | Id | text | 50 |  |
-| Name | Nome banca | text | 100 |  |
+| Campo | Descrizione | Tipo | Dimensione | 
+| --- | --- | --- | --- | --- |
+| Abi | Codice ABI | text | 5 |
+| Id | Id | text | 50 |
+| Name | Nome banca | text | 100 |
 
