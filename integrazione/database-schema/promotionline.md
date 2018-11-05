@@ -46,17 +46,17 @@
 | SuggestedQty | Quantità suggerita | dec |  |
 | VatRateId | Id dell'aliquota IVA | text | 50 |
 
-A EncodingKey
+EncodingKey
 ---
 I campi EncodingType ed EncodingKey permettono di definire quali sono le entità a cui va applicata la promozione
-A EncodingType
+EncodingType
 ---
 I campi EncodingType ed EncodingKey permettono di definire quali sono le entità a cui va applicata la promozione
-A GiftQtyMode
+GiftQtyMode
 ---
 0: NotIncluded
 1: Included
-A QtyDivisibilityRule
+QtyDivisibilityRule
 ---
 0: Default
 

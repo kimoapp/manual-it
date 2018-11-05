@@ -58,7 +58,7 @@
 | TrademarkId | Id del marchio | text | 50 |
 | UploadToServerTimeStamp |  | dt |  |
 
-A EntityStatus
+EntityStatus
 ---
 0: ImportedFromErp
 1: ExportedToErp
@@ -69,13 +69,13 @@ A EntityStatus
 6: ToExportToErp
 7: Editing
 8: UploadedToServer
-A RelatedEntityType
+RelatedEntityType
 ---
 0: Undefined
 1: ErpDocument
 2: Document
 3: BudgetLine
-A Status
+Status
 ---
 0: Undefined
 1: Open

@@ -44,7 +44,7 @@
 | UomId | Unità di misura | text | 10 |
 | UploadToServerTimeStamp |  | dt |  |
 
-A EntityStatus
+EntityStatus
 ---
 0: ImportedFromErp
 1: ExportedToErp

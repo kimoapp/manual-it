@@ -48,7 +48,7 @@
 | TrademarkId | Id del marchio | text | 50 |
 | VatRateId | Id dell'aliquota IVA | text | 50 |
 
-A ItemType
+ItemType
 ---
 0: Normal
 1: Manual

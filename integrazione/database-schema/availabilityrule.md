@@ -12,7 +12,7 @@
 | [ItemAvailabilityValidationRule](#ItemAvailabilityValidationRule) | Indica se la quantità inserita deve essere confrontata con la disponibilità dell'articolo | enum |  |
 | ShouldShowItemAvailability | Indica se la disponibilità dell'articolo è visibile in fase di inserimento quantità | bool |  |
 
-A ItemAvailabilityValidationRule
+ItemAvailabilityValidationRule
 ---
 0: DoNotValidate
 1: BlockIfExceed

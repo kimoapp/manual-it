@@ -32,7 +32,7 @@
 | UnitPrice | Prezzo unitario | dec |  |
 | UnitsPerPack | Unità per confezione | dec |  |
 
-A LockedFields
+LockedFields
 ---
 0: None
 1: UnitPrice

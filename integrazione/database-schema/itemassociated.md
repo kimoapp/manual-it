@@ -17,7 +17,7 @@
 | SourceItemId | Id dell'articolo di interesse | text | 50 |
 | StartDate | Data inizio validità | date |  |
 
-A AssociationType
+AssociationType
 ---
 1: Related
 2: Substitutive

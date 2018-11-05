@@ -18,7 +18,7 @@
 | LastModifiedUserId | Id dell'agente che ha effettuato l'ultima modifica | text | 50 |
 | SyncReference | Riferimento | text | 50 |
 
-A AssigneeType
+AssigneeType
 ---
 1: User
 

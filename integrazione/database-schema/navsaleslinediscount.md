@@ -29,18 +29,18 @@
 | UomId | Unità di misura | text | 50 |
 | VariableItemId | Id dell'articolo variante | text | 50 |
 
-A FindNext
+FindNext
 ---
 0: No
 1: Yes
-A SalesType
+SalesType
 ---
 0: Customer
 1: CustomerDiscountGroup
 1: CustomerDiscountGroup
 2: AllCustomers
 3: Campaign
-A Type
+Type
 ---
 0: Item
 1: ItemDiscountGroup

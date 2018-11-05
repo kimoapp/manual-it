@@ -114,27 +114,27 @@
 | WarehouseId | Id del magazzino | text | 50 |
 | ZoneId | Id della zona | text | 50 |
 
-A AccountFilterId
+AccountFilterId
 ---
 questo campo è un valore sul quale possono essere filtrati i clienti in fase di ricerca. I valori utilizzati hanno un'anagrafica associata ovvero l'entità AccountFilter
-A AccountTypeId
+AccountTypeId
 ---
 0: Undefined
 1: Customer
 2: ShipmentSite
 3: Prospect
-A CreationReason
+CreationReason
 ---
 0: Undefined
 1: AccountEdited
 2: NewAccount
 3: ProspectConvertedToCustomer
-A CustomerTypeId
+CustomerTypeId
 ---
 0: Undefined
 1: Person
 2: Organization
-A EntityStatus
+EntityStatus
 ---
 0: ImportedFromErp
 1: ExportedToErp
@@ -145,7 +145,7 @@ A EntityStatus
 6: ToExportToErp
 7: Editing
 8: UploadedToServer
-A Level
+Level
 ---
 Non va più usato per identificare un account come prospect (usare a tale scopo il campo 'AccountTypeId')..
   0: Standard
@@ -153,7 +153,7 @@ Non va più usato per identificare un account come prospect (usare a tale scopo 
 3: Bronze
 4: Silver
 5: Gold
-A NickName
+NickName
 ---
 Nome usato 'comunemente' per indicare l'account, può essere differente dalla ragione sociale (es. nome con cui è conosciuto un bar)
 

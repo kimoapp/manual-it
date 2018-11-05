@@ -22,7 +22,7 @@
 | SyncReference | Riferimento | text | 50 |
 | UploadToServerTimeStamp |  | dt |  |
 
-A EntityStatus
+EntityStatus
 ---
 0: ImportedFromErp
 1: ExportedToErp

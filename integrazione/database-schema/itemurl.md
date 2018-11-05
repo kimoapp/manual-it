@@ -15,7 +15,7 @@
 | Url | Url collegato all'articolo | text | 500 |
 | [UrlTypeId](#UrlTypeId) |  | enum |  |
 
-A UrlTypeId
+UrlTypeId
 ---
 0: Undefined
 1: Image

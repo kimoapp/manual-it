@@ -55,7 +55,7 @@
 | UnpaidReference | Riferimento | text | 50 |
 | UploadToServerTimeStamp |  | dt |  |
 
-A EntityStatus
+EntityStatus
 ---
 0: ImportedFromErp
 1: ExportedToErp
@@ -66,7 +66,7 @@ A EntityStatus
 6: ToExportToErp
 7: Editing
 8: UploadedToServer
-A PaymentStatus
+PaymentStatus
 ---
 0: ToPay
 1: Paid

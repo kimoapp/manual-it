@@ -44,11 +44,11 @@
 | SaleTypeId | Tipo vendita | text | 50 |
 | StartDate | Data inizio validità | date |  |
 
-A ActivationMode
+ActivationMode
 ---
 0: Default
 1: Automatic
-A CustomerDiscountsRule
+CustomerDiscountsRule
 ---
 0: Default_Or_IncludeForCustomerGroupOnMichelangelo
 1: IncludeForCustomer
@@ -56,15 +56,15 @@ A CustomerDiscountsRule
 3: PreserveDiscountsOnImposedUnitPrice
 4: TakeGrossUnitPrice
 5: TakeNetUnitPrice
-A GiftQtyMode
+GiftQtyMode
 ---
 0: NotIncluded
 1: Included
-A PricePrintingRule
+PricePrintingRule
 ---
 0: Print
 1: NoPrint
-A PromotionType
+PromotionType
 ---
 0: Classic
 1: Kit

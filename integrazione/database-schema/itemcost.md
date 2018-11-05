@@ -20,7 +20,7 @@
 | [Type](#Type) |  | enum |  |
 | UnitsPerPack | Unità per confezione | dec |  |
 
-A Type
+Type
 ---
 0: Regualar
 1: NetCost

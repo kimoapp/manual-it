@@ -11,7 +11,7 @@
 | Id | Id | text | 50 |
 | [ValueType](#ValueType) | Tipo del campo | enum |  |
 
-A ValueType
+ValueType
 ---
 1: Text
 2: Decimal

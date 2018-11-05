@@ -173,11 +173,11 @@
 | VatRateValue | Valore aliquota | dec |  |
 | WarehouseId | Id del magazzino | text | 50 |
 
-A AppOrigin
+AppOrigin
 ---
 0: Undefined
 1: B2b
-A DocumentFamilyId
+DocumentFamilyId
 ---
 1: SalesOrders
 2: SalesQuotes
@@ -186,13 +186,13 @@ A DocumentFamilyId
 5: DDT
 6: Inventories
 7: WorkSessions
-A DocumentStatus
+DocumentStatus
 ---
 0: Open
 1: Confirmed
 2: SalesQuoteTransformedToOrder
 3: Archived
-A EntityStatus
+EntityStatus
 ---
 0: ImportedFromErp
 1: ExportedToErp
@@ -203,7 +203,7 @@ A EntityStatus
 6: ToExportToErp
 7: Editing
 8: UploadedToServer
-A SourceReferenceType
+SourceReferenceType
 ---
 0: Undefined
 1: FromSalesQuote

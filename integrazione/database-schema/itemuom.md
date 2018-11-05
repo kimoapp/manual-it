@@ -22,7 +22,7 @@
 | UnitsPerPack | Unità per confezione | dec |  |
 | [UnitsPerPackDivisibilityRule](#UnitsPerPackDivisibilityRule) | Indica se la quantità totale deve essere divisibile per l'unità per confezione | enum |  |
 
-A UnitsPerPackDivisibilityRule
+UnitsPerPackDivisibilityRule
 ---
 0: AllowDivisibility
 1: WarnIfDivided

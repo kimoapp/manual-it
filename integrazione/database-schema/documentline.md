@@ -129,11 +129,11 @@
 | VatRateValue | Valore aliquota | dec |  |
 | WarehouseId | Id del magazzino | text | 50 |
 
-A AvailabilityMode
+AvailabilityMode
 ---
 0: Regular
 1: Virtual
-A LineType
+LineType
 ---
 0: Item
 1: ManualItem
@@ -141,13 +141,13 @@ A LineType
 3: ModelItem
 4: VariableItem
 5: Idrolab
-A PromotionStatus
+PromotionStatus
 ---
 0: NotActive
 1: ShouldChoosePromotion
 2: PromoDaListinoPersonalizzato
 3: Activated
-A SaleTypeMode
+SaleTypeMode
 ---
 0: Normal
 1: TotalFreeSample

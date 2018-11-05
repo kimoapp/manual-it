@@ -28,7 +28,7 @@
 | TrademarkId | Id del trademark | text | 50 |
 | Value | Valore (vedi documentazione dei Controlli Commerciali) | dec |  |
 
-A SalesControlType
+SalesControlType
 ---
 0: None
 1: Sconto massimo

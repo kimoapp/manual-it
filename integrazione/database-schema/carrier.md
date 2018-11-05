@@ -11,7 +11,7 @@
 | Id | Id | text | 50 |
 | [SubscriptionType](#SubscriptionType) | Tipo abbonamento | enum |  |
 
-A SubscriptionType
+SubscriptionType
 ---
 0: None
 1: Standard

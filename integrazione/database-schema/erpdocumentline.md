@@ -94,7 +94,7 @@
 | VatRateValue | Valore aliquota | dec |  |
 | WarehouseId | Id del magazzino | text | 50 |
 
-A LineType
+LineType
 ---
 0: Item
 1: ManualItem

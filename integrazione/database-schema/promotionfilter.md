@@ -27,10 +27,10 @@
 | WarehouseId9 | Id del magazzino | text | 50 |
 | WarehousesIncluded |  | bool |  |
 
-A EncodingKey
+EncodingKey
 ---
 I campi EncodingType ed EncodingKey permettono di definire quali sono le entità a cui va applicata la promozione
-A EncodingType
+EncodingType
 ---
 I campi EncodingType ed EncodingKey permettono di definire quali sono le entità a cui va applicata la promozione
 

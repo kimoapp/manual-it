@@ -74,11 +74,11 @@
 | VariableValueId1 | Valore variante | text | 50 |
 | VariableValueId2 | Valore variante | text | 50 |
 
-A ActiveStatus
+ActiveStatus
 ---
 0: Active
 1: Deactivated
-A LineType
+LineType
 ---
 0: Item
 1: ManualItem
@@ -86,7 +86,7 @@ A LineType
 3: ModelItem
 4: VariableItem
 5: Idrolab
-A LockedFields
+LockedFields
 ---
 0: None
 1: UnitPrice

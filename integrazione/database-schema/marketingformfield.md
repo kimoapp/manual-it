@@ -17,7 +17,7 @@
 | Id | Id | text | 50 |
 | Row | Riga | int |  |
 
-A FieldType
+FieldType
 ---
 0: NullableText
 2: NullableInteger
