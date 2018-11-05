@@ -117,9 +117,8 @@
 AccountFilterId
 ---
 questo campo è un valore sul quale possono essere filtrati i clienti in fase di ricerca. I valori utilizzati hanno un'anagrafica associata ovvero l'entità AccountFilter
-AccountTypeId
----
-0: Undefined
+###AccountTypeId
+0: Undefined<br>
 1: Customer
 2: ShipmentSite
 3: Prospect
