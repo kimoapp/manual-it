@@ -1,13 +1,13 @@
 # BusinessRuleFromErp
 
-<br>
-**Chiavi**
-- *Id*
-- Key
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| --- | --- | --- | --- | --- |
+* _Id_
+* Key
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
 | Id | Id | text | 50 |
 | Key |  | text | 100 |
 | Value |  | text | text |

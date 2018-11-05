@@ -1,13 +1,13 @@
 # ItemLotOfflineAvailability
 
-<br>
-**Chiavi**
-- *Id*
-- Lot, ItemId, WarehouseId, VariableItemId, StartAvailabilityDate
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| --- | --- | --- | --- | --- |
+* _Id_
+* Lot, ItemId, WarehouseId, VariableItemId, StartAvailabilityDate
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
 | AvailabilityAsFreeText | Campo testo libero in cui riportare la disponibilità strutturata come richiesto dal cliente | text | 50 |
 | GlobalAvailability |  | dec |  |
 | Id | Id | text | 50 |

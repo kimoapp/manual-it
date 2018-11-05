@@ -1,15 +1,15 @@
 # PromotionFilter
 
-<br>
-**Chiavi**
-- *Id*
-- PromotionId, EncodingType, EncodingKey, StartDate, EndDate
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| --- | --- | --- | --- | --- |
-| [EncodingKey](#EncodingKey) | Chiave | text | 50 |
-| [EncodingType](#EncodingType) | Prefisso | text | 50 |
+* _Id_
+* PromotionId, EncodingType, EncodingKey, StartDate, EndDate
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
+| [EncodingKey](promotionfilter.md#EncodingKey) | Chiave | text | 50 |
+| [EncodingType](promotionfilter.md#EncodingType) | Prefisso | text | 50 |
 | EndDate | Data fine validità | date |  |
 | Id | Id | text | 50 |
 | Included | Indica se l'entità specificata dai campi EncodingType ed EncodingKey è inclusa tra quelle a cui va applicata la promozione o esclusa | bool |  |
@@ -27,10 +27,11 @@
 | WarehouseId9 | Id del magazzino | text | 50 |
 | WarehousesIncluded |  | bool |  |
 
-EncodingKey
----
+## EncodingKey
+
 I campi EncodingType ed EncodingKey permettono di definire quali sono le entità a cui va applicata la promozione
-EncodingType
----
+
+## EncodingType
+
 I campi EncodingType ed EncodingKey permettono di definire quali sono le entità a cui va applicata la promozione
 

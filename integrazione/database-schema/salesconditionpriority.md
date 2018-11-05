@@ -1,13 +1,13 @@
 # SalesConditionPriority
 
-<br>
-**Chiavi**
-- *Id*
-- SalesConditionTypeId, Type, SalesAgentId
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| --- | --- | --- | --- | --- |
+* _Id_
+* SalesConditionTypeId, Type, SalesAgentId
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
 | Id | Id | text | 50 |
 | IsStandardSalesCondition | Indica se è una condizione standard | bool |  |
 | Priority | Priorità | int |  |

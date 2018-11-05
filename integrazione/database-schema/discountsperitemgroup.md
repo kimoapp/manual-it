@@ -1,13 +1,13 @@
 # DiscountsPerItemGroup
 
-<br>
-**Chiavi**
-- *Id*
-- AccountId, ItemGroupLevel1Id, ItemGroupLevel2Id, ItemGroupLevel3Id, ItemGroupLevel4Id, StartDate, EndDate
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| --- | --- | --- | --- | --- |
+* _Id_
+* AccountId, ItemGroupLevel1Id, ItemGroupLevel2Id, ItemGroupLevel3Id, ItemGroupLevel4Id, StartDate, EndDate
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
 | AccountId | Id del cliente | text | 50 |
 | CustomerDiscountGroupId | Id del gruppo sconti cliente | text | 50 |
 | CustomerGroupId | Id del gruppo cliente | text | 50 |

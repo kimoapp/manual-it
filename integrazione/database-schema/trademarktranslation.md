@@ -1,13 +1,13 @@
 # TrademarkTranslation
 
-<br>
-**Chiavi**
-- *Id*
-- TrademarkId, LanguageId
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| --- | --- | --- | --- | --- |
+* _Id_
+* TrademarkId, LanguageId
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
 | Description | Descrizione in lingua | text | 130 |
 | Id | Id | text | 50 |
 | LanguageId |  | text | 50 |

@@ -1,13 +1,13 @@
 # ItemAttachment
 
-<br>
-**Chiavi**
-- *Id*
-- ItemId, FilePath
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| --- | --- | --- | --- | --- |
+* _Id_
+* ItemId, FilePath
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
 | Caption | Titolo allegato | text | text |
 | FilePath | Percorso del file dell'allegato | text | 150 |
 | Id | Id | text | 50 |

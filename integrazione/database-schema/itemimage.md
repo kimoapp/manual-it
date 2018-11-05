@@ -1,13 +1,13 @@
 # ItemImage
 
-<br>
-**Chiavi**
-- *Id*
-- ItemId, VariableId1, VariableValueId1, FilePath, Caption
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| --- | --- | --- | --- | --- |
+* _Id_
+* ItemId, VariableId1, VariableValueId1, FilePath, Caption
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
 | Caption | Titolo immagine | text | text |
 | FilePath | Percorso del file dell'immagine | text | 255 |
 | Id | Id | text | 50 |

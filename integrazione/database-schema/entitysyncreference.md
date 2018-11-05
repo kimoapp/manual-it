@@ -1,13 +1,13 @@
 # EntitySyncReference
 
-<br>
-**Chiavi**
-- *Id*
-- SyncReference
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| --- | --- | --- | --- | --- |
+* _Id_
+* SyncReference
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
 | ElaboratedOnErpTimeStamp | Data in cui viene elaborata dall'ERP | dt |  |
 | EntityId | Id sull'ERP dell'entità gestita da Kimo | text | 50 |
 | EntityTypeId | Tipo di entità | text | 50 |

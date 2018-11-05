@@ -1,12 +1,12 @@
 # CatalogPriceList
 
-<br>
-**Chiavi**
-- *Id*
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| --- | --- | --- | --- | --- |
+* _Id_
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
 | CurrencyId |  | text | 50 |
 | CustomerDiscountGroupId |  | text | 50 |
 | CustomerGroupId |  | text | 50 |
