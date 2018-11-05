@@ -1,13 +1,13 @@
 # ItemVariable
 
-  
- **Chiavi**
+<br>
+**Chiavi**
+- *Id*
+- ModelItemId, VariableItemId
+<br><br>
 
-* _Id_
-* ModelItemId, VariableItemId
-
-| Campo | Descrizione | Tipo | Dimensione |
-| :--- | :--- | :--- | :--- |
+| Campo | Descrizione | Tipo | Dimensione | 
+| --- | --- | --- | --- | --- |
 | FreeText1 | Campo testo libero | text | 50 |
 | FreeText2 | Campo testo libero | text | 50 |
 | Id | Id | text | 50 |

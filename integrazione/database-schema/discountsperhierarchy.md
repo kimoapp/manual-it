@@ -1,13 +1,13 @@
 # DiscountsPerHierarchy
 
-  
- **Chiavi**
+<br>
+**Chiavi**
+- *Id*
+- AccountId, ItemId, ManufacturerId, ItemGroupLevel1Id, ItemGroupLevel2Id, ItemGroupLevel3Id, ItemGroupLevel4Id, StartDate, EndDate
+<br><br>
 
-* _Id_
-* AccountId, ItemId, ManufacturerId, ItemGroupLevel1Id, ItemGroupLevel2Id, ItemGroupLevel3Id, ItemGroupLevel4Id, StartDate, EndDate
-
-| Campo | Descrizione | Tipo | Dimensione |
-| :--- | :--- | :--- | :--- |
+| Campo | Descrizione | Tipo | Dimensione | 
+| --- | --- | --- | --- | --- |
 | AccountId | Id del cliente | text | 50 |
 | Discount1 | Sconto | dec |  |
 | Discount2 | Sconto | dec |  |

@@ -1,12 +1,12 @@
 # Warehouse
 
-  
- **Chiavi**
+<br>
+**Chiavi**
+- *Id*
+<br><br>
 
-* _Id_
-
-| Campo | Descrizione | Tipo | Dimensione |
-| :--- | :--- | :--- | :--- |
+| Campo | Descrizione | Tipo | Dimensione | 
+| --- | --- | --- | --- | --- |
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
 | LogisticAreaId | Id dell'area logistica | text | 50 |

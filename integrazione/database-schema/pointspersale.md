@@ -1,13 +1,13 @@
 # PointsPerSale
 
-  
- **Chiavi**
+<br>
+**Chiavi**
+- *Id*
+- ItemId, AccountId, CustomerGroupId, PriceListId, SalesUomId, UnitsPerPack, CurrencyId, StartDate, EndDate
+<br><br>
 
-* _Id_
-* ItemId, AccountId, CustomerGroupId, PriceListId, SalesUomId, UnitsPerPack, CurrencyId, StartDate, EndDate
-
-| Campo | Descrizione | Tipo | Dimensione |
-| :--- | :--- | :--- | :--- |
+| Campo | Descrizione | Tipo | Dimensione | 
+| --- | --- | --- | --- | --- |
 | AccountId | Id del cliente | text | 50 |
 | CurrencyId | Id della valuta | text | 50 |
 | CustomerGroupId | Id del gruppo cliente | text | 50 |

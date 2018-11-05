@@ -1,16 +1,16 @@
 # ActivityAssignee
 
-  
- **Chiavi**
+<br>
+**Chiavi**
+- *Id*
+- ActivityId, AssigneeId
+<br><br>
 
-* _Id_
-* ActivityId, AssigneeId
-
-| Campo | Descrizione | Tipo | Dimensione |
-| :--- | :--- | :--- | :--- |
+| Campo | Descrizione | Tipo | Dimensione | 
+| --- | --- | --- | --- | --- |
 | ActivityId | Id dell'attività | text | 50 |
 | AssigneeId | Id dell'assegnatario | text | 50 |
-| [AssigneeType](activityassignee.md#AssigneeType) | Tipo dell'assegnatario | enum |  |
+| [AssigneeType](#assigneetype) | Tipo dell'assegnatario | enum |  |
 | CreationDate | Data di creazione | dt |  |
 | CreatorId | Id dell'agente che ha creato il record | text | 50 |
 | Id | Id | text | 50 |
@@ -18,7 +18,7 @@
 | LastModifiedUserId | Id dell'agente che ha effettuato l'ultima modifica | text | 50 |
 | SyncReference | Riferimento | text | 50 |
 
-## AssigneeType
-
+AssigneeType
+---
 1: User
 

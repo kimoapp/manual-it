@@ -1,13 +1,13 @@
 # ReassortmentLine
 
-  
- **Chiavi**
+<br>
+**Chiavi**
+- *Id*
+<br><br>
 
-* _Id_
-
-| Campo | Descrizione | Tipo | Dimensione |
-| :--- | :--- | :--- | :--- |
-| [ActiveStatus](reassortmentline.md#ActiveStatus) |  | enum |  |
+| Campo | Descrizione | Tipo | Dimensione | 
+| --- | --- | --- | --- | --- |
+| [ActiveStatus](#activestatus) |  | enum |  |
 | Availability | Disponibilità | dec |  |
 | AverageDiscount | Sconto | dec |  |
 | AverageUnitPrice | Prezzo unitario | dec |  |
@@ -29,16 +29,16 @@
 | FreeDecimal1 | Campo decimale libero | dec |  |
 | FreeDecimal2 | Campo decimale libero | dec |  |
 | FreeDecimal3 | Campo decimale libero | dec |  |
-| FreeQty1\_NumberOfPurchases | Numero ordini | int |  |
-| FreeQty1\_SalesQty | Quantità di vendita | dec |  |
-| FreeQty2\_NumberOfPurchases | Numero ordini | int |  |
-| FreeQty2\_SalesQty | Quantità di vendita | dec |  |
-| FreeQty3\_NumberOfPurchases | Numero ordini | int |  |
-| FreeQty3\_SalesQty | Quantità di vendita | dec |  |
-| FreeQty4\_NumberOfPurchases | Numero ordini | int |  |
-| FreeQty4\_SalesQty | Quantità di vendita | dec |  |
-| FreeQty5\_NumberOfPurchases | Numero ordini | int |  |
-| FreeQty5\_SalesQty | Quantità di vendita | dec |  |
+| FreeQty1_NumberOfPurchases | Numero ordini | int |  |
+| FreeQty1_SalesQty | Quantità di vendita | dec |  |
+| FreeQty2_NumberOfPurchases | Numero ordini | int |  |
+| FreeQty2_SalesQty | Quantità di vendita | dec |  |
+| FreeQty3_NumberOfPurchases | Numero ordini | int |  |
+| FreeQty3_SalesQty | Quantità di vendita | dec |  |
+| FreeQty4_NumberOfPurchases | Numero ordini | int |  |
+| FreeQty4_SalesQty | Quantità di vendita | dec |  |
+| FreeQty5_NumberOfPurchases | Numero ordini | int |  |
+| FreeQty5_SalesQty | Quantità di vendita | dec |  |
 | FreeText1 | Campo testo libero | text | text |
 | FreeText2 | Campo testo libero | text | text |
 | FreeText3 | Campo testo libero | text | text |
@@ -58,8 +58,8 @@
 | LastSaleSaleTypeId | Tipo vendita | text | 50 |
 | LastSaleUnitPrice | Prezzo unitario | dec |  |
 | LineNumber | Numero riga | int |  |
-| [LineType](reassortmentline.md#LineType) | Tipo riga | enum |  |
-| [LockedFields](reassortmentline.md#LockedFields) | Campi bloccati per l'editing nei documenti | enum |  |
+| [LineType](#linetype) | Tipo riga | enum |  |
+| [LockedFields](#lockedfields) | Campi bloccati per l'editing nei documenti | enum |  |
 | Notes | Note | text | text |
 | PackUnitUomId | Id dell'unità di misura unitaria di imballo | text | 20 |
 | PackUomId | Id dell'unità di misura di imballo | text | 20 |
@@ -74,15 +74,13 @@
 | VariableValueId1 | Valore variante | text | 50 |
 | VariableValueId2 | Valore variante | text | 50 |
 
-## ActiveStatus
-
-0: Active 1: Deactivated
-
-## LineType
-
-0: Item 1: ManualItem 2: Note 3: ModelItem 4: VariableItem 5: Idrolab
-
-## LockedFields
-
-0: None 1: UnitPrice 2: Discounts 4: SaleType
+ActiveStatus
+---
+0: Active<br>1: Deactivated
+LineType
+---
+0: Item<br>1: ManualItem<br>2: Note<br>3: ModelItem<br>4: VariableItem<br>5: Idrolab
+LockedFields
+---
+0: None<br>1: UnitPrice<br>2: Discounts<br>4: SaleType
 
