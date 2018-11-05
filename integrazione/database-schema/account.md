@@ -117,41 +117,21 @@
 AccountFilterId
 ---
 questo campo è un valore sul quale possono essere filtrati i clienti in fase di ricerca. I valori utilizzati hanno un'anagrafica associata ovvero l'entità AccountFilter
-###AccountTypeId
-0: Undefined<br>
-1: Customer
-2: ShipmentSite
-3: Prospect
+AccountTypeId
+---
+0: Undefined<br>1: Customer<br>2: ShipmentSite<br>3: Prospect
 CreationReason
 ---
-0: Undefined
-1: AccountEdited
-2: NewAccount
-3: ProspectConvertedToCustomer
+0: Undefined<br>1: AccountEdited<br>2: NewAccount<br>3: ProspectConvertedToCustomer
 CustomerTypeId
 ---
-0: Undefined
-1: Person
-2: Organization
+0: Undefined<br>1: Person<br>2: Organization
 EntityStatus
 ---
-0: ImportedFromErp
-1: ExportedToErp
-2: ImportedByErp
-3: ExportingToErp
-4: Deleted
-5: CommittingExportToErp
-6: ToExportToErp
-7: Editing
-8: UploadedToServer
+0: ImportedFromErp<br>1: ExportedToErp<br>2: ImportedByErp<br>3: ExportingToErp<br>4: Deleted<br>5: CommittingExportToErp<br>6: ToExportToErp<br>7: Editing<br>8: UploadedToServer
 Level
 ---
-Non va più usato per identificare un account come prospect (usare a tale scopo il campo 'AccountTypeId')..
-  0: Standard
-1: SHOULD_USE_JUST_FOR_COMPATIBILITY_Prospect
-3: Bronze
-4: Silver
-5: Gold
+Non va più usato per identificare un account come prospect (usare a tale scopo il campo 'AccountTypeId')..<br>  0: Standard<br>1: SHOULD_USE_JUST_FOR_COMPATIBILITY_Prospect<br>3: Bronze<br>4: Silver<br>5: Gold
 NickName
 ---
 Nome usato 'comunemente' per indicare l'account, può essere differente dalla ragione sociale (es. nome con cui è conosciuto un bar)
