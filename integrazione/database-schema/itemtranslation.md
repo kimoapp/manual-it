@@ -1,4 +1,5 @@
 # ItemTranslation
+Traduzioni in lingua dei FreeLookup
 
 <br>
 **Chiavi**

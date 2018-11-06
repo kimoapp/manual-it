@@ -1,4 +1,5 @@
 # ActivityAssignee
+Utenti a cui è stata assegnata l'attività
 
 <br>
 **Chiavi**

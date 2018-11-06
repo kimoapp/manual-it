@@ -1,4 +1,5 @@
 # FreeLookupTranslation
+Traduzioni in lingua dei FreeLookup
 
 <br>
 **Chiavi**

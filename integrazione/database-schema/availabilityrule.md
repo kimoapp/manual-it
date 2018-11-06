@@ -1,4 +1,5 @@
 # AvailabilityRule
+Regole di disponibilità
 
 <br>
 **Chiavi**

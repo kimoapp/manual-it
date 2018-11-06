@@ -1,4 +1,5 @@
 # ItemLotOfflineAvailability
+Disponibilità 'offline' dei lotti
 
 <br>
 **Chiavi**

@@ -1,4 +1,5 @@
 # SalesConditionPriority
+Priorità delle condizioni di vendita
 
 <br>
 **Chiavi**

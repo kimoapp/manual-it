@@ -1,4 +1,5 @@
 # AccountAccountingInfo
+Scheda contabile di un account
 
 <br>
 **Chiavi**

@@ -1,4 +1,5 @@
 # MarketingFormFieldValue
+Valori predefiniti per i campi delle schede marketing (es. per le liste)
 
 <br>
 **Chiavi**

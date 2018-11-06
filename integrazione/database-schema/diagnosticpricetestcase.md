@@ -1,4 +1,5 @@
 # DiagnosticPriceTestCase
+Test diagnostica prezzi
 
 <br>
 **Chiavi**

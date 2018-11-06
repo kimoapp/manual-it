@@ -1,4 +1,5 @@
 # SeasonGroup
+Gruppi di stagioni di vendita
 
 <br>
 **Chiavi**

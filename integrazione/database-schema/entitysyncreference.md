@@ -1,4 +1,5 @@
 # EntitySyncReference
+SyncReference delle entità create o modificate in Kimo
 
 <br>
 **Chiavi**

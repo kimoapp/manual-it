@@ -1,4 +1,5 @@
 # PaymentMethod
+Modalità di Pagamento (Termini e Condizioni)
 
 <br>
 **Chiavi**

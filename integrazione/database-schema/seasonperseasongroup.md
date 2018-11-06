@@ -1,4 +1,5 @@
 # SeasonPerSeasonGroup
+Associazione stagioni di vendita ai relativi gruppi
 
 <br>
 **Chiavi**

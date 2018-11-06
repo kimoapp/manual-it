@@ -1,4 +1,5 @@
 # ItemImage
+Immagini articoli (percorsi dei file)
 
 <br>
 **Chiavi**

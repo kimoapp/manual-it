@@ -1,4 +1,5 @@
 # ItemSpecificationValue
+Valori delle specifiche tecniche degli articoli
 
 <br>
 **Chiavi**

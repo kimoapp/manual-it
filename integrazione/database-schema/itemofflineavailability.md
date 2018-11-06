@@ -1,4 +1,5 @@
 # ItemOfflineAvailability
+Disponibilità 'offline' degli articoli
 
 <br>
 **Chiavi**

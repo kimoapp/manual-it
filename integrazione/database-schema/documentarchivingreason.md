@@ -1,4 +1,5 @@
 # DocumentArchivingReason
+Causali di archiviazione dei documenti di vendita (es. motivi di non acquisto)
 
 <br>
 **Chiavi**
