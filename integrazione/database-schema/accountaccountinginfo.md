@@ -1,14 +1,15 @@
 # AccountAccountingInfo
+
 Scheda contabile di un account
 
-<br>
-**Chiavi**
-- *Id*
-- AccountId
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| --- | --- | --- | --- | --- |
+* _Id_
+* AccountId
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
 | AccountId | Id del cliente | text | 50 |
 | CreditLimitGrantedAmount | Importo fido concesso | dec |  |
 | CreditLimitOverAmount | Fuori fido | dec |  |

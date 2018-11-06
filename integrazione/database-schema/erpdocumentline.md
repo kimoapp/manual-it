@@ -1,13 +1,14 @@
 # ErpDocumentLine
+
 Righe dei Documenti da Erp
 
-<br>
-**Chiavi**
-- *Id*
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| --- | --- | --- | --- | --- |
+* _Id_
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
 | Amount | Totale documento | dec |  |
 | AmountIncludingVat | Totale documento incluso di IVA | dec |  |
 | DeliveryDate | Data di consegna | date |  |
@@ -50,12 +51,12 @@ Righe dei Documenti da Erp
 | Id | Id della riga documento | text | 50 |
 | IsDiscountEdited | Indica se lo sconto è stato modificato | bool |  |
 | IsUnitPriceEdited | Identifica se il prezzo unitario è stato modificato | bool |  |
-| ItemChargesAmount | Valore delle spese per l'articolo (RAEE, ...) | dec |  |
-| ItemChargesTypeDescription | Descrizione delle spese per l'articolo applicate (RAEE, ...) | text | text |
+| ItemChargesAmount | Valore delle spese per l'articolo \(RAEE, ...\) | dec |  |
+| ItemChargesTypeDescription | Descrizione delle spese per l'articolo applicate \(RAEE, ...\) | text | text |
 | ItemDescription | Descrizione articolo | text | 130 |
 | ItemId | Tipo dell'articolo | text | 50 |
 | LineNumber | Numero riga | int |  |
-| [LineType](#linetype) | Tipo riga documento | enum |  |
+| [LineType](erpdocumentline.md#linetype) | Tipo riga documento | enum |  |
 | ManufacturerId | Id produttore | text | 50 |
 | ManufacturerItemId | Id articolo produttore | text | 50 |
 | NetUnitPrice | Prezzo unitario netto | dec |  |
@@ -95,7 +96,12 @@ Righe dei Documenti da Erp
 | VatRateValue | Valore aliquota | dec |  |
 | WarehouseId | Id del magazzino | text | 50 |
 
-LineType
----
-0: Item<br>1: ManualItem<br>2: Note<br>3: ModelItem<br>4: VariableItem<br>5: Idrolab
+## LineType
+
+0: Item  
+1: ManualItem  
+2: Note  
+3: ModelItem  
+4: VariableItem  
+5: Idrolab
 
