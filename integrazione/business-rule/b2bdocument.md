@@ -8,17 +8,15 @@ DocumentsFromCartFactory
 **Tipo:** String<br>
 **Valore di default:** Standard<br>
 **Valori:**
-<ul> 
-<li>SplitByTrademarkAndSeason</li>
-<li>Standard</li>
-<li>Wald</li>
-</ul><br>
+* SplitByTrademarkAndSeason
+* Standard
+* Wald
+<br>
 GetDocumentTypeIdForCart 
 ----
 **Descrizione:** <br>
 **Tipo:** String<br>
 **Valore di default:** <br>
 **Valori:**
-<ul> 
-</ul><br>
+<br>
 

@@ -8,14 +8,12 @@ AccountVatRateId
 **Tipo:** String<br>
 **Valore di default:** <br>
 **Valori:**
-<ul> 
-</ul><br>
+<br>
 ItemVatRateId 
 ----
 **Descrizione:** Aliquota IVA di default per gli articoli<br>
 **Tipo:** String<br>
 **Valore di default:** <br>
 **Valori:**
-<ul> 
-</ul><br>
+<br>
 

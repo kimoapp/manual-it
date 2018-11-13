@@ -8,16 +8,14 @@ IsUserSlaveModeEnabled
 **Tipo:** Boolean<br>
 **Valore di default:** <br>
 **Valori:**
-<ul> 
-</ul><br>
+<br>
 PromotionsMode 
 ----
 **Descrizione:** <br>
 **Tipo:** Enum<br>
 **Valore di default:** 0<br>
 **Valori:**
-<ul> 
-<li>0 => Disabled</li>
-<li>1 => Enabled</li>
-</ul><br>
+* 0 => Disabled
+* 1 => Enabled
+<br>
 

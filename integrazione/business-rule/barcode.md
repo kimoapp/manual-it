@@ -8,14 +8,12 @@ Prefix
 **Tipo:** String<br>
 **Valore di default:** <br>
 **Valori:**
-<ul> 
-</ul><br>
+<br>
 Suffix 
 ----
 **Descrizione:** <br>
 **Tipo:** String<br>
 **Valore di default:** <br>
 **Valori:**
-<ul> 
-</ul><br>
+<br>
 

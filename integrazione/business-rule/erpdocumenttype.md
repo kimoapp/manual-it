@@ -8,6 +8,5 @@
 **Tipo:** Boolean<br>
 **Valore di default:** <br>
 **Valori:**
-<ul> 
-</ul><br>
+<br>
 

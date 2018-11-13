@@ -8,80 +8,72 @@ OnConfirmedDocumentTypes
 **Tipo:** Valori separati da pipe<br>
 **Valore di default:** <br>
 **Valori:**
-<ul> 
-</ul><br>
+<br>
 OnConfirmedMailBccRecipients 
 ----
 **Descrizione:** <br>
 **Tipo:** String<br>
 **Valore di default:** <br>
 **Valori:**
-<ul> 
-</ul><br>
+<br>
 OnConfirmedMailBodyTemplate 
 ----
 **Descrizione:** <br>
 **Tipo:** Template<br>
 **Valore di default:** ${DocumentType} '${DocumentNumber}' confermato!<br>
 **Valori:**
-<ul> 
-<li>AccountCode</li>
-<li>AccountName</li>
-<li>DocumentAmount</li>
-<li>DocumentAmountIncludingVat</li>
-<li>DocumentDate</li>
-<li>DocumentNumber</li>
-<li>DocumentReference</li>
-<li>DocumentType</li>
-<li>DocumentUrl</li>
-</ul><br>
+* AccountCode
+* AccountName
+* DocumentAmount
+* DocumentAmountIncludingVat
+* DocumentDate
+* DocumentNumber
+* DocumentReference
+* DocumentType
+* DocumentUrl
+<br>
 OnConfirmedMailRecipients 
 ----
 **Descrizione:** <br>
 **Tipo:** String<br>
 **Valore di default:** <br>
 **Valori:**
-<ul> 
-</ul><br>
+<br>
 OnConfirmedMailSubjectTemplate 
 ----
 **Descrizione:** <br>
 **Tipo:** Template<br>
 **Valore di default:** ${DocumentType} '${DocumentNumber}' confermato!<br>
 **Valori:**
-<ul> 
-<li>AccountCode</li>
-<li>AccountName</li>
-<li>DocumentAmount</li>
-<li>DocumentAmountIncludingVat</li>
-<li>DocumentDate</li>
-<li>DocumentNumber</li>
-<li>DocumentReference</li>
-<li>DocumentType</li>
-<li>DocumentUrl</li>
-</ul><br>
+* AccountCode
+* AccountName
+* DocumentAmount
+* DocumentAmountIncludingVat
+* DocumentDate
+* DocumentNumber
+* DocumentReference
+* DocumentType
+* DocumentUrl
+<br>
 OnConfirmedReportType 
 ----
 **Descrizione:** <br>
 **Tipo:** String<br>
 **Valore di default:** <br>
 **Valori:**
-<ul> 
-</ul><br>
+<br>
 OnConfirmedSendMailToCreator 
 ----
 **Descrizione:** <br>
 **Tipo:** Boolean<br>
 **Valore di default:** <br>
 **Valori:**
-<ul> 
-</ul><br>
+<br>
 SendOnConfirmed 
 ----
 **Descrizione:** <br>
 **Tipo:** Boolean<br>
 **Valore di default:** <br>
 **Valori:**
-<ul> 
-</ul><br>
+<br>
 
