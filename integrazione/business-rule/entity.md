@@ -1,22 +1,22 @@
 # Entity
 IsManagedByExternalSystem 
 ----
-**Descrizione:** 
-**Tipo:** Boolean
-**Valore di default:** 
+**Descrizione:** $businessRule.Description <br>
+**Tipo:** Boolean <br>
+**Valore di default:** $businessRule.DefaultValue <br>
 **Valori:**
 
 IsManagedByExternalSystem 
 ----
-**Descrizione:** 
-**Tipo:** Boolean
-**Valore di default:** 
+**Descrizione:** $businessRule.Description <br>
+**Tipo:** Boolean <br>
+**Valore di default:** $businessRule.DefaultValue <br>
 **Valori:**
 
 ManagedByExternalSystem 
 ----
-**Descrizione:** Entità gestite dai Sistemi Esterni (Erp/Crm)
-**Tipo:** Valori separati da pipe
-**Valore di default:** Customer&#124;Document&#124;ReceivableInstallment
+**Descrizione:** Entità gestite dai Sistemi Esterni (Erp/Crm) <br>
+**Tipo:** Valori separati da pipe <br>
+**Valore di default:** Customer&#124;Document&#124;ReceivableInstallment <br>
 **Valori:**
 

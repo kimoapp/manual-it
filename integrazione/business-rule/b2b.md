@@ -1,16 +1,16 @@
 # B2b
 IsUserSlaveModeEnabled 
 ----
-**Descrizione:** 
-**Tipo:** Boolean
-**Valore di default:** 
+**Descrizione:** $businessRule.Description <br>
+**Tipo:** Boolean <br>
+**Valore di default:** $businessRule.DefaultValue <br>
 **Valori:**
 
 PromotionsMode 
 ----
-**Descrizione:** 
-**Tipo:** Enum
-**Valore di default:** 0
+**Descrizione:** $businessRule.Description <br>
+**Tipo:** Enum <br>
+**Valore di default:** 0 <br>
 **Valori:**
 * 0 => Disabled
 * 1 => Enabled

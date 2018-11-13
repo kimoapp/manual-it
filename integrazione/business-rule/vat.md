@@ -1,15 +1,15 @@
 # Vat
 AccountVatRateId 
 ----
-**Descrizione:** Aliquota IVA di default per i clienti
-**Tipo:** String
-**Valore di default:** 
+**Descrizione:** Aliquota IVA di default per i clienti <br>
+**Tipo:** String <br>
+**Valore di default:** $businessRule.DefaultValue <br>
 **Valori:**
 
 ItemVatRateId 
 ----
-**Descrizione:** Aliquota IVA di default per gli articoli
-**Tipo:** String
-**Valore di default:** 
+**Descrizione:** Aliquota IVA di default per gli articoli <br>
+**Tipo:** String <br>
+**Valore di default:** $businessRule.DefaultValue <br>
 **Valori:**
 

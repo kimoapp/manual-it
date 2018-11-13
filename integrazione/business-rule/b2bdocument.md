@@ -1,9 +1,9 @@
 # B2b\Document
 DocumentsFromCartFactory 
 ----
-**Descrizione:** 
-**Tipo:** String
-**Valore di default:** Standard
+**Descrizione:** $businessRule.Description <br>
+**Tipo:** String <br>
+**Valore di default:** Standard <br>
 **Valori:**
 * SplitByTrademarkAndSeason
 * Standard
@@ -11,8 +11,8 @@ DocumentsFromCartFactory
 
 GetDocumentTypeIdForCart 
 ----
-**Descrizione:** 
-**Tipo:** String
-**Valore di default:** 
+**Descrizione:** $businessRule.Description <br>
+**Tipo:** String <br>
+**Valore di default:** $businessRule.DefaultValue <br>
 **Valori:**
 

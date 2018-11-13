@@ -1,8 +1,8 @@
 # Discount
 GetSourcePosition 
 ----
-**Descrizione:** 
-**Tipo:** String
-**Valore di default:** 
+**Descrizione:** $businessRule.Description <br>
+**Tipo:** String <br>
+**Valore di default:** $businessRule.DefaultValue <br>
 **Valori:**
 

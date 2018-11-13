@@ -1,23 +1,23 @@
 # DocumentNotification
 OnConfirmedDocumentTypes 
 ----
-**Descrizione:** 
-**Tipo:** Valori separati da pipe
-**Valore di default:** 
+**Descrizione:** $businessRule.Description <br>
+**Tipo:** Valori separati da pipe <br>
+**Valore di default:** $businessRule.DefaultValue <br>
 **Valori:**
 
 OnConfirmedMailBccRecipients 
 ----
-**Descrizione:** 
-**Tipo:** String
-**Valore di default:** 
+**Descrizione:** $businessRule.Description <br>
+**Tipo:** String <br>
+**Valore di default:** $businessRule.DefaultValue <br>
 **Valori:**
 
 OnConfirmedMailBodyTemplate 
 ----
-**Descrizione:** 
-**Tipo:** Template
-**Valore di default:** ${DocumentType} '${DocumentNumber}' confermato!
+**Descrizione:** $businessRule.Description <br>
+**Tipo:** Template <br>
+**Valore di default:** ${DocumentType} '${DocumentNumber}' confermato! <br>
 **Valori:**
 * AccountCode
 * AccountName
@@ -31,16 +31,16 @@ OnConfirmedMailBodyTemplate
 
 OnConfirmedMailRecipients 
 ----
-**Descrizione:** 
-**Tipo:** String
-**Valore di default:** 
+**Descrizione:** $businessRule.Description <br>
+**Tipo:** String <br>
+**Valore di default:** $businessRule.DefaultValue <br>
 **Valori:**
 
 OnConfirmedMailSubjectTemplate 
 ----
-**Descrizione:** 
-**Tipo:** Template
-**Valore di default:** ${DocumentType} '${DocumentNumber}' confermato!
+**Descrizione:** $businessRule.Description <br>
+**Tipo:** Template <br>
+**Valore di default:** ${DocumentType} '${DocumentNumber}' confermato! <br>
 **Valori:**
 * AccountCode
 * AccountName
@@ -54,22 +54,22 @@ OnConfirmedMailSubjectTemplate
 
 OnConfirmedReportType 
 ----
-**Descrizione:** 
-**Tipo:** String
-**Valore di default:** 
+**Descrizione:** $businessRule.Description <br>
+**Tipo:** String <br>
+**Valore di default:** $businessRule.DefaultValue <br>
 **Valori:**
 
 OnConfirmedSendMailToCreator 
 ----
-**Descrizione:** 
-**Tipo:** Boolean
-**Valore di default:** 
+**Descrizione:** $businessRule.Description <br>
+**Tipo:** Boolean <br>
+**Valore di default:** $businessRule.DefaultValue <br>
 **Valori:**
 
 SendOnConfirmed 
 ----
-**Descrizione:** 
-**Tipo:** Boolean
-**Valore di default:** 
+**Descrizione:** $businessRule.Description <br>
+**Tipo:** Boolean <br>
+**Valore di default:** $businessRule.DefaultValue <br>
 **Valori:**
 
