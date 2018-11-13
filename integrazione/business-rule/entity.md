@@ -1,8 +1,26 @@
 # Entity
 
-| Valore | Descrizione | Tipo | Valori | Valore di default |
-| :--- | :--- | :--- | :--- | :--- |
-| IsManagedByExternalSystem |  | Boolean |  |  |
-| IsManagedByExternalSystem |  | Boolean |  |  |
-| ManagedByExternalSystem | Entità gestite dai Sistemi Esterni \(Erp/Crm\) | Valori separati da pipe |  | Customer\|Document\|ReceivableInstallment |
+<br><br> 
+
+IsManagedByExternalSystem 
+---
+<br>  <br> 
+Boolean <br> 
+ <br>
+<ul> 
+</ul>
+IsManagedByExternalSystem 
+---
+<br>  <br> 
+Boolean <br> 
+ <br>
+<ul> 
+</ul>
+ManagedByExternalSystem 
+---
+<br> Entità gestite dai Sistemi Esterni (Erp/Crm) <br> 
+Valori separati da pipe <br> 
+Customer&#124;Document&#124;ReceivableInstallment <br>
+<ul> 
+</ul>
 

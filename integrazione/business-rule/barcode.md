@@ -1,7 +1,19 @@
 # Barcode
 
-| Valore | Descrizione | Tipo | Valori | Valore di default |
-| :--- | :--- | :--- | :--- | :--- |
-| Prefix |  | String |  |  |
-| Suffix |  | String |  |  |
+<br><br> 
+
+Prefix 
+---
+<br>  <br> 
+String <br> 
+ <br>
+<ul> 
+</ul>
+Suffix 
+---
+<br>  <br> 
+String <br> 
+ <br>
+<ul> 
+</ul>
 

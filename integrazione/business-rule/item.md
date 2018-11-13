@@ -1,84 +1,69 @@
 # Item
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Valore</th>
-      <th style="text-align:left">Descrizione</th>
-      <th style="text-align:left">Tipo</th>
-      <th style="text-align:left">Valori</th>
-      <th style="text-align:left">Valore di default</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">AdvancedSearchFields</td>
-      <td style="text-align:left">Campi per la ricerca avanzata</td>
-      <td style="text-align:left">Valori separati da pipe</td>
-      <td style="text-align:left">
-        <p>CatalogPriceList</p>
-        <p>ErpStatus</p>
-        <p>FreeBoolean</p>
-        <p>FreeLookup</p>
-        <p>ItemCollection</p>
-        <p>ItemGroupLevel</p>
-        <p>ItemLine</p>
-        <p>ItemSeries</p>
-        <p>Manufacturer</p>
-        <p>Prebuy</p>
-        <p>Season</p>
-        <p>SeasonGroup</p>
-        <p>Trademark</p>
-      </td>
-      <td style="text-align:left">ItemGroupLevel1|ItemGroupLevel2</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">IdEncodingType</td>
-      <td style="text-align:left">Modalità di codifica dei codici articoli</td>
-      <td style="text-align:left">Enum</td>
-      <td style="text-align:left">
-        <p>0 => Id</p>
-        <p>1 => Produttore + Codice Articolo Produttore, es. 'BTI 5001'</p>
-      </td>
-      <td style="text-align:left">0</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">ItemFormUrlTemplate</td>
-      <td style="text-align:left">Template per comporre l'url della scheda articolo online</td>
-      <td style="text-align:left">Template</td>
-      <td style="text-align:left">
-        <p>Barcode</p>
-        <p>ItemId</p>
-        <p>ManufacturerItemId</p>
-      </td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">KeywordSearchFields</td>
-      <td style="text-align:left">Campi per la ricerca testuale</td>
-      <td style="text-align:left">Valori separati da pipe</td>
-      <td style="text-align:left">
-        <p>Description</p>
-        <p>Id</p>
-      </td>
-      <td style="text-align:left">Id|Description</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">LiveSearch</td>
-      <td style="text-align:left">Abilita la ricerca 'live' degli articoli</td>
-      <td style="text-align:left">Boolean</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">SortFields</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Valori separati da pipe</td>
-      <td style="text-align:left">
-        <p>Description</p>
-        <p>Id</p>
-      </td>
-      <td style="text-align:left">Id|Description</td>
-    </tr>
-  </tbody>
-</table>
+<br><br> 
+
+AdvancedSearchFields 
+---
+<br> Campi per la ricerca avanzata <br> 
+Valori separati da pipe <br> 
+ItemGroupLevel1&#124;ItemGroupLevel2 <br>
+<ul> 
+<li>CatalogPriceList</li>
+<li>ErpStatus</li>
+<li>FreeBoolean</li>
+<li>FreeLookup</li>
+<li>ItemCollection</li>
+<li>ItemGroupLevel</li>
+<li>ItemLine</li>
+<li>ItemSeries</li>
+<li>Manufacturer</li>
+<li>Prebuy</li>
+<li>Season</li>
+<li>SeasonGroup</li>
+<li>Trademark</li>
+</ul>
+IdEncodingType 
+---
+<br> Modalità di codifica dei codici articoli <br> 
+Enum <br> 
+0 <br>
+<ul> 
+<li>0 => Id</li>
+<li>1 => Produttore + Codice Articolo Produttore, es. 'BTI 5001'</li>
+</ul>
+ItemFormUrlTemplate 
+---
+<br> Template per comporre l'url della scheda articolo online <br> 
+Template <br> 
+ <br>
+<ul> 
+<li>Barcode</li>
+<li>ItemId</li>
+<li>ManufacturerItemId</li>
+</ul>
+KeywordSearchFields 
+---
+<br> Campi per la ricerca testuale <br> 
+Valori separati da pipe <br> 
+Id&#124;Description <br>
+<ul> 
+<li>Description</li>
+<li>Id</li>
+</ul>
+LiveSearch 
+---
+<br> Abilita la ricerca 'live' degli articoli <br> 
+Boolean <br> 
+ <br>
+<ul> 
+</ul>
+SortFields 
+---
+<br>  <br> 
+Valori separati da pipe <br> 
+Id&#124;Description <br>
+<ul> 
+<li>Description</li>
+<li>Id</li>
+</ul>
+

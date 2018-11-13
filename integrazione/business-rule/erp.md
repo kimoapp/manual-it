@@ -1,6 +1,12 @@
 # Erp
 
-| Valore | Descrizione | Tipo | Valori | Valore di default |
-| :--- | :--- | :--- | :--- | :--- |
-| Type | Tipo di Erp | String |  |  |
+<br><br> 
+
+Type 
+---
+<br> Tipo di Erp <br> 
+String <br> 
+ <br>
+<ul> 
+</ul>
 

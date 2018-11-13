@@ -1,6 +1,12 @@
 # Discount
 
-| Valore | Descrizione | Tipo | Valori | Valore di default |
-| :--- | :--- | :--- | :--- | :--- |
-| GetSourcePosition |  | String |  |  |
+<br><br> 
+
+GetSourcePosition 
+---
+<br>  <br> 
+String <br> 
+ <br>
+<ul> 
+</ul>
 

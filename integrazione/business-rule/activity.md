@@ -1,97 +1,78 @@
 # Activity
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Valore</th>
-      <th style="text-align:left">Descrizione</th>
-      <th style="text-align:left">Tipo</th>
-      <th style="text-align:left">Valori</th>
-      <th style="text-align:left">Valore di default</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">ActivitiesToUpload</td>
-      <td style="text-align:left">Tipi di attività da inviare al server</td>
-      <td style="text-align:left">Enum</td>
-      <td style="text-align:left">
-        <p>0 => Solo le attività chiuse</p>
-        <p>1 => Tutte</p>
-      </td>
-      <td style="text-align:left">0</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">ActivityFromBudgetLineEntityDescriptionTemplate</td>
-      <td style="text-align:left">Template per la descrizione delle attività create dalle righe budget</td>
-      <td
-      style="text-align:left">Template</td>
-        <td style="text-align:left">
-          <p>BudgetDescription</p>
-          <p>BudgetLineId</p>
-          <p>BudgetSeason</p>
-          <p>BudgetSeasonId</p>
-          <p>BudgetTrademark</p>
-          <p>BudgetTrademarkId</p>
-        </td>
-        <td style="text-align:left">${BudgetLineId}</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">ActivityFromDocumentEntityDescriptionTemplate</td>
-      <td style="text-align:left">Template per la descrizione delle attività create dai Documenti</td>
-      <td
-      style="text-align:left">Template</td>
-        <td style="text-align:left">
-          <p>DocumentDate</p>
-          <p>DocumentId</p>
-          <p>DocumentNumber</p>
-          <p>DocumentReference</p>
-          <p>DocumentTypeCode</p>
-          <p>DocumentTypeDescription</p>
-          <p>DocumentTypeId</p>
-        </td>
-        <td style="text-align:left">${DocumentTypeDescription} nr. ${DocumentNumber} del ${DocumentDate}</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">ActivityFromErpDocumentEntityDescriptionTemplate</td>
-      <td style="text-align:left">Template per la descrizione delle attività create dai Documenti da Erp</td>
-      <td
-      style="text-align:left">Template</td>
-        <td style="text-align:left">
-          <p>DocumentDate</p>
-          <p>DocumentId</p>
-          <p>DocumentNumber</p>
-          <p>DocumentReference</p>
-          <p>DocumentTypeCode</p>
-          <p>DocumentTypeDescription</p>
-          <p>DocumentTypeId</p>
-        </td>
-        <td style="text-align:left">${DocumentTypeDescription} nr. ${DocumentNumber} del ${DocumentDate}</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CanCreateActivitiesWithoutAccount</td>
-      <td style="text-align:left">È possibile create attività non legate ad un account</td>
-      <td style="text-align:left">Boolean</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">True</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CanEditCompletedActivitiesFromErp</td>
-      <td style="text-align:left">È possibile modificare attività che arrivano dal Sistema Esterno come
-        completate</td>
-      <td style="text-align:left">Boolean</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">True</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">KeywordSearchFields</td>
-      <td style="text-align:left">Campi per la ricerca testuale</td>
-      <td style="text-align:left">Valori separati da pipe</td>
-      <td style="text-align:left">
-        <p>Account.Code</p>
-        <p>Account.Name</p>
-      </td>
-      <td style="text-align:left">Account.Code|Account.Name</td>
-    </tr>
-  </tbody>
-</table>
+<br><br> 
+
+ActivitiesToUpload 
+---
+<br> Tipi di attività da inviare al server <br> 
+Enum <br> 
+0 <br>
+<ul> 
+<li>0 => Solo le attività chiuse</li>
+<li>1 => Tutte</li>
+</ul>
+ActivityFromBudgetLineEntityDescriptionTemplate 
+---
+<br> Template per la descrizione delle attività create dalle righe budget <br> 
+Template <br> 
+${BudgetLineId} <br>
+<ul> 
+<li>BudgetDescription</li>
+<li>BudgetLineId</li>
+<li>BudgetSeason</li>
+<li>BudgetSeasonId</li>
+<li>BudgetTrademark</li>
+<li>BudgetTrademarkId</li>
+</ul>
+ActivityFromDocumentEntityDescriptionTemplate 
+---
+<br> Template per la descrizione delle attività create dai Documenti <br> 
+Template <br> 
+${DocumentTypeDescription} nr. ${DocumentNumber} del ${DocumentDate} <br>
+<ul> 
+<li>DocumentDate</li>
+<li>DocumentId</li>
+<li>DocumentNumber</li>
+<li>DocumentReference</li>
+<li>DocumentTypeCode</li>
+<li>DocumentTypeDescription</li>
+<li>DocumentTypeId</li>
+</ul>
+ActivityFromErpDocumentEntityDescriptionTemplate 
+---
+<br> Template per la descrizione delle attività create dai Documenti da Erp <br> 
+Template <br> 
+${DocumentTypeDescription} nr. ${DocumentNumber} del ${DocumentDate} <br>
+<ul> 
+<li>DocumentDate</li>
+<li>DocumentId</li>
+<li>DocumentNumber</li>
+<li>DocumentReference</li>
+<li>DocumentTypeCode</li>
+<li>DocumentTypeDescription</li>
+<li>DocumentTypeId</li>
+</ul>
+CanCreateActivitiesWithoutAccount 
+---
+<br> È possibile create attività non legate ad un account <br> 
+Boolean <br> 
+True <br>
+<ul> 
+</ul>
+CanEditCompletedActivitiesFromErp 
+---
+<br> È possibile modificare attività che arrivano dal Sistema Esterno come completate <br> 
+Boolean <br> 
+True <br>
+<ul> 
+</ul>
+KeywordSearchFields 
+---
+<br> Campi per la ricerca testuale <br> 
+Valori separati da pipe <br> 
+Account.Code&#124;Account.Name <br>
+<ul> 
+<li>Account.Code</li>
+<li>Account.Name</li>
+</ul>
+

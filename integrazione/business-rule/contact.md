@@ -1,39 +1,27 @@
 # Contact
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Valore</th>
-      <th style="text-align:left">Descrizione</th>
-      <th style="text-align:left">Tipo</th>
-      <th style="text-align:left">Valori</th>
-      <th style="text-align:left">Valore di default</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">AdvancedSearchFields</td>
-      <td style="text-align:left">Campi per la ricerca avanzata</td>
-      <td style="text-align:left">Valori separati da pipe</td>
-      <td style="text-align:left">
-        <p>AddressCity</p>
-        <p>AddressCountrySubdivision</p>
-        <p>AddressPostCode</p>
-        <p>FreeLookup</p>
-      </td>
-      <td style="text-align:left">AddressPostCode|AddressCountrySubdivision</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">KeywordSearchFields</td>
-      <td style="text-align:left">Campi per la ricerca testuale</td>
-      <td style="text-align:left">Valori separati da pipe</td>
-      <td style="text-align:left">
-        <p>Account.Name</p>
-        <p>FirstName</p>
-        <p>Id</p>
-        <p>LastName</p>
-      </td>
-      <td style="text-align:left">Id|FirstName|LastName|Account.Name</td>
-    </tr>
-  </tbody>
-</table>
+<br><br> 
+
+AdvancedSearchFields 
+---
+<br> Campi per la ricerca avanzata <br> 
+Valori separati da pipe <br> 
+AddressPostCode&#124;AddressCountrySubdivision <br>
+<ul> 
+<li>AddressCity</li>
+<li>AddressCountrySubdivision</li>
+<li>AddressPostCode</li>
+<li>FreeLookup</li>
+</ul>
+KeywordSearchFields 
+---
+<br> Campi per la ricerca testuale <br> 
+Valori separati da pipe <br> 
+Id&#124;FirstName&#124;LastName&#124;Account.Name <br>
+<ul> 
+<li>Account.Name</li>
+<li>FirstName</li>
+<li>Id</li>
+<li>LastName</li>
+</ul>
+
