@@ -1,6 +1,6 @@
 # Erp
 Type 
 ----
-**Descrizione:** Tipo di Erp <br>
-**Tipo:** String <br>
+**Descrizione:** Tipo di Erp	 
+**Tipo:** String
 

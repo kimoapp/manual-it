@@ -1,6 +1,6 @@
 # Api
 GoogleMapKeys 
 ----
-**Descrizione:** Chiavi per i webservice di Google <br>
-**Tipo:** Valori separati da pipe <br>
+**Descrizione:** Chiavi per i webservice di Google	 
+**Tipo:** Valori separati da pipe
 

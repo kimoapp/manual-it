@@ -1,9 +1,9 @@
 # B2b\Document
 DocumentsFromCartFactory 
 ----
-**Descrizione:**  <br>
-**Tipo:** String <br>
-**Valore di default:** Standard <br>
+**Descrizione:** 	 
+**Tipo:** String	 
+**Valore di default:** Standard	 
 **Valori:**
 * SplitByTrademarkAndSeason
 * Standard
@@ -11,6 +11,6 @@ DocumentsFromCartFactory
 
 GetDocumentTypeIdForCart 
 ----
-**Descrizione:**  <br>
-**Tipo:** String <br>
+**Descrizione:** 	 
+**Tipo:** String
 

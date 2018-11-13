@@ -1,11 +1,11 @@
 # Vat
 AccountVatRateId 
 ----
-**Descrizione:** Aliquota IVA di default per i clienti <br>
-**Tipo:** String <br>
+**Descrizione:** Aliquota IVA di default per i clienti	 
+**Tipo:** String	 
 
 ItemVatRateId 
 ----
-**Descrizione:** Aliquota IVA di default per gli articoli <br>
-**Tipo:** String <br>
+**Descrizione:** Aliquota IVA di default per gli articoli	 
+**Tipo:** String
 
