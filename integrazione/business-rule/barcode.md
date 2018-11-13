@@ -1,10 +1,11 @@
 # Barcode
 Prefix 
 ----
-**Descrizione:**  <br>
-**Tipo:** String <br>
+**Descrizione:**  <br> 
+**Tipo:** String <br> 
+
 Suffix 
 ----
-**Descrizione:**  <br>
+**Descrizione:**  <br> 
 **Tipo:** String <br>
 
