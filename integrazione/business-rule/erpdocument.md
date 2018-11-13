@@ -1,12 +1,9 @@
 # ErpDocument
-
-<br><br> 
-
 AdvancedSearchFields 
 ----
-**Descrizione:** Campi per la ricerca avanzata<br>
-**Tipo:** Valori separati da pipe<br>
-**Valore di default:** ErpDocumentType<br>
+**Descrizione:** Campi per la ricerca avanzata
+**Tipo:** Valori separati da pipe
+**Valore di default:** ErpDocumentType
 **Valori:**
 * ErpDocumentType
 * ErpLineFreeLookup
@@ -16,9 +13,9 @@ AdvancedSearchFields
 
 FilterPerUser 
 ----
-**Descrizione:** Modalità di filtro dei documenti in base all'utente<br>
-**Tipo:** Enum<br>
-**Valore di default:** 1<br>
+**Descrizione:** Modalità di filtro dei documenti in base all'utente
+**Tipo:** Enum
+**Valore di default:** 1
 **Valori:**
 * 0 => Applica i filtri di default
 * 1 => Filtra i documenti per 'proprietario' (owner)
@@ -26,16 +23,16 @@ FilterPerUser
 
 ItemLiveSearch 
 ----
-**Descrizione:** Abilita la ricerca 'live' degli articoli<br>
-**Tipo:** Boolean<br>
-**Valore di default:** True<br>
+**Descrizione:** Abilita la ricerca 'live' degli articoli
+**Tipo:** Boolean
+**Valore di default:** True
 **Valori:**
 
 KeywordSearchFields 
 ----
-**Descrizione:** Campi per la ricerca testuale<br>
-**Tipo:** Valori separati da pipe<br>
-**Valore di default:** Number&#124;AccountName<br>
+**Descrizione:** Campi per la ricerca testuale
+**Tipo:** Valori separati da pipe
+**Valore di default:** Number&#124;AccountName
 **Valori:**
 * AccountName
 * Number

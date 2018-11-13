@@ -1,26 +1,23 @@
 # DocumentNotification
-
-<br><br> 
-
 OnConfirmedDocumentTypes 
 ----
-**Descrizione:** <br>
-**Tipo:** Valori separati da pipe<br>
-**Valore di default:** <br>
+**Descrizione:** 
+**Tipo:** Valori separati da pipe
+**Valore di default:** 
 **Valori:**
 
 OnConfirmedMailBccRecipients 
 ----
-**Descrizione:** <br>
-**Tipo:** String<br>
-**Valore di default:** <br>
+**Descrizione:** 
+**Tipo:** String
+**Valore di default:** 
 **Valori:**
 
 OnConfirmedMailBodyTemplate 
 ----
-**Descrizione:** <br>
-**Tipo:** Template<br>
-**Valore di default:** ${DocumentType} '${DocumentNumber}' confermato!<br>
+**Descrizione:** 
+**Tipo:** Template
+**Valore di default:** ${DocumentType} '${DocumentNumber}' confermato!
 **Valori:**
 * AccountCode
 * AccountName
@@ -34,16 +31,16 @@ OnConfirmedMailBodyTemplate
 
 OnConfirmedMailRecipients 
 ----
-**Descrizione:** <br>
-**Tipo:** String<br>
-**Valore di default:** <br>
+**Descrizione:** 
+**Tipo:** String
+**Valore di default:** 
 **Valori:**
 
 OnConfirmedMailSubjectTemplate 
 ----
-**Descrizione:** <br>
-**Tipo:** Template<br>
-**Valore di default:** ${DocumentType} '${DocumentNumber}' confermato!<br>
+**Descrizione:** 
+**Tipo:** Template
+**Valore di default:** ${DocumentType} '${DocumentNumber}' confermato!
 **Valori:**
 * AccountCode
 * AccountName
@@ -57,22 +54,22 @@ OnConfirmedMailSubjectTemplate
 
 OnConfirmedReportType 
 ----
-**Descrizione:** <br>
-**Tipo:** String<br>
-**Valore di default:** <br>
+**Descrizione:** 
+**Tipo:** String
+**Valore di default:** 
 **Valori:**
 
 OnConfirmedSendMailToCreator 
 ----
-**Descrizione:** <br>
-**Tipo:** Boolean<br>
-**Valore di default:** <br>
+**Descrizione:** 
+**Tipo:** Boolean
+**Valore di default:** 
 **Valori:**
 
 SendOnConfirmed 
 ----
-**Descrizione:** <br>
-**Tipo:** Boolean<br>
-**Valore di default:** <br>
+**Descrizione:** 
+**Tipo:** Boolean
+**Valore di default:** 
 **Valori:**
 

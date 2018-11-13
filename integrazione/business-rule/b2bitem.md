@@ -1,27 +1,24 @@
 # B2b\Item
-
-<br><br> 
-
 Filters 
 ----
-**Descrizione:** Filtri<br>
-**Tipo:** Valori separati da pipe<br>
-**Valore di default:** <br>
+**Descrizione:** Filtri
+**Tipo:** Valori separati da pipe
+**Valore di default:** 
 **Valori:**
 * ItemGroupLevel
 
 KeywordSearchFields 
 ----
-**Descrizione:** Campi per la ricerca testuale<br>
-**Tipo:** Valori separati da pipe<br>
-**Valore di default:** Id&#124;Description<br>
+**Descrizione:** Campi per la ricerca testuale
+**Tipo:** Valori separati da pipe
+**Valore di default:** Id&#124;Description
 **Valori:**
 
 SortFields 
 ----
-**Descrizione:** Campi per l'ordinamento<br>
-**Tipo:** Valori separati da pipe<br>
-**Valore di default:** <br>
+**Descrizione:** Campi per l'ordinamento
+**Tipo:** Valori separati da pipe
+**Valore di default:** 
 **Valori:**
 * Item.Description
 * Item.Id

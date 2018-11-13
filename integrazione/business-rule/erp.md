@@ -1,11 +1,8 @@
 # Erp
-
-<br><br> 
-
 Type 
 ----
-**Descrizione:** Tipo di Erp<br>
-**Tipo:** String<br>
-**Valore di default:** <br>
+**Descrizione:** Tipo di Erp
+**Tipo:** String
+**Valore di default:** 
 **Valori:**
 

@@ -1,19 +1,16 @@
 # B2b
-
-<br><br> 
-
 IsUserSlaveModeEnabled 
 ----
-**Descrizione:** <br>
-**Tipo:** Boolean<br>
-**Valore di default:** <br>
+**Descrizione:** 
+**Tipo:** Boolean
+**Valore di default:** 
 **Valori:**
 
 PromotionsMode 
 ----
-**Descrizione:** <br>
-**Tipo:** Enum<br>
-**Valore di default:** 0<br>
+**Descrizione:** 
+**Tipo:** Enum
+**Valore di default:** 0
 **Valori:**
 * 0 => Disabled
 * 1 => Enabled

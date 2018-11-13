@@ -1,32 +1,29 @@
 # Idrolab
-
-<br><br> 
-
 BaseUrl 
 ----
-**Descrizione:** Url per i webservice (es. http://ws.eureca2008.net)<br>
-**Tipo:** String<br>
-**Valore di default:** <br>
+**Descrizione:** Url per i webservice (es. http://ws.eureca2008.net)
+**Tipo:** String
+**Valore di default:** 
 **Valori:**
 
 Password 
 ----
-**Descrizione:** <br>
-**Tipo:** String<br>
-**Valore di default:** <br>
+**Descrizione:** 
+**Tipo:** String
+**Valore di default:** 
 **Valori:**
 
 Username 
 ----
-**Descrizione:** <br>
-**Tipo:** String<br>
-**Valore di default:** <br>
+**Descrizione:** 
+**Tipo:** String
+**Valore di default:** 
 **Valori:**
 
 WebsiteUrl 
 ----
-**Descrizione:** Url per il sito web (tipicamente http://www.eureca2008.net)<br>
-**Tipo:** String<br>
-**Valore di default:** http://www.eureca2008.net<br>
+**Descrizione:** Url per il sito web (tipicamente http://www.eureca2008.net)
+**Tipo:** String
+**Valore di default:** http://www.eureca2008.net
 **Valori:**
 

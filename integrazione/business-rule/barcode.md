@@ -1,18 +1,15 @@
 # Barcode
-
-<br><br> 
-
 Prefix 
 ----
-**Descrizione:** <br>
-**Tipo:** String<br>
-**Valore di default:** <br>
+**Descrizione:** 
+**Tipo:** String
+**Valore di default:** 
 **Valori:**
 
 Suffix 
 ----
-**Descrizione:** <br>
-**Tipo:** String<br>
-**Valore di default:** <br>
+**Descrizione:** 
+**Tipo:** String
+**Valore di default:** 
 **Valori:**
 

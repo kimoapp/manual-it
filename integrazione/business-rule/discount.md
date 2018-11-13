@@ -1,11 +1,8 @@
 # Discount
-
-<br><br> 
-
 GetSourcePosition 
 ----
-**Descrizione:** <br>
-**Tipo:** String<br>
-**Valore di default:** <br>
+**Descrizione:** 
+**Tipo:** String
+**Valore di default:** 
 **Valori:**
 
