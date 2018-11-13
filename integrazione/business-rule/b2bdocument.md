@@ -11,12 +11,12 @@ Standard <br>
 <li>SplitByTrademarkAndSeason</li>
 <li>Standard</li>
 <li>Wald</li>
-</ul>
+</ul><br>
 GetDocumentTypeIdForCart 
 ---
 <br>  <br> 
 String <br> 
  <br>
 <ul> 
-</ul>
+</ul><br>
 

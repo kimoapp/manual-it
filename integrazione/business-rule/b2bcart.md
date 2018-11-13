@@ -10,7 +10,7 @@ Template <br>
 <ul> 
 <li>CreationDate</li>
 <li>ReassortmentType.Description</li>
-</ul>
+</ul><br>
 CreditLimitCheck 
 ---
 <br> Tipo di controllo sul fido al checkout <br> 
@@ -20,7 +20,7 @@ Enum <br>
 <li>0 => Nessun controllo</li>
 <li>1 => Importo totale (con IVA e spese accessorie incluse)</li>
 <li>2 => Totale merce (IVA esclusa)</li>
-</ul>
+</ul><br>
 MaxQtyValidationType 
 ---
 <br> Tipo di validazione della quantità <br> 
@@ -29,26 +29,26 @@ Enum <br>
 <ul> 
 <li>0 => Nessun controllo</li>
 <li>1 => In confronto alla disponibilità</li>
-</ul>
+</ul><br>
 ReassortmentTypeAsConstraintIsMandatory 
 ---
 <br> Tipo Riassortimento come vincolo obbligatorio <br> 
 Boolean <br> 
  <br>
 <ul> 
-</ul>
+</ul><br>
 ShipmentSiteIsMandatory 
 ---
 <br> Destinazione merci obbligatoria <br> 
 Boolean <br> 
  <br>
 <ul> 
-</ul>
+</ul><br>
 ValidatePricesObsolescence 
 ---
 <br> Abilita la validazione dei prezzi al checkout <br> 
 Boolean <br> 
 True <br>
 <ul> 
-</ul>
+</ul><br>
 

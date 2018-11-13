@@ -8,5 +8,5 @@ Type
 String <br> 
  <br>
 <ul> 
-</ul>
+</ul><br>
 

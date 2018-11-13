@@ -21,7 +21,7 @@ ItemGroupLevel1&#124;ItemGroupLevel2 <br>
 <li>Season</li>
 <li>SeasonGroup</li>
 <li>Trademark</li>
-</ul>
+</ul><br>
 IdEncodingType 
 ---
 <br> Modalità di codifica dei codici articoli <br> 
@@ -30,7 +30,7 @@ Enum <br>
 <ul> 
 <li>0 => Id</li>
 <li>1 => Produttore + Codice Articolo Produttore, es. 'BTI 5001'</li>
-</ul>
+</ul><br>
 ItemFormUrlTemplate 
 ---
 <br> Template per comporre l'url della scheda articolo online <br> 
@@ -40,7 +40,7 @@ Template <br>
 <li>Barcode</li>
 <li>ItemId</li>
 <li>ManufacturerItemId</li>
-</ul>
+</ul><br>
 KeywordSearchFields 
 ---
 <br> Campi per la ricerca testuale <br> 
@@ -49,14 +49,14 @@ Id&#124;Description <br>
 <ul> 
 <li>Description</li>
 <li>Id</li>
-</ul>
+</ul><br>
 LiveSearch 
 ---
 <br> Abilita la ricerca 'live' degli articoli <br> 
 Boolean <br> 
  <br>
 <ul> 
-</ul>
+</ul><br>
 SortFields 
 ---
 <br>  <br> 
@@ -65,5 +65,5 @@ Id&#124;Description <br>
 <ul> 
 <li>Description</li>
 <li>Id</li>
-</ul>
+</ul><br>
 

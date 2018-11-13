@@ -12,5 +12,5 @@ Enum <br>
 <li>1 => Prezzo unitario</li>
 <li>2 => Importo totale</li>
 <li>3 => Quantità</li>
-</ul>
+</ul><br>
 

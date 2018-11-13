@@ -21,14 +21,14 @@ CustomerGroup&#124;AddressCity&#124;AddressPostCode&#124;AddressCountrySubdivisi
 <li>ProspectStatus => Tipo di account (prospect, cliente, ...)</li>
 <li>StatisticClass</li>
 <li>Zone</li>
-</ul>
+</ul><br>
 FiscalCodeMandatoryIfIsPerson 
 ---
 <br> Il Codice Fiscale è obbligatorio se il cliente è una persona fisica <br> 
 Boolean <br> 
  <br>
 <ul> 
-</ul>
+</ul><br>
 KeywordSearchFields 
 ---
 <br> Campi per la ricerca testuale <br> 
@@ -39,7 +39,7 @@ Code&#124;Name <br>
 <li>FreeText</li>
 <li>Id</li>
 <li>Name</li>
-</ul>
+</ul><br>
 SalesConditionDiscountsSearchTypes 
 ---
 <br> Tipi di condizioni di vendita da mostrare nella funzione 'Sconti per condizioni di vendita' <br> 
@@ -49,12 +49,12 @@ All <br>
 <li>All</li>
 <li>CustomerManufacturer</li>
 <li>Manufacturer</li>
-</ul>
+</ul><br>
 VatNumberMandatoryIfIsOrganization 
 ---
 <br> La Partita IVA è obbligatoria se il cliente è un'organizzazione <br> 
 Boolean <br> 
  <br>
 <ul> 
-</ul>
+</ul><br>
 

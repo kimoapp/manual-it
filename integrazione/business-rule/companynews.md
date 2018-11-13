@@ -10,12 +10,12 @@ Template <br>
 <ul> 
 <li>SeasonId</li>
 <li>TrademarkId</li>
-</ul>
+</ul><br>
 ShowOnDocument_AddItem_WhenEmpty 
 ---
 <br> Mostra le news quando si prova ad aggiungere un articolo ad un documento di vendita che non ha ancora righe <br> 
 Boolean <br> 
  <br>
 <ul> 
-</ul>
+</ul><br>
 

@@ -8,7 +8,7 @@ IsUserSlaveModeEnabled
 Boolean <br> 
  <br>
 <ul> 
-</ul>
+</ul><br>
 PromotionsMode 
 ---
 <br>  <br> 
@@ -17,5 +17,5 @@ Enum <br>
 <ul> 
 <li>0 => Disabled</li>
 <li>1 => Enabled</li>
-</ul>
+</ul><br>
 

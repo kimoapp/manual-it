@@ -12,7 +12,7 @@ AddressPostCode&#124;AddressCountrySubdivision <br>
 <li>AddressCountrySubdivision</li>
 <li>AddressPostCode</li>
 <li>FreeLookup</li>
-</ul>
+</ul><br>
 KeywordSearchFields 
 ---
 <br> Campi per la ricerca testuale <br> 
@@ -23,5 +23,5 @@ Id&#124;FirstName&#124;LastName&#124;Account.Name <br>
 <li>FirstName</li>
 <li>Id</li>
 <li>LastName</li>
-</ul>
+</ul><br>
 

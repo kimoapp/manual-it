@@ -8,26 +8,26 @@ BaseUrl
 String <br> 
  <br>
 <ul> 
-</ul>
+</ul><br>
 Password 
 ---
 <br>  <br> 
 String <br> 
  <br>
 <ul> 
-</ul>
+</ul><br>
 Username 
 ---
 <br>  <br> 
 String <br> 
  <br>
 <ul> 
-</ul>
+</ul><br>
 WebsiteUrl 
 ---
 <br> Url per il sito web (tipicamente http://www.eureca2008.net) <br> 
 String <br> 
 http://www.eureca2008.net <br>
 <ul> 
-</ul>
+</ul><br>
 

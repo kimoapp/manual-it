@@ -10,7 +10,7 @@ Enum <br>
 <ul> 
 <li>0 => Per magazzino dell'utente/agente</li>
 <li>1 => Nessun filtro</li>
-</ul>
+</ul><br>
 GlobalAvailabilityMode 
 ---
 <br> Modalità di calcolo della disponibilità globale <br> 
@@ -19,7 +19,7 @@ Enum <br>
 <ul> 
 <li>0 => Indicata direttamente nel campo 'GlobalAvailability' di 'ItemOfflineAvailability'</li>
 <li>1 => Calcolata dalle disponibilità nei magazzini</li>
-</ul>
+</ul><br>
 QtyField 
 ---
 <br> Campo da considerare per verificare la quantità disponibile <br> 
@@ -28,5 +28,5 @@ Enum <br>
 <ul> 
 <li>0 => SalesQty</li>
 <li>1 => NumberOfPacks</li>
-</ul>
+</ul><br>
 

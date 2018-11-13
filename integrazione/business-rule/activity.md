@@ -10,7 +10,7 @@ Enum <br>
 <ul> 
 <li>0 => Solo le attività chiuse</li>
 <li>1 => Tutte</li>
-</ul>
+</ul><br>
 ActivityFromBudgetLineEntityDescriptionTemplate 
 ---
 <br> Template per la descrizione delle attività create dalle righe budget <br> 
@@ -23,7 +23,7 @@ ${BudgetLineId} <br>
 <li>BudgetSeasonId</li>
 <li>BudgetTrademark</li>
 <li>BudgetTrademarkId</li>
-</ul>
+</ul><br>
 ActivityFromDocumentEntityDescriptionTemplate 
 ---
 <br> Template per la descrizione delle attività create dai Documenti <br> 
@@ -37,7 +37,7 @@ ${DocumentTypeDescription} nr. ${DocumentNumber} del ${DocumentDate} <br>
 <li>DocumentTypeCode</li>
 <li>DocumentTypeDescription</li>
 <li>DocumentTypeId</li>
-</ul>
+</ul><br>
 ActivityFromErpDocumentEntityDescriptionTemplate 
 ---
 <br> Template per la descrizione delle attività create dai Documenti da Erp <br> 
@@ -51,21 +51,21 @@ ${DocumentTypeDescription} nr. ${DocumentNumber} del ${DocumentDate} <br>
 <li>DocumentTypeCode</li>
 <li>DocumentTypeDescription</li>
 <li>DocumentTypeId</li>
-</ul>
+</ul><br>
 CanCreateActivitiesWithoutAccount 
 ---
 <br> È possibile create attività non legate ad un account <br> 
 Boolean <br> 
 True <br>
 <ul> 
-</ul>
+</ul><br>
 CanEditCompletedActivitiesFromErp 
 ---
 <br> È possibile modificare attività che arrivano dal Sistema Esterno come completate <br> 
 Boolean <br> 
 True <br>
 <ul> 
-</ul>
+</ul><br>
 KeywordSearchFields 
 ---
 <br> Campi per la ricerca testuale <br> 
@@ -74,5 +74,5 @@ Account.Code&#124;Account.Name <br>
 <ul> 
 <li>Account.Code</li>
 <li>Account.Name</li>
-</ul>
+</ul><br>
 

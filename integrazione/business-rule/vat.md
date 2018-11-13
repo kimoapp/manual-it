@@ -8,12 +8,12 @@ AccountVatRateId
 String <br> 
  <br>
 <ul> 
-</ul>
+</ul><br>
 ItemVatRateId 
 ---
 <br> Aliquota IVA di default per gli articoli <br> 
 String <br> 
  <br>
 <ul> 
-</ul>
+</ul><br>
 
