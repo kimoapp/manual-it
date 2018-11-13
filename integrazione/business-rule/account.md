@@ -1,7 +1,7 @@
 # Account
 AdvancedSearchFields 
 ----
-**Descrizione:** Campi per la ricerca avanzata <br>
+**Descrizione:** Campi per la ricerca avanzata	 
 **Tipo:** Valori separati da pipe <br>
 **Valore di default:** CustomerGroup&#124;AddressCity&#124;AddressPostCode&#124;AddressCountrySubdivision <br>
 **Valori:**
