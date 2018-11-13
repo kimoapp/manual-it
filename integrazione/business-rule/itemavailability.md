@@ -1,7 +1,7 @@
 # ItemAvailability
 FilterMode 
 ----
-**Descrizione:** Modalità di filtro delle disponibilità durante la preparazione dati per gli agenti <br>
+ **Descrizione:** Modalità di filtro delle disponibilità durante la preparazione dati per gli agenti <br>
 **Tipo:** Enum <br>
 **Valore di default:** 0 <br>
 **Valori:**
@@ -10,7 +10,7 @@ FilterMode
 
 GlobalAvailabilityMode 
 ----
-**Descrizione:** Modalità di calcolo della disponibilità globale <br>
+ **Descrizione:** Modalità di calcolo della disponibilità globale <br>
 **Tipo:** Enum <br>
 **Valore di default:** 0 <br>
 **Valori:**
@@ -19,7 +19,7 @@ GlobalAvailabilityMode
 
 QtyField 
 ----
-**Descrizione:** Campo da considerare per verificare la quantità disponibile <br>
+ **Descrizione:** Campo da considerare per verificare la quantità disponibile <br>
 **Tipo:** Enum <br>
 **Valore di default:** 0 <br>
 **Valori:**

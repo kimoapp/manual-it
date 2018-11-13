@@ -1,7 +1,7 @@
 # Contact
 AdvancedSearchFields 
 ----
-**Descrizione:** Campi per la ricerca avanzata <br>
+ **Descrizione:** Campi per la ricerca avanzata <br>
 **Tipo:** Valori separati da pipe <br>
 **Valore di default:** AddressPostCode&#124;AddressCountrySubdivision <br>
 **Valori:**
@@ -12,7 +12,7 @@ AdvancedSearchFields
 
 KeywordSearchFields 
 ----
-**Descrizione:** Campi per la ricerca testuale <br>
+ **Descrizione:** Campi per la ricerca testuale <br>
 **Tipo:** Valori separati da pipe <br>
 **Valore di default:** Id&#124;FirstName&#124;LastName&#124;Account.Name <br>
 **Valori:**

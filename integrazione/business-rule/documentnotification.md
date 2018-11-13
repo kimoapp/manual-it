@@ -1,21 +1,17 @@
 # DocumentNotification
 OnConfirmedDocumentTypes 
 ----
-**Descrizione:** $businessRule.Description <br>
+ **Descrizione:**  <br>
 **Tipo:** Valori separati da pipe <br>
-**Valore di default:** $businessRule.DefaultValue <br>
-**Valori:**
 
 OnConfirmedMailBccRecipients 
 ----
-**Descrizione:** $businessRule.Description <br>
+ **Descrizione:**  <br>
 **Tipo:** String <br>
-**Valore di default:** $businessRule.DefaultValue <br>
-**Valori:**
 
 OnConfirmedMailBodyTemplate 
 ----
-**Descrizione:** $businessRule.Description <br>
+ **Descrizione:**  <br>
 **Tipo:** Template <br>
 **Valore di default:** ${DocumentType} '${DocumentNumber}' confermato! <br>
 **Valori:**
@@ -31,14 +27,12 @@ OnConfirmedMailBodyTemplate
 
 OnConfirmedMailRecipients 
 ----
-**Descrizione:** $businessRule.Description <br>
+ **Descrizione:**  <br>
 **Tipo:** String <br>
-**Valore di default:** $businessRule.DefaultValue <br>
-**Valori:**
 
 OnConfirmedMailSubjectTemplate 
 ----
-**Descrizione:** $businessRule.Description <br>
+ **Descrizione:**  <br>
 **Tipo:** Template <br>
 **Valore di default:** ${DocumentType} '${DocumentNumber}' confermato! <br>
 **Valori:**
@@ -54,22 +48,16 @@ OnConfirmedMailSubjectTemplate
 
 OnConfirmedReportType 
 ----
-**Descrizione:** $businessRule.Description <br>
+ **Descrizione:**  <br>
 **Tipo:** String <br>
-**Valore di default:** $businessRule.DefaultValue <br>
-**Valori:**
 
 OnConfirmedSendMailToCreator 
 ----
-**Descrizione:** $businessRule.Description <br>
+ **Descrizione:**  <br>
 **Tipo:** Boolean <br>
-**Valore di default:** $businessRule.DefaultValue <br>
-**Valori:**
 
 SendOnConfirmed 
 ----
-**Descrizione:** $businessRule.Description <br>
+ **Descrizione:**  <br>
 **Tipo:** Boolean <br>
-**Valore di default:** $businessRule.DefaultValue <br>
-**Valori:**
 
