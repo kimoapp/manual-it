@@ -4,9 +4,10 @@
 
 DocumentsFromCartFactory 
 ---
-<br>  <br> 
-String <br> 
-Standard <br>
+Descrizione:   <br> 
+Tipo: String <br> 
+Valore di default: Standard <br>
+Valori:
 <ul> 
 <li>SplitByTrademarkAndSeason</li>
 <li>Standard</li>
@@ -14,9 +15,10 @@ Standard <br>
 </ul><br>
 GetDocumentTypeIdForCart 
 ---
-<br>  <br> 
-String <br> 
- <br>
+Descrizione:   <br> 
+Tipo: String <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 </ul><br>
 

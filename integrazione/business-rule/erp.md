@@ -4,9 +4,10 @@
 
 Type 
 ---
-<br> Tipo di Erp <br> 
-String <br> 
- <br>
+Descrizione:  Tipo di Erp <br> 
+Tipo: String <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 </ul><br>
 

@@ -4,18 +4,20 @@
 
 DocumentTemplate 
 ---
-<br>  <br> 
-Template <br> 
- <br>
+Descrizione:   <br> 
+Tipo: Template <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 <li>SeasonId</li>
 <li>TrademarkId</li>
 </ul><br>
 ShowOnDocument_AddItem_WhenEmpty 
 ---
-<br> Mostra le news quando si prova ad aggiungere un articolo ad un documento di vendita che non ha ancora righe <br> 
-Boolean <br> 
- <br>
+Descrizione:  Mostra le news quando si prova ad aggiungere un articolo ad un documento di vendita che non ha ancora righe <br> 
+Tipo: Boolean <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 </ul><br>
 

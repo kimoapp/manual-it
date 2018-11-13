@@ -4,16 +4,18 @@
 
 Prefix 
 ---
-<br>  <br> 
-String <br> 
- <br>
+Descrizione:   <br> 
+Tipo: String <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 </ul><br>
 Suffix 
 ---
-<br>  <br> 
-String <br> 
- <br>
+Descrizione:   <br> 
+Tipo: String <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 </ul><br>
 

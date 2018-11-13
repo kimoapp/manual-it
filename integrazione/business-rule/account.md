@@ -4,9 +4,10 @@
 
 AdvancedSearchFields 
 ---
-<br> Campi per la ricerca avanzata <br> 
-Valori separati da pipe <br> 
-CustomerGroup&#124;AddressCity&#124;AddressPostCode&#124;AddressCountrySubdivision <br>
+Descrizione:  Campi per la ricerca avanzata <br> 
+Tipo: Valori separati da pipe <br> 
+Valore di default: CustomerGroup&#124;AddressCity&#124;AddressPostCode&#124;AddressCountrySubdivision <br>
+Valori:
 <ul> 
 <li>AccountFilter</li>
 <li>AddressCity</li>
@@ -24,16 +25,18 @@ CustomerGroup&#124;AddressCity&#124;AddressPostCode&#124;AddressCountrySubdivisi
 </ul><br>
 FiscalCodeMandatoryIfIsPerson 
 ---
-<br> Il Codice Fiscale è obbligatorio se il cliente è una persona fisica <br> 
-Boolean <br> 
- <br>
+Descrizione:  Il Codice Fiscale è obbligatorio se il cliente è una persona fisica <br> 
+Tipo: Boolean <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 </ul><br>
 KeywordSearchFields 
 ---
-<br> Campi per la ricerca testuale <br> 
-Valori separati da pipe <br> 
-Code&#124;Name <br>
+Descrizione:  Campi per la ricerca testuale <br> 
+Tipo: Valori separati da pipe <br> 
+Valore di default: Code&#124;Name <br>
+Valori:
 <ul> 
 <li>Code</li>
 <li>FreeText</li>
@@ -42,9 +45,10 @@ Code&#124;Name <br>
 </ul><br>
 SalesConditionDiscountsSearchTypes 
 ---
-<br> Tipi di condizioni di vendita da mostrare nella funzione 'Sconti per condizioni di vendita' <br> 
-Valori separati da pipe <br> 
-All <br>
+Descrizione:  Tipi di condizioni di vendita da mostrare nella funzione 'Sconti per condizioni di vendita' <br> 
+Tipo: Valori separati da pipe <br> 
+Valore di default: All <br>
+Valori:
 <ul> 
 <li>All</li>
 <li>CustomerManufacturer</li>
@@ -52,9 +56,10 @@ All <br>
 </ul><br>
 VatNumberMandatoryIfIsOrganization 
 ---
-<br> La Partita IVA è obbligatoria se il cliente è un'organizzazione <br> 
-Boolean <br> 
- <br>
+Descrizione:  La Partita IVA è obbligatoria se il cliente è un'organizzazione <br> 
+Tipo: Boolean <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 </ul><br>
 

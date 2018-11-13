@@ -4,9 +4,10 @@
 
 {Field}\Format 
 ---
-<br> Formato del campo <br> 
-Enum <br> 
-0 <br>
+Descrizione:  Formato del campo <br> 
+Tipo: Enum <br> 
+Valore di default: 0 <br>
+Valori:
 <ul> 
 <li>0 => None</li>
 <li>1 => Prezzo unitario</li>

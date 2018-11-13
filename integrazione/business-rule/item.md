@@ -4,9 +4,10 @@
 
 AdvancedSearchFields 
 ---
-<br> Campi per la ricerca avanzata <br> 
-Valori separati da pipe <br> 
-ItemGroupLevel1&#124;ItemGroupLevel2 <br>
+Descrizione:  Campi per la ricerca avanzata <br> 
+Tipo: Valori separati da pipe <br> 
+Valore di default: ItemGroupLevel1&#124;ItemGroupLevel2 <br>
+Valori:
 <ul> 
 <li>CatalogPriceList</li>
 <li>ErpStatus</li>
@@ -24,18 +25,20 @@ ItemGroupLevel1&#124;ItemGroupLevel2 <br>
 </ul><br>
 IdEncodingType 
 ---
-<br> Modalità di codifica dei codici articoli <br> 
-Enum <br> 
-0 <br>
+Descrizione:  Modalità di codifica dei codici articoli <br> 
+Tipo: Enum <br> 
+Valore di default: 0 <br>
+Valori:
 <ul> 
 <li>0 => Id</li>
 <li>1 => Produttore + Codice Articolo Produttore, es. 'BTI 5001'</li>
 </ul><br>
 ItemFormUrlTemplate 
 ---
-<br> Template per comporre l'url della scheda articolo online <br> 
-Template <br> 
- <br>
+Descrizione:  Template per comporre l'url della scheda articolo online <br> 
+Tipo: Template <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 <li>Barcode</li>
 <li>ItemId</li>
@@ -43,25 +46,28 @@ Template <br>
 </ul><br>
 KeywordSearchFields 
 ---
-<br> Campi per la ricerca testuale <br> 
-Valori separati da pipe <br> 
-Id&#124;Description <br>
+Descrizione:  Campi per la ricerca testuale <br> 
+Tipo: Valori separati da pipe <br> 
+Valore di default: Id&#124;Description <br>
+Valori:
 <ul> 
 <li>Description</li>
 <li>Id</li>
 </ul><br>
 LiveSearch 
 ---
-<br> Abilita la ricerca 'live' degli articoli <br> 
-Boolean <br> 
- <br>
+Descrizione:  Abilita la ricerca 'live' degli articoli <br> 
+Tipo: Boolean <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 </ul><br>
 SortFields 
 ---
-<br>  <br> 
-Valori separati da pipe <br> 
-Id&#124;Description <br>
+Descrizione:   <br> 
+Tipo: Valori separati da pipe <br> 
+Valore di default: Id&#124;Description <br>
+Valori:
 <ul> 
 <li>Description</li>
 <li>Id</li>

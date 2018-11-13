@@ -4,23 +4,26 @@
 
 OnConfirmedDocumentTypes 
 ---
-<br>  <br> 
-Valori separati da pipe <br> 
- <br>
+Descrizione:   <br> 
+Tipo: Valori separati da pipe <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 </ul><br>
 OnConfirmedMailBccRecipients 
 ---
-<br>  <br> 
-String <br> 
- <br>
+Descrizione:   <br> 
+Tipo: String <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 </ul><br>
 OnConfirmedMailBodyTemplate 
 ---
-<br>  <br> 
-Template <br> 
-${DocumentType} '${DocumentNumber}' confermato! <br>
+Descrizione:   <br> 
+Tipo: Template <br> 
+Valore di default: ${DocumentType} '${DocumentNumber}' confermato! <br>
+Valori:
 <ul> 
 <li>AccountCode</li>
 <li>AccountName</li>
@@ -34,16 +37,18 @@ ${DocumentType} '${DocumentNumber}' confermato! <br>
 </ul><br>
 OnConfirmedMailRecipients 
 ---
-<br>  <br> 
-String <br> 
- <br>
+Descrizione:   <br> 
+Tipo: String <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 </ul><br>
 OnConfirmedMailSubjectTemplate 
 ---
-<br>  <br> 
-Template <br> 
-${DocumentType} '${DocumentNumber}' confermato! <br>
+Descrizione:   <br> 
+Tipo: Template <br> 
+Valore di default: ${DocumentType} '${DocumentNumber}' confermato! <br>
+Valori:
 <ul> 
 <li>AccountCode</li>
 <li>AccountName</li>
@@ -57,23 +62,26 @@ ${DocumentType} '${DocumentNumber}' confermato! <br>
 </ul><br>
 OnConfirmedReportType 
 ---
-<br>  <br> 
-String <br> 
- <br>
+Descrizione:   <br> 
+Tipo: String <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 </ul><br>
 OnConfirmedSendMailToCreator 
 ---
-<br>  <br> 
-Boolean <br> 
- <br>
+Descrizione:   <br> 
+Tipo: Boolean <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 </ul><br>
 SendOnConfirmed 
 ---
-<br>  <br> 
-Boolean <br> 
- <br>
+Descrizione:   <br> 
+Tipo: Boolean <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 </ul><br>
 

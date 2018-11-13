@@ -4,30 +4,34 @@
 
 BaseUrl 
 ---
-<br> Url per i webservice (es. http://ws.eureca2008.net) <br> 
-String <br> 
- <br>
+Descrizione:  Url per i webservice (es. http://ws.eureca2008.net) <br> 
+Tipo: String <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 </ul><br>
 Password 
 ---
-<br>  <br> 
-String <br> 
- <br>
+Descrizione:   <br> 
+Tipo: String <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 </ul><br>
 Username 
 ---
-<br>  <br> 
-String <br> 
- <br>
+Descrizione:   <br> 
+Tipo: String <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 </ul><br>
 WebsiteUrl 
 ---
-<br> Url per il sito web (tipicamente http://www.eureca2008.net) <br> 
-String <br> 
-http://www.eureca2008.net <br>
+Descrizione:  Url per il sito web (tipicamente http://www.eureca2008.net) <br> 
+Tipo: String <br> 
+Valore di default: http://www.eureca2008.net <br>
+Valori:
 <ul> 
 </ul><br>
 

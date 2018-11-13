@@ -4,18 +4,20 @@
 
 CartFromReassortmentNameTemplate 
 ---
-<br> Template per il nome del carrello creato dal riassortimento <br> 
-Template <br> 
- <br>
+Descrizione:  Template per il nome del carrello creato dal riassortimento <br> 
+Tipo: Template <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 <li>CreationDate</li>
 <li>ReassortmentType.Description</li>
 </ul><br>
 CreditLimitCheck 
 ---
-<br> Tipo di controllo sul fido al checkout <br> 
-Enum <br> 
- <br>
+Descrizione:  Tipo di controllo sul fido al checkout <br> 
+Tipo: Enum <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 <li>0 => Nessun controllo</li>
 <li>1 => Importo totale (con IVA e spese accessorie incluse)</li>
@@ -23,32 +25,36 @@ Enum <br>
 </ul><br>
 MaxQtyValidationType 
 ---
-<br> Tipo di validazione della quantità <br> 
-Enum <br> 
-0 <br>
+Descrizione:  Tipo di validazione della quantità <br> 
+Tipo: Enum <br> 
+Valore di default: 0 <br>
+Valori:
 <ul> 
 <li>0 => Nessun controllo</li>
 <li>1 => In confronto alla disponibilità</li>
 </ul><br>
 ReassortmentTypeAsConstraintIsMandatory 
 ---
-<br> Tipo Riassortimento come vincolo obbligatorio <br> 
-Boolean <br> 
- <br>
+Descrizione:  Tipo Riassortimento come vincolo obbligatorio <br> 
+Tipo: Boolean <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 </ul><br>
 ShipmentSiteIsMandatory 
 ---
-<br> Destinazione merci obbligatoria <br> 
-Boolean <br> 
- <br>
+Descrizione:  Destinazione merci obbligatoria <br> 
+Tipo: Boolean <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 </ul><br>
 ValidatePricesObsolescence 
 ---
-<br> Abilita la validazione dei prezzi al checkout <br> 
-Boolean <br> 
-True <br>
+Descrizione:  Abilita la validazione dei prezzi al checkout <br> 
+Tipo: Boolean <br> 
+Valore di default: True <br>
+Valori:
 <ul> 
 </ul><br>
 

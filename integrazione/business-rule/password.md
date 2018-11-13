@@ -4,58 +4,66 @@
 
 DaysBeforeExpiration 
 ---
-<br> Numero di giorni di validità delle password <br> 
-Nullable`1 <br> 
- <br>
+Descrizione:  Numero di giorni di validità delle password <br> 
+Tipo: Nullable`1 <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 </ul><br>
 LowercaseAndUppercaseRequired 
 ---
-<br> Necessario l'utilizzo di caratteri maiuscoli e minuscoli <br> 
-Boolean <br> 
- <br>
+Descrizione:  Necessario l'utilizzo di caratteri maiuscoli e minuscoli <br> 
+Tipo: Boolean <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 </ul><br>
 MinimumLetterCharactersRequired 
 ---
-<br> Numero minimo di lettere richiesto per la password <br> 
-Int32 <br> 
- <br>
+Descrizione:  Numero minimo di lettere richiesto per la password <br> 
+Tipo: Int32 <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 </ul><br>
 MinimumNumberCharactersRequired 
 ---
-<br> Numero minimo di numeri richiesto per la password <br> 
-Int32 <br> 
- <br>
+Descrizione:  Numero minimo di numeri richiesto per la password <br> 
+Tipo: Int32 <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 </ul><br>
 MinimumPasswordLength 
 ---
-<br> Lunghezza minima password <br> 
-Int32 <br> 
-1 <br>
+Descrizione:  Lunghezza minima password <br> 
+Tipo: Int32 <br> 
+Valore di default: 1 <br>
+Valori:
 <ul> 
 </ul><br>
 MinimumSpecialCharactersRequired 
 ---
-<br> Numero minimo di caratteri speciali richiesto per la password <br> 
-Int32 <br> 
- <br>
+Descrizione:  Numero minimo di caratteri speciali richiesto per la password <br> 
+Tipo: Int32 <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 </ul><br>
 PasswordCannotBeReused 
 ---
-<br> La password deve essere diversa dalla precedente <br> 
-Boolean <br> 
- <br>
+Descrizione:  La password deve essere diversa dalla precedente <br> 
+Tipo: Boolean <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 </ul><br>
 PasswordCannotContainUsername 
 ---
-<br> La password non può contenere lo username dell'utente <br> 
-Boolean <br> 
- <br>
+Descrizione:  La password non può contenere lo username dell'utente <br> 
+Tipo: Boolean <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 </ul><br>
 

@@ -4,23 +4,26 @@
 
 IsManagedByExternalSystem 
 ---
-<br>  <br> 
-Boolean <br> 
- <br>
+Descrizione:   <br> 
+Tipo: Boolean <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 </ul><br>
 IsManagedByExternalSystem 
 ---
-<br>  <br> 
-Boolean <br> 
- <br>
+Descrizione:   <br> 
+Tipo: Boolean <br> 
+Valore di default:  <br>
+Valori:
 <ul> 
 </ul><br>
 ManagedByExternalSystem 
 ---
-<br> Entità gestite dai Sistemi Esterni (Erp/Crm) <br> 
-Valori separati da pipe <br> 
-Customer&#124;Document&#124;ReceivableInstallment <br>
+Descrizione:  Entità gestite dai Sistemi Esterni (Erp/Crm) <br> 
+Tipo: Valori separati da pipe <br> 
+Valore di default: Customer&#124;Document&#124;ReceivableInstallment <br>
+Valori:
 <ul> 
 </ul><br>
 

@@ -4,27 +4,30 @@
 
 FilterMode 
 ---
-<br> Modalità di filtro delle disponibilità durante la preparazione dati per gli agenti <br> 
-Enum <br> 
-0 <br>
+Descrizione:  Modalità di filtro delle disponibilità durante la preparazione dati per gli agenti <br> 
+Tipo: Enum <br> 
+Valore di default: 0 <br>
+Valori:
 <ul> 
 <li>0 => Per magazzino dell'utente/agente</li>
 <li>1 => Nessun filtro</li>
 </ul><br>
 GlobalAvailabilityMode 
 ---
-<br> Modalità di calcolo della disponibilità globale <br> 
-Enum <br> 
-0 <br>
+Descrizione:  Modalità di calcolo della disponibilità globale <br> 
+Tipo: Enum <br> 
+Valore di default: 0 <br>
+Valori:
 <ul> 
 <li>0 => Indicata direttamente nel campo 'GlobalAvailability' di 'ItemOfflineAvailability'</li>
 <li>1 => Calcolata dalle disponibilità nei magazzini</li>
 </ul><br>
 QtyField 
 ---
-<br> Campo da considerare per verificare la quantità disponibile <br> 
-Enum <br> 
-0 <br>
+Descrizione:  Campo da considerare per verificare la quantità disponibile <br> 
+Tipo: Enum <br> 
+Valore di default: 0 <br>
+Valori:
 <ul> 
 <li>0 => SalesQty</li>
 <li>1 => NumberOfPacks</li>
