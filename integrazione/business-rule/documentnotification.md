@@ -8,14 +8,14 @@ OnConfirmedDocumentTypes
 **Tipo:** Valori separati da pipe<br>
 **Valore di default:** <br>
 **Valori:**
-<br>
+
 OnConfirmedMailBccRecipients 
 ----
 **Descrizione:** <br>
 **Tipo:** String<br>
 **Valore di default:** <br>
 **Valori:**
-<br>
+
 OnConfirmedMailBodyTemplate 
 ----
 **Descrizione:** <br>
@@ -31,14 +31,14 @@ OnConfirmedMailBodyTemplate
 * DocumentReference
 * DocumentType
 * DocumentUrl
-<br>
+
 OnConfirmedMailRecipients 
 ----
 **Descrizione:** <br>
 **Tipo:** String<br>
 **Valore di default:** <br>
 **Valori:**
-<br>
+
 OnConfirmedMailSubjectTemplate 
 ----
 **Descrizione:** <br>
@@ -54,26 +54,25 @@ OnConfirmedMailSubjectTemplate
 * DocumentReference
 * DocumentType
 * DocumentUrl
-<br>
+
 OnConfirmedReportType 
 ----
 **Descrizione:** <br>
 **Tipo:** String<br>
 **Valore di default:** <br>
 **Valori:**
-<br>
+
 OnConfirmedSendMailToCreator 
 ----
 **Descrizione:** <br>
 **Tipo:** Boolean<br>
 **Valore di default:** <br>
 **Valori:**
-<br>
+
 SendOnConfirmed 
 ----
 **Descrizione:** <br>
 **Tipo:** Boolean<br>
 **Valore di default:** <br>
 **Valori:**
-<br>
 

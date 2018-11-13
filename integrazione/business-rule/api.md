@@ -8,5 +8,4 @@ GoogleMapKeys
 **Tipo:** Valori separati da pipe<br>
 **Valore di default:** <br>
 **Valori:**
-<br>
 

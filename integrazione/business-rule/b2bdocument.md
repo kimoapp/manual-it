@@ -11,12 +11,11 @@ DocumentsFromCartFactory
 * SplitByTrademarkAndSeason
 * Standard
 * Wald
-<br>
+
 GetDocumentTypeIdForCart 
 ----
 **Descrizione:** <br>
 **Tipo:** String<br>
 **Valore di default:** <br>
 **Valori:**
-<br>
 

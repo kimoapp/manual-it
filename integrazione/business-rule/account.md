@@ -21,14 +21,14 @@ AdvancedSearchFields
 * ProspectStatus => Tipo di account (prospect, cliente, ...)
 * StatisticClass
 * Zone
-<br>
+
 FiscalCodeMandatoryIfIsPerson 
 ----
 **Descrizione:** Il Codice Fiscale è obbligatorio se il cliente è una persona fisica<br>
 **Tipo:** Boolean<br>
 **Valore di default:** <br>
 **Valori:**
-<br>
+
 KeywordSearchFields 
 ----
 **Descrizione:** Campi per la ricerca testuale<br>
@@ -39,7 +39,7 @@ KeywordSearchFields
 * FreeText
 * Id
 * Name
-<br>
+
 SalesConditionDiscountsSearchTypes 
 ----
 **Descrizione:** Tipi di condizioni di vendita da mostrare nella funzione 'Sconti per condizioni di vendita'<br>
@@ -49,12 +49,11 @@ SalesConditionDiscountsSearchTypes
 * All
 * CustomerManufacturer
 * Manufacturer
-<br>
+
 VatNumberMandatoryIfIsOrganization 
 ----
 **Descrizione:** La Partita IVA è obbligatoria se il cliente è un'organizzazione<br>
 **Tipo:** Boolean<br>
 **Valore di default:** <br>
 **Valori:**
-<br>
 

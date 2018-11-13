@@ -8,7 +8,7 @@ IsUserSlaveModeEnabled
 **Tipo:** Boolean<br>
 **Valore di default:** <br>
 **Valori:**
-<br>
+
 PromotionsMode 
 ----
 **Descrizione:** <br>
@@ -17,5 +17,4 @@ PromotionsMode
 **Valori:**
 * 0 => Disabled
 * 1 => Enabled
-<br>
 

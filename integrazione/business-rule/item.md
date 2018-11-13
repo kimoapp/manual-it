@@ -21,7 +21,7 @@ AdvancedSearchFields
 * Season
 * SeasonGroup
 * Trademark
-<br>
+
 IdEncodingType 
 ----
 **Descrizione:** Modalità di codifica dei codici articoli<br>
@@ -30,7 +30,7 @@ IdEncodingType
 **Valori:**
 * 0 => Id
 * 1 => Produttore + Codice Articolo Produttore, es. 'BTI 5001'
-<br>
+
 ItemFormUrlTemplate 
 ----
 **Descrizione:** Template per comporre l'url della scheda articolo online<br>
@@ -40,7 +40,7 @@ ItemFormUrlTemplate
 * Barcode
 * ItemId
 * ManufacturerItemId
-<br>
+
 KeywordSearchFields 
 ----
 **Descrizione:** Campi per la ricerca testuale<br>
@@ -49,14 +49,14 @@ KeywordSearchFields
 **Valori:**
 * Description
 * Id
-<br>
+
 LiveSearch 
 ----
 **Descrizione:** Abilita la ricerca 'live' degli articoli<br>
 **Tipo:** Boolean<br>
 **Valore di default:** <br>
 **Valori:**
-<br>
+
 SortFields 
 ----
 **Descrizione:** <br>
@@ -65,5 +65,4 @@ SortFields
 **Valori:**
 * Description
 * Id
-<br>
 

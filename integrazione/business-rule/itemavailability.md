@@ -10,7 +10,7 @@ FilterMode
 **Valori:**
 * 0 => Per magazzino dell'utente/agente
 * 1 => Nessun filtro
-<br>
+
 GlobalAvailabilityMode 
 ----
 **Descrizione:** Modalità di calcolo della disponibilità globale<br>
@@ -19,7 +19,7 @@ GlobalAvailabilityMode
 **Valori:**
 * 0 => Indicata direttamente nel campo 'GlobalAvailability' di 'ItemOfflineAvailability'
 * 1 => Calcolata dalle disponibilità nei magazzini
-<br>
+
 QtyField 
 ----
 **Descrizione:** Campo da considerare per verificare la quantità disponibile<br>
@@ -28,5 +28,4 @@ QtyField
 **Valori:**
 * 0 => SalesQty
 * 1 => NumberOfPacks
-<br>
 

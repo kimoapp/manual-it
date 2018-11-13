@@ -12,5 +12,4 @@
 * 1 => Prezzo unitario
 * 2 => Importo totale
 * 3 => Quantità
-<br>
 

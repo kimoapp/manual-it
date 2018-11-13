@@ -10,7 +10,7 @@ ActivitiesToUpload
 **Valori:**
 * 0 => Solo le attività chiuse
 * 1 => Tutte
-<br>
+
 ActivityFromBudgetLineEntityDescriptionTemplate 
 ----
 **Descrizione:** Template per la descrizione delle attività create dalle righe budget<br>
@@ -23,7 +23,7 @@ ActivityFromBudgetLineEntityDescriptionTemplate
 * BudgetSeasonId
 * BudgetTrademark
 * BudgetTrademarkId
-<br>
+
 ActivityFromDocumentEntityDescriptionTemplate 
 ----
 **Descrizione:** Template per la descrizione delle attività create dai Documenti<br>
@@ -37,7 +37,7 @@ ActivityFromDocumentEntityDescriptionTemplate
 * DocumentTypeCode
 * DocumentTypeDescription
 * DocumentTypeId
-<br>
+
 ActivityFromErpDocumentEntityDescriptionTemplate 
 ----
 **Descrizione:** Template per la descrizione delle attività create dai Documenti da Erp<br>
@@ -51,21 +51,21 @@ ActivityFromErpDocumentEntityDescriptionTemplate
 * DocumentTypeCode
 * DocumentTypeDescription
 * DocumentTypeId
-<br>
+
 CanCreateActivitiesWithoutAccount 
 ----
 **Descrizione:** È possibile create attività non legate ad un account<br>
 **Tipo:** Boolean<br>
 **Valore di default:** True<br>
 **Valori:**
-<br>
+
 CanEditCompletedActivitiesFromErp 
 ----
 **Descrizione:** È possibile modificare attività che arrivano dal Sistema Esterno come completate<br>
 **Tipo:** Boolean<br>
 **Valore di default:** True<br>
 **Valori:**
-<br>
+
 KeywordSearchFields 
 ----
 **Descrizione:** Campi per la ricerca testuale<br>
@@ -74,5 +74,4 @@ KeywordSearchFields
 **Valori:**
 * Account.Code
 * Account.Name
-<br>
 

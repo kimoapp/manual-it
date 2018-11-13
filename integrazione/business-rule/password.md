@@ -8,54 +8,53 @@ DaysBeforeExpiration
 **Tipo:** Nullable`1<br>
 **Valore di default:** <br>
 **Valori:**
-<br>
+
 LowercaseAndUppercaseRequired 
 ----
 **Descrizione:** Necessario l'utilizzo di caratteri maiuscoli e minuscoli<br>
 **Tipo:** Boolean<br>
 **Valore di default:** <br>
 **Valori:**
-<br>
+
 MinimumLetterCharactersRequired 
 ----
 **Descrizione:** Numero minimo di lettere richiesto per la password<br>
 **Tipo:** Int32<br>
 **Valore di default:** <br>
 **Valori:**
-<br>
+
 MinimumNumberCharactersRequired 
 ----
 **Descrizione:** Numero minimo di numeri richiesto per la password<br>
 **Tipo:** Int32<br>
 **Valore di default:** <br>
 **Valori:**
-<br>
+
 MinimumPasswordLength 
 ----
 **Descrizione:** Lunghezza minima password<br>
 **Tipo:** Int32<br>
 **Valore di default:** 1<br>
 **Valori:**
-<br>
+
 MinimumSpecialCharactersRequired 
 ----
 **Descrizione:** Numero minimo di caratteri speciali richiesto per la password<br>
 **Tipo:** Int32<br>
 **Valore di default:** <br>
 **Valori:**
-<br>
+
 PasswordCannotBeReused 
 ----
 **Descrizione:** La password deve essere diversa dalla precedente<br>
 **Tipo:** Boolean<br>
 **Valore di default:** <br>
 **Valori:**
-<br>
+
 PasswordCannotContainUsername 
 ----
 **Descrizione:** La password non può contenere lo username dell'utente<br>
 **Tipo:** Boolean<br>
 **Valore di default:** <br>
 **Valori:**
-<br>
 

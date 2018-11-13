@@ -13,7 +13,7 @@ AdvancedSearchFields
 * ErpStatus
 * Item
 * SearchType
-<br>
+
 FilterPerUser 
 ----
 **Descrizione:** Modalità di filtro dei documenti in base all'utente<br>
@@ -23,14 +23,14 @@ FilterPerUser
 * 0 => Applica i filtri di default
 * 1 => Filtra i documenti per 'proprietario' (owner)
 * 2 => Filtra le righe dei documenti per 'proprietario' (owner), mostrando comunque le testate
-<br>
+
 ItemLiveSearch 
 ----
 **Descrizione:** Abilita la ricerca 'live' degli articoli<br>
 **Tipo:** Boolean<br>
 **Valore di default:** True<br>
 **Valori:**
-<br>
+
 KeywordSearchFields 
 ----
 **Descrizione:** Campi per la ricerca testuale<br>
@@ -39,5 +39,4 @@ KeywordSearchFields
 **Valori:**
 * AccountName
 * Number
-<br>
 

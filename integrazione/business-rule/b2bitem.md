@@ -9,14 +9,14 @@ Filters
 **Valore di default:** <br>
 **Valori:**
 * ItemGroupLevel
-<br>
+
 KeywordSearchFields 
 ----
 **Descrizione:** Campi per la ricerca testuale<br>
 **Tipo:** Valori separati da pipe<br>
 **Valore di default:** Id&#124;Description<br>
 **Valori:**
-<br>
+
 SortFields 
 ----
 **Descrizione:** Campi per l'ordinamento<br>
@@ -25,5 +25,4 @@ SortFields
 **Valori:**
 * Item.Description
 * Item.Id
-<br>
 

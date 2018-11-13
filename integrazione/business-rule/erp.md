@@ -8,5 +8,4 @@ Type
 **Tipo:** String<br>
 **Valore di default:** <br>
 **Valori:**
-<br>
 

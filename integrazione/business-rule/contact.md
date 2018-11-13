@@ -12,7 +12,7 @@ AdvancedSearchFields
 * AddressCountrySubdivision
 * AddressPostCode
 * FreeLookup
-<br>
+
 KeywordSearchFields 
 ----
 **Descrizione:** Campi per la ricerca testuale<br>
@@ -23,5 +23,4 @@ KeywordSearchFields
 * FirstName
 * Id
 * LastName
-<br>
 
