@@ -1,6 +1,5 @@
 # Erp
-Type 
-----
+[Type](#type)	 
 **Descrizione:** Tipo di Erp	 
 **Tipo:** String
 

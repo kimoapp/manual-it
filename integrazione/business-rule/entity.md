@@ -1,16 +1,11 @@
 # Entity
-IsManagedByExternalSystem 
-----
+[IsManagedByExternalSystem](#ismanagedbyexternalsystem)	 
 **Descrizione:** 	 
 **Tipo:** Boolean	 
-
-IsManagedByExternalSystem 
-----
+[IsManagedByExternalSystem](#ismanagedbyexternalsystem)	 
 **Descrizione:** 	 
 **Tipo:** Boolean	 
-
-ManagedByExternalSystem 
-----
+[ManagedByExternalSystem](#managedbyexternalsystem)	 
 **Descrizione:** Entità gestite dai Sistemi Esterni (Erp/Crm)	 
 **Tipo:** Valori separati da pipe	 
 **Valore di default:** Customer&#124;Document&#124;ReceivableInstallment

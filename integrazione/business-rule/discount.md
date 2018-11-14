@@ -1,6 +1,5 @@
 # Discount
-GetSourcePosition 
-----
+[GetSourcePosition](#getsourceposition)	 
 **Descrizione:** 	 
 **Tipo:** String
 

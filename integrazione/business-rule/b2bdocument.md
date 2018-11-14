@@ -1,16 +1,16 @@
 # B2b\Document
-DocumentsFromCartFactory 
-----
+[DocumentsFromCartFactory](#documentsfromcartfactory)	 
 **Descrizione:** 	 
 **Tipo:** String	 
 **Valore di default:** Standard	 
+[GetDocumentTypeIdForCart](#getdocumenttypeidforcart)	 
+**Descrizione:** 	 
+**Tipo:** String	 
+DocumentsFromCartFactory 
+-----
+
 **Valori:**
 * SplitByTrademarkAndSeason
 * Standard
 * Wald
-
-GetDocumentTypeIdForCart 
-----
-**Descrizione:** 	 
-**Tipo:** String
 

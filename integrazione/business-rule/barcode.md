@@ -1,11 +1,8 @@
 # Barcode
-Prefix 
-----
+[Prefix](#prefix)	 
 **Descrizione:** 	 
 **Tipo:** String	 
-
-Suffix 
-----
+[Suffix](#suffix)	 
 **Descrizione:** 	 
 **Tipo:** String
 

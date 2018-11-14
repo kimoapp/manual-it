@@ -1,63 +1,61 @@
 # DocumentNotification
-OnConfirmedDocumentTypes 
-----
+[OnConfirmedDocumentTypes](#onconfirmeddocumenttypes)	 
 **Descrizione:** 	 
 **Tipo:** Valori separati da pipe	 
-
-OnConfirmedMailBccRecipients 
-----
+[OnConfirmedMailBccRecipients](#onconfirmedmailbccrecipients)	 
 **Descrizione:** 	 
 **Tipo:** String	 
-
-OnConfirmedMailBodyTemplate 
-----
+[OnConfirmedMailBodyTemplate](#onconfirmedmailbodytemplate)	 
 **Descrizione:** 	 
 **Tipo:** Template	 
 **Valore di default:** ${DocumentType} '${DocumentNumber}' confermato!	 
-**Valori:**
-* AccountCode
-* AccountName
-* DocumentAmount
-* DocumentAmountIncludingVat
-* DocumentDate
-* DocumentNumber
-* DocumentReference
-* DocumentType
-* DocumentUrl
-
-OnConfirmedMailRecipients 
-----
+[OnConfirmedMailRecipients](#onconfirmedmailrecipients)	 
 **Descrizione:** 	 
 **Tipo:** String	 
-
-OnConfirmedMailSubjectTemplate 
-----
+[OnConfirmedMailSubjectTemplate](#onconfirmedmailsubjecttemplate)	 
 **Descrizione:** 	 
 **Tipo:** Template	 
 **Valore di default:** ${DocumentType} '${DocumentNumber}' confermato!	 
-**Valori:**
-* AccountCode
-* AccountName
-* DocumentAmount
-* DocumentAmountIncludingVat
-* DocumentDate
-* DocumentNumber
-* DocumentReference
-* DocumentType
-* DocumentUrl
-
-OnConfirmedReportType 
-----
+[OnConfirmedReportType](#onconfirmedreporttype)	 
 **Descrizione:** 	 
 **Tipo:** String	 
-
-OnConfirmedSendMailToCreator 
-----
+[OnConfirmedSendMailToCreator](#onconfirmedsendmailtocreator)	 
+**Descrizione:** 	 
+**Tipo:** Boolean	 
+[SendOnConfirmed](#sendonconfirmed)	 
 **Descrizione:** 	 
 **Tipo:** Boolean	 
 
-SendOnConfirmed 
-----
-**Descrizione:** 	 
-**Tipo:** Boolean
+
+
+
+OnConfirmedMailBodyTemplate 
+-----
+
+**Valori:**
+* AccountCode
+* AccountName
+* DocumentAmount
+* DocumentAmountIncludingVat
+* DocumentDate
+* DocumentNumber
+* DocumentReference
+* DocumentType
+* DocumentUrl
+
+
+
+OnConfirmedMailSubjectTemplate 
+-----
+
+**Valori:**
+* AccountCode
+* AccountName
+* DocumentAmount
+* DocumentAmountIncludingVat
+* DocumentDate
+* DocumentNumber
+* DocumentReference
+* DocumentType
+* DocumentUrl
 
