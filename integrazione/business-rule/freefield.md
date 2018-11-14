@@ -1,5 +1,6 @@
 # FreeField
 [{Field}\Format](#{field}\format)	 
+----
 **Descrizione:** Formato del campo	 
 **Tipo:** Enum	 
 **Valore di default:** 0	 

@@ -1,17 +1,21 @@
 # ErpDocument
 [AdvancedSearchFields](#advancedsearchfields)	 
+----
 **Descrizione:** Campi per la ricerca avanzata	 
 **Tipo:** Valori separati da pipe	 
 **Valore di default:** ErpDocumentType	 
 [FilterPerUser](#filterperuser)	 
+----
 **Descrizione:** Modalità di filtro dei documenti in base all'utente	 
 **Tipo:** Enum	 
 **Valore di default:** 1	 
 [ItemLiveSearch](#itemlivesearch)	 
+----
 **Descrizione:** Abilita la ricerca 'live' degli articoli	 
 **Tipo:** Boolean	 
 **Valore di default:** True	 
 [KeywordSearchFields](#keywordsearchfields)	 
+----
 **Descrizione:** Campi per la ricerca testuale	 
 **Tipo:** Valori separati da pipe	 
 **Valore di default:** Number&#124;AccountName	 
