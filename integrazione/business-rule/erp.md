@@ -1,6 +1,9 @@
 # Erp
-[Type](#type)	 
-----
-**Descrizione:** Tipo di Erp	 
+| Valore| Descrizione |
+| --- | --- |
+| **[Type](#type)** | Tipo di Erp |
+
+Type 
+-----
 **Tipo:** String
 

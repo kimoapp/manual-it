@@ -1,45 +1,27 @@
 # DocumentNotification
-[OnConfirmedDocumentTypes](#onconfirmeddocumenttypes)	 
-----
-**Descrizione:** 	 
+| Valore| Descrizione |
+| --- | --- |
+| **[OnConfirmedDocumentTypes](#onconfirmeddocumenttypes)** |  |
+| **[OnConfirmedMailBccRecipients](#onconfirmedmailbccrecipients)** |  |
+| **[OnConfirmedMailBodyTemplate](#onconfirmedmailbodytemplate)** |  |
+| **[OnConfirmedMailRecipients](#onconfirmedmailrecipients)** |  |
+| **[OnConfirmedMailSubjectTemplate](#onconfirmedmailsubjecttemplate)** |  |
+| **[OnConfirmedReportType](#onconfirmedreporttype)** |  |
+| **[OnConfirmedSendMailToCreator](#onconfirmedsendmailtocreator)** |  |
+| **[SendOnConfirmed](#sendonconfirmed)** |  |
+
+OnConfirmedDocumentTypes 
+-----
 **Tipo:** Valori separati da pipe	 
-[OnConfirmedMailBccRecipients](#onconfirmedmailbccrecipients)	 
-----
-**Descrizione:** 	 
-**Tipo:** String	 
-[OnConfirmedMailBodyTemplate](#onconfirmedmailbodytemplate)	 
-----
-**Descrizione:** 	 
-**Tipo:** Template	 
-**Valore di default:** ${DocumentType} '${DocumentNumber}' confermato!	 
-[OnConfirmedMailRecipients](#onconfirmedmailrecipients)	 
-----
-**Descrizione:** 	 
-**Tipo:** String	 
-[OnConfirmedMailSubjectTemplate](#onconfirmedmailsubjecttemplate)	 
-----
-**Descrizione:** 	 
-**Tipo:** Template	 
-**Valore di default:** ${DocumentType} '${DocumentNumber}' confermato!	 
-[OnConfirmedReportType](#onconfirmedreporttype)	 
-----
-**Descrizione:** 	 
-**Tipo:** String	 
-[OnConfirmedSendMailToCreator](#onconfirmedsendmailtocreator)	 
-----
-**Descrizione:** 	 
-**Tipo:** Boolean	 
-[SendOnConfirmed](#sendonconfirmed)	 
-----
-**Descrizione:** 	 
-**Tipo:** Boolean	 
 
-
-
+OnConfirmedMailBccRecipients 
+-----
+**Tipo:** String	 
 
 OnConfirmedMailBodyTemplate 
 -----
-
+**Tipo:** Template	 
+**Valore di default:** ${DocumentType} '${DocumentNumber}' confermato!	 
 **Valori:**
 * AccountCode
 * AccountName
@@ -51,11 +33,14 @@ OnConfirmedMailBodyTemplate
 * DocumentType
 * DocumentUrl
 
-
+OnConfirmedMailRecipients 
+-----
+**Tipo:** String	 
 
 OnConfirmedMailSubjectTemplate 
 -----
-
+**Tipo:** Template	 
+**Valore di default:** ${DocumentType} '${DocumentNumber}' confermato!	 
 **Valori:**
 * AccountCode
 * AccountName
@@ -66,4 +51,16 @@ OnConfirmedMailSubjectTemplate
 * DocumentReference
 * DocumentType
 * DocumentUrl
+
+OnConfirmedReportType 
+-----
+**Tipo:** String	 
+
+OnConfirmedSendMailToCreator 
+-----
+**Tipo:** Boolean	 
+
+SendOnConfirmed 
+-----
+**Tipo:** Boolean
 

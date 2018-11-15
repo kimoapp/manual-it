@@ -1,35 +1,17 @@
 # Item
-[AdvancedSearchFields](#advancedsearchfields)	 
-----
-**Descrizione:** Campi per la ricerca avanzata	 
-**Tipo:** Valori separati da pipe	 
-**Valore di default:** ItemGroupLevel1&#124;ItemGroupLevel2	 
-[IdEncodingType](#idencodingtype)	 
-----
-**Descrizione:** Modalità di codifica dei codici articoli	 
-**Tipo:** Enum	 
-**Valore di default:** 0	 
-[ItemFormUrlTemplate](#itemformurltemplate)	 
-----
-**Descrizione:** Template per comporre l'url della scheda articolo online	 
-**Tipo:** Template	 
-[KeywordSearchFields](#keywordsearchfields)	 
-----
-**Descrizione:** Campi per la ricerca testuale	 
-**Tipo:** Valori separati da pipe	 
-**Valore di default:** Id&#124;Description	 
-[LiveSearch](#livesearch)	 
-----
-**Descrizione:** Abilita la ricerca 'live' degli articoli	 
-**Tipo:** Boolean	 
-[SortFields](#sortfields)	 
-----
-**Descrizione:** 	 
-**Tipo:** Valori separati da pipe	 
-**Valore di default:** Id&#124;Description	 
+| Valore| Descrizione |
+| --- | --- |
+| **[AdvancedSearchFields](#advancedsearchfields)** | Campi per la ricerca avanzata |
+| **[IdEncodingType](#idencodingtype)** | Modalità di codifica dei codici articoli |
+| **[ItemFormUrlTemplate](#itemformurltemplate)** | Template per comporre l'url della scheda articolo online |
+| **[KeywordSearchFields](#keywordsearchfields)** | Campi per la ricerca testuale |
+| **[LiveSearch](#livesearch)** | Abilita la ricerca 'live' degli articoli |
+| **[SortFields](#sortfields)** |  |
+
 AdvancedSearchFields 
 -----
-
+**Tipo:** Valori separati da pipe	 
+**Valore di default:** ItemGroupLevel1&#124;ItemGroupLevel2	 
 **Valori:**
 * CatalogPriceList
 * ErpStatus
@@ -47,14 +29,15 @@ AdvancedSearchFields
 
 IdEncodingType 
 -----
-
+**Tipo:** Enum	 
+**Valore di default:** 0	 
 **Valori:**
 * 0 => Id
 * 1 => Produttore + Codice Articolo Produttore, es. 'BTI 5001'
 
 ItemFormUrlTemplate 
 -----
-
+**Tipo:** Template	 
 **Valori:**
 * Barcode
 * ItemId
@@ -62,16 +45,20 @@ ItemFormUrlTemplate
 
 KeywordSearchFields 
 -----
-
+**Tipo:** Valori separati da pipe	 
+**Valore di default:** Id&#124;Description	 
 **Valori:**
 * Description
 * Id
 
-
+LiveSearch 
+-----
+**Tipo:** Boolean	 
 
 SortFields 
 -----
-
+**Tipo:** Valori separati da pipe	 
+**Valore di default:** Id&#124;Description	 
 **Valori:**
 * Description
 * Id

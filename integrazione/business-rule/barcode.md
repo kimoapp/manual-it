@@ -1,10 +1,14 @@
 # Barcode
-[Prefix](#prefix)	 
-----
-**Descrizione:** 	 
+| Valore| Descrizione |
+| --- | --- |
+| **[Prefix](#prefix)** |  |
+| **[Suffix](#suffix)** |  |
+
+Prefix 
+-----
 **Tipo:** String	 
-[Suffix](#suffix)	 
-----
-**Descrizione:** 	 
+
+Suffix 
+-----
 **Tipo:** String
 

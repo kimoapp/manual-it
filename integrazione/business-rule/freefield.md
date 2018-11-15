@@ -1,12 +1,12 @@
 # FreeField
-[{Field}\Format](#{field}\format)	 
-----
-**Descrizione:** Formato del campo	 
-**Tipo:** Enum	 
-**Valore di default:** 0	 
+| Valore| Descrizione |
+| --- | --- |
+| **[{Field}\Format](#{field}\format)** | Formato del campo |
+
 {Field}\Format 
 -----
-
+**Tipo:** Enum	 
+**Valore di default:** 0	 
 **Valori:**
 * 0 => None
 * 1 => Prezzo unitario
