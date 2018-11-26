@@ -1,15 +1,14 @@
 # DiagnosticPriceTestCase
-
 Test diagnostica prezzi
 
-  
- **Chiavi**
+<br>
+**Chiavi**
+- *Id*
+- AccountId, ItemId, SalesUomId, PackUomId, PackUnitUomId, PriceListId, CustomerPriceGroupId, CustomerDiscountGroupId, CurrencyId, SalesQty, ReferenceDate
+<br><br>
 
-* _Id_
-* AccountId, ItemId, SalesUomId, PackUomId, PackUnitUomId, PriceListId, CustomerPriceGroupId, CustomerDiscountGroupId, CurrencyId, SalesQty, ReferenceDate
-
-| Campo | Descrizione | Tipo | Dimensione |
-| :--- | :--- | :--- | :--- |
+| Campo | Descrizione | Tipo | Dimensione | 
+| --- | --- | --- | --- | --- |
 | AccountId |  | text | 50 |
 | CurrencyId |  | text | 50 |
 | CustomerDiscountGroupId |  | text | 50 |

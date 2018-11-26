@@ -1,31 +1,30 @@
 # DocumentNotification
+| Valore| Descrizione |
+| --- | --- |
+| **[OnConfirmedDocumentTypes](#onconfirmeddocumenttypes)** |  |
+| **[OnConfirmedMailBccRecipients](#onconfirmedmailbccrecipients)** |  |
+| **[OnConfirmedMailBodyTemplate](#onconfirmedmailbodytemplate)** |  |
+| **[OnConfirmedMailRecipients](#onconfirmedmailrecipients)** |  |
+| **[OnConfirmedMailSubjectTemplate](#onconfirmedmailsubjecttemplate)** |  |
+| **[OnConfirmedReportType](#onconfirmedreporttype)** |  |
+| **[OnConfirmedSendMailToCreator](#onconfirmedsendmailtocreator)** |  |
+| **[SendOnConfirmed](#sendonconfirmed)** |  |
 
-| Valore | Descrizione |
-| :--- | :--- |
-| [**OnConfirmedDocumentTypes**](documentnotification.md#onconfirmeddocumenttypes) |  |
-| [**OnConfirmedMailBccRecipients**](documentnotification.md#onconfirmedmailbccrecipients) |  |
-| [**OnConfirmedMailBodyTemplate**](documentnotification.md#onconfirmedmailbodytemplate) |  |
-| [**OnConfirmedMailRecipients**](documentnotification.md#onconfirmedmailrecipients) |  |
-| [**OnConfirmedMailSubjectTemplate**](documentnotification.md#onconfirmedmailsubjecttemplate) |  |
-| [**OnConfirmedReportType**](documentnotification.md#onconfirmedreporttype) |  |
-| [**OnConfirmedSendMailToCreator**](documentnotification.md#onconfirmedsendmailtocreator) |  |
-| [**SendOnConfirmed**](documentnotification.md#sendonconfirmed) |  |
+OnConfirmedDocumentTypes 
+-----
+**Tipo:** Valori separati da pipe	 
 
-## OnConfirmedDocumentTypes
+OnConfirmedMailBccRecipients 
+-----
+**Tipo:** String	 
 
-**Tipo:** Valori separati da pipe
-
-## OnConfirmedMailBccRecipients
-
-**Tipo:** String
-
-## OnConfirmedMailBodyTemplate
-
-**Tipo:** Template  
-**Valore di default:** ${DocumentType} '${DocumentNumber}' confermato!  
+OnConfirmedMailBodyTemplate 
+-----
+**Tipo:** Template	 
+**Valore di default:** ${DocumentType} '${DocumentNumber}' confermato!	 
 **Valori:**
-
 * AccountCode
+* AccountFreeText
 * AccountName
 * DocumentAmount
 * DocumentAmountIncludingVat
@@ -35,17 +34,17 @@
 * DocumentType
 * DocumentUrl
 
-## OnConfirmedMailRecipients
+OnConfirmedMailRecipients 
+-----
+**Tipo:** String	 
 
-**Tipo:** String
-
-## OnConfirmedMailSubjectTemplate
-
-**Tipo:** Template  
-**Valore di default:** ${DocumentType} '${DocumentNumber}' confermato!  
+OnConfirmedMailSubjectTemplate 
+-----
+**Tipo:** Template	 
+**Valore di default:** ${DocumentType} '${DocumentNumber}' confermato!	 
 **Valori:**
-
 * AccountCode
+* AccountFreeText
 * AccountName
 * DocumentAmount
 * DocumentAmountIncludingVat
@@ -55,15 +54,15 @@
 * DocumentType
 * DocumentUrl
 
-## OnConfirmedReportType
+OnConfirmedReportType 
+-----
+**Tipo:** String	 
 
-**Tipo:** String
+OnConfirmedSendMailToCreator 
+-----
+**Tipo:** Boolean	 
 
-## OnConfirmedSendMailToCreator
-
-**Tipo:** Boolean
-
-## SendOnConfirmed
-
+SendOnConfirmed 
+-----
 **Tipo:** Boolean
 
