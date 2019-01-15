@@ -1,13 +1,14 @@
 # ReceivableInstallment
+
 Scadenzario
 
-<br>
-**Chiavi**
-- *Id*
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| --- | --- | --- | --- | --- |
+* _Id_
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
 | BankAbi | Codice ABI | text | 5 |
 | BankCab | Codice CAB | text | 5 |
 | BankCc | Codice CC | text | 20 |
@@ -23,7 +24,7 @@ Scadenzario
 | CustomerName2 | Nome 2 | text | 100 |
 | DebitInterestAmount | Importo interessi | dec |  |
 | DebitNoteNumber | Numero | text | 50 |
-| [EntityStatus](#entitystatus) | Campo che definisce lo stato del record | enum |  |
+| [EntityStatus](receivableinstallment.md#entitystatus) | Campo che definisce lo stato del record | enum |  |
 | ExpiryDate | Data di scadenza | date |  |
 | Id | Id | text | 50 |
 | InstallmentFromUnpaid | Indica se è una rata da insoluto | bool |  |
@@ -40,7 +41,7 @@ Scadenzario
 | PaidAmount | Importo pagato | dec |  |
 | PaidDate | Data pagamento | date |  |
 | PaymentForcedlyClosed | Indica una chiusura forzata della rata | bool |  |
-| [PaymentStatus](#paymentstatus) | Stato del pagamento | enum |  |
+| [PaymentStatus](receivableinstallment.md#paymentstatus) | Stato del pagamento | enum |  |
 | PaymentTypeId | Tipo pagamento | text | 50 |
 | ReceivableDate | Data | date |  |
 | ReceivableId | Id | text | 50 |
@@ -56,10 +57,22 @@ Scadenzario
 | UnpaidReference | Riferimento | text | 50 |
 | UploadToServerTimeStamp |  | dt |  |
 
-EntityStatus
----
-0: ImportedFromErp<br>1: ExportedToErp<br>2: ImportedByErp<br>3: ExportingToErp<br>4: Deleted<br>5: CommittingExportToErp<br>6: ToExportToErp<br>7: Editing<br>8: UploadedToServer
-PaymentStatus
----
-0: ToPay<br>1: Paid<br>2: Unpaid<br>3: PaidOnKimo
+## EntityStatus
+
+0: ImportedFromErp  
+1: ExportedToErp  
+2: ImportedByErp  
+3: ExportingToErp  
+4: Deleted  
+5: CommittingExportToErp  
+6: ToExportToErp  
+7: Editing  
+8: UploadedToServer
+
+## PaymentStatus
+
+0: ToPay  
+1: Paid  
+2: Unpaid  
+3: PaidOnKimo
 

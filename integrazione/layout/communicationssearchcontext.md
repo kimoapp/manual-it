@@ -1,19 +1,16 @@
 # CommunicationsSearch
 
-<br/>
-**Context:** CommunicationsSearchContext
-<br/>
-**Default Layout:** CommunicationsSearchLayout
+  
+ **Context:** CommunicationsSearchContext   
+ **Default Layout:** CommunicationsSearchLayout
 
-
-
-<br/>
 ## Campi
 
-| Id | Descrizione | 
-| --- | --- | 
-| BadgeNew |  | 
-| Categories |  | 
-| Published |  | 
-| Thumbnail |  | 
+| Id | Descrizione |
+| :--- | :--- |
+| BadgeNew |  |
+| Categories |  |
+| Published |  |
+| Thumbnail |  |
 | Title |  |
+
