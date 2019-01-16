@@ -4,6 +4,12 @@ Kimo supporta l'inserimento di articoli nei documenti di vendita a partire da un
 
 ![](https://kimostorage.blob.core.windows.net/kimomanual/Images/PDF%20Catalog.gif)
 
+
+
+![](https://kimostorage.blob.core.windows.net/kimomanual/Images/PDF%20Catalog%20-%20no%20border.gif)
+
+
+
 Il PDF conterrà dei link in concomitanza degli articoli: il formato di questi link farà sì che gli articoli saranno inseriti nei documenti.
 
 {% embed url="https://kimostorage.blob.core.windows.net/kimomanual/Images/PDF%20Catalog.mp4" %}
