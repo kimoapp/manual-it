@@ -216,6 +216,7 @@
   * [Clienti](funzionalita/clienti.md)
   * [Catalogo](funzionalita/catalogo/README.md)
     * [Catalogo da PDF](funzionalita/catalogo/catalogo-da-pdf.md)
+    * [Prova immagini](funzionalita/catalogo/prova-immagini.md)
   * [Documenti di vendita](funzionalita/documenti-di-vendita.md)
   * [Documenti da Erp](funzionalita/documenti-da-erp.md)
   * [Documenti aziendali e personali](funzionalita/documenti-aziendali-e-personali.md)
