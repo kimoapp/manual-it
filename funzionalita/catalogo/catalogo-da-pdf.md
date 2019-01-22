@@ -2,23 +2,9 @@
 
 Kimo supporta l'inserimento di articoli nei documenti di vendita a partire da uno o più file PDF. Gli agenti possono cliccare direttamente nel PDF per aggiungere gli articoli al documento.
 
-{% embed url="https://youtu.be/t53jnOo5GA8" %}
-
-
-
-![](https://kimostorage.blob.core.windows.net/kimomanual/Images/PDF%20Catalog.gif)
-
 Il PDF conterrà dei link in concomitanza degli articoli: il formato di questi link farà sì che gli articoli saranno inseriti nei documenti.
 
-{% embed url="https://kimostorage.blob.core.windows.net/kimomanual/Images/PDF%20Catalog.mp4" %}
-
-
-
 Se sono presenti più file PDF, l'agente selezionerà quello di suo interesse in fase di inserimento articoli nel documento.
-
-{% embed url="https://kimostorage.blob.core.windows.net/kimomanual/Images/PDF%20Catalog.webm" %}
-
-
 
 ## Configurazione
 
