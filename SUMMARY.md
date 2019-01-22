@@ -224,4 +224,9 @@
   * [Statistiche](funzionalita/statistiche.md)
   * [Budget](funzionalita/budget.md)
   * [Comunicazioni](funzionalita/comunicazioni.md)
+  * [Varie](funzionalita/varie.md)
+
+## Varie
+
+* [Password](varie/untitled.md)
 
