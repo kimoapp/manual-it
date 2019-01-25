@@ -232,4 +232,6 @@
     * [Password](funzionalita/varie/untitled.md)
 * [B2B](b2b/README.md)
   * [Risorse grafiche B2B](b2b/risorse-grafiche-b2b.md)
+* [B2A](b2a/README.md)
+  * [Installare Kimo B2A su iPad](b2a/installare-kimo-b2a-su-ipad.md)
 
