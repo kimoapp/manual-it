@@ -226,4 +226,5 @@
   * [Comunicazioni](funzionalita/comunicazioni.md)
   * [Varie](funzionalita/varie/README.md)
     * [Password](funzionalita/varie/untitled.md)
+    * [Risorse grafiche B2B](funzionalita/varie/risorse-grafiche-b2b.md)
 
