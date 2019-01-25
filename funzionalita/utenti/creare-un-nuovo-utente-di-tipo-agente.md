@@ -9,7 +9,8 @@ Per creare un nuovo utente di tipo agente, accedere alla console di amministrazi
 1. l'indirizzo mail deve essere univoco, in quanto è utilizzato per la conferma di attivazione dell'utente e può essere usato per funzioni come il reset della password.
 2. È possibile creare più utenti per uno stesso agente.
 
-Il campo "Agente" è da selezionare nell'elenco degli agenti abilitati dal sistema informativo e, quindi, attivabili in Kimo: permetterà di collegare l'utente di Kimo con il codice agente del sistema informativo.
+Il campo "Agente" è da selezionare nell'elenco degli agenti abilitati dal sistema informativo e, quindi, attivabili in Kimo: permetterà di collegare l'utente di Kimo con il codice agente del sistema informativo.  
+Se l'agente desiderato non è presente in elenco, verificare che tali informazioni siano state importate correttamente dal sistema informativo.
 
 Il campo "ruolo" è da selezionare nell'elenco dei ruoli definiti in Kimo e che abilitano le diverse funzionalità.
 
