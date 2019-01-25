@@ -228,6 +228,7 @@
     * [Cambiare codice agente per un utente di Kimo](funzionalita/utenti/cambiare-codice-agente-per-un-utente-di-kimo.md)
   * [Varie](funzionalita/varie/README.md)
     * [Immagine di sfondo su Home Page](funzionalita/varie/immagine-di-sfondo-su-home-page.md)
+    * [Immagine personalizzata per login](funzionalita/varie/immagine-personalizzata-per-login.md)
     * [Password](funzionalita/varie/untitled.md)
 * [B2B](b2b/README.md)
   * [Risorse grafiche B2B](b2b/risorse-grafiche-b2b.md)
