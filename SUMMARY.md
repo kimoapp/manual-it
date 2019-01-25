@@ -225,6 +225,7 @@
   * [Comunicazioni](funzionalita/comunicazioni.md)
   * [Utenti](funzionalita/utenti/README.md)
     * [Creare un nuovo agente](funzionalita/utenti/creare-un-nuovo-utente-di-tipo-agente.md)
+    * [Cambiare codice agente per un utente di Kimo](funzionalita/utenti/cambiare-codice-agente-per-un-utente-di-kimo.md)
   * [Varie](funzionalita/varie/README.md)
     * [Password](funzionalita/varie/untitled.md)
     * [Risorse grafiche B2B](funzionalita/varie/risorse-grafiche-b2b.md)
