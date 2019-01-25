@@ -228,5 +228,6 @@
     * [Cambiare codice agente per un utente di Kimo](funzionalita/utenti/cambiare-codice-agente-per-un-utente-di-kimo.md)
   * [Varie](funzionalita/varie/README.md)
     * [Password](funzionalita/varie/untitled.md)
-    * [Risorse grafiche B2B](funzionalita/varie/risorse-grafiche-b2b.md)
+* [B2B](b2b/README.md)
+  * [Risorse grafiche B2B](b2b/risorse-grafiche-b2b.md)
 
