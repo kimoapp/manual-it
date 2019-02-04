@@ -211,6 +211,7 @@
     * [SalesConditionDiscountsForCustomer](integrazione/layout/salesconditiondiscountsforcustomercontext.md)
     * [ServerSettingsEditor](integrazione/layout/serversettingseditorcontext.md)
     * [ShipmentSiteEditor](integrazione/layout/shipmentsiteeditorcontext.md)
+  * [Task personalizzati import/export](integrazione/task-personalizzati-import-export.md)
 * [Funzionalità](funzionalita/README.md)
   * [Clienti](funzionalita/clienti.md)
   * [Catalogo](funzionalita/catalogo/README.md)
