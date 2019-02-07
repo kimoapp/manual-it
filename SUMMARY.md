@@ -223,6 +223,7 @@
     * [Immagine personalizzata per login](funzionalita/varie/immagine-personalizzata-per-login.md)
     * [Password](funzionalita/varie/untitled.md)
     * [Motore di template \(Template Engine\)](funzionalita/varie/motore-di-template-template-engine.md)
+    * [Documenti aziendali e personali](funzionalita/varie/pdf-per-companydocuments-e-userdocuments.md)
 * [B2B](b2b/README.md)
   * [Risorse grafiche B2B](b2b/risorse-grafiche-b2b.md)
 * [B2A](b2a/README.md)
