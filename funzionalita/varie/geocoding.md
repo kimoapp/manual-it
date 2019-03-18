@@ -1,11 +1,10 @@
-# Geocoding
+# Impostazione chiave Google \(Geocoding\)
 
-Nell'applicazione Kimo B2A per iPad è possibile visualizzare su una mappa interattiva gli indirizzi dei clienti.   
-Questa funzionalità richiede l'utilizzo delle [Geocoding API](https://developers.google.com/maps/documentation/geolocation/intro) di Google.  
-Per poterla attivare è necessario creare una API Key tramite la [Google Cloud Platform Console](https://console.cloud.google.com/google/maps-apis).   
-Questa operazione è possibile effettuarla seguendo le istruzioni presenti nel seguente link:  
+Kimo utilizza le [Geocoding API](https://developers.google.com/maps/documentation/geolocation/intro) di Google.  
+Per poterle utilizzare è necessario creare una API Key tramite la [Google Cloud Platform Console](https://console.cloud.google.com/google/maps-apis).   
+È possibile effettuare questa operazione seguendo le istruzioni presenti al seguente link:  
 [https://developers.google.com/maps/documentation/geocoding/get-api-key](https://developers.google.com/maps/documentation/geocoding/get-api-key)  
-Una volta ottenuta la chiave bisognerà impostarla nella console di amministrazione di Kimo effettuando i seguenti passaggi:
+Una volta ottenuta la chiave sarà possibile impostarla nella console di amministrazione di Kimo effettuando i seguenti passaggi:
 
 1. Effettuare il login nella console di amministrazione;
 2. Aprire la sezione **Impostazioni** tramite la voce presente nel menu laterale di sinistra e selezionare la voce **Business rules;**
