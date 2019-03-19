@@ -1,15 +1,14 @@
 # ItemImage
+Immagini articoli (percorsi dei file)
 
-Immagini articoli \(percorsi dei file\)
+<br>
+**Chiavi**
+- *Id*
+- ItemId, VariableId1, VariableValueId1, FilePath, Caption
+<br><br>
 
-  
- **Chiavi**
-
-* _Id_
-* ItemId, VariableId1, VariableValueId1, FilePath, Caption
-
-| Campo | Descrizione | Tipo | Dimensione |
-| :--- | :--- | :--- | :--- |
+| Campo | Descrizione | Tipo | Dimensione | 
+| --- | --- | --- | --- | --- |
 | Caption | Titolo immagine | text | text |
 | FilePath | Percorso del file dell'immagine | text | 255 |
 | Id | Id | text | 50 |
