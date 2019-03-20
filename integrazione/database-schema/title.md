@@ -1,13 +1,14 @@
 # Title
-Titolo di una persona (es. Dott., Ing., ...)
 
-<br>
-**Chiavi**
-- *Id*
-<br><br>
+Titolo di una persona \(es. Dott., Ing., ...\)
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| --- | --- | --- | --- | --- |
+  
+ **Chiavi**
+
+* _Id_
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
 

@@ -1,14 +1,12 @@
 # MarketingFormInfoPane
 
-<br/>
-**Context:** MarketingFormInfoPaneContext
-<br/>
-**Default Layout:** MarketingFormInfoPaneLayout
+  
+ **Context:** MarketingFormInfoPaneContext   
+ **Default Layout:** MarketingFormInfoPaneLayout
 
-
-
-<br/>
 ## Campi
 
-| Id | Descrizione | 
-| --- | --- |
+| Id | Descrizione |
+| :--- | :--- |
+
+

@@ -1,13 +1,14 @@
 # AccountBank
+
 Banche di un account
 
-<br>
-**Chiavi**
-- *Id*
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| --- | --- | --- | --- | --- |
+* _Id_
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
 | AccountId | Id del cliente | text | 50 |
 | BankAbi | Codice ABI | text | 5 |
 | BankCab | Codice CAB | text | 5 |
