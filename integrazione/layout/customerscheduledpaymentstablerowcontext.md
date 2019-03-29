@@ -1,43 +1,46 @@
 # CustomerScheduledPaymentsTableRow
 
-  
- **Context:** CustomerScheduledPaymentsTableRowContext   
- **Default Layout:** CustomerScheduledPaymentsTableRowLayout
+<br/>
+**Context:** CustomerScheduledPaymentsTableRowContext
+<br/>
+**Default Layout:** CustomerScheduledPaymentsTableRowLayout
 
+
+
+<br/>
 ## Campi
 
-| Id | Descrizione |
-| :--- | :--- |
-| BankAbi |  |
-| BankCab |  |
-| BankCc |  |
-| BankCin |  |
-| BankIban |  |
-| CustomerCode |  |
-| CustomerId |  |
-| CustomerName |  |
-| DaysSinceExpiration |  |
-| DaysToExpiration |  |
-| DebitInterestAmount |  |
-| DebitNoteNumber |  |
-| ExpiryDate |  |
-| LastReminderDate |  |
-| LastReminderType |  |
-| LineNumber |  |
-| Notes |  |
-| OriginalDueAmount |  |
-| PaidAmount |  |
-| PaidDate |  |
-| PaymentStatus |  |
-| PaymentTypeDescription |  |
-| PaymentTypeId |  |
-| ReceivableDate |  |
-| ReceivableNumber |  |
-| ResidualDueAmount |  |
-| SourceDocumentDate |  |
-| SourceDocumentFamilyId |  |
-| SourceDocumentNumber |  |
-| SourceDocumentTypeId |  |
-| UnpaidPaymentTypeId |  |
+| Id | Descrizione | 
+| --- | --- | 
+| BankAbi |  | 
+| BankCab |  | 
+| BankCc |  | 
+| BankCin |  | 
+| BankIban |  | 
+| CustomerCode |  | 
+| CustomerId |  | 
+| CustomerName |  | 
+| DaysSinceExpiration |  | 
+| DaysToExpiration |  | 
+| DebitInterestAmount |  | 
+| DebitNoteNumber |  | 
+| ExpiryDate |  | 
+| LastReminderDate |  | 
+| LastReminderType |  | 
+| LineNumber |  | 
+| Notes |  | 
+| OriginalDueAmount |  | 
+| PaidAmount |  | 
+| PaidDate |  | 
+| PaymentStatus |  | 
+| PaymentTypeDescription |  | 
+| PaymentTypeId |  | 
+| ReceivableDate |  | 
+| ReceivableNumber |  | 
+| ResidualDueAmount |  | 
+| SourceDocumentDate |  | 
+| SourceDocumentFamilyId |  | 
+| SourceDocumentNumber |  | 
+| SourceDocumentTypeId |  | 
+| UnpaidPaymentTypeId |  | 
 | UnpaidReference |  |
-

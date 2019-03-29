@@ -1,12 +1,15 @@
 # ServerSettingsEditor
 
-  
- **Context:** ServerSettingsEditorContext   
- **Default Layout:** ServerSettingsEditorLayout
+<br/>
+**Context:** ServerSettingsEditorContext
+<br/>
+**Default Layout:** ServerSettingsEditorLayout
 
+
+
+<br/>
 ## Campi
 
-| Id | Descrizione |
-| :--- | :--- |
+| Id | Descrizione | 
+| --- | --- | 
 | SyncServerBaseUrl |  |
-

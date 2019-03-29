@@ -1,28 +1,25 @@
 # B2b\Item
+| Valore| Descrizione |
+| --- | --- |
+| **[Filters](#filters)** | Filtri |
+| **[KeywordSearchFields](#keywordsearchfields)** | Campi per la ricerca testuale |
+| **[SortFields](#sortfields)** | Campi per l'ordinamento |
 
-| Valore | Descrizione |
-| :--- | :--- |
-| [**Filters**](b2bitem.md#filters) | Filtri |
-| [**KeywordSearchFields**](b2bitem.md#keywordsearchfields) | Campi per la ricerca testuale |
-| [**SortFields**](b2bitem.md#sortfields) | Campi per l'ordinamento |
-
-## Filters
-
-**Tipo:** Valori separati da pipe  
+Filters 
+-----
+**Tipo:** Valori separati da pipe	 
 **Valori:**
-
 * ItemGroupLevel
 
-## KeywordSearchFields
+KeywordSearchFields 
+-----
+**Tipo:** Valori separati da pipe	 
+**Valore di default:** Id&#124;Description	 
 
-**Tipo:** Valori separati da pipe  
-**Valore di default:** Id\|Description
-
-## SortFields
-
-**Tipo:** Valori separati da pipe  
+SortFields 
+-----
+**Tipo:** Valori separati da pipe	 
 **Valori:**
-
 * Item.Description
 * Item.Id
 
