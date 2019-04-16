@@ -1,24 +1,27 @@
 # Contact
-| Valore| Descrizione |
-| --- | --- |
-| **[AdvancedSearchFields](#advancedsearchfields)** | Campi per la ricerca avanzata |
-| **[KeywordSearchFields](#keywordsearchfields)** | Campi per la ricerca testuale |
 
-AdvancedSearchFields 
------
-**Tipo:** Valori separati da pipe	 
-**Valore di default:** AddressPostCode&#124;AddressCountrySubdivision	 
+| Valore | Descrizione |
+| :--- | :--- |
+| [**AdvancedSearchFields**](contact.md#advancedsearchfields) | Campi per la ricerca avanzata |
+| [**KeywordSearchFields**](contact.md#keywordsearchfields) | Campi per la ricerca testuale |
+
+## AdvancedSearchFields
+
+**Tipo:** Valori separati da pipe  
+**Valore di default:** AddressPostCode\|AddressCountrySubdivision  
 **Valori:**
+
 * AddressCity
 * AddressCountrySubdivision
 * AddressPostCode
 * FreeLookup
 
-KeywordSearchFields 
------
-**Tipo:** Valori separati da pipe	 
-**Valore di default:** Id&#124;FirstName&#124;LastName&#124;Account.Name	 
+## KeywordSearchFields
+
+**Tipo:** Valori separati da pipe  
+**Valore di default:** Id\|FirstName\|LastName\|Account.Name  
 **Valori:**
+
 * Account.Name
 * FirstName
 * Id

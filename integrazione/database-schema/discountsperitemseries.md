@@ -1,14 +1,15 @@
 # DiscountsPerItemSeries
+
 Sconti per serie articolo
 
-<br>
-**Chiavi**
-- *Id*
-- AccountId, CustomerGroupId, CustomerDiscountGroupId, ItemSeriesId, StartDate, EndDate
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| --- | --- | --- | --- | --- |
+* _Id_
+* AccountId, CustomerGroupId, CustomerDiscountGroupId, ItemSeriesId, StartDate, EndDate
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
 | AccountId | Id del cliente | text | 50 |
 | CustomerDiscountGroupId | Id del gruppo sconti cliente | text | 50 |
 | CustomerGroupId | Id del gruppo cliente | text | 50 |
