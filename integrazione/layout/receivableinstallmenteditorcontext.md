@@ -16,6 +16,7 @@
 | ActualPaymentDate |  | 
 | ActualPaymentReference |  | 
 | ActualPaymentType |  | 
+| ActualResidualDueAmount |  | 
 | BankAbi |  | 
 | BankCab |  | 
 | BankCc |  | 
