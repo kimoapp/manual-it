@@ -1,4 +1,4 @@
-# Table of contents
+﻿# Table of contents
 
 * [Piacere, sono Kimo](README.md)
 * [Introduzione](introduzione/README.md)
@@ -161,6 +161,7 @@
 	* [Password](integrazione/business-rule/password.md)
 	* [PendingEdits](integrazione/business-rule/pendingedits.md)
 	* [PriceCalculation](integrazione/business-rule/pricecalculation.md)
+	* [ReceivableInstallment](integrazione/business-rule/receivableinstallment.md)
 	* [Vat](integrazione/business-rule/vat.md)
   * [LayoutB2a](integrazione/layout/README.md)
 	* [AccountActivitiesTableRow](integrazione/layout/accountactivitiestablerowcontext.md)
@@ -175,6 +176,9 @@
 	* [BudgetLinesForAccount](integrazione/layout/budgetlinesforaccountcontext.md)
 	* [BudgetLineTableRow](integrazione/layout/budgetlinetablerowcontext.md)
 	* [BudgetsDrillDownTableRow](integrazione/layout/budgetsdrilldowntablerowcontext.md)
+	* [CartEditor](integrazione/layout/carteditorcontext.md)
+	* [CartLineTableRowEditor](integrazione/layout/cartlinetableroweditorcontext.md)
+	* [CartsSearch](integrazione/layout/cartssearchcontext.md)
 	* [CommunicationsSearch](integrazione/layout/communicationssearchcontext.md)
 	* [ContactEditor](integrazione/layout/contacteditorcontext.md)
 	* [ContactForm](integrazione/layout/contactformcontext.md)
