@@ -1,5 +1,9 @@
-# ItemChargeType
+---
+description:>-
 Tipi di spese per articoli (es. RAEE)
+---
+
+# ItemChargeType
 
 <br>
 **Chiavi**

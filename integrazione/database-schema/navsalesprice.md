@@ -1,5 +1,9 @@
-# NavSalesPrice
+---
+description:>-
 Prezzi di vendita nell'Erp Nav
+---
+
+# NavSalesPrice
 
 <br>
 **Chiavi**

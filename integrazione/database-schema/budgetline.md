@@ -1,5 +1,9 @@
-# BudgetLine
+---
+description:>-
 Riga di un budget
+---
+
+# BudgetLine
 
 <br>
 **Chiavi**

@@ -1,5 +1,9 @@
-# SeasonGroup
+---
+description:>-
 Gruppi di stagioni di vendita
+---
+
+# SeasonGroup
 
 <br>
 **Chiavi**

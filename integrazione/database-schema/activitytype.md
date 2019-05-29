@@ -1,5 +1,9 @@
-# ActivityType
+---
+description:>-
 Tipi di attività
+---
+
+# ActivityType
 
 <br>
 **Chiavi**

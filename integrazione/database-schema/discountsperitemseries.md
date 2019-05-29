@@ -1,5 +1,9 @@
-# DiscountsPerItemSeries
+---
+description:>-
 Sconti per serie articolo
+---
+
+# DiscountsPerItemSeries
 
 <br>
 **Chiavi**

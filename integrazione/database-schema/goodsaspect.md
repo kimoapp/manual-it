@@ -1,5 +1,9 @@
-# GoodsAspect
+---
+description:>-
 Aspetto beni
+---
+
+# GoodsAspect
 
 <br>
 **Chiavi**

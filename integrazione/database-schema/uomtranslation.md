@@ -1,5 +1,9 @@
-# UomTranslation
+---
+description:>-
 Traduzioni in lingua delle unità di misura
+---
+
+# UomTranslation
 
 <br>
 **Chiavi**

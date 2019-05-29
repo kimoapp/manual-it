@@ -1,5 +1,9 @@
-# CustomerPriceGroup
+---
+description:>-
 Gruppi prezzi clienti
+---
+
+# CustomerPriceGroup
 
 <br>
 **Chiavi**

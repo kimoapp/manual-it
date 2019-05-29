@@ -1,5 +1,9 @@
-# SalesControlDocumentLine
+---
+description:>-
 Controlli commerciali sulle righe dei documenti di vendita
+---
+
+# SalesControlDocumentLine
 
 <br>
 **Chiavi**
@@ -33,7 +37,7 @@ Controlli commerciali sulle righe dei documenti di vendita
 
 SalesControlType
 ---
-0: None<br>1: Sconto massimo<br>2: Quantità minima<br>3: Prezzo minimo<br>4: Vendita per quantità disponibile<br>5: Ripristino condizioni di vendita per quantità non conforme al confezionamento
+0: None<br>1: Sconto massimo<br>2: Quantità minima<br>3: Prezzo minimo<br>4: Vendita per quantità disponibile<br>5: Ripristino condizioni di vendita per quantità non conforme al confezionamento<br>6: Prezzo Unitario non a zero
 SeverityLevel
 ---
 0: Error<br>1: Warning

@@ -1,5 +1,9 @@
-# DeliveryDateType
+---
+description:>-
 Tipi di date di consegna
+---
+
+# DeliveryDateType
 
 <br>
 **Chiavi**

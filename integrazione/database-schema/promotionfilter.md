@@ -1,5 +1,9 @@
-# PromotionFilter
+---
+description:>-
 Filtri promozioni
+---
+
+# PromotionFilter
 
 <br>
 **Chiavi**

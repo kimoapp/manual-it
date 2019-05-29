@@ -1,5 +1,9 @@
-# ReceivableInstallment
+---
+description:>-
 Scadenzario
+---
+
+# ReceivableInstallment
 
 <br>
 **Chiavi**

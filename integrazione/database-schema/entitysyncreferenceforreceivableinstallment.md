@@ -1,5 +1,9 @@
-# EntitySyncReferenceForReceivableInstallment
+---
+description:>-
 SyncReference delle entità create o modificate in Kimo
+---
+
+# EntitySyncReferenceForReceivableInstallment
 
 <br>
 **Chiavi**

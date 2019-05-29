@@ -1,5 +1,9 @@
-# SaleTypePerItem
+---
+description:>-
 Tipi di vendita per articolo
+---
+
+# SaleTypePerItem
 
 <br>
 **Chiavi**

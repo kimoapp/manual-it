@@ -1,5 +1,9 @@
-# MichelangeloSalesCondition
+---
+description:>-
 Condizioni di vendita nell'Erp Michelangelo
+---
+
+# MichelangeloSalesCondition
 
 <br>
 **Chiavi**

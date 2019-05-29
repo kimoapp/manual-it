@@ -1,5 +1,9 @@
-# NavFashionDocumentDiscounts
+---
+description:>-
 Sconti sui documenti usati nell'Erp Nav Fashion
+---
+
+# NavFashionDocumentDiscounts
 
 <br>
 **Chiavi**

@@ -1,5 +1,9 @@
-# PaymentType
+---
+description:>-
 Tipo di pagamento (tipo effetto)
+---
+
+# PaymentType
 
 <br>
 **Chiavi**

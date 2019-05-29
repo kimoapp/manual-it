@@ -1,5 +1,9 @@
-# EntitySyncReferenceForEntityGeoposition
+---
+description:>-
 SyncReference delle entità create o modificate in Kimo
+---
+
+# EntitySyncReferenceForEntityGeoposition
 
 <br>
 **Chiavi**

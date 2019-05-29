@@ -1,5 +1,9 @@
-# StatisticClass
+---
+description:>-
 Classi statistiche
+---
+
+# StatisticClass
 
 <br>
 **Chiavi**

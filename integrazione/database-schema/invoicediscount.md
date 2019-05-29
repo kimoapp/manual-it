@@ -1,5 +1,9 @@
-# InvoiceDiscount
+---
+description:>-
 Sconto fattura
+---
+
+# InvoiceDiscount
 
 <br>
 **Chiavi**

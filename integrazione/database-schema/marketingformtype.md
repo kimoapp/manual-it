@@ -1,5 +1,9 @@
-# MarketingFormType
+---
+description:>-
 Tipi di schede marketing
+---
+
+# MarketingFormType
 
 <br>
 **Chiavi**

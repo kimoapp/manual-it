@@ -1,5 +1,9 @@
-# ItemSpecificationValue
+---
+description:>-
 Valori delle specifiche tecniche degli articoli
+---
+
+# ItemSpecificationValue
 
 <br>
 **Chiavi**

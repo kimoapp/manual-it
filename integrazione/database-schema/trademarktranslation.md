@@ -1,5 +1,9 @@
-# TrademarkTranslation
+---
+description:>-
 Traduzioni in lingua dei marchi
+---
+
+# TrademarkTranslation
 
 <br>
 **Chiavi**

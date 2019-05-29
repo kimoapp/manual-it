@@ -1,5 +1,9 @@
-# ItemVariable
+---
+description:>-
 Varianti articolo
+---
+
+# ItemVariable
 
 <br>
 **Chiavi**

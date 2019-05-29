@@ -1,5 +1,9 @@
-# ItemAssociated
+---
+description:>-
 Articoli alternativi, sostitutivi o collegati
+---
+
+# ItemAssociated
 
 <br>
 **Chiavi**

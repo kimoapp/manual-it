@@ -1,5 +1,9 @@
-# FreeLookupTranslation
+---
+description:>-
 Traduzioni in lingua dei FreeLookup
+---
+
+# FreeLookupTranslation
 
 <br>
 **Chiavi**

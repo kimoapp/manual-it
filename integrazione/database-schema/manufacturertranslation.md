@@ -1,5 +1,9 @@
-# ManufacturerTranslation
+---
+description:>-
 Traduzioni in lingua dei Produttori
+---
+
+# ManufacturerTranslation
 
 <br>
 **Chiavi**

@@ -1,5 +1,9 @@
-# ItemDiscountGroup
+---
+description:>-
 Gruppi sconti articoli
+---
+
+# ItemDiscountGroup
 
 <br>
 **Chiavi**

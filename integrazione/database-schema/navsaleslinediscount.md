@@ -1,5 +1,9 @@
-# NavSalesLineDiscount
+---
+description:>-
 Sconti nell'Erp Nav
+---
+
+# NavSalesLineDiscount
 
 <br>
 **Chiavi**

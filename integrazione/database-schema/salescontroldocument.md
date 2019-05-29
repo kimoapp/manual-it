@@ -1,5 +1,9 @@
-# SalesControlDocument
+---
+description:>-
 Controlli commerciali sui documenti di vendita
+---
+
+# SalesControlDocument
 
 <br>
 **Chiavi**

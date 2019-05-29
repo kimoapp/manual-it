@@ -1,5 +1,9 @@
-# EntitySyncReferenceForMarketingForm
+---
+description:>-
 SyncReference delle entità create o modificate in Kimo
+---
+
+# EntitySyncReferenceForMarketingForm
 
 <br>
 **Chiavi**

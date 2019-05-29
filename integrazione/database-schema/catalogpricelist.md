@@ -1,5 +1,9 @@
-# CatalogPriceList
+---
+description:>-
 Listini da usare per visualizzare i prezzi nel catalogo
+---
+
+# CatalogPriceList
 
 <br>
 **Chiavi**

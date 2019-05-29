@@ -1,5 +1,9 @@
-# EntitySyncReferenceForAccount
+---
+description:>-
 SyncReference delle entità create o modificate in Kimo
+---
+
+# EntitySyncReferenceForAccount
 
 <br>
 **Chiavi**

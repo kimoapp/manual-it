@@ -1,5 +1,9 @@
-# ItemLotOfflineAvailability
+---
+description:>-
 Disponibilità 'offline' dei lotti
+---
+
+# ItemLotOfflineAvailability
 
 <br>
 **Chiavi**
