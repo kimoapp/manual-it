@@ -1,9 +1,6 @@
----
-description:>-
-Contatti
----
-
 # Contact
+
+Contatti
 
 <br>
 **Chiavi**

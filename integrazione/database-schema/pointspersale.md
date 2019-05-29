@@ -1,9 +1,6 @@
----
-description:>-
-Punti per la vendita di articoli
----
-
 # PointsPerSale
+
+Punti per la vendita di articoli
 
 <br>
 **Chiavi**

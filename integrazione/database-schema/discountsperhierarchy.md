@@ -1,9 +1,6 @@
----
-description:>-
-Sconti per gerarchia
----
-
 # DiscountsPerHierarchy
+
+Sconti per gerarchia
 
 <br>
 **Chiavi**

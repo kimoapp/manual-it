@@ -1,9 +1,6 @@
----
-description:>-
-Criteri per l'applicazione delle regole di disponibilità ai documenti
----
-
 # AvailabilityRuleParamsPerDocument
+
+Criteri per l'applicazione delle regole di disponibilità ai documenti
 
 <br>
 **Chiavi**

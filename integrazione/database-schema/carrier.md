@@ -1,9 +1,6 @@
----
-description:>-
-Vettore
----
-
 # Carrier
+
+Vettore
 
 <br>
 **Chiavi**

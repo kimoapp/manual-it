@@ -1,9 +1,6 @@
----
-description:>-
-Sconti per gruppo merceologico
----
-
 # DiscountsPerItemGroup
+
+Sconti per gruppo merceologico
 
 <br>
 **Chiavi**

@@ -1,9 +1,6 @@
----
-description:>-
-Listini prezzi
----
-
 # PriceList
+
+Listini prezzi
 
 <br>
 **Chiavi**

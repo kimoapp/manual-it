@@ -1,9 +1,6 @@
----
-description:>-
-Associazione dei Budget agli agenti
----
-
 # BudgetPerSalesAgent
+
+Associazione dei Budget agli agenti
 
 <br>
 **Chiavi**

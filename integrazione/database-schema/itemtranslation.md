@@ -1,9 +1,6 @@
----
-description:>-
-Traduzioni in lingua dei FreeLookup
----
-
 # ItemTranslation
+
+Traduzioni in lingua dei FreeLookup
 
 <br>
 **Chiavi**

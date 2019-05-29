@@ -1,9 +1,6 @@
----
-description:>-
-Produttori
----
-
 # Manufacturer
+
+Produttori
 
 <br>
 **Chiavi**

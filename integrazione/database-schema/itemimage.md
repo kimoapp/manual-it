@@ -1,9 +1,6 @@
----
-description:>-
-Immagini articoli (percorsi dei file)
----
-
 # ItemImage
+
+Immagini articoli (percorsi dei file)
 
 <br>
 **Chiavi**

@@ -1,9 +1,6 @@
----
-description:>-
-FreeLookup
----
-
 # FreeLookup
+
+FreeLookup
 
 <br>
 **Chiavi**

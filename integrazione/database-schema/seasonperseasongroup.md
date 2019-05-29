@@ -1,9 +1,6 @@
----
-description:>-
-Associazione stagioni di vendita ai relativi gruppi
----
-
 # SeasonPerSeasonGroup
+
+Associazione stagioni di vendita ai relativi gruppi
 
 <br>
 **Chiavi**

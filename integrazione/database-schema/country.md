@@ -1,9 +1,6 @@
----
-description:>-
-Paese (nazione)
----
-
 # Country
+
+Paese (nazione)
 
 <br>
 **Chiavi**

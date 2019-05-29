@@ -1,9 +1,6 @@
----
-description:>-
-Linea articolo
----
-
 # ItemLine
+
+Linea articolo
 
 <br>
 **Chiavi**

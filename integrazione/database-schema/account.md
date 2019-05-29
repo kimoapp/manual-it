@@ -1,9 +1,6 @@
----
-description:>-
-Account (clienti, prospect, destinazioni merci)
----
-
 # Account
+
+Account (clienti, prospect, destinazioni merci)
 
 <br>
 **Chiavi**

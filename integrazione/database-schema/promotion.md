@@ -1,9 +1,6 @@
----
-description:>-
-Promozioni
----
-
 # Promotion
+
+Promozioni
 
 <br>
 **Chiavi**

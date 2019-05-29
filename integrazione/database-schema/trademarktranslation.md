@@ -1,9 +1,6 @@
----
-description:>-
-Traduzioni in lingua dei marchi
----
-
 # TrademarkTranslation
+
+Traduzioni in lingua dei marchi
 
 <br>
 **Chiavi**

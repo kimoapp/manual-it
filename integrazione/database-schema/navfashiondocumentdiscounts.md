@@ -1,9 +1,6 @@
----
-description:>-
-Sconti sui documenti usati nell'Erp Nav Fashion
----
-
 # NavFashionDocumentDiscounts
+
+Sconti sui documenti usati nell'Erp Nav Fashion
 
 <br>
 **Chiavi**

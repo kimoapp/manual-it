@@ -1,9 +1,6 @@
----
-description:>-
-Mezzi di trasporto
----
-
 # TransportMode
+
+Mezzi di trasporto
 
 <br>
 **Chiavi**

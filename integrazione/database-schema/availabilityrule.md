@@ -1,9 +1,6 @@
----
-description:>-
-Regole di disponibilità
----
-
 # AvailabilityRule
+
+Regole di disponibilità
 
 <br>
 **Chiavi**

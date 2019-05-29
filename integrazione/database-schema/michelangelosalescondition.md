@@ -1,9 +1,6 @@
----
-description:>-
-Condizioni di vendita nell'Erp Michelangelo
----
-
 # MichelangeloSalesCondition
+
+Condizioni di vendita nell'Erp Michelangelo
 
 <br>
 **Chiavi**

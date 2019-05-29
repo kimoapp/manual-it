@@ -1,9 +1,6 @@
----
-description:>-
-Modalità di Pagamento (Termini e Condizioni)
----
-
 # PaymentMethod
+
+Modalità di Pagamento (Termini e Condizioni)
 
 <br>
 **Chiavi**

@@ -1,9 +1,6 @@
----
-description:>-
-Schede Marketing
----
-
 # MarketingForm
+
+Schede Marketing
 
 <br>
 **Chiavi**

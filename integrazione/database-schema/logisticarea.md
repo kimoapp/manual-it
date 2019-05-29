@@ -1,9 +1,6 @@
----
-description:>-
-Aree logistiche
----
-
 # LogisticArea
+
+Aree logistiche
 
 <br>
 **Chiavi**

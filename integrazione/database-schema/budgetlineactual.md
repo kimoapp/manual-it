@@ -1,9 +1,6 @@
----
-description:>-
-Riga di un budget con i dati "effettivi" registrati dall'Erp
----
-
 # BudgetLineActual
+
+Riga di un budget con i dati "effettivi" registrati dall'Erp
 
 <br>
 **Chiavi**

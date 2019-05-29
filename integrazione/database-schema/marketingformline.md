@@ -1,9 +1,6 @@
----
-description:>-
-Righe delle Schede Marketing
----
-
 # MarketingFormLine
+
+Righe delle Schede Marketing
 
 <br>
 **Chiavi**

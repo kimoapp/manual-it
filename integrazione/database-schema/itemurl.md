@@ -1,9 +1,6 @@
----
-description:>-
-Risorse 'online' degli articoli (schede tecniche online, immagini, ...)
----
-
 # ItemUrl
+
+Risorse 'online' degli articoli (schede tecniche online, immagini, ...)
 
 <br>
 **Chiavi**

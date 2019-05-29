@@ -1,9 +1,6 @@
----
-description:>-
-Documenti da Erp
----
-
 # ErpDocument
+
+Documenti da Erp
 
 <br>
 **Chiavi**

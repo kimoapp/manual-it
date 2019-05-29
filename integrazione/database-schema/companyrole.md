@@ -1,9 +1,6 @@
----
-description:>-
-Ruolo aziendale
----
-
 # CompanyRole
+
+Ruolo aziendale
 
 <br>
 **Chiavi**

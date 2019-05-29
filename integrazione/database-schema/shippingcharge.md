@@ -1,9 +1,6 @@
----
-description:>-
-Spese di spedizione
----
-
 # ShippingCharge
+
+Spese di spedizione
 
 <br>
 **Chiavi**

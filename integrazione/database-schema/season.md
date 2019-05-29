@@ -1,9 +1,6 @@
----
-description:>-
-Stagioni di vendita
----
-
 # Season
+
+Stagioni di vendita
 
 <br>
 **Chiavi**

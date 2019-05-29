@@ -1,9 +1,6 @@
----
-description:>-
-Gruppi clienti
----
-
 # CustomerGroup
+
+Gruppi clienti
 
 <br>
 **Chiavi**

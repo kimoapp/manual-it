@@ -1,9 +1,6 @@
----
-description:>-
-Allegati articoli
----
-
 # ItemAttachment
+
+Allegati articoli
 
 <br>
 **Chiavi**

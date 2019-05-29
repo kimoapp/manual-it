@@ -1,9 +1,6 @@
----
-description:>-
-Varianti
----
-
 # Variable
+
+Varianti
 
 <br>
 **Chiavi**

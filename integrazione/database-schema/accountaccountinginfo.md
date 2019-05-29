@@ -1,9 +1,6 @@
----
-description:>-
-Scheda contabile di un account
----
-
 # AccountAccountingInfo
+
+Scheda contabile di un account
 
 <br>
 **Chiavi**

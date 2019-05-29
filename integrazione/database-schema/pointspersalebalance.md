@@ -1,9 +1,6 @@
----
-description:>-
-Saldo punti vendita
----
-
 # PointsPerSaleBalance
+
+Saldo punti vendita
 
 <br>
 **Chiavi**

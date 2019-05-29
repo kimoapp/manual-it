@@ -1,9 +1,6 @@
----
-description:>-
-Serie articolo
----
-
 # ItemSeries
+
+Serie articolo
 
 <br>
 **Chiavi**

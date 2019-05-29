@@ -1,9 +1,6 @@
----
-description:>-
-Sconti nell'Erp Nav
----
-
 # NavSalesLineDiscount
+
+Sconti nell'Erp Nav
 
 <br>
 **Chiavi**

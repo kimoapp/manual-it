@@ -1,9 +1,6 @@
----
-description:>-
-Articoli
----
-
 # Item
+
+Articoli
 
 <br>
 **Chiavi**

@@ -1,9 +1,6 @@
----
-description:>-
-Tipi di documenti di registrazione
----
-
 # RegistrationDocumentType
+
+Tipi di documenti di registrazione
 
 <br>
 **Chiavi**

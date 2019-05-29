@@ -1,9 +1,6 @@
----
-description:>-
-Parametri per la spedizione di un documento di vendita
----
-
 # ShipmentParamsPerDocument
+
+Parametri per la spedizione di un documento di vendita
 
 <br>
 **Chiavi**

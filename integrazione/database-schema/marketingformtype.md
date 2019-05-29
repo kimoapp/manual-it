@@ -1,9 +1,6 @@
----
-description:>-
-Tipi di schede marketing
----
-
 # MarketingFormType
+
+Tipi di schede marketing
 
 <br>
 **Chiavi**

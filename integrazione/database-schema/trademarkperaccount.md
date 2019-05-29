@@ -1,9 +1,6 @@
----
-description:>-
-Marchi per cliente
----
-
 # TrademarkPerAccount
+
+Marchi per cliente
 
 <br>
 **Chiavi**

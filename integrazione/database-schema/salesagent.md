@@ -1,9 +1,6 @@
----
-description:>-
-Agenti
----
-
 # SalesAgent
+
+Agenti
 
 <br>
 **Chiavi**

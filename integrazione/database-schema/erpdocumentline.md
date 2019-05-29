@@ -1,9 +1,6 @@
----
-description:>-
-Righe dei Documenti da Erp
----
-
 # ErpDocumentLine
+
+Righe dei Documenti da Erp
 
 <br>
 **Chiavi**

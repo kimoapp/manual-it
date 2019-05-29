@@ -1,9 +1,6 @@
----
-description:>-
-Controlli commerciali sui documenti di vendita
----
-
 # SalesControlDocument
+
+Controlli commerciali sui documenti di vendita
 
 <br>
 **Chiavi**

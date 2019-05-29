@@ -1,9 +1,6 @@
----
-description:>-
-Porto (metodo di spedizione)
----
-
 # ShipmentMethod
+
+Porto (metodo di spedizione)
 
 <br>
 **Chiavi**

@@ -1,9 +1,6 @@
----
-description:>-
-Valori per le varianti
----
-
 # VariableValue
+
+Valori per le varianti
 
 <br>
 **Chiavi**

@@ -1,9 +1,6 @@
----
-description:>-
-Traduzioni in lingua dei gruppi merceologici
----
-
 # ItemGroupTranslation
+
+Traduzioni in lingua dei gruppi merceologici
 
 <br>
 **Chiavi**

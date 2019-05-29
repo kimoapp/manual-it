@@ -1,9 +1,6 @@
----
-description:>-
-Campi delle schede marketing
----
-
 # MarketingFormField
+
+Campi delle schede marketing
 
 <br>
 **Chiavi**

@@ -1,9 +1,6 @@
----
-description:>-
-Associazione account - agenti
----
-
 # SalesAgentPerAccount
+
+Associazione account - agenti
 
 <br>
 **Chiavi**

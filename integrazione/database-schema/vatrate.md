@@ -1,9 +1,6 @@
----
-description:>-
-Aliquote IVA
----
-
 # VatRate
+
+Aliquote IVA
 
 <br>
 **Chiavi**

@@ -1,9 +1,6 @@
----
-description:>-
-Stato civile
----
-
 # MaritalStatus
+
+Stato civile
 
 <br>
 **Chiavi**

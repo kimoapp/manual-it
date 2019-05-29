@@ -1,9 +1,6 @@
----
-description:>-
-Banche di un account
----
-
 # AccountBank
+
+Banche di un account
 
 <br>
 **Chiavi**

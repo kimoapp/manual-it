@@ -1,9 +1,6 @@
----
-description:>-
-Marchi
----
-
 # Trademark
+
+Marchi
 
 <br>
 **Chiavi**

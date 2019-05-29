@@ -1,9 +1,6 @@
----
-description:>-
-Attività
----
-
 # Activity
+
+Attività
 
 <br>
 **Chiavi**

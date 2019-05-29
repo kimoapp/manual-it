@@ -1,9 +1,6 @@
----
-description:>-
-Collezione articoli
----
-
 # ItemCollection
+
+Collezione articoli
 
 <br>
 **Chiavi**

@@ -1,9 +1,6 @@
----
-description:>-
-Priorità delle condizioni di vendita
----
-
 # SalesConditionPriority
+
+Priorità delle condizioni di vendita
 
 <br>
 **Chiavi**

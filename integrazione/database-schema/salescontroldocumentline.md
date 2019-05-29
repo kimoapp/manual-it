@@ -1,9 +1,6 @@
----
-description:>-
-Controlli commerciali sulle righe dei documenti di vendita
----
-
 # SalesControlDocumentLine
+
+Controlli commerciali sulle righe dei documenti di vendita
 
 <br>
 **Chiavi**

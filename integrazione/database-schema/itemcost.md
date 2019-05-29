@@ -1,9 +1,6 @@
----
-description:>-
-Costo articoli (netto, lordo, ...)
----
-
 # ItemCost
+
+Costo articoli (netto, lordo, ...)
 
 <br>
 **Chiavi**

@@ -1,9 +1,6 @@
----
-description:>-
-Giorni di consegna per Area Logistica
----
-
 # LogisticAreaDeliveryDays
+
+Giorni di consegna per Area Logistica
 
 <br>
 **Chiavi**

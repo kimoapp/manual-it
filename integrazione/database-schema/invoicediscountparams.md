@@ -1,9 +1,6 @@
----
-description:>-
-Parametri per lo Sconto fattura
----
-
 # InvoiceDiscountParams
+
+Parametri per lo Sconto fattura
 
 <br>
 **Chiavi**

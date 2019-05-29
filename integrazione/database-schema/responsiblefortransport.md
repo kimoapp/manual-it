@@ -1,9 +1,6 @@
----
-description:>-
-Cura trasporto
----
-
 # ResponsibleForTransport
+
+Cura trasporto
 
 <br>
 **Chiavi**

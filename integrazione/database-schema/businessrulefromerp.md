@@ -1,9 +1,6 @@
----
-description:>-
-Valori per Business Rule definite sull'Erp
----
-
 # BusinessRuleFromErp
+
+Valori per Business Rule definite sull'Erp
 
 <br>
 **Chiavi**

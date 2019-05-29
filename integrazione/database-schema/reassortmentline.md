@@ -1,9 +1,6 @@
----
-description:>-
-Righe dei riassortimenti
----
-
 # ReassortmentLine
+
+Righe dei riassortimenti
 
 <br>
 **Chiavi**

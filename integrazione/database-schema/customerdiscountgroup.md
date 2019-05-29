@@ -1,9 +1,6 @@
----
-description:>-
-Gruppi sconti clienti
----
-
 # CustomerDiscountGroup
+
+Gruppi sconti clienti
 
 <br>
 **Chiavi**

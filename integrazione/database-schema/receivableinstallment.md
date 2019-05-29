@@ -1,9 +1,6 @@
----
-description:>-
-Scadenzario
----
-
 # ReceivableInstallment
+
+Scadenzario
 
 <br>
 **Chiavi**

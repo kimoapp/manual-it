@@ -1,9 +1,6 @@
----
-description:>-
-Specifiche tecniche degli articoli
----
-
 # ItemSpecification
+
+Specifiche tecniche degli articoli
 
 <br>
 **Chiavi**

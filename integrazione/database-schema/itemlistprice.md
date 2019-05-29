@@ -1,9 +1,6 @@
----
-description:>-
-Prezzi per articolo
----
-
 # ItemListPrice
+
+Prezzi per articolo
 
 <br>
 **Chiavi**

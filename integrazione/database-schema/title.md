@@ -1,9 +1,6 @@
----
-description:>-
-Titolo di una persona (es. Dott., Ing., ...)
----
-
 # Title
+
+Titolo di una persona (es. Dott., Ing., ...)
 
 <br>
 **Chiavi**

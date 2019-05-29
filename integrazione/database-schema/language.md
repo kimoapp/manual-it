@@ -1,9 +1,6 @@
----
-description:>-
-Lingua
----
-
 # Language
+
+Lingua
 
 <br>
 **Chiavi**

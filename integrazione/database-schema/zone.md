@@ -1,9 +1,6 @@
----
-description:>-
-Zone
----
-
 # Zone
+
+Zone
 
 <br>
 **Chiavi**

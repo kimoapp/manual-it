@@ -1,9 +1,6 @@
----
-description:>-
-Valuta
----
-
 # Currency
+
+Valuta
 
 <br>
 **Chiavi**

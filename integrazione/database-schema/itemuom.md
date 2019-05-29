@@ -1,9 +1,6 @@
----
-description:>-
-Unità di misura degli articoli
----
-
 # ItemUom
+
+Unità di misura degli articoli
 
 <br>
 **Chiavi**

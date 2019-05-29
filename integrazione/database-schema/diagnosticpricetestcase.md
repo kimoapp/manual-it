@@ -1,9 +1,6 @@
----
-description:>-
-Test diagnostica prezzi
----
-
 # DiagnosticPriceTestCase
+
+Test diagnostica prezzi
 
 <br>
 **Chiavi**

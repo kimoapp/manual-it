@@ -1,9 +1,6 @@
----
-description:>-
-Condizioni di ricarico nell'Erp Michelangelo
----
-
 # MichelangeloSalesMultiplierCondition
+
+Condizioni di ricarico nell'Erp Michelangelo
 
 <br>
 **Chiavi**

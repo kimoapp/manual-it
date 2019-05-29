@@ -1,9 +1,6 @@
----
-description:>-
-Marchi per agente
----
-
 # TrademarkPerUser
+
+Marchi per agente
 
 <br>
 **Chiavi**

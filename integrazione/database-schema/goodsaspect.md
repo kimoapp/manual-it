@@ -1,9 +1,6 @@
----
-description:>-
-Aspetto beni
----
-
 # GoodsAspect
+
+Aspetto beni
 
 <br>
 **Chiavi**

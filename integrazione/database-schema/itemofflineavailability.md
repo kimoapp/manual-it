@@ -1,9 +1,6 @@
----
-description:>-
-Disponibilità 'offline' degli articoli
----
-
 # ItemOfflineAvailability
+
+Disponibilità 'offline' degli articoli
 
 <br>
 **Chiavi**

@@ -1,9 +1,6 @@
----
-description:>-
-Gruppi merceologici
----
-
 # ItemGroup
+
+Gruppi merceologici
 
 <br>
 **Chiavi**

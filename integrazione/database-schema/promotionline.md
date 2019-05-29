@@ -1,9 +1,6 @@
----
-description:>-
-Righe promozioni
----
-
 # PromotionLine
+
+Righe promozioni
 
 <br>
 **Chiavi**

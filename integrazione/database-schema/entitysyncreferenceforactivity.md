@@ -1,9 +1,6 @@
----
-description:>-
-SyncReference delle entità create o modificate in Kimo
----
-
 # EntitySyncReferenceForActivity
+
+SyncReference delle entità create o modificate in Kimo
 
 <br>
 **Chiavi**

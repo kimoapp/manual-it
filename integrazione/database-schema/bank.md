@@ -1,9 +1,6 @@
----
-description:>-
-Banca
----
-
 # Bank
+
+Banca
 
 <br>
 **Chiavi**

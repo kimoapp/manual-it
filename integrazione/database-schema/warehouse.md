@@ -1,9 +1,6 @@
----
-description:>-
-Magazzini
----
-
 # Warehouse
+
+Magazzini
 
 <br>
 **Chiavi**

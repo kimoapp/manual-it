@@ -1,9 +1,6 @@
----
-description:>-
-Spese per articoli
----
-
 # ItemCharge
+
+Spese per articoli
 
 <br>
 **Chiavi**

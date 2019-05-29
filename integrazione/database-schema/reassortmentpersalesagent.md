@@ -1,9 +1,6 @@
----
-description:>-
-Filtri dei riassortimenti per agente
----
-
 # ReassortmentPerSalesAgent
+
+Filtri dei riassortimenti per agente
 
 <br>
 **Chiavi**
