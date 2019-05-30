@@ -1,5 +1,6 @@
 #Layout SFA
-| --- |
+| Layout |
+|---|
 | [AccountActivitiesTableRow](./accountactivitiestablerowcontext.md) |
 | [AccountsSearch](./accountssearchcontext.md) |
 | [ActivitiesSearch](./activitiessearchcontext.md) |
