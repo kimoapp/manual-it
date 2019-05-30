@@ -1,4 +1,5 @@
 #LayoutB2a
+
 [AccountActivitiesTableRow](./accountactivitiestablerowcontext.md)
 [AccountsSearch](./accountssearchcontext.md)
 [ActivitiesSearch](./activitiessearchcontext.md)
