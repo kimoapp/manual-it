@@ -1,10 +1,10 @@
 #LayoutB2a
 
-[AccountActivitiesTableRow](./accountactivitiestablerowcontext.md)
-[AccountsSearch](./accountssearchcontext.md)
-[ActivitiesSearch](./activitiessearchcontext.md)
-[ActivityEditor](./activityeditorcontext.md)
-[ActivityToPlan](./activitytoplancontext.md)
+[AccountActivitiesTableRow](./accountactivitiestablerowcontext.md)	 
+[AccountsSearch](./accountssearchcontext.md)	 
+[ActivitiesSearch](./activitiessearchcontext.md)	 
+[ActivityEditor](./activityeditorcontext.md)	 
+[ActivityToPlan](./activitytoplancontext.md)	 
 [BackupFilesTableRow](./backupfilestablerowcontext.md)
 [BankAccountEditor](./bankaccounteditorcontext.md)
 [BankAccountsSearch](./bankaccountssearchcontext.md)

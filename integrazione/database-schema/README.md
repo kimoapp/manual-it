@@ -1,5 +1,4 @@
 # Database schema
-
 [Account](./account.md)	 
 Account (clienti, prospect, destinazioni merci)
 [AccountAccountingInfo](./accountaccountinginfo.md)	 
