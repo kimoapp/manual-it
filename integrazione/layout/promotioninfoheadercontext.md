@@ -1,22 +1,19 @@
 # PromotionInfoHeader
 
-<br/>
-**Context:** PromotionInfoHeaderContext
-<br/>
-**Default Layout:** PromotionInfoHeaderLayout
+  
+ **Context:** PromotionInfoHeaderContext   
+ **Default Layout:** PromotionInfoHeaderLayout
 
-
-
-<br/>
 ## Campi
 
-| Id | Descrizione | 
-| --- | --- | 
-| Description |  | 
-| EndDate |  | 
-| MinAmount |  | 
-| MinItems |  | 
-| MinQty |  | 
-| Notes |  | 
-| Number |  | 
+| Id | Descrizione |
+| :--- | :--- |
+| Description |  |
+| EndDate |  |
+| MinAmount |  |
+| MinItems |  |
+| MinQty |  |
+| Notes |  |
+| Number |  |
 | StartDate |  |
+

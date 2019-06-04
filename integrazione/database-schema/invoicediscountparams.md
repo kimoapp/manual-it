@@ -2,14 +2,14 @@
 
 Parametri per lo Sconto fattura
 
-<br>
-**Chiavi**
-- *Id*
-- InvoiceDiscountId, CurrencyId, MinimumAmount
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| --- | --- | --- | --- | --- |
+* _Id_
+* InvoiceDiscountId, CurrencyId, MinimumAmount
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
 | CurrencyId | Id valuta | text | 50 |
 | Discount | Sconto | dec |  |
 | Id | Id | text | 50 |

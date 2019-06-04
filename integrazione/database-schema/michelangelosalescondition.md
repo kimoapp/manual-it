@@ -2,94 +2,94 @@
 
 Condizioni di vendita nell'Erp Michelangelo
 
-<br>
-**Chiavi**
-- *Id*
-- SalesConditionTypeId, SalesConditionKey, StartDate, EndDate, CurrencyId, SalesUomId, UnitsPerPack, SalesAgentId
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| --- | --- | --- | --- | --- |
+* _Id_
+* SalesConditionTypeId, SalesConditionKey, StartDate, EndDate, CurrencyId, SalesUomId, UnitsPerPack, SalesAgentId
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
 | Commission | Provvigione | dec |  |
 | CurrencyId | Id della valuta | text | 50 |
-| CustomerGroup1_Discount1 | Sconto | dec |  |
-| CustomerGroup1_Discount2 | Sconto | dec |  |
-| CustomerGroup1_Discount3 | Sconto | dec |  |
-| CustomerGroup1_FixedDiscount | Sconto importo | dec |  |
-| CustomerGroup10_Discount1 | Sconto | dec |  |
-| CustomerGroup10_Discount2 | Sconto | dec |  |
-| CustomerGroup10_Discount3 | Sconto | dec |  |
-| CustomerGroup10_FixedDiscount | Sconto importo | dec |  |
-| CustomerGroup11_Discount1 | Sconto | dec |  |
-| CustomerGroup11_Discount2 | Sconto | dec |  |
-| CustomerGroup11_Discount3 | Sconto | dec |  |
-| CustomerGroup11_FixedDiscount | Sconto importo | dec |  |
-| CustomerGroup12_Discount1 | Sconto | dec |  |
-| CustomerGroup12_Discount2 | Sconto | dec |  |
-| CustomerGroup12_Discount3 | Sconto | dec |  |
-| CustomerGroup12_FixedDiscount | Sconto importo | dec |  |
-| CustomerGroup13_Discount1 | Sconto | dec |  |
-| CustomerGroup13_Discount2 | Sconto | dec |  |
-| CustomerGroup13_Discount3 | Sconto | dec |  |
-| CustomerGroup13_FixedDiscount | Sconto importo | dec |  |
-| CustomerGroup14_Discount1 | Sconto | dec |  |
-| CustomerGroup14_Discount2 | Sconto | dec |  |
-| CustomerGroup14_Discount3 | Sconto | dec |  |
-| CustomerGroup14_FixedDiscount | Sconto importo | dec |  |
-| CustomerGroup15_Discount1 | Sconto | dec |  |
-| CustomerGroup15_Discount2 | Sconto | dec |  |
-| CustomerGroup15_Discount3 | Sconto | dec |  |
-| CustomerGroup15_FixedDiscount | Sconto importo | dec |  |
-| CustomerGroup2_Discount1 | Sconto | dec |  |
-| CustomerGroup2_Discount2 | Sconto | dec |  |
-| CustomerGroup2_Discount3 | Sconto | dec |  |
-| CustomerGroup2_FixedDiscount | Sconto importo | dec |  |
-| CustomerGroup3_Discount1 | Sconto | dec |  |
-| CustomerGroup3_Discount2 | Sconto | dec |  |
-| CustomerGroup3_Discount3 | Sconto | dec |  |
-| CustomerGroup3_FixedDiscount | Sconto importo | dec |  |
-| CustomerGroup4_Discount1 | Sconto | dec |  |
-| CustomerGroup4_Discount2 | Sconto | dec |  |
-| CustomerGroup4_Discount3 | Sconto | dec |  |
-| CustomerGroup4_FixedDiscount | Sconto importo | dec |  |
-| CustomerGroup5_Discount1 | Sconto | dec |  |
-| CustomerGroup5_Discount2 | Sconto | dec |  |
-| CustomerGroup5_Discount3 | Sconto | dec |  |
-| CustomerGroup5_FixedDiscount | Sconto importo | dec |  |
-| CustomerGroup6_Discount1 | Sconto | dec |  |
-| CustomerGroup6_Discount2 | Sconto | dec |  |
-| CustomerGroup6_Discount3 | Sconto | dec |  |
-| CustomerGroup6_FixedDiscount | Sconto importo | dec |  |
-| CustomerGroup7_Discount1 | Sconto | dec |  |
-| CustomerGroup7_Discount2 | Sconto | dec |  |
-| CustomerGroup7_Discount3 | Sconto | dec |  |
-| CustomerGroup7_FixedDiscount | Sconto importo | dec |  |
-| CustomerGroup8_Discount1 | Sconto | dec |  |
-| CustomerGroup8_Discount2 | Sconto | dec |  |
-| CustomerGroup8_Discount3 | Sconto | dec |  |
-| CustomerGroup8_FixedDiscount | Sconto importo | dec |  |
-| CustomerGroup9_Discount1 | Sconto | dec |  |
-| CustomerGroup9_Discount2 | Sconto | dec |  |
-| CustomerGroup9_Discount3 | Sconto | dec |  |
-| CustomerGroup9_FixedDiscount | Sconto importo | dec |  |
+| CustomerGroup1\_Discount1 | Sconto | dec |  |
+| CustomerGroup1\_Discount2 | Sconto | dec |  |
+| CustomerGroup1\_Discount3 | Sconto | dec |  |
+| CustomerGroup1\_FixedDiscount | Sconto importo | dec |  |
+| CustomerGroup10\_Discount1 | Sconto | dec |  |
+| CustomerGroup10\_Discount2 | Sconto | dec |  |
+| CustomerGroup10\_Discount3 | Sconto | dec |  |
+| CustomerGroup10\_FixedDiscount | Sconto importo | dec |  |
+| CustomerGroup11\_Discount1 | Sconto | dec |  |
+| CustomerGroup11\_Discount2 | Sconto | dec |  |
+| CustomerGroup11\_Discount3 | Sconto | dec |  |
+| CustomerGroup11\_FixedDiscount | Sconto importo | dec |  |
+| CustomerGroup12\_Discount1 | Sconto | dec |  |
+| CustomerGroup12\_Discount2 | Sconto | dec |  |
+| CustomerGroup12\_Discount3 | Sconto | dec |  |
+| CustomerGroup12\_FixedDiscount | Sconto importo | dec |  |
+| CustomerGroup13\_Discount1 | Sconto | dec |  |
+| CustomerGroup13\_Discount2 | Sconto | dec |  |
+| CustomerGroup13\_Discount3 | Sconto | dec |  |
+| CustomerGroup13\_FixedDiscount | Sconto importo | dec |  |
+| CustomerGroup14\_Discount1 | Sconto | dec |  |
+| CustomerGroup14\_Discount2 | Sconto | dec |  |
+| CustomerGroup14\_Discount3 | Sconto | dec |  |
+| CustomerGroup14\_FixedDiscount | Sconto importo | dec |  |
+| CustomerGroup15\_Discount1 | Sconto | dec |  |
+| CustomerGroup15\_Discount2 | Sconto | dec |  |
+| CustomerGroup15\_Discount3 | Sconto | dec |  |
+| CustomerGroup15\_FixedDiscount | Sconto importo | dec |  |
+| CustomerGroup2\_Discount1 | Sconto | dec |  |
+| CustomerGroup2\_Discount2 | Sconto | dec |  |
+| CustomerGroup2\_Discount3 | Sconto | dec |  |
+| CustomerGroup2\_FixedDiscount | Sconto importo | dec |  |
+| CustomerGroup3\_Discount1 | Sconto | dec |  |
+| CustomerGroup3\_Discount2 | Sconto | dec |  |
+| CustomerGroup3\_Discount3 | Sconto | dec |  |
+| CustomerGroup3\_FixedDiscount | Sconto importo | dec |  |
+| CustomerGroup4\_Discount1 | Sconto | dec |  |
+| CustomerGroup4\_Discount2 | Sconto | dec |  |
+| CustomerGroup4\_Discount3 | Sconto | dec |  |
+| CustomerGroup4\_FixedDiscount | Sconto importo | dec |  |
+| CustomerGroup5\_Discount1 | Sconto | dec |  |
+| CustomerGroup5\_Discount2 | Sconto | dec |  |
+| CustomerGroup5\_Discount3 | Sconto | dec |  |
+| CustomerGroup5\_FixedDiscount | Sconto importo | dec |  |
+| CustomerGroup6\_Discount1 | Sconto | dec |  |
+| CustomerGroup6\_Discount2 | Sconto | dec |  |
+| CustomerGroup6\_Discount3 | Sconto | dec |  |
+| CustomerGroup6\_FixedDiscount | Sconto importo | dec |  |
+| CustomerGroup7\_Discount1 | Sconto | dec |  |
+| CustomerGroup7\_Discount2 | Sconto | dec |  |
+| CustomerGroup7\_Discount3 | Sconto | dec |  |
+| CustomerGroup7\_FixedDiscount | Sconto importo | dec |  |
+| CustomerGroup8\_Discount1 | Sconto | dec |  |
+| CustomerGroup8\_Discount2 | Sconto | dec |  |
+| CustomerGroup8\_Discount3 | Sconto | dec |  |
+| CustomerGroup8\_FixedDiscount | Sconto importo | dec |  |
+| CustomerGroup9\_Discount1 | Sconto | dec |  |
+| CustomerGroup9\_Discount2 | Sconto | dec |  |
+| CustomerGroup9\_Discount3 | Sconto | dec |  |
+| CustomerGroup9\_FixedDiscount | Sconto importo | dec |  |
 | EndDate | Data fine validità | date |  |
 | Id | Id | text | 50 |
 | ImposedUnitPrice | Prezzo unitario imposto | dec |  |
 | ItemCostReferenceDate | Data riferimento costi | date |  |
 | JumpStringByCustomerGroup | Fascia | text | 30 |
 | Multiplier | Ricarico | dec |  |
-| QuantityRange1_Discount | Sconto | dec |  |
-| QuantityRange1_ImposedUnitPrice | Prezzo unitario imposto | dec |  |
-| QuantityRange1_Quantity | Quantità | dec |  |
-| QuantityRange2_Discount | Sconto | dec |  |
-| QuantityRange2_ImposedUnitPrice | Prezzo unitario imposto | dec |  |
-| QuantityRange2_Quantity | Quantità | dec |  |
-| QuantityRange3_Discount | Sconto | dec |  |
-| QuantityRange3_ImposedUnitPrice | Prezzo unitario imposto | dec |  |
-| QuantityRange3_Quantity | Quantità | dec |  |
-| QuantityRange4_Discount | Sconto | dec |  |
-| QuantityRange4_ImposedUnitPrice | Prezzo unitario imposto | dec |  |
-| QuantityRange4_Quantity | Quantità | dec |  |
+| QuantityRange1\_Discount | Sconto | dec |  |
+| QuantityRange1\_ImposedUnitPrice | Prezzo unitario imposto | dec |  |
+| QuantityRange1\_Quantity | Quantità | dec |  |
+| QuantityRange2\_Discount | Sconto | dec |  |
+| QuantityRange2\_ImposedUnitPrice | Prezzo unitario imposto | dec |  |
+| QuantityRange2\_Quantity | Quantità | dec |  |
+| QuantityRange3\_Discount | Sconto | dec |  |
+| QuantityRange3\_ImposedUnitPrice | Prezzo unitario imposto | dec |  |
+| QuantityRange3\_Quantity | Quantità | dec |  |
+| QuantityRange4\_Discount | Sconto | dec |  |
+| QuantityRange4\_ImposedUnitPrice | Prezzo unitario imposto | dec |  |
+| QuantityRange4\_Quantity | Quantità | dec |  |
 | ReferenceCostTypeId | Id del costo di riferimento | text | 50 |
 | SalesAgentId | Id dell'agente | text | 50 |
 | SalesConditionKey | Chiave della condizione di vendita | text | 30 |

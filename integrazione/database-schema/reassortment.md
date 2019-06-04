@@ -2,13 +2,13 @@
 
 Riassortimenti
 
-<br>
-**Chiavi**
-- *Id*
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| --- | --- | --- | --- | --- |
+* _Id_
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
 | CustomerId | Id del cliente a cui fa riferimento il riassortimento | text | 50 |
 | Id | Identificativo del riassortimento | text | 50 |
 | Notes | Note | text | text |

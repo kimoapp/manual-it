@@ -2,14 +2,14 @@
 
 Varianti articolo
 
-<br>
-**Chiavi**
-- *Id*
-- ModelItemId, VariableItemId
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| --- | --- | --- | --- | --- |
+* _Id_
+* ModelItemId, VariableItemId
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
 | FreeText1 | Campo testo libero | text | 50 |
 | FreeText2 | Campo testo libero | text | 50 |
 | Id | Id | text | 50 |
