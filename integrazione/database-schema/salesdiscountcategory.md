@@ -1,5 +1,5 @@
-# ItemLine
-Linea articolo
+# SalesDiscountCategory
+Categoria sconto vendita
 
 <br>
 **Chiavi**

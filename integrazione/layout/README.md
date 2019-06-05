@@ -1,98 +1,62 @@
-# LayoutB2a
-
-## Account
-
-* **Editor**
-
-  * [CustomerEditor](customereditorcontext.md)
-
-  **Ricerca**
-
-  * [AccountsSearch](accountssearchcontext.md)
-
-* **Scheda**
-  * [CustomerForm](customerformcontext.md)
-
-## Document
-
-* **Ricerca**
-  * DocumentsSearch
-* **Editor Testata**
-  * DocumentHeaderEditor
-* **Editor Elenco Righe**
-  * DocumentLineTableRowEditor
-* **Editor Righe**
-  * DocumentLineEditor
-  * DocumentLineVariableEditor
-* **Report**
-  * DocumentReport 
-  * DocumentReportRecipient
-
-
-
-
-
-
-
-| Layout |
-| :--- |
-| [AccountActivitiesTableRow](accountactivitiestablerowcontext.md) |
-| [AccountsSearch](accountssearchcontext.md) |
-| [ActivitiesSearch](activitiessearchcontext.md) |
-| [ActivityEditor](activityeditorcontext.md) |
-| [ActivityToPlan](activitytoplancontext.md) |
-| [BackupFilesTableRow](backupfilestablerowcontext.md) |
-| [BankAccountEditor](bankaccounteditorcontext.md) |
-| [BankAccountsSearch](bankaccountssearchcontext.md) |
-| [BudgetLineEditor](budgetlineeditorcontext.md) |
-| [BudgetLinesForAccount](budgetlinesforaccountcontext.md) |
-| [BudgetLineTableRow](budgetlinetablerowcontext.md) |
-| [BudgetsDrillDownTableRow](budgetsdrilldowntablerowcontext.md) |
-| [CartEditor](carteditorcontext.md) |
-| [CartLineTableRowEditor](cartlinetableroweditorcontext.md) |
-| [CartsSearch](cartssearchcontext.md) |
-| [CommunicationsSearch](communicationssearchcontext.md) |
-| [ContactEditor](contacteditorcontext.md) |
-| [ContactForm](contactformcontext.md) |
-| [ContactsSearch](contactssearchcontext.md) |
-| [CustomerEditor](customereditorcontext.md) |
-| [CustomerForm](customerformcontext.md) |
-| [CustomerScheduledPaymentsTableRow](customerscheduledpaymentstablerowcontext.md) |
-| [DeviceSeriesEditor](deviceserieseditorcontext.md) |
-| [DocumentArchiving](documentarchivingcontext.md) |
-| [DocumentHeaderEditor](documentheadereditorcontext.md) |
-| [DocumentLineEditor](documentlineeditorcontext.md) |
-| [DocumentLineTableRowEditor](documentlinetableroweditorcontext.md) |
-| [DocumentLineVariableEditor](documentlinevariableeditorcontext.md) |
-| [DocumentReport](documentreportcontext.md) |
-| [DocumentReportRecipient](documentreportrecipientcontext.md) |
-| [DocumentsSearch](documentssearchcontext.md) |
-| [ErpDocumentHeaderEditor](erpdocumentheadereditorcontext.md) |
-| [ErpDocumentLineEditor](erpdocumentlineeditorcontext.md) |
-| [ErpDocumentLinesReport](erpdocumentlinesreportcontext.md) |
-| [ErpDocumentLineTableRowEditor](erpdocumentlinetableroweditorcontext.md) |
-| [ErpDocumentLineVariableEditor](erpdocumentlinevariableeditorcontext.md) |
-| [ErpDocumentsSearch](erpdocumentssearchcontext.md) |
-| [FilesSearch](filessearchcontext.md) |
-| [ItemForm](itemformcontext.md) |
-| [ItemLotAvailabilitiesSearch](itemlotavailabilitiessearchcontext.md) |
-| [ItemsSearch](itemssearchcontext.md) |
-| [ItemWarehouseAvailabilitiesSearch](itemwarehouseavailabilitiessearchcontext.md) |
-| [MarketingFormInfoPane](marketingforminfopanecontext.md) |
-| [PromotionActivationByItemHeader](promotionactivationbyitemheadercontext.md) |
-| [PromotionActivationLineTableRow](promotionactivationlinetablerowcontext.md) |
-| [PromotionActivationTableRow](promotionactivationtablerowcontext.md) |
-| [PromotionDirectActivationHeader](promotiondirectactivationheadercontext.md) |
-| [PromotionEditorLineTableRow](promotioneditorlinetablerowcontext.md) |
-| [PromotionInfoHeader](promotioninfoheadercontext.md) |
-| [PromotionLineEditor](promotionlineeditorcontext.md) |
-| [Reassortment](reassortmentcontext.md) |
-| [ReceivableBookTableRow](receivablebooktablerowcontext.md) |
-| [ReceivableInstallmentEditor](receivableinstallmenteditorcontext.md) |
-| [ReceivableInstallmentsMultipleCashEditor](receivableinstallmentsmultiplecasheditorcontext.md) |
-| [RecurrentActivitiesSearch](recurrentactivitiessearchcontext.md) |
-| [RecurrentActivityEditor](recurrentactivityeditorcontext.md) |
-| [SalesConditionDiscountsForCustomer](salesconditiondiscountsforcustomercontext.md) |
-| [ServerSettingsEditor](serversettingseditorcontext.md) |
-| [ShipmentSiteEditor](shipmentsiteeditorcontext.md) |
-
+#Layout SFA
+| Entità | 
+|---|
+| [AccountActivitiesTableRow](./accountactivitiestablerowcontext.md) |
+| [AccountsSearch](./accountssearchcontext.md) |
+| [ActivitiesSearch](./activitiessearchcontext.md) |
+| [ActivityEditor](./activityeditorcontext.md) |
+| [ActivityToPlan](./activitytoplancontext.md) |
+| [BackupFilesTableRow](./backupfilestablerowcontext.md) |
+| [BankAccountEditor](./bankaccounteditorcontext.md) |
+| [BankAccountsSearch](./bankaccountssearchcontext.md) |
+| [BudgetLineEditor](./budgetlineeditorcontext.md) |
+| [BudgetLinesForAccount](./budgetlinesforaccountcontext.md) |
+| [BudgetLineTableRow](./budgetlinetablerowcontext.md) |
+| [BudgetsDrillDownTableRow](./budgetsdrilldowntablerowcontext.md) |
+| [CartEditor](./carteditorcontext.md) |
+| [CartLineTableRowEditor](./cartlinetableroweditorcontext.md) |
+| [CartsSearch](./cartssearchcontext.md) |
+| [CommunicationsSearch](./communicationssearchcontext.md) |
+| [ContactEditor](./contacteditorcontext.md) |
+| [ContactForm](./contactformcontext.md) |
+| [ContactsSearch](./contactssearchcontext.md) |
+| [CustomerEditor](./customereditorcontext.md) |
+| [CustomerForm](./customerformcontext.md) |
+| [CustomerScheduledPaymentsTableRow](./customerscheduledpaymentstablerowcontext.md) |
+| [DeviceSeriesEditor](./deviceserieseditorcontext.md) |
+| [DocumentArchiving](./documentarchivingcontext.md) |
+| [DocumentHeaderEditor](./documentheadereditorcontext.md) |
+| [DocumentLineEditor](./documentlineeditorcontext.md) |
+| [DocumentLineTableRowEditor](./documentlinetableroweditorcontext.md) |
+| [DocumentLineVariableEditor](./documentlinevariableeditorcontext.md) |
+| [DocumentReport](./documentreportcontext.md) |
+| [DocumentReportRecipient](./documentreportrecipientcontext.md) |
+| [DocumentsSearch](./documentssearchcontext.md) |
+| [ErpDocumentHeaderEditor](./erpdocumentheadereditorcontext.md) |
+| [ErpDocumentLineEditor](./erpdocumentlineeditorcontext.md) |
+| [ErpDocumentLinesReport](./erpdocumentlinesreportcontext.md) |
+| [ErpDocumentLineTableRowEditor](./erpdocumentlinetableroweditorcontext.md) |
+| [ErpDocumentLineVariableEditor](./erpdocumentlinevariableeditorcontext.md) |
+| [ErpDocumentsSearch](./erpdocumentssearchcontext.md) |
+| [FilesSearch](./filessearchcontext.md) |
+| [ItemForm](./itemformcontext.md) |
+| [ItemLotAvailabilitiesSearch](./itemlotavailabilitiessearchcontext.md) |
+| [ItemsSearch](./itemssearchcontext.md) |
+| [ItemWarehouseAvailabilitiesSearch](./itemwarehouseavailabilitiessearchcontext.md) |
+| [MarketingFormInfoPane](./marketingforminfopanecontext.md) |
+| [PromotionActivationByItemHeader](./promotionactivationbyitemheadercontext.md) |
+| [PromotionActivationLineTableRow](./promotionactivationlinetablerowcontext.md) |
+| [PromotionActivationTableRow](./promotionactivationtablerowcontext.md) |
+| [PromotionDirectActivationHeader](./promotiondirectactivationheadercontext.md) |
+| [PromotionEditorLineTableRow](./promotioneditorlinetablerowcontext.md) |
+| [PromotionInfoHeader](./promotioninfoheadercontext.md) |
+| [PromotionLineEditor](./promotionlineeditorcontext.md) |
+| [Reassortment](./reassortmentcontext.md) |
+| [ReceivableBookTableRow](./receivablebooktablerowcontext.md) |
+| [ReceivableInstallmentEditor](./receivableinstallmenteditorcontext.md) |
+| [ReceivableInstallmentsMultipleCashEditor](./receivableinstallmentsmultiplecasheditorcontext.md) |
+| [RecurrentActivitiesSearch](./recurrentactivitiessearchcontext.md) |
+| [RecurrentActivityEditor](./recurrentactivityeditorcontext.md) |
+| [SalesConditionDiscountsForCustomer](./salesconditiondiscountsforcustomercontext.md) |
+| [ServerSettingsEditor](./serversettingseditorcontext.md) |
+| [ShipmentSiteEditor](./shipmentsiteeditorcontext.md) |
