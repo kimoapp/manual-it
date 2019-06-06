@@ -41,6 +41,7 @@ Parametri supportati:
       <th style="text-align:left">Parametro</th>
       <th style="text-align:left">Descrizione</th>
       <th style="text-align:left">Tipo</th>
+      <th style="text-align:left">Obbligatorio</th>
     </tr>
   </thead>
   <tbody>
@@ -48,24 +49,29 @@ Parametri supportati:
       <td style="text-align:left">item</td>
       <td style="text-align:left">Articolo (codice)</td>
       <td style="text-align:left">string</td>
+      <td style="text-align:left">S&#xEC;</td>
     </tr>
     <tr>
       <td style="text-align:left">salesQty</td>
       <td style="text-align:left">Quantit&#xE0; di vendita</td>
       <td style="text-align:left">decimal</td>
+      <td style="text-align:left">No</td>
     </tr>
     <tr>
       <td style="text-align:left">freeGiftSalesQty</td>
       <td style="text-align:left">
-        <p>Quantit&#xE0; di vendita in omaggio</p>
-        <p>(usabile solo insieme al parametro &quot;salesQty&quot;)</p>
+        <p>Quantit&#xE0; di vendita in omaggio
+          <br />(usabile solo valorizzando anche il parametro &apos;salesQty&apos;)</p>
+        <p></p>
       </td>
       <td style="text-align:left">decimal</td>
+      <td style="text-align:left">No</td>
     </tr>
     <tr>
       <td style="text-align:left">priceList</td>
       <td style="text-align:left">Listino prezzi (codice)</td>
       <td style="text-align:left">string</td>
+      <td style="text-align:left">No</td>
     </tr>
   </tbody>
 </table>{% hint style="warning" %}
@@ -88,15 +94,15 @@ kimo://search-items
 Esempi:
 
 ```http
-kimo://search-items?items=01405
-kimo://search-items?items=01405|01406|01407
+kimo://search-items?item=01405
+kimo://search-items?item=01405&item=01406&item=13342
 ```
 
 Parametri supportati:
 
-| Parametro | Descrizione | Tipo |
-| :--- | :--- | :--- |
-| items | Elenco degli articoli, con i codici separati dal carattere '\|' | string |
+| Parametro | Descrizione | Tipo | Obbligatorio |
+| :--- | :--- | :--- | :--- |
+| item | Elenco degli articoli  \(il parametro può essere ripetuto più volte\) | string | Sì |
 
 {% hint style="warning" %}
 Se il codice articolo contiene caratteri "particolari" \(es. spazi, punti, ...\) va codificato secondo lo standard di codifica degi url [https://www.w3schools.com/tags/ref\_urlencode.asp](https://www.w3schools.com/tags/ref_urlencode.asp)  
