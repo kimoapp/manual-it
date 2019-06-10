@@ -1,15 +1,12 @@
 # DeviceSeriesEditor
 
-<br/>
-**Context:** DeviceSeriesEditorContext
-<br/>
-**Default Layout:** DeviceSettingsEditorLayout
+  
+ **Context:** DeviceSeriesEditorContext   
+ **Default Layout:** DeviceSettingsEditorLayout
 
-
-
-<br/>
 ## Campi
 
-| Id | Descrizione | 
-| --- | --- | 
+| Id | Descrizione |
+| :--- | :--- |
 | DeviceSeries |  |
+

@@ -1,16 +1,13 @@
 # BackupFilesTableRow
 
-<br/>
-**Context:** BackupFilesTableRowContext
-<br/>
-**Default Layout:** BackupFilesTableRowLayout
+  
+ **Context:** BackupFilesTableRowContext   
+ **Default Layout:** BackupFilesTableRowLayout
 
-
-
-<br/>
 ## Campi
 
-| Id | Descrizione | 
-| --- | --- | 
-| Description |  | 
+| Id | Descrizione |
+| :--- | :--- |
+| Description |  |
 | RestoreButton |  |
+

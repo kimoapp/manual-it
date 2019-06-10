@@ -1,15 +1,12 @@
 # FilesSearch
 
-<br/>
-**Context:** FilesSearchContext
-<br/>
-**Default Layout:** FilesSearchLayout
+  
+ **Context:** FilesSearchContext   
+ **Default Layout:** FilesSearchLayout
 
-
-
-<br/>
 ## Campi
 
-| Id | Descrizione | 
-| --- | --- | 
+| Id | Descrizione |
+| :--- | :--- |
 | Description |  |
+
