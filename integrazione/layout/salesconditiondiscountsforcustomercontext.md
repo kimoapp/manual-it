@@ -1,13 +1,16 @@
 # SalesConditionDiscountsForCustomer
 
-  
- **Context:** SalesConditionDiscountsForCustomerContext   
- **Default Layout:** SalesConditionDiscountsForCustomerLayout
+<br/>
+**Context:** SalesConditionDiscountsForCustomerContext
+<br/>
+**Default Layout:** SalesConditionDiscountsForCustomerLayout
 
+
+
+<br/>
 ## Campi
 
-| Id | Descrizione |
-| :--- | :--- |
-| ConditionDescription |  |
+| Id | Descrizione | 
+| --- | --- | 
+| ConditionDescription |  | 
 | Discounts |  |
-

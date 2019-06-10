@@ -1,14 +1,13 @@
 # ReceivableInstallment
-
 Scadenzario
 
-  
- **Chiavi**
+<br>
+**Chiavi**
+- *Id*
+<br><br>
 
-* _Id_
-
-| Campo | Descrizione | Tipo | Dimensione |
-| :--- | :--- | :--- | :--- |
+| Campo | Descrizione | Tipo | Dimensione | 
+| --- | --- | --- | --- | --- |
 | ActualPaymentAmount | Importo del pagamento | dec |  |
 | ActualPaymentDate | Data | date |  |
 | ActualPaymentReference | Riferimento al pagamento | text | text |
@@ -28,7 +27,7 @@ Scadenzario
 | CustomerName2 | Nome 2 | text | 100 |
 | DebitInterestAmount | Importo interessi | dec |  |
 | DebitNoteNumber | Numero | text | 50 |
-| [EntityStatus](receivableinstallment.md#entitystatus) | Campo che definisce lo stato del record | enum |  |
+| [EntityStatus](#entitystatus) | Campo che definisce lo stato del record | enum |  |
 | ExpiryDate | Data di scadenza | date |  |
 | FreeBoolean1 | Campo booleano libero | bool |  |
 | FreeBoolean2 | Campo booleano libero | bool |  |
@@ -57,7 +56,7 @@ Scadenzario
 | PaidAmount | Importo pagato | dec |  |
 | PaidDate | Data pagamento | date |  |
 | PaymentForcedlyClosed | Indica una chiusura forzata della rata | bool |  |
-| [PaymentStatus](receivableinstallment.md#paymentstatus) | Stato del pagamento | enum |  |
+| [PaymentStatus](#paymentstatus) | Stato del pagamento | enum |  |
 | PaymentTypeId | Tipo pagamento atteso | text | 50 |
 | ReceivableDate | Data | date |  |
 | ReceivableId | Id | text | 50 |
@@ -73,23 +72,10 @@ Scadenzario
 | UnpaidReference | Riferimento | text | 50 |
 | UploadToServerTimeStamp |  | dt |  |
 
-## EntityStatus
-
-0: ImportedFromErp  
-1: ExportedToErp  
-2: ImportedByErp  
-3: ExportingToErp  
-4: Deleted  
-5: CommittingExportToErp  
-6: ToExportToErp  
-7: Editing  
-8: UploadedToServer  
-10: EditingPending
-
-## PaymentStatus
-
-0: ToPay  
-1: Paid  
-2: Unpaid  
-3: PaidOnKimo
+EntityStatus
+---
+0: ImportedFromErp<br>1: ExportedToErp<br>2: ImportedByErp<br>3: ExportingToErp<br>4: Deleted<br>5: CommittingExportToErp<br>6: ToExportToErp<br>7: Editing<br>8: UploadedToServer<br>10: EditingPending
+PaymentStatus
+---
+0: ToPay<br>1: Paid<br>2: Unpaid<br>3: PaidOnKimo
 
