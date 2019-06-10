@@ -3,9 +3,7 @@
 Kimo supporta delle operazioni "interattive" sui cataloghi esportati come file PDF. In particolare è possibile:
 
 1. Inserire gli articoli nei documenti di vendita cliccando sul PDF.
-2. Ricercare articoli specifici nel catalogo di Kimo cliccando su un'area del PDF.  
-
-![](https://kimostorage.blob.core.windows.net/kimomanual/Images/PDF%20Catalog.gif)
+2. Ricercare articoli specifici nel catalogo di Kimo cliccando su un'area del PDF. 
 
 Il PDF conterrà dei link in concomitanza di specifiche aree: il formato di questi link farà sì che si scatenerà l'operazione richiesta, come l'inserimento dell'articolo nel documento.
 
