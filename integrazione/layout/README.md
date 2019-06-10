@@ -1,244 +1,159 @@
 # Layout per l'app SFA
 
-## AccountActivity
+## Attività
 
-* **TableRow**
-  * [AccountActivitiesTableRow](./accountactivitiestablerowcontext.md)
 * **Search**
+  * [AccountActivitiesTableRow](./accountactivitiestablerowcontext.md)
   * [ActivitiesSearch](./activitiessearchcontext.md)
+  * [RecurrentActivitiesSearch](./recurrentactivitiessearchcontext.md)
 * **Editor**
   * [ActivityEditor](./activityeditorcontext.md)
+  * [RecurrentActivityEditor](./recurrentactivityeditorcontext.md)
+* **Info**
+  * [ActivityToPlan](./activitytoplancontext.md)
 
 ## Account (Clienti, Prospect, Destinazioni Merci)
 
 * **Search**
   * [AccountsSearch](./accountssearchcontext.md)
+* **Editor**
+  * [CustomerEditor](./customereditorcontext.md)
+  * [ShipmentSiteEditor](./shipmentsiteeditorcontext.md)
+* **Info**
+  * [CustomerForm](./customerformcontext.md)
 
-## ActivityToPlan
+## Backup
 
 * **Info**
-  * [ActivityToPlan](./activitytoplancontext.md)
-
-## BackupFile
-
-* **TableRow**
   * [BackupFilesTableRow](./backupfilestablerowcontext.md)
 
-## Bank
+## Banca (Coordinate bancarie, ...)
 
-* **TableRowEditor**
+* **Editor**
   * [BankAccountEditor](./bankaccounteditorcontext.md)
 * **Search**
   * [BankAccountsSearch](./bankaccountssearchcontext.md)
 
-## BudgetLine
+## Budget
 
 * **Editor**
   * [BudgetLineEditor](./budgetlineeditorcontext.md)
-* **TableRow**
-  * [BudgetLineTableRow](./budgetlinetablerowcontext.md)
-
-## BudgetLineForAccountt
-
-* **TableRow**
+* **Info**
   * [BudgetLinesForAccount](./budgetlinesforaccountcontext.md)
-
-## BudgetsDrillDown
-
-* **TableRowEditor**
+  * [BudgetLineTableRow](./budgetlinetablerowcontext.md)
   * [BudgetsDrillDownTableRow](./budgetsdrilldowntablerowcontext.md)
 
-## Cart
+## Carrelli
 
 * **Editor**
   * [CartEditor](./carteditorcontext.md)
+* **EditorLines**
+  * [CartLineTableRowEditor](./cartlinetableroweditorcontext.md)
 * **Search**
   * [CartsSearch](./cartssearchcontext.md)
 
-## CartLine
+## Comunicazioni
 
-* **TableRowEditor**
-  * [CartLineTableRowEditor](./cartlinetableroweditorcontext.md)
-
-## CommunicationSearch
-
-* **Info**
+* **Search**
   * [CommunicationsSearch](./communicationssearchcontext.md)
 
-## Contact
+## Contatti
 
 * **Editor**
   * [ContactEditor](./contacteditorcontext.md)
-* **Form**
+* **Info**
   * [ContactForm](./contactformcontext.md)
 * **Search**
   * [ContactsSearch](./contactssearchcontext.md)
 
-## Customer
+## Partite Aperte / Insoluti
 
-* **Editor**
-  * [CustomerEditor](./customereditorcontext.md)
-* **Form**
-  * [CustomerForm](./customerformcontext.md)
-
-## CustomerScheduledPayment
-
-* **TableRow**
+* **Info**
   * [CustomerScheduledPaymentsTableRow](./customerscheduledpaymentstablerowcontext.md)
+  * [ReceivableBookTableRow](./receivablebooktablerowcontext.md)
+* **Editor**
+  * [ReceivableInstallmentEditor](./receivableinstallmenteditorcontext.md)
+  * [ReceivableInstallmentsMultipleCashEditor](./receivableinstallmentsmultiplecasheditorcontext.md)
 
-## DeviceSeries
+## Impostazioni
 
 * **Editor**
   * [DeviceSeriesEditor](./deviceserieseditorcontext.md)
+  * [ServerSettingsEditor](./serversettingseditorcontext.md)
 
-## DocumentArchiving
+## Documenti di vendita
 
-* **Info**
+* **Editor**
   * [DocumentArchiving](./documentarchivingcontext.md)
-
-## DocumentHeader
-
-* **Editor**
   * [DocumentHeaderEditor](./documentheadereditorcontext.md)
-
-## DocumentLine
-
-* **Editor**
+* **LineEditor**
   * [DocumentLineEditor](./documentlineeditorcontext.md)
   * [DocumentLineVariableEditor](./documentlinevariableeditorcontext.md)
-* **TableRowEditor**
+* **EditorLines**
   * [DocumentLineTableRowEditor](./documentlinetableroweditorcontext.md)
-
-## DocumentReport
-
-* **Info**
+* **Report**
   * [DocumentReport](./documentreportcontext.md)
-
-## DocumentReportRecipient
-
-* **Info**
   * [DocumentReportRecipient](./documentreportrecipientcontext.md)
-
-## Document
-
 * **Search**
   * [DocumentsSearch](./documentssearchcontext.md)
 
-## ErpDocumentHeader
+## Documenti da Erp
 
 * **Editor**
   * [ErpDocumentHeaderEditor](./erpdocumentheadereditorcontext.md)
-
-## ErpDocumentLine
-
-* **Editor**
+* **LineEditor**
   * [ErpDocumentLineEditor](./erpdocumentlineeditorcontext.md)
   * [ErpDocumentLineVariableEditor](./erpdocumentlinevariableeditorcontext.md)
 * **Report**
   * [ErpDocumentLinesReport](./erpdocumentlinesreportcontext.md)
-* **TableRowEditor**
+* **EditorLines**
   * [ErpDocumentLineTableRowEditor](./erpdocumentlinetableroweditorcontext.md)
-
-## ErpDocument
-
 * **Search**
   * [ErpDocumentsSearch](./erpdocumentssearchcontext.md)
 
-## File
+## File / documenti
 
 * **Search**
   * [FilesSearch](./filessearchcontext.md)
 
-## Item
+## Articoli
 
-* **Form**
+* **Info**
   * [ItemForm](./itemformcontext.md)
 * **Search**
   * [ItemsSearch](./itemssearchcontext.md)
 
-## ItemLotAvailability
+## Disponibilità articoli
 
-* **Search**
+* **Info**
   * [ItemLotAvailabilitiesSearch](./itemlotavailabilitiessearchcontext.md)
-
-## ItemWarehouseAvailability
-
-* **Search**
   * [ItemWarehouseAvailabilitiesSearch](./itemwarehouseavailabilitiessearchcontext.md)
 
-## MarketingFormInfoPane
+## Schede Marketing
 
 * **Info**
   * [MarketingFormInfoPane](./marketingforminfopanecontext.md)
 
-## PromotionActivation
+## Promozioni
 
 * **Info**
   * [PromotionActivationByItemHeader](./promotionactivationbyitemheadercontext.md)
-* **TableRow**
-  * [PromotionActivationTableRow](./promotionactivationtablerowcontext.md)
-
-## PromotionActivationLine
-
-* **TableRow**
   * [PromotionActivationLineTableRow](./promotionactivationlinetablerowcontext.md)
-
-## PromotionDirectActivationHeader
-
-* **Info**
+  * [PromotionActivationTableRow](./promotionactivationtablerowcontext.md)
   * [PromotionDirectActivationHeader](./promotiondirectactivationheadercontext.md)
-
-## PromotionLineEditor
-
-* **TableRow**
+  * [PromotionInfoHeader](./promotioninfoheadercontext.md)
+* **EditorLines**
   * [PromotionEditorLineTableRow](./promotioneditorlinetablerowcontext.md)
-* **Editor**
+* **LineEditor**
   * [PromotionLineEditor](./promotionlineeditorcontext.md)
 
-## PromotionInfoHeader
-
-* **Info**
-  * [PromotionInfoHeader](./promotioninfoheadercontext.md)
-
-## Reassortment
+## Riassortimenti
 
 * **Info**
   * [Reassortment](./reassortmentcontext.md)
 
-## ReceivableBook
-
-* **TableRow**
-  * [ReceivableBookTableRow](./receivablebooktablerowcontext.md)
-
-## ReceivableInstallment
-
-* **Editor**
-  * [ReceivableInstallmentEditor](./receivableinstallmenteditorcontext.md)
-
-## ReceivableInstallmentsMultipleCashEditor
-
-* **Editor**
-  * [ReceivableInstallmentsMultipleCashEditor](./receivableinstallmentsmultiplecasheditorcontext.md)
-
-## RecurrentActivity
-
-* **Search**
-  * [RecurrentActivitiesSearch](./recurrentactivitiessearchcontext.md)
-* **Editor**
-  * [RecurrentActivityEditor](./recurrentactivityeditorcontext.md)
-
-## SalesConditionDiscountForCustomer
+## Condizioni di vendita
 
 * **Info**
   * [SalesConditionDiscountsForCustomer](./salesconditiondiscountsforcustomercontext.md)
-
-## ServerSetting
-
-* **Editor**
-  * [ServerSettingsEditor](./serversettingseditorcontext.md)
-
-## Shipment
-
-* **Editor**
-  * [ShipmentSiteEditor](./shipmentsiteeditorcontext.md)
 
