@@ -4,24 +4,18 @@
 
 * [Attività](./#attivita)
 * [Account (Clienti, Prospect, Destinazioni Merci)](./#account-clienti-prospect-destinazioni-merci)
-* [Backup](./#backup)
 * [Banca (Coordinate bancarie, ...)](./#banca-coordinate-bancarie)
 * [Budget](./#budget)
 * [Carrelli](./#carrelli)
 * [Comunicazioni](./#comunicazioni)
 * [Contatti](./#contatti)
 * [Partite Aperte / Insoluti](./#partite-aperte-insoluti)
-* [Impostazioni](./#impostazioni)
 * [Documenti di vendita](./#documenti-di-vendita)
 * [Documenti da Erp](./#documenti-da-erp)
-* [File / documenti](./#file-documenti)
 * [Articoli (Catalogo)](./#articoli-catalogo)
 * [Disponibilità articoli](./#disponibilita-articoli)
-* [Schede Marketing](./#schede-marketing)
 * [Promozioni](./#promozioni)
 * [Riassortimenti](./#riassortimenti)
-* [Attività Ricorrenti](./#attivita-ricorrenti)
-* [Condizioni di vendita](./#condizioni-di-vendita)
 
 ## Attività
 
@@ -42,11 +36,6 @@
   * [ShipmentSiteEditor](./shipmentsiteeditorcontext.md)
 * **Info**
   * [CustomerForm](./customerformcontext.md)
-
-## Backup
-
-* **Info**
-  * [BackupFilesTableRow](./backupfilestablerowcontext.md)
 
 ## Banca (Coordinate bancarie, ...)
 
@@ -97,12 +86,6 @@
   * [ReceivableInstallmentEditor](./receivableinstallmenteditorcontext.md)
   * [ReceivableInstallmentsMultipleCashEditor](./receivableinstallmentsmultiplecasheditorcontext.md)
 
-## Impostazioni
-
-* **Editor**
-  * [DeviceSeriesEditor](./deviceserieseditorcontext.md)
-  * [ServerSettingsEditor](./serversettingseditorcontext.md)
-
 ## Documenti di vendita
 
 * **Editor**
@@ -133,11 +116,6 @@
 * **Search**
   * [ErpDocumentsSearch](./erpdocumentssearchcontext.md)
 
-## File / documenti
-
-* **Search**
-  * [FilesSearch](./filessearchcontext.md)
-
 ## Articoli (Catalogo)
 
 * **Info**
@@ -150,11 +128,6 @@
 * **Info**
   * [ItemLotAvailabilitiesSearch](./itemlotavailabilitiessearchcontext.md)
   * [ItemWarehouseAvailabilitiesSearch](./itemwarehouseavailabilitiessearchcontext.md)
-
-## Schede Marketing
-
-* **Info**
-  * [MarketingFormInfoPane](./marketingforminfopanecontext.md)
 
 ## Promozioni
 
@@ -173,16 +146,4 @@
 
 * **Info**
   * [Reassortment](./reassortmentcontext.md)
-
-## Attività Ricorrenti
-
-* **Search**
-  * [RecurrentActivitiesSearch](./recurrentactivitiessearchcontext.md)
-* **Editor**
-  * [RecurrentActivityEditor](./recurrentactivityeditorcontext.md)
-
-## Condizioni di vendita
-
-* **Info**
-  * [SalesConditionDiscountsForCustomer](./salesconditiondiscountsforcustomercontext.md)
 
