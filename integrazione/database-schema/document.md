@@ -1,12 +1,13 @@
 # Document
 
-  
- **Chiavi**
 
-* _Id_
+<br>
+**Chiavi**
+- *Id*
+<br><br>
 
-| Campo | Descrizione | Tipo | Dimensione |
-| :--- | :--- | :--- | :--- |
+| Campo | Descrizione | Tipo | Dimensione | 
+| --- | --- | --- | --- | --- |
 | AccountAddressCity | Città | text | 40 |
 | AccountAddressCountry | Paese | text | 20 |
 | AccountAddressCountrySubdivision | Provincia | text | 20 |
@@ -23,7 +24,7 @@
 | AgreedAmount | Importo concordato | dec |  |
 | Amount | Totale documento | dec |  |
 | AmountIncludingVat | Totale documento incluso di IVA | dec |  |
-| [AppOrigin](document.md#apporigin) | Codice CIG | enum |  |
+| [AppOrigin](#apporigin) | Codice CIG | enum |  |
 | ArchivingNotes | Note per il motivo di archiviazione | text | text |
 | ArchivingReasonId | Id della causale di archiviazione | text | 50 |
 | AvailabilityRuleId | Id della regola di disponibilità | text | 50 |
@@ -63,14 +64,14 @@
 | DiscountOverRetailAmount | Sconto su imponibile retail | dec |  |
 | DiscountOverRetailAmountIncludingVat | Sconto su importo retail IVA compresa | dec |  |
 | DocumentDate | Data documento | date |  |
-| [DocumentFamilyId](document.md#documentfamilyid) | Id della famiglia documento | enum |  |
+| [DocumentFamilyId](#documentfamilyid) | Id della famiglia documento | enum |  |
 | DocumentMarkup | Ricarico | dec |  |
 | DocumentMarkupOnNetCost | Margine | dec |  |
 | DocumentReference | Documento di riferimento | text | text |
-| [DocumentStatus](document.md#documentstatus) | Stato del documento | enum |  |
+| [DocumentStatus](#documentstatus) | Stato del documento | enum |  |
 | DocumentTypeId | Id del tipo documento | text | 50 |
 | EndShipmentDate | Fine data spedizione | date |  |
-| [EntityStatus](document.md#entitystatus) | Campo che definisce lo stato del record | enum |  |
+| [EntityStatus](#entitystatus) | Campo che definisce lo stato del record | enum |  |
 | ExpectedClosingDate |  | date |  |
 | FixedDiscount | Sconto importo | dec |  |
 | FreeBoolean1 | Campo booleano libero | bool |  |
@@ -142,7 +143,7 @@
 | SeasonGroupId | Id del gruppo stagioni | text | 50 |
 | SeasonId | Id della stagione | text | 50 |
 | ShipmentDescription | Descrizione spedizione | text | text |
-| ShipmentMethodId | Id del metodo di spedizione \(porto\) | text | 50 |
+| ShipmentMethodId | Id del metodo di spedizione (porto) | text | 50 |
 | ShipmentSiteAddressCity | Città | text | 40 |
 | ShipmentSiteAddressCountry | Paese | text | 20 |
 | ShipmentSiteAddressCountrySubdivision | Provincia | text | 20 |
@@ -160,7 +161,7 @@
 | ShippingChargesAmount | Spese di spedizione | dec |  |
 | ShippingChargesVatRateId | Aliquota IVA per le spese di spedizione | text | 50 |
 | SourceReference | Documento di origine | text | 50 |
-| [SourceReferenceType](document.md#sourcereferencetype) |  | enum |  |
+| [SourceReferenceType](#sourcereferencetype) |  | enum |  |
 | StartShipmentDate | Data inizio spedizione | date |  |
 | SyncReference | Riferimento | text | 50 |
 | TotalAverageDiscount | Sconto medio totale | dec |  |
@@ -173,44 +174,19 @@
 | VatRateValue | Valore aliquota | dec |  |
 | WarehouseId | Id del magazzino | text | 50 |
 
-## AppOrigin
-
-0: Undefined  
-1: B2b
-
-## DocumentFamilyId
-
-1: SalesOrders  
-2: SalesQuotes  
-3: SalesInvoices  
-4: NoteCredito  
-5: DDT  
-6: Inventories  
-7: WorkSessions
-
-## DocumentStatus
-
-0: Open  
-1: Confirmed  
-2: SalesQuoteTransformedToOrder  
-3: Archived
-
-## EntityStatus
-
-0: ImportedFromErp  
-1: ExportedToErp  
-2: ImportedByErp  
-3: ExportingToErp  
-4: Deleted  
-5: CommittingExportToErp  
-6: ToExportToErp  
-7: Editing  
-8: UploadedToServer  
-10: EditingPending
-
-## SourceReferenceType
-
-0: Undefined  
-1: FromSalesQuote  
-2: Budget
+AppOrigin
+---
+0: Undefined<br>1: B2b
+DocumentFamilyId
+---
+1: SalesOrders<br>2: SalesQuotes<br>3: SalesInvoices<br>4: NoteCredito<br>5: DDT<br>6: Inventories<br>7: WorkSessions
+DocumentStatus
+---
+0: Open<br>1: Confirmed<br>2: SalesQuoteTransformedToOrder<br>3: Archived
+EntityStatus
+---
+0: ImportedFromErp<br>1: ExportedToErp<br>2: ImportedByErp<br>3: ExportingToErp<br>4: Deleted<br>5: CommittingExportToErp<br>6: ToExportToErp<br>7: Editing<br>8: UploadedToServer<br>10: EditingPending
+SourceReferenceType
+---
+0: Undefined<br>1: FromSalesQuote<br>2: Budget
 

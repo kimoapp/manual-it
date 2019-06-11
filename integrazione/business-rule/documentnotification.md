@@ -1,31 +1,29 @@
 # DocumentNotification
+| Valore| Descrizione |
+| --- | --- |
+| **[OnConfirmedDocumentTypes](#onconfirmeddocumenttypes)** |  |
+| **[OnConfirmedMailBccRecipients](#onconfirmedmailbccrecipients)** |  |
+| **[OnConfirmedMailBodyTemplate](#onconfirmedmailbodytemplate)** |  |
+| **[OnConfirmedMailRecipients](#onconfirmedmailrecipients)** |  |
+| **[OnConfirmedMailSubjectTemplate](#onconfirmedmailsubjecttemplate)** |  |
+| **[OnConfirmedReportType](#onconfirmedreporttype)** |  |
+| **[OnConfirmedSendMailToCreator](#onconfirmedsendmailtocreator)** |  |
+| **[OnConfirmedSendMailToCreatorRecipientMails](#onconfirmedsendmailtocreatorrecipientmails)** |  |
+| **[SendOnConfirmed](#sendonconfirmed)** |  |
 
-| Valore | Descrizione |
-| :--- | :--- |
-| [**OnConfirmedDocumentTypes**](documentnotification.md#onconfirmeddocumenttypes) |  |
-| [**OnConfirmedMailBccRecipients**](documentnotification.md#onconfirmedmailbccrecipients) |  |
-| [**OnConfirmedMailBodyTemplate**](documentnotification.md#onconfirmedmailbodytemplate) |  |
-| [**OnConfirmedMailRecipients**](documentnotification.md#onconfirmedmailrecipients) |  |
-| [**OnConfirmedMailSubjectTemplate**](documentnotification.md#onconfirmedmailsubjecttemplate) |  |
-| [**OnConfirmedReportType**](documentnotification.md#onconfirmedreporttype) |  |
-| [**OnConfirmedSendMailToCreator**](documentnotification.md#onconfirmedsendmailtocreator) |  |
-| [**OnConfirmedSendMailToCreatorRecipientMails**](documentnotification.md#onconfirmedsendmailtocreatorrecipientmails) |  |
-| [**SendOnConfirmed**](documentnotification.md#sendonconfirmed) |  |
+OnConfirmedDocumentTypes 
+-----
+**Tipo:** Valori separati da pipe	 
 
-## OnConfirmedDocumentTypes
+OnConfirmedMailBccRecipients 
+-----
+**Tipo:** String	 
 
-**Tipo:** Valori separati da pipe
-
-## OnConfirmedMailBccRecipients
-
-**Tipo:** String
-
-## OnConfirmedMailBodyTemplate
-
-**Tipo:** Template  
-**Valore di default:** ${DocumentType} '${DocumentNumber}' confermato!  
+OnConfirmedMailBodyTemplate 
+-----
+**Tipo:** Template	 
+**Valore di default:** ${DocumentType} '${DocumentNumber}' confermato!	 
 **Valori:**
-
 * AccountCode
 * AccountFreeText
 * AccountName
@@ -40,16 +38,15 @@
 * ShipmentSiteFreeText
 * ShipmentSiteName
 
-## OnConfirmedMailRecipients
+OnConfirmedMailRecipients 
+-----
+**Tipo:** String	 
 
-**Tipo:** String
-
-## OnConfirmedMailSubjectTemplate
-
-**Tipo:** Template  
-**Valore di default:** ${DocumentType} '${DocumentNumber}' confermato!  
+OnConfirmedMailSubjectTemplate 
+-----
+**Tipo:** Template	 
+**Valore di default:** ${DocumentType} '${DocumentNumber}' confermato!	 
 **Valori:**
-
 * AccountCode
 * AccountFreeText
 * AccountName
@@ -64,33 +61,31 @@
 * ShipmentSiteFreeText
 * ShipmentSiteName
 
-## OnConfirmedReportType
+OnConfirmedReportType 
+-----
+**Tipo:** String	 
 
-**Tipo:** String
-
-## OnConfirmedSendMailToCreator
-
-**Tipo:** Enum  
-**Valore di default:** 0  
+OnConfirmedSendMailToCreator 
+-----
+**Tipo:** Enum	 
+**Valore di default:** 0	 
 **Valori:**
+* 0 => None
+* 1 => To
+* 2 => Cc
+* 3 => Bcc
 
-* 0 =&gt; None
-* 1 =&gt; To
-* 2 =&gt; Cc
-* 3 =&gt; Bcc
-
-## OnConfirmedSendMailToCreatorRecipientMails
-
-**Tipo:** Enum  
-**Valore di default:** 0  
+OnConfirmedSendMailToCreatorRecipientMails 
+-----
+**Tipo:** Enum	 
+**Valore di default:** 0	 
 **Valori:**
+* 0 => None
+* 1 => To
+* 2 => Cc
+* 3 => Bcc
 
-* 0 =&gt; None
-* 1 =&gt; To
-* 2 =&gt; Cc
-* 3 =&gt; Bcc
-
-## SendOnConfirmed
-
+SendOnConfirmed 
+-----
 **Tipo:** Boolean
 
