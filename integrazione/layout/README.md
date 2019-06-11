@@ -1,24 +1,26 @@
 # Layout per l'app SFA
 
-* [Attività](./#attività)
+## Elenco sezioni
+
+* [Attività](./#attivita)
 * [Account (Clienti, Prospect, Destinazioni Merci)](./#account-clienti-prospect-destinazioni-merci)
 * [Backup](./#backup)
-* [Banca (Coordinate bancarie, ...)](./#banca-coordinate-bancarie-...)
+* [Banca (Coordinate bancarie, ...)](./#banca-coordinate-bancarie)
 * [Budget](./#budget)
 * [Carrelli](./#carrelli)
 * [Comunicazioni](./#comunicazioni)
 * [Contatti](./#contatti)
-* [Partite Aperte / Insoluti](./#partite-aperte-/-insoluti)
+* [Partite Aperte / Insoluti](./#partite-aperte-insoluti)
 * [Impostazioni](./#impostazioni)
 * [Documenti di vendita](./#documenti-di-vendita)
 * [Documenti da Erp](./#documenti-da-erp)
-* [File / documenti](./#file-/-documenti)
+* [File / documenti](./#file-documenti)
 * [Articoli (Catalogo)](./#articoli-catalogo)
-* [Disponibilità articoli](./#disponibilità-articoli)
+* [Disponibilità articoli](./#disponibilita-articoli)
 * [Schede Marketing](./#schede-marketing)
 * [Promozioni](./#promozioni)
 * [Riassortimenti](./#riassortimenti)
-* [Attività Ricorrenti](./#attività-ricorrenti)
+* [Attività Ricorrenti](./#attivita-ricorrenti)
 * [Condizioni di vendita](./#condizioni-di-vendita)
 
 ## Attività
