@@ -2,148 +2,148 @@
 
 ## Elenco sezioni
 
-* [Attività](./#attivita)
 * [Account (Clienti, Prospect, Destinazioni Merci)](./#account-clienti-prospect-destinazioni-merci)
+* [Articoli (Catalogo)](./#articoli-catalogo)
+* [Attività](./#attivita)
 * [Banca (Coordinate bancarie, ...)](./#banca-coordinate-bancarie)
 * [Budget](./#budget)
 * [Carrelli](./#carrelli)
 * [Comunicazioni](./#comunicazioni)
 * [Contatti](./#contatti)
-* [Partite Aperte / Insoluti](./#partite-aperte-insoluti)
-* [Documenti di vendita](./#documenti-di-vendita)
-* [Documenti da Erp](./#documenti-da-erp)
-* [Articoli (Catalogo)](./#articoli-catalogo)
 * [Disponibilità articoli](./#disponibilita-articoli)
+* [Documenti da Erp](./#documenti-da-erp)
+* [Documenti di vendita](./#documenti-di-vendita)
+* [Partite Aperte / Insoluti](./#partite-aperte-insoluti)
 * [Promozioni](./#promozioni)
 * [Riassortimenti](./#riassortimenti)
 
-## Attività
-
-* **Search**
-  * [AccountActivitiesTableRow](./accountactivitiestablerowcontext.md)
-  * [ActivitiesSearch](./activitiessearchcontext.md)
-* **Editor**
-  * [ActivityEditor](./activityeditorcontext.md)
-* **Info**
-  * [ActivityToPlan](./activitytoplancontext.md)
-
 ## Account (Clienti, Prospect, Destinazioni Merci)
 
-* **Search**
-  * [AccountsSearch](./accountssearchcontext.md)
 * **Editor**
   * [CustomerEditor](./customereditorcontext.md)
   * [ShipmentSiteEditor](./shipmentsiteeditorcontext.md)
-* **Info**
+* **Elenchi / ricerca**
+  * [AccountsSearch](./accountssearchcontext.md)
+* **Informazioni**
   * [CustomerForm](./customerformcontext.md)
+
+## Articoli (Catalogo)
+
+* **Elenchi / ricerca**
+  * [ItemsSearch](./itemssearchcontext.md)
+* **Informazioni**
+  * [ItemForm](./itemformcontext.md)
+
+## Attività
+
+* **Editor**
+  * [ActivityEditor](./activityeditorcontext.md)
+* **Elenchi / ricerca**
+  * [AccountActivitiesTableRow](./accountactivitiestablerowcontext.md)
+  * [ActivitiesSearch](./activitiessearchcontext.md)
+* **Informazioni**
+  * [ActivityToPlan](./activitytoplancontext.md)
 
 ## Banca (Coordinate bancarie, ...)
 
 * **Editor**
   * [BankAccountEditor](./bankaccounteditorcontext.md)
-* **Search**
+* **Elenchi / ricerca**
   * [BankAccountsSearch](./bankaccountssearchcontext.md)
 
 ## Budget
 
+* **Drill-down**
+  * [BudgetsDrillDownTableRow](./budgetsdrilldowntablerowcontext.md)
 * **Editor**
   * [BudgetLineEditor](./budgetlineeditorcontext.md)
-* **Info**
-  * [BudgetLinesForAccount](./budgetlinesforaccountcontext.md)
+* **Informazioni**
   * [BudgetLineTableRow](./budgetlinetablerowcontext.md)
-* **DrillDown**
-  * [BudgetsDrillDownTableRow](./budgetsdrilldowntablerowcontext.md)
+  * [BudgetLinesForAccount](./budgetlinesforaccountcontext.md)
 
 ## Carrelli
 
 * **Editor**
   * [CartEditor](./carteditorcontext.md)
-* **EditorLines**
+* **Editor > Elenco righe**
   * [CartLineTableRowEditor](./cartlinetableroweditorcontext.md)
-* **Search**
+* **Elenchi / ricerca**
   * [CartsSearch](./cartssearchcontext.md)
 
 ## Comunicazioni
 
-* **Search**
+* **Elenchi / ricerca**
   * [CommunicationsSearch](./communicationssearchcontext.md)
 
 ## Contatti
 
 * **Editor**
   * [ContactEditor](./contacteditorcontext.md)
-* **Info**
-  * [ContactForm](./contactformcontext.md)
-* **Search**
+* **Elenchi / ricerca**
   * [ContactsSearch](./contactssearchcontext.md)
+* **Informazioni**
+  * [ContactForm](./contactformcontext.md)
 
-## Partite Aperte / Insoluti
+## Disponibilità articoli
 
-* **Info**
-  * [CustomerScheduledPaymentsTableRow](./customerscheduledpaymentstablerowcontext.md)
-  * [ReceivableBookTableRow](./receivablebooktablerowcontext.md)
+* **Informazioni**
+  * [ItemLotAvailabilitiesSearch](./itemlotavailabilitiessearchcontext.md)
+  * [ItemWarehouseAvailabilitiesSearch](./itemwarehouseavailabilitiessearchcontext.md)
+
+## Documenti da Erp
+
 * **Editor**
-  * [ReceivableInstallmentEditor](./receivableinstallmenteditorcontext.md)
-  * [ReceivableInstallmentsMultipleCashEditor](./receivableinstallmentsmultiplecasheditorcontext.md)
+  * [ErpDocumentHeaderEditor](./erpdocumentheadereditorcontext.md)
+* **Editor > Elenco righe**
+  * [ErpDocumentLineTableRowEditor](./erpdocumentlinetableroweditorcontext.md)
+* **Editor > Riga**
+  * [ErpDocumentLineEditor](./erpdocumentlineeditorcontext.md)
+  * [ErpDocumentLineVariableEditor](./erpdocumentlinevariableeditorcontext.md)
+* **Elenchi / ricerca**
+  * [ErpDocumentsSearch](./erpdocumentssearchcontext.md)
+* **Report**
+  * [ErpDocumentLinesReport](./erpdocumentlinesreportcontext.md)
 
 ## Documenti di vendita
 
 * **Editor**
   * [DocumentArchiving](./documentarchivingcontext.md)
   * [DocumentHeaderEditor](./documentheadereditorcontext.md)
-* **LineEditor**
+* **Editor > Elenco righe**
+  * [DocumentLineTableRowEditor](./documentlinetableroweditorcontext.md)
+* **Editor > Riga**
   * [DocumentLineEditor](./documentlineeditorcontext.md)
   * [DocumentLineVariableEditor](./documentlinevariableeditorcontext.md)
-* **EditorLines**
-  * [DocumentLineTableRowEditor](./documentlinetableroweditorcontext.md)
+* **Elenchi / ricerca**
+  * [DocumentsSearch](./documentssearchcontext.md)
 * **Report**
   * [DocumentReport](./documentreportcontext.md)
   * [DocumentReportRecipient](./documentreportrecipientcontext.md)
-* **Search**
-  * [DocumentsSearch](./documentssearchcontext.md)
 
-## Documenti da Erp
+## Partite Aperte / Insoluti
 
 * **Editor**
-  * [ErpDocumentHeaderEditor](./erpdocumentheadereditorcontext.md)
-* **LineEditor**
-  * [ErpDocumentLineEditor](./erpdocumentlineeditorcontext.md)
-  * [ErpDocumentLineVariableEditor](./erpdocumentlinevariableeditorcontext.md)
-* **Report**
-  * [ErpDocumentLinesReport](./erpdocumentlinesreportcontext.md)
-* **EditorLines**
-  * [ErpDocumentLineTableRowEditor](./erpdocumentlinetableroweditorcontext.md)
-* **Search**
-  * [ErpDocumentsSearch](./erpdocumentssearchcontext.md)
-
-## Articoli (Catalogo)
-
-* **Info**
-  * [ItemForm](./itemformcontext.md)
-* **Search**
-  * [ItemsSearch](./itemssearchcontext.md)
-
-## Disponibilità articoli
-
-* **Info**
-  * [ItemLotAvailabilitiesSearch](./itemlotavailabilitiessearchcontext.md)
-  * [ItemWarehouseAvailabilitiesSearch](./itemwarehouseavailabilitiessearchcontext.md)
+  * [ReceivableInstallmentEditor](./receivableinstallmenteditorcontext.md)
+  * [ReceivableInstallmentsMultipleCashEditor](./receivableinstallmentsmultiplecasheditorcontext.md)
+* **Informazioni**
+  * [CustomerScheduledPaymentsTableRow](./customerscheduledpaymentstablerowcontext.md)
+  * [ReceivableBookTableRow](./receivablebooktablerowcontext.md)
 
 ## Promozioni
 
-* **Info**
+* **Editor > Elenco righe**
+  * [PromotionEditorLineTableRow](./promotioneditorlinetablerowcontext.md)
+* **Editor > Riga**
+  * [PromotionLineEditor](./promotionlineeditorcontext.md)
+* **Informazioni**
   * [PromotionActivationByItemHeader](./promotionactivationbyitemheadercontext.md)
   * [PromotionActivationLineTableRow](./promotionactivationlinetablerowcontext.md)
   * [PromotionActivationTableRow](./promotionactivationtablerowcontext.md)
   * [PromotionDirectActivationHeader](./promotiondirectactivationheadercontext.md)
   * [PromotionInfoHeader](./promotioninfoheadercontext.md)
-* **EditorLines**
-  * [PromotionEditorLineTableRow](./promotioneditorlinetablerowcontext.md)
-* **LineEditor**
-  * [PromotionLineEditor](./promotionlineeditorcontext.md)
 
 ## Riassortimenti
 
-* **Info**
+* **Informazioni**
   * [Reassortment](./reassortmentcontext.md)
 
