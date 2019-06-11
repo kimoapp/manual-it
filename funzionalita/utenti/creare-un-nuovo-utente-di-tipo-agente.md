@@ -18,7 +18,7 @@ Una volta premuto il pulsante "Crea" sarà creato l'utente ed inviata una mail a
 
 Successivamente alla creazione del nuovo utente, accedere alla maschera di dettaglio \(tramite il pulsante![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/22000944744/original/4x9HKCgjY3XGNWMcPqpU72T_RzvTC8lGyw.png?1485475532)presente nella lista degli utenti\) per impostare le ulteriori informazioni \(es. layout, serie numeratore, ...\) come da maschera seguente:
 
-![](../../.gitbook/assets/image%20%283%29.png)
+![](../../.gitbook/assets/image%20%2816%29.png)
 
-Al termine della creazione dell'utente è necessario effettuare una "Preparazione dati di sync"; per fare ciò selezionare dal menù in alto a destra la voce "Mobile" e poi richiedere la sincronizzazione. Questa procedura può essere di durata variabile in base ai dati presenti nel database \(solitamente compresa tra i 15 e i 30 minuti\).
+Al termine della creazione dell'utente è necessario effettuare una "Preparazione dati di sync"; per fare ciò selezionare dal menù in alto a destra la voce "Import" e successivamente eseguire lo step 3 \(Preparazione dati di sync\). Questa procedura può essere di durata variabile in base ai dati presenti nel database \(solitamente compresa tra i 15 e i 30 minuti\).
 

@@ -1,6 +1,6 @@
 # Immagine di sfondo su Home Page
 
-Su Kimo B2A è possibile personalizzare lo sfondo visualizzato nella Home Page dell'iPad.
+Su Kimo SFA è possibile personalizzare lo sfondo visualizzato nella Home Page dell'iPad.
 
 ## Configurazione
 

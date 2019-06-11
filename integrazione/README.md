@@ -92,11 +92,71 @@ il campo **Status** può assumere i seguenti valori:
 
 È possibile richiamare l'operazione di import dei dati da Erp / Crm Integrator attraverso una chiamata a webservice oppure attraverso la console di amministrazione di Kimo.
 
-\(//TODO: inserire le specifiche della chiamata\)
+{% api-method method="get" host="https://kimo.mycompany.com/server/Integration/FullImportFromErp" path="" %}
+{% api-method-summary %}
+API Import completo
+{% endapi-method-summary %}
+
+{% api-method-description %}
+
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-path-parameters %}
+{% api-method-parameter name="" type="string" required=false %}
+
+{% endapi-method-parameter %}
+{% endapi-method-path-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
 
 ## Export a Erp / Crm <a id="export-a-erp-crm"></a>
 
 È possibile richiamare l'operazione di export dei dati verso Erp / Crm Integrator attraverso una chiamata a webservice oppure attraverso la console di amministrazione di Kimo.
 
-\(//TODO: inserire le specifiche della chiamata\)
+{% api-method method="get" host="https://kimo.mycompany.com/server/Integration/ExportToErp" path="" %}
+{% api-method-summary %}
+API Export
+{% endapi-method-summary %}
+
+{% api-method-description %}
+
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-path-parameters %}
+{% api-method-parameter name="" type="string" required=false %}
+
+{% endapi-method-parameter %}
+{% endapi-method-path-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
 

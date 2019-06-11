@@ -1,6 +1,6 @@
 # Immagine personalizzata per login
 
-Su Kimo B2A è possibile personalizzare l'immagine da usare nella form di login per identificare gli utenti.
+Su Kimo SFA è possibile personalizzare l'immagine da usare nella form di login per identificare gli utenti.
 
 L'immagine non è personalizzabile per ogni utente, ma a livello di azienda. In questo modo, se l'agente ha configurati sul suo dispositivo più profili per diverse aziende, può riconoscere più velocemente il profilo con cui loggarsi.
 
