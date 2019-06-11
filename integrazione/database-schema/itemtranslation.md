@@ -1,15 +1,16 @@
 # ItemTranslation
+
 Traduzioni in lingua dei FreeLookup
 
-<br>
-**Chiavi**
-- *Id*
-- ItemId, LanguageId
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| --- | --- | --- | --- | --- |
-| Description | Descrizione in lingua  | text | 130 |
+* _Id_
+* ItemId, LanguageId
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
+| Description | Descrizione in lingua | text | 130 |
 | Id | Id | text | 50 |
 | ItemId |  | text | 50 |
 | LanguageId |  | text | 50 |
