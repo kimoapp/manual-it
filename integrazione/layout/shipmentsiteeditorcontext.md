@@ -1,4 +1,4 @@
-# ShipmentSiteEditor
+# Editor destinazioni merci (es. per definirne una nuova nei documenti di vendita)
 
 <br/>
 **Context:** ShipmentSiteEditorContext

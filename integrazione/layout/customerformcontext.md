@@ -1,4 +1,4 @@
-# CustomerForm
+# Scheda con le informazioni di un account
 
 <br/>
 **Context:** CustomerFormContext

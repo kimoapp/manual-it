@@ -1,4 +1,4 @@
-# CustomerEditor
+# Editor per creazione e modifica di clienti e prospect
 
 <br/>
 **Context:** CustomerEditorContext
