@@ -1,4 +1,8 @@
-# Editor destinazioni merci (es. per definirne una nuova nei documenti di vendita)
+---
+description: Editor destinazioni merci (es. per definirne una nuova nei documenti di vendita)
+---
+
+# ShipmentSiteEditor
 
 <br/>
 **Context:** ShipmentSiteEditorContext

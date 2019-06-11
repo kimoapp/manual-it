@@ -1,4 +1,8 @@
-# Ricerca account
+---
+description: Ricerca account
+---
+
+# AccountsSearch
 
 <br/>
 **Context:** AccountsSearchContext

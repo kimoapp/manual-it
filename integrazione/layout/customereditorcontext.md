@@ -1,4 +1,8 @@
-# Editor per creazione e modifica di clienti e prospect
+---
+description: Editor per creazione e modifica di clienti e prospect
+---
+
+# CustomerEditor
 
 <br/>
 **Context:** CustomerEditorContext
