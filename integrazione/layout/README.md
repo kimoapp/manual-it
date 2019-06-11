@@ -13,11 +13,12 @@
 * [Documenti di vendita](./#documenti-di-vendita)
 * [Documenti da Erp](./#documenti-da-erp)
 * [File / documenti](./#file-/-documenti)
-* [Articoli](./#articoli)
+* [Articoli (Catalogo)](./#articoli-catalogo)
 * [Disponibilità articoli](./#disponibilità-articoli)
 * [Schede Marketing](./#schede-marketing)
 * [Promozioni](./#promozioni)
 * [Riassortimenti](./#riassortimenti)
+* [Attività Ricorrenti](./#attività-ricorrenti)
 * [Condizioni di vendita](./#condizioni-di-vendita)
 
 ## Attività
@@ -25,10 +26,8 @@
 * **Search**
   * [AccountActivitiesTableRow](./accountactivitiestablerowcontext.md)
   * [ActivitiesSearch](./activitiessearchcontext.md)
-  * [RecurrentActivitiesSearch](./recurrentactivitiessearchcontext.md)
 * **Editor**
   * [ActivityEditor](./activityeditorcontext.md)
-  * [RecurrentActivityEditor](./recurrentactivityeditorcontext.md)
 * **Info**
   * [ActivityToPlan](./activitytoplancontext.md)
 
@@ -61,6 +60,7 @@
 * **Info**
   * [BudgetLinesForAccount](./budgetlinesforaccountcontext.md)
   * [BudgetLineTableRow](./budgetlinetablerowcontext.md)
+* **DrillDown**
   * [BudgetsDrillDownTableRow](./budgetsdrilldowntablerowcontext.md)
 
 ## Carrelli
@@ -136,7 +136,7 @@
 * **Search**
   * [FilesSearch](./filessearchcontext.md)
 
-## Articoli
+## Articoli (Catalogo)
 
 * **Info**
   * [ItemForm](./itemformcontext.md)
@@ -171,6 +171,13 @@
 
 * **Info**
   * [Reassortment](./reassortmentcontext.md)
+
+## Attività Ricorrenti
+
+* **Search**
+  * [RecurrentActivitiesSearch](./recurrentactivitiessearchcontext.md)
+* **Editor**
+  * [RecurrentActivityEditor](./recurrentactivityeditorcontext.md)
 
 ## Condizioni di vendita
 
