@@ -1,18 +1,15 @@
 # DocumentReport
 
-<br/>
-**Context:** DocumentReportContext
-<br/>
-**Default Layout:** DocumentReportLayout
+  
+ **Context:** DocumentReportContext   
+ **Default Layout:** DocumentReportLayout
 
-
-
-<br/>
 ## Campi
 
-| Id | Descrizione | 
-| --- | --- | 
-| Address |  | 
-| RecipientsTable |  | 
-| ReportType |  | 
+| Id | Descrizione |
+| :--- | :--- |
+| Address |  |
+| RecipientsTable |  |
+| ReportType |  |
 | Send |  |
+

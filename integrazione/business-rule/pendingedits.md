@@ -1,14 +1,15 @@
 # PendingEdits
-| Valore| Descrizione |
-| --- | --- |
-| **[DaysStuck](#daysstuck)** |  |
-| **[ForceEditsHandlingOnArchiveFromImport](#forceeditshandlingonarchivefromimport)** |  |
 
-DaysStuck 
------
-**Tipo:** Int32	 
+| Valore | Descrizione |
+| :--- | :--- |
+| [**DaysStuck**](pendingedits.md#daysstuck) |  |
+| [**ForceEditsHandlingOnArchiveFromImport**](pendingedits.md#forceeditshandlingonarchivefromimport) |  |
 
-ForceEditsHandlingOnArchiveFromImport 
------
+## DaysStuck
+
+**Tipo:** Int32
+
+## ForceEditsHandlingOnArchiveFromImport
+
 **Tipo:** Boolean
 
