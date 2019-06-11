@@ -1,15 +1,14 @@
 # Vat
+| Valore| Descrizione |
+| --- | --- |
+| **[AccountVatRateId](#accountvatrateid)** | Aliquota IVA di default per i clienti |
+| **[ItemVatRateId](#itemvatrateid)** | Aliquota IVA di default per gli articoli |
 
-| Valore | Descrizione |
-| :--- | :--- |
-| [**AccountVatRateId**](vat.md#accountvatrateid) | Aliquota IVA di default per i clienti |
-| [**ItemVatRateId**](vat.md#itemvatrateid) | Aliquota IVA di default per gli articoli |
+AccountVatRateId 
+-----
+**Tipo:** String	 
 
-## AccountVatRateId
-
-**Tipo:** String
-
-## ItemVatRateId
-
+ItemVatRateId 
+-----
 **Tipo:** String
 

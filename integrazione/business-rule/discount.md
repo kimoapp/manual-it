@@ -1,10 +1,9 @@
 # Discount
+| Valore| Descrizione |
+| --- | --- |
+| **[GetSourcePosition](#getsourceposition)** |  |
 
-| Valore | Descrizione |
-| :--- | :--- |
-| [**GetSourcePosition**](discount.md#getsourceposition) |  |
-
-## GetSourcePosition
-
+GetSourcePosition 
+-----
 **Tipo:** String
 

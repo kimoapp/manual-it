@@ -1,15 +1,14 @@
 # MichelangeloSalesMultiplierCondition
-
 Condizioni di ricarico nell'Erp Michelangelo
 
-  
- **Chiavi**
+<br>
+**Chiavi**
+- *Id*
+- ItemId, SalesUomId, UnitsPerPack, CurrencyId, StartDate, EndDate, SalesAgentId
+<br><br>
 
-* _Id_
-* ItemId, SalesUomId, UnitsPerPack, CurrencyId, StartDate, EndDate, SalesAgentId
-
-| Campo | Descrizione | Tipo | Dimensione |
-| :--- | :--- | :--- | :--- |
+| Campo | Descrizione | Tipo | Dimensione | 
+| --- | --- | --- | --- | --- |
 | CurrencyId | Id della valuta | text | 50 |
 | DiscardOnNetCost | Condizione di ricarico da scartare se costo è netto | bool |  |
 | EndDate | Data fine validità | date |  |

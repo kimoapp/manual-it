@@ -1,19 +1,22 @@
 # CartLineTableRowEditor
 
-  
- **Context:** CartLineTableRowEditorContext   
- **Default Layout:** CartLineTableRowEditorLayout
+<br/>
+**Context:** CartLineTableRowEditorContext
+<br/>
+**Default Layout:** CartLineTableRowEditorLayout
 
+
+
+<br/>
 ## Campi
 
-| Id | Descrizione |
-| :--- | :--- |
-| Discounts |  |
-| ItemCode |  |
-| ItemDescription |  |
-| ItemId |  |
-| ItemImage |  |
-| SalesQtyWithUom |  |
-| TotalPrice |  |
+| Id | Descrizione | 
+| --- | --- | 
+| Discounts |  | 
+| ItemCode |  | 
+| ItemDescription |  | 
+| ItemId |  | 
+| ItemImage |  | 
+| SalesQtyWithUom |  | 
+| TotalPrice |  | 
 | UnitPrice |  |
-

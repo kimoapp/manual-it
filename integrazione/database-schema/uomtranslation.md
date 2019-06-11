@@ -1,15 +1,14 @@
 # UomTranslation
-
 Traduzioni in lingua delle unità di misura
 
-  
- **Chiavi**
+<br>
+**Chiavi**
+- *Id*
+- UomId, LanguageId
+<br><br>
 
-* _Id_
-* UomId, LanguageId
-
-| Campo | Descrizione | Tipo | Dimensione |
-| :--- | :--- | :--- | :--- |
+| Campo | Descrizione | Tipo | Dimensione | 
+| --- | --- | --- | --- | --- |
 | Description | Descrizione in lingua | text | 100 |
 | Id | Id | text | 50 |
 | LanguageId |  | text | 50 |
