@@ -1,4 +1,4 @@
-# ActivityEditor
+# Editor attività
 
   
  **Context:** ActivityEditorContext   

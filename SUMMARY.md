@@ -168,7 +168,7 @@
     * [AccountActivitiesTableRow](integrazione/layout/accountactivitiestablerowcontext.md)
     * [Ric. Acc.](integrazione/layout/accountssearchcontext.md)
     * [ActivitiesSearch](integrazione/layout/activitiessearchcontext.md)
-    * [ActivityEditor](integrazione/layout/activityeditorcontext.md)
+    * [Editor attività](integrazione/layout/activityeditorcontext.md)
     * [ActivityToPlan](integrazione/layout/activitytoplancontext.md)
     * [BankAccountEditor](integrazione/layout/bankaccounteditorcontext.md)
     * [BankAccountsSearch](integrazione/layout/bankaccountssearchcontext.md)
