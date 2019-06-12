@@ -1,4 +1,4 @@
-# Risorse grafiche B2B
+# Risorse grafiche per la pubblicazione sugli Store
 
 ## Risorse per Kimo B2B App
 
