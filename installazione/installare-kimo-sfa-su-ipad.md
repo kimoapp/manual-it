@@ -5,7 +5,7 @@ Per installare Kimo SFA su iPad:
 1. Aprire dal browser Safari la pagina /setup del proprio ambiente, ad esempio  [https://kimo.acme.com/setup](https://demo.kimoapp.com/setup) \(nota: cambiare il link in base alla propria installazione\)
 2. Si presenterà la seguente pagina web 
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/sfadownload.png)
 
 3. Fare tap sul pulsante **Clicca qui per installare Kimo sull'iPad** e fare tap su **Installa** nel successivo messaggio di installazione:
 
