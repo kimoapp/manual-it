@@ -1,15 +1,14 @@
 # SaleTypePerItem
-
 Tipi di vendita per articolo
 
-  
- **Chiavi**
+<br>
+**Chiavi**
+- *Id*
+- ItemId, SaleTypeId
+<br><br>
 
-* _Id_
-* ItemId, SaleTypeId
-
-| Campo | Descrizione | Tipo | Dimensione |
-| :--- | :--- | :--- | :--- |
+| Campo | Descrizione | Tipo | Dimensione | 
+| :--- | :--- | :--- | :--- | :--- |
 | Id | Id | text | 50 |
 | ItemId | Id dell'articolo | text | 50 |
 | Priority | Priorità di utilizzo | int |  |

@@ -1,12 +1,13 @@
 # PromotionActivationByItemHeader
 
-  
- **Context:** PromotionActivationByItemHeaderContext   
- **Default Layout:** PromotionActivationByItemHeaderLayout
+**Context:** PromotionActivationByItemHeaderContext
+**Default Layout:** PromotionActivationByItemHeaderLayout
+
+
 
 ## Campi
 
-| Id | Descrizione |
-| :--- | :--- |
-| Item |  |
+| Id | Descrizione | 
+| :--- | :--- | 
+| Item |  | 
 

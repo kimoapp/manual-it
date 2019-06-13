@@ -1,17 +1,16 @@
 # FreeField
 
-| Valore | Descrizione |
+| Valore| Descrizione |
 | :--- | :--- |
-| [**{Field}\Format**](freefield.md#%7Bfield%7D%5Cformat)\*\* | Formato del campo |
+| [**{Field}\Format**](freefield.md#{field}\format) | Formato del campo |
 
-## $h2 {Field}\Format
-
-**Tipo:** Enum  
-**Valore di default:** 0  
+-----
+**Tipo:** Enum	 
+**Valore di default:** 0	 
 **Valori:**
 
-* 0 =&gt; None
-* 1 =&gt; Prezzo unitario
-* 2 =&gt; Importo totale
-* 3 =&gt; Quantità
+* 0 => None
+* 1 => Prezzo unitario
+* 2 => Importo totale
+* 3 => Quantità
 

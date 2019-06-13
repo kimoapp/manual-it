@@ -1,14 +1,15 @@
 # DocumentReportRecipient
 
-  
- **Context:** DocumentReportRecipientContext   
- **Default Layout:** DocumentReportRecipientLayout
+**Context:** DocumentReportRecipientContext
+**Default Layout:** DocumentReportRecipientLayout
+
+
 
 ## Campi
 
-| Id | Descrizione |
-| :--- | :--- |
-| Mail |  |
-| Name |  |
-| RecipientType |  |
+| Id | Descrizione | 
+| :--- | :--- | 
+| Mail |  | 
+| Name |  | 
+| RecipientType |  | 
 

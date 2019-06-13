@@ -1,14 +1,13 @@
 # CatalogPriceList
-
 Listini da usare per visualizzare i prezzi nel catalogo
 
-  
- **Chiavi**
+<br>
+**Chiavi**
+- *Id*
+<br><br>
 
-* _Id_
-
-| Campo | Descrizione | Tipo | Dimensione |
-| :--- | :--- | :--- | :--- |
+| Campo | Descrizione | Tipo | Dimensione | 
+| :--- | :--- | :--- | :--- | :--- |
 | CurrencyId |  | text | 50 |
 | CustomerDiscountGroupId |  | text | 50 |
 | CustomerGroupId |  | text | 50 |
