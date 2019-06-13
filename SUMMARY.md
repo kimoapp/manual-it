@@ -1,4 +1,4 @@
-﻿# Table of contents
+# Table of contents
 
 * [Piacere, sono Kimo](README.md)
 * [Introduzione](introduzione/README.md)
@@ -236,7 +236,6 @@
     * [Zone](integrazione/database-schema/zone.md)
   * [Task personalizzati import/export](integrazione/task-personalizzati-import-export.md)
 * [Funzionalità](funzionalita/README.md)
-  * [Account](funzionalita/account.md)
   * [Clienti](funzionalita/clienti.md)
   * [Destinazioni Merci](funzionalita/destinazioni-merci.md)
   * [Prospect](funzionalita/prospect.md)

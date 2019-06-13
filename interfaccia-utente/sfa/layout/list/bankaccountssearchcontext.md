@@ -1,21 +1,16 @@
-
 # BankAccountsSearch
 
-<br/>
-**Context:** BankAccountsSearchContext
-<br/>
-**Default Layout:** BankAccountsSearchLayout
+  
+ **Context:** BankAccountsSearchContext   
+ **Default Layout:** BankAccountsSearchLayout
 
-
-
-<br/>
 ## Campi
 
-| Id | Descrizione | 
-| --- | --- | 
-| Abi |  | 
-| Cab |  | 
-| Cc |  | 
-| Cin |  | 
-| Iban |  | 
+| Id | Descrizione |
+| :--- | :--- |
+| Abi |  |
+| Cab |  |
+| Cc |  |
+| Cin |  |
+| Iban |  |
 

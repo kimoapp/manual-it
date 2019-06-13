@@ -1,10 +1,10 @@
 # ReceivableInstallment
 
-| Valore| Descrizione |
+| Valore | Descrizione |
 | :--- | :--- |
-| [**AllowMultiplePaymentsForInstallment**](#allowmultiplepaymentsforinstallment)** | Consente di registrare più pagamenti per una stessa partita |
+| [**AllowMultiplePaymentsForInstallment**](receivableinstallment.md#allowmultiplepaymentsforinstallment)\*\* | Consente di registrare più pagamenti per una stessa partita |
 
-$h2 AllowMultiplePaymentsForInstallment 
------
+## $h2 AllowMultiplePaymentsForInstallment
+
 **Tipo:** Boolean
 

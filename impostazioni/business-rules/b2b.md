@@ -1,19 +1,20 @@
 # B2b
 
-| Valore| Descrizione |
+| Valore | Descrizione |
 | :--- | :--- |
-| [**IsUserSlaveModeEnabled**](#isuserslavemodeenabled)** |  |
-| [**PromotionsMode**](#promotionsmode)** |  |
+| [**IsUserSlaveModeEnabled**](b2b.md#isuserslavemodeenabled)\*\* |  |
+| [**PromotionsMode**](b2b.md#promotionsmode)\*\* |  |
 
-$h2 IsUserSlaveModeEnabled 
------
-**Tipo:** Boolean	 
+## $h2 IsUserSlaveModeEnabled
 
-$h2 PromotionsMode 
------
-**Tipo:** Enum	 
-**Valore di default:** 0	 
+**Tipo:** Boolean
+
+## $h2 PromotionsMode
+
+**Tipo:** Enum  
+**Valore di default:** 0  
 **Valori:**
-* 0 => Disabled
-* 1 => Enabled
+
+* 0 =&gt; Disabled
+* 1 =&gt; Enabled
 
