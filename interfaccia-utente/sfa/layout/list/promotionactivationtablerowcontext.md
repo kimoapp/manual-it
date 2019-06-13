@@ -1,19 +1,24 @@
+
 # PromotionActivationTableRow
 
-  
- **Context:** PromotionActivationTableRowContext   
- **Default Layout:** PromotionActivationTableRowLayout
+<br/>
+**Context:** PromotionActivationTableRowContext
+<br/>
+**Default Layout:** PromotionActivationTableRowLayout
 
+
+
+<br/>
 ## Campi
 
-| Id | Descrizione |
-| :--- | :--- |
-| Description |  |
-| EndDate |  |
-| MinAmount |  |
-| MinItems |  |
-| MinQty |  |
-| Notes |  |
-| Number |  |
-| StartDate |  |
+| Id | Descrizione | 
+| --- | --- | 
+| Description |  | 
+| EndDate |  | 
+| MinAmount |  | 
+| MinItems |  | 
+| MinQty |  | 
+| Notes |  | 
+| Number |  | 
+| StartDate |  | 
 

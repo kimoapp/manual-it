@@ -1,22 +1,27 @@
+
 # PromotionActivationLineTableRow
 
-  
- **Context:** PromotionActivationLineTableRowContext   
- **Default Layout:** PromotionActivationLineTableRowLayout
+<br/>
+**Context:** PromotionActivationLineTableRowContext
+<br/>
+**Default Layout:** PromotionActivationLineTableRowLayout
 
+
+
+<br/>
 ## Campi
 
-| Id | Descrizione |
-| :--- | :--- |
-| Description |  |
-| Discounts |  |
-| EncodingKey |  |
-| EncodingType |  |
-| EndDate |  |
-| ImposedUnitPrice |  |
-| MaxQty |  |
-| MinQty |  |
-| Notes |  |
-| StartDate |  |
-| SuggestedQty |  |
+| Id | Descrizione | 
+| --- | --- | 
+| Description |  | 
+| Discounts |  | 
+| EncodingKey |  | 
+| EncodingType |  | 
+| EndDate |  | 
+| ImposedUnitPrice |  | 
+| MaxQty |  | 
+| MinQty |  | 
+| Notes |  | 
+| StartDate |  | 
+| SuggestedQty |  | 
 

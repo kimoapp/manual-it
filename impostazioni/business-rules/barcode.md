@@ -1,15 +1,15 @@
 # Barcode
 
-| Valore | Descrizione |
+| Valore| Descrizione |
 | :--- | :--- |
-| [**Prefix**](barcode.md#prefix) |  |
-| [**Suffix**](barcode.md#suffix) |  |
+| [**Prefix**](#prefix)** |  |
+| [**Suffix**](#suffix)** |  |
 
-## Prefix
+$h2 Prefix 
+-----
+**Tipo:** String	 
 
-**Tipo:** String
-
-## Suffix
-
+$h2 Suffix 
+-----
 **Tipo:** String
 

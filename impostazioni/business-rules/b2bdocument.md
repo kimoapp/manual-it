@@ -1,21 +1,20 @@
 # B2b\Document
 
-| Valore | Descrizione |
+| Valore| Descrizione |
 | :--- | :--- |
-| [**DocumentsFromCartFactory**](b2bdocument.md#documentsfromcartfactory) |  |
-| [**GetDocumentTypeIdForCart**](b2bdocument.md#getdocumenttypeidforcart) |  |
+| [**DocumentsFromCartFactory**](#documentsfromcartfactory)** |  |
+| [**GetDocumentTypeIdForCart**](#getdocumenttypeidforcart)** |  |
 
-## DocumentsFromCartFactory
-
-**Tipo:** String  
-**Valore di default:** Standard  
+$h2 DocumentsFromCartFactory 
+-----
+**Tipo:** String	 
+**Valore di default:** Standard	 
 **Valori:**
-
 * SplitByTrademarkAndSeason
 * Standard
 * Wald
 
-## GetDocumentTypeIdForCart
-
+$h2 GetDocumentTypeIdForCart 
+-----
 **Tipo:** String
 

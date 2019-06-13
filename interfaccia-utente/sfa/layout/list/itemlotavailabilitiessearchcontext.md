@@ -1,16 +1,21 @@
+
 # ItemLotAvailabilitiesSearch
 
-  
- **Context:** ItemLotAvailabilitiesSearchContext   
- **Default Layout:** ItemLotAvailabilitiesSearchLayout
+<br/>
+**Context:** ItemLotAvailabilitiesSearchContext
+<br/>
+**Default Layout:** ItemLotAvailabilitiesSearchLayout
 
+
+
+<br/>
 ## Campi
 
-| Id | Descrizione |
-| :--- | :--- |
-| AvailabilityAsFreeText |  |
-| LogisticCenterAvailability |  |
-| LotDescription |  |
-| WarehouseAvailability |  |
-| WarehouseId |  |
+| Id | Descrizione | 
+| --- | --- | 
+| AvailabilityAsFreeText |  | 
+| LogisticCenterAvailability |  | 
+| LotDescription |  | 
+| WarehouseAvailability |  | 
+| WarehouseId |  | 
 

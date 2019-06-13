@@ -1,21 +1,21 @@
 # Entity
 
-| Valore | Descrizione |
+| Valore| Descrizione |
 | :--- | :--- |
-| [**IsManagedByExternalSystem**](entity.md#ismanagedbyexternalsystem) |  |
-| [**IsManagedByExternalSystem**](entity.md#ismanagedbyexternalsystem) |  |
-| [**ManagedByExternalSystem**](entity.md#managedbyexternalsystem) | Entità gestite dai Sistemi Esterni \(Erp/Crm\) |
+| [**IsManagedByExternalSystem**](#ismanagedbyexternalsystem)** |  |
+| [**IsManagedByExternalSystem**](#ismanagedbyexternalsystem)** |  |
+| [**ManagedByExternalSystem**](#managedbyexternalsystem)** | Entità gestite dai Sistemi Esterni (Erp/Crm) |
 
-## IsManagedByExternalSystem
+$h2 IsManagedByExternalSystem 
+-----
+**Tipo:** Boolean	 
 
-**Tipo:** Boolean
+$h2 IsManagedByExternalSystem 
+-----
+**Tipo:** Boolean	 
 
-## IsManagedByExternalSystem
-
-**Tipo:** Boolean
-
-## ManagedByExternalSystem
-
-**Tipo:** Valori separati da pipe  
-**Valore di default:** Customer\|Document\|ReceivableInstallment
+$h2 ManagedByExternalSystem 
+-----
+**Tipo:** Valori separati da pipe	 
+**Valore di default:** Customer&#124;Document&#124;ReceivableInstallment
 

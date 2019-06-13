@@ -1,10 +1,10 @@
 # Api
 
-| Valore | Descrizione |
+| Valore| Descrizione |
 | :--- | :--- |
-| [**GoogleMapKeys**](api.md#googlemapkeys) | Chiavi per i webservice di Google |
+| [**GoogleMapKeys**](#googlemapkeys)** | Chiavi per i webservice di Google |
 
-## GoogleMapKeys
-
+$h2 GoogleMapKeys 
+-----
 **Tipo:** Valori separati da pipe
 
