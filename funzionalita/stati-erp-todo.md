@@ -1,2 +1,0 @@
-# Stati Erp \(TODO\)
-

@@ -1,5 +1,15 @@
 # Impostazioni di sistema
 
+Le Impostazioni di Sistema \(Server System Settings\) definiscono alcuni parametri che servono al server  per l'utilizzo di alcune funzioni. È possibile consultarne un elenco più dettagliato nella seguente sezione: 
+
+![](../.gitbook/assets/tempsnip%20%281%29.png)
+
+![](../.gitbook/assets/image%20%2826%29.png)
+
+
+
+### 
+
 ### Impostazioni mail server
 
 <table>
