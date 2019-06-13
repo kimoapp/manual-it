@@ -1,5 +1,7 @@
+---
+description: Prezzi per articolo
+---
 # ItemListPrice
-Prezzi per articolo
 
 <br>
 **Chiavi**
@@ -49,4 +51,5 @@ IgnoreDiscounts
 LockedFields
 ---
 0: None<br>1: UnitPrice<br>2: Discounts<br>4: SaleType
+
 

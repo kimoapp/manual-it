@@ -1,5 +1,7 @@
+---
+description: Traduzioni in lingua dei marchi
+---
 # TrademarkTranslation
-Traduzioni in lingua dei marchi
 
 <br>
 **Chiavi**
@@ -13,4 +15,6 @@ Traduzioni in lingua dei marchi
 | Id | Id | text | 50 |
 | LanguageId |  | text | 50 |
 | TrademarkId |  | text | 50 |
+
+
 

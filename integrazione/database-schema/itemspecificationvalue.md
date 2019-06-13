@@ -1,5 +1,7 @@
+---
+description: Valori delle specifiche tecniche degli articoli
+---
 # ItemSpecificationValue
-Valori delle specifiche tecniche degli articoli
 
 <br>
 **Chiavi**
@@ -13,4 +15,6 @@ Valori delle specifiche tecniche degli articoli
 | ItemId | Id articolo | text | 50 |
 | SpecificationId | Id specifica | text | 50 |
 | Value | Valore | text | text |
+
+
 

@@ -1,5 +1,7 @@
+---
+description: Specifiche tecniche degli articoli
+---
 # ItemSpecification
-Specifiche tecniche degli articoli
 
 <br>
 **Chiavi**
@@ -15,4 +17,5 @@ Specifiche tecniche degli articoli
 ValueType
 ---
 1: Text<br>2: Decimal
+
 

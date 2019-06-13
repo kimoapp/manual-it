@@ -1,5 +1,7 @@
+---
+description: Ruolo aziendale
+---
 # CompanyRole
-Ruolo aziendale
 
 <br>
 **Chiavi**
@@ -10,4 +12,6 @@ Ruolo aziendale
 | :--- | :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
+
+
 

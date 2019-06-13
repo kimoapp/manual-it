@@ -1,5 +1,7 @@
+---
+description: Criteri per l'applicazione delle regole di disponibilità ai documenti
+---
 # AvailabilityRuleParamsPerDocument
-Criteri per l'applicazione delle regole di disponibilità ai documenti
 
 <br>
 **Chiavi**
@@ -18,4 +20,6 @@ Criteri per l'applicazione delle regole di disponibilità ai documenti
 | ShipmentEndDate | Data fine validità | date |  |
 | ShipmentStartDate | Data inizio validità | date |  |
 | TrademarkId | Id del Marchio | text | 50 |
+
+
 

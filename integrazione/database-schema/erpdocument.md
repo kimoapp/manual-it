@@ -1,5 +1,7 @@
+---
+description: Documenti da Erp
+---
 # ErpDocument
-Documenti da Erp
 
 <br>
 **Chiavi**
@@ -125,4 +127,6 @@ Documenti da Erp
 | VatRateIsExemption | Indica se l'IVA è calcolata o no | bool |  |
 | VatRateValue | Valore aliquota | dec |  |
 | WarehouseId | Id del magazzino | text | 50 |
+
+
 

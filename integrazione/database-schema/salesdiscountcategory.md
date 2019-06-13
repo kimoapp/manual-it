@@ -1,5 +1,7 @@
+---
+description: Categoria sconto vendita
+---
 # SalesDiscountCategory
-Categoria sconto vendita
 
 <br>
 **Chiavi**
@@ -10,4 +12,6 @@ Categoria sconto vendita
 | :--- | :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
+
+
 

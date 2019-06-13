@@ -1,5 +1,7 @@
+---
+description: Traduzioni in lingua delle unità di misura
+---
 # UomTranslation
-Traduzioni in lingua delle unità di misura
 
 <br>
 **Chiavi**
@@ -13,4 +15,6 @@ Traduzioni in lingua delle unità di misura
 | Id | Id | text | 50 |
 | LanguageId |  | text | 50 |
 | UomId |  | text | 50 |
+
+
 

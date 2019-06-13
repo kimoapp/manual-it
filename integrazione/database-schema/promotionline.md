@@ -1,5 +1,7 @@
+---
+description: Righe promozioni
+---
 # PromotionLine
-Righe promozioni
 
 <br>
 **Chiavi**
@@ -60,4 +62,5 @@ GiftQtyMode
 QtyDivisibilityRule
 ---
 0: Default
+
 

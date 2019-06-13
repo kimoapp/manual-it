@@ -1,5 +1,7 @@
+---
+description: Sconti per gruppo merceologico
+---
 # DiscountsPerItemGroup
-Sconti per gruppo merceologico
 
 <br>
 **Chiavi**
@@ -25,4 +27,6 @@ Sconti per gruppo merceologico
 | ItemGroupLevel3Id | Id gruppo articoli a livello 3 | text | 50 |
 | ItemGroupLevel4Id | Id gruppo articoli a livello 4 | text | 50 |
 | StartDate | Data inizio validità | date |  |
+
+
 

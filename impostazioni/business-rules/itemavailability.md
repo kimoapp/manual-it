@@ -6,6 +6,7 @@
 | [**GlobalAvailabilityMode**](itemavailability.md#globalavailabilitymode) | Modalità di calcolo della disponibilità globale |
 | [**QtyField**](itemavailability.md#qtyfield) | Campo da considerare per verificare la quantità disponibile |
 
+## FilterMode 
 -----
 **Tipo:** Enum	 
 **Valore di default:** 0	 
@@ -14,6 +15,7 @@
 * 0 => Per magazzino dell'utente/agente
 * 1 => Nessun filtro
 
+## GlobalAvailabilityMode 
 -----
 **Tipo:** Enum	 
 **Valore di default:** 0	 
@@ -22,6 +24,7 @@
 * 0 => Indicata direttamente nel campo 'GlobalAvailability' di 'ItemOfflineAvailability'
 * 1 => Calcolata dalle disponibilità nei magazzini
 
+## QtyField 
 -----
 **Tipo:** Enum	 
 **Valore di default:** 0	 
@@ -29,4 +32,7 @@
 
 * 0 => SalesQty
 * 1 => NumberOfPacks
+
+
+
 

@@ -1,5 +1,7 @@
+---
+description: Gruppi merceologici
+---
 # ItemGroup
-Gruppi merceologici
 
 <br>
 **Chiavi**
@@ -15,4 +17,6 @@ Gruppi merceologici
 | Level2Id | Id livello 2 | text | 50 |
 | Level3Id | Id livello 3 | text | 50 |
 | Level4Id | Id livello 4 | text | 50 |
+
+
 

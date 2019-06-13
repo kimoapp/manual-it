@@ -1,5 +1,7 @@
+---
+description: Saldo punti vendita
+---
 # PointsPerSaleBalance
-Saldo punti vendita
 
 <br>
 **Chiavi**
@@ -13,4 +15,6 @@ Saldo punti vendita
 | Id | Id | text | 50 |
 | Points | Punti | dec |  |
 | SalesAgentId | Id dell'agente | text | 50 |
+
+
 

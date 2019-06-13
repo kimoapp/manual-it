@@ -1,5 +1,7 @@
+---
+description: Articoli alternativi, sostitutivi o collegati
+---
 # ItemAssociated
-Articoli alternativi, sostitutivi o collegati
 
 <br>
 **Chiavi**
@@ -21,4 +23,5 @@ Articoli alternativi, sostitutivi o collegati
 AssociationType
 ---
 1: Related<br>2: Substitutive<br>3: Alternative
+
 

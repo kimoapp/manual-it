@@ -1,5 +1,7 @@
+---
+description: Test diagnostica prezzi
+---
 # DiagnosticPriceTestCase
-Test diagnostica prezzi
 
 <br>
 **Chiavi**
@@ -31,4 +33,6 @@ Test diagnostica prezzi
 | SalesUomId |  | text | 10 |
 | UnitPrice |  | dec |  |
 | UnitsPerPack |  | dec |  |
+
+
 

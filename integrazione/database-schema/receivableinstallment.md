@@ -1,5 +1,7 @@
+---
+description: Scadenzario
+---
 # ReceivableInstallment
-Scadenzario
 
 <br>
 **Chiavi**
@@ -78,4 +80,5 @@ EntityStatus
 PaymentStatus
 ---
 0: ToPay<br>1: Paid<br>2: Unpaid<br>3: PaidOnKimo
+
 

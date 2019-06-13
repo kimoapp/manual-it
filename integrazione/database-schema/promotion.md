@@ -1,5 +1,7 @@
+---
+description: Promozioni
+---
 # Promotion
-Promozioni
 
 <br>
 **Chiavi**
@@ -61,4 +63,5 @@ PricePrintingRule
 PromotionType
 ---
 0: Classic<br>1: Kit<br>2: NPlusM<br>3: NPlusM_MonoReference
+
 

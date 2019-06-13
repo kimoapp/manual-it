@@ -1,5 +1,7 @@
+---
+description: FreeLookup
+---
 # FreeLookup
-FreeLookup
 
 <br>
 **Chiavi**
@@ -16,4 +18,6 @@ FreeLookup
 | Id | Id | text | 50 |
 | LookupTypeId |  | text | 50 |
 | ValueId |  | text | 50 |
+
+
 

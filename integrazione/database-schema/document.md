@@ -1,5 +1,7 @@
+---
+description: 
+---
 # Document
-
 
 <br>
 **Chiavi**
@@ -189,4 +191,5 @@ EntityStatus
 SourceReferenceType
 ---
 0: Undefined<br>1: FromSalesQuote<br>2: Budget
+
 

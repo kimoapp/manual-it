@@ -1,5 +1,7 @@
+---
+description: Spese per articoli
+---
 # ItemCharge
-Spese per articoli
 
 <br>
 **Chiavi**
@@ -17,4 +19,6 @@ Spese per articoli
 | ItemId | Id dell'articolo | text | 50 |
 | StartDate | Data inizio validità | date |  |
 | Value | Valore spesa dell'articolo | dec |  |
+
+
 

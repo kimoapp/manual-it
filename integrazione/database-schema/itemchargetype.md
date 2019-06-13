@@ -1,5 +1,7 @@
+---
+description: Tipi di spese per articoli (es. RAEE)
+---
 # ItemChargeType
-Tipi di spese per articoli (es. RAEE)
 
 <br>
 **Chiavi**
@@ -10,4 +12,6 @@ Tipi di spese per articoli (es. RAEE)
 | :--- | :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
+
+
 

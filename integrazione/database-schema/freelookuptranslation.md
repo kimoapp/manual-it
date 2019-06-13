@@ -1,5 +1,7 @@
+---
+description: Traduzioni in lingua dei FreeLookup
+---
 # FreeLookupTranslation
-Traduzioni in lingua dei FreeLookup
 
 <br>
 **Chiavi**
@@ -13,4 +15,6 @@ Traduzioni in lingua dei FreeLookup
 | FreeLookupId | Id FreeLookup | text | 50 |
 | Id | Id | text | 50 |
 | LanguageId |  | text | 50 |
+
+
 

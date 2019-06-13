@@ -1,5 +1,7 @@
+---
+description: Articoli
+---
 # Item
-Articoli
 
 <br>
 **Chiavi**
@@ -52,4 +54,5 @@ Articoli
 ItemType
 ---
 0: Normal<br>1: Manual<br>2: Note<br>3: ModelItem<br>4: VariableItem<br>5: Idrolab<br>6: Jolly
+
 

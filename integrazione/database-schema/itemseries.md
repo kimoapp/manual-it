@@ -1,5 +1,7 @@
+---
+description: Serie articolo
+---
 # ItemSeries
-Serie articolo
 
 <br>
 **Chiavi**
@@ -10,4 +12,6 @@ Serie articolo
 | :--- | :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
+
+
 

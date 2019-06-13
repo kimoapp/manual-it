@@ -1,5 +1,7 @@
+---
+description: Campi delle schede marketing
+---
 # MarketingFormField
-Campi delle schede marketing
 
 <br>
 **Chiavi**
@@ -21,4 +23,5 @@ Campi delle schede marketing
 FieldType
 ---
 0: NullableText<br>2: NullableInteger<br>3: NullableDate<br>5: SingleSelectionList<br>6: NullableUnsignedDecimal<br>7: NullableDecimal<br>9: MultiSelectionList<br>25: NullableBoolean<br>100: Label
+
 

@@ -1,5 +1,7 @@
+---
+description: Aspetto beni
+---
 # GoodsAspect
-Aspetto beni
 
 <br>
 **Chiavi**
@@ -10,4 +12,6 @@ Aspetto beni
 | :--- | :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
+
+
 

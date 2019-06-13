@@ -1,5 +1,7 @@
+---
+description: Risorse 'online' degli articoli (schede tecniche online, immagini, ...)
+---
 # ItemUrl
-Risorse 'online' degli articoli (schede tecniche online, immagini, ...)
 
 <br>
 **Chiavi**
@@ -19,4 +21,5 @@ Risorse 'online' degli articoli (schede tecniche online, immagini, ...)
 UrlTypeId
 ---
 0: Undefined<br>1: Image<br>2: OnlineForm
+
 

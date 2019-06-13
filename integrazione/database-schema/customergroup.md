@@ -1,5 +1,7 @@
+---
+description: Gruppi clienti
+---
 # CustomerGroup
-Gruppi clienti
 
 <br>
 **Chiavi**
@@ -10,4 +12,6 @@ Gruppi clienti
 | :--- | :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
+
+
 

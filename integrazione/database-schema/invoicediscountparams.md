@@ -1,5 +1,7 @@
+---
+description: Parametri per lo Sconto fattura
+---
 # InvoiceDiscountParams
-Parametri per lo Sconto fattura
 
 <br>
 **Chiavi**
@@ -14,4 +16,6 @@ Parametri per lo Sconto fattura
 | Id | Id | text | 50 |
 | InvoiceDiscountId | Id sconto Fattura | text | 50 |
 | MinimumAmount | Importo minimo | dec |  |
+
+
 

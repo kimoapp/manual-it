@@ -1,5 +1,7 @@
+---
+description: Costo articoli (netto, lordo, ...)
+---
 # ItemCost
-Costo articoli (netto, lordo, ...)
 
 <br>
 **Chiavi**
@@ -24,4 +26,5 @@ Costo articoli (netto, lordo, ...)
 Type
 ---
 0: Regualar<br>1: NetCost
+
 

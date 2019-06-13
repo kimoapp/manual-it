@@ -7,6 +7,7 @@
 | [**ItemLiveSearch**](erpdocument.md#itemlivesearch) | Abilita la ricerca 'live' degli articoli |
 | [**KeywordSearchFields**](erpdocument.md#keywordsearchfields) | Campi per la ricerca testuale |
 
+## AdvancedSearchFields 
 -----
 **Tipo:** Valori separati da pipe	 
 **Valore di default:** ErpDocumentType	 
@@ -18,6 +19,7 @@
 * Item
 * SearchType
 
+## FilterPerUser 
 -----
 **Tipo:** Enum	 
 **Valore di default:** 1	 
@@ -27,10 +29,12 @@
 * 1 => Filtra i documenti per 'proprietario' (owner)
 * 2 => Filtra le righe dei documenti per 'proprietario' (owner), mostrando comunque le testate
 
+## ItemLiveSearch 
 -----
 **Tipo:** Boolean	 
 **Valore di default:** True	 
 
+## KeywordSearchFields 
 -----
 **Tipo:** Valori separati da pipe	 
 **Valore di default:** Number&#124;AccountName&#124;AccountName2	 
@@ -38,4 +42,7 @@
 
 * AccountName
 * Number
+
+
+
 

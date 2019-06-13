@@ -1,5 +1,7 @@
+---
+description: Agenti
+---
 # SalesAgent
-Agenti
 
 <br>
 **Chiavi**
@@ -26,4 +28,6 @@ Agenti
 | Phone2 | Telefono | text | 50 |
 | VatNumber | Partita Iva | text | 30 |
 | Website | Sito web | text | text |
+
+
 

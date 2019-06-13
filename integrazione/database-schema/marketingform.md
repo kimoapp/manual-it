@@ -1,5 +1,7 @@
+---
+description: Schede Marketing
+---
 # MarketingForm
-Schede Marketing
 
 <br>
 **Chiavi**
@@ -26,4 +28,5 @@ Schede Marketing
 EntityStatus
 ---
 0: ImportedFromErp<br>1: ExportedToErp<br>2: ImportedByErp<br>3: ExportingToErp<br>4: Deleted<br>5: CommittingExportToErp<br>6: ToExportToErp<br>7: Editing<br>8: UploadedToServer<br>10: EditingPending
+
 

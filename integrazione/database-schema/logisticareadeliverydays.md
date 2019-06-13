@@ -1,5 +1,7 @@
+---
+description: Giorni di consegna per Area Logistica
+---
 # LogisticAreaDeliveryDays
-Giorni di consegna per Area Logistica
 
 <br>
 **Chiavi**
@@ -13,4 +15,6 @@ Giorni di consegna per Area Logistica
 | DestinationLogisticAreaId | Id dell'area logistica di destinazione | text | 50 |
 | Id | Id | text | 50 |
 | SourceLogisticAreaId | Id dell'area logistica sorgente | text | 50 |
+
+
 

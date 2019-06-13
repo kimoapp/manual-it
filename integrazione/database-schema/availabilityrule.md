@@ -1,5 +1,7 @@
+---
+description: Regole di disponibilità
+---
 # AvailabilityRule
-Regole di disponibilità
 
 <br>
 **Chiavi**
@@ -16,4 +18,5 @@ Regole di disponibilità
 ItemAvailabilityValidationRule
 ---
 0: DoNotValidate<br>1: BlockIfExceed
+
 

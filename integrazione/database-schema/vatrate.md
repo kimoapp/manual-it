@@ -1,5 +1,7 @@
+---
+description: Aliquote IVA
+---
 # VatRate
-Aliquote IVA
 
 <br>
 **Chiavi**
@@ -12,4 +14,6 @@ Aliquote IVA
 | Id | Id | text | 50 |
 | IsExemption | Indica l'esenzione | bool |  |
 | Value | Valore aliquota IVA | dec |  |
+
+
 

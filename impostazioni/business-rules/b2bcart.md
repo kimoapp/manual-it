@@ -9,6 +9,7 @@
 | [**ShipmentSiteIsMandatory**](b2bcart.md#shipmentsiteismandatory) | Destinazione merci obbligatoria |
 | [**ValidatePricesObsolescence**](b2bcart.md#validatepricesobsolescence) | Abilita la validazione dei prezzi al checkout |
 
+## CartFromReassortmentNameTemplate 
 -----
 **Tipo:** Template	 
 **Valori:**
@@ -16,6 +17,7 @@
 * CreationDate
 * ReassortmentType.Description
 
+## CreditLimitCheck 
 -----
 **Tipo:** Enum	 
 **Valori:**
@@ -24,6 +26,7 @@
 * 1 => Importo totale (con IVA e spese accessorie incluse)
 * 2 => Totale merce (IVA esclusa)
 
+## MaxQtyValidationType 
 -----
 **Tipo:** Enum	 
 **Valore di default:** 0	 
@@ -32,13 +35,19 @@
 * 0 => Nessun controllo
 * 1 => In confronto alla disponibilità
 
+## ReassortmentTypeAsConstraintIsMandatory 
 -----
 **Tipo:** Boolean	 
 
+## ShipmentSiteIsMandatory 
 -----
 **Tipo:** Boolean	 
 
+## ValidatePricesObsolescence 
 -----
 **Tipo:** Boolean	 
-**Valore di default:** True
+**Valore di default:** True	 
+
+
+
 

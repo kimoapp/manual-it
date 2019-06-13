@@ -1,5 +1,7 @@
+---
+description: Condizioni di ricarico nell'Erp Michelangelo
+---
 # MichelangeloSalesMultiplierCondition
-Condizioni di ricarico nell'Erp Michelangelo
 
 <br>
 **Chiavi**
@@ -24,4 +26,6 @@ Condizioni di ricarico nell'Erp Michelangelo
 | Status | Stato | text | 1 |
 | UnitsPerPack | Unità per confezione | dec |  |
 | UseMultiplier | Indica se usare il ricarico | bool |  |
+
+
 

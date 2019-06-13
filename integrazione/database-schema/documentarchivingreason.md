@@ -1,5 +1,7 @@
+---
+description: Causali di archiviazione dei documenti di vendita (es. motivi di non acquisto)
+---
 # DocumentArchivingReason
-Causali di archiviazione dei documenti di vendita (es. motivi di non acquisto)
 
 <br>
 **Chiavi**
@@ -10,4 +12,6 @@ Causali di archiviazione dei documenti di vendita (es. motivi di non acquisto)
 | :--- | :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
+
+
 

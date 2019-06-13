@@ -1,5 +1,7 @@
+---
+description: Righe dei Documenti da Erp
+---
 # ErpDocumentLine
-Righe dei Documenti da Erp
 
 <br>
 **Chiavi**
@@ -100,4 +102,5 @@ Righe dei Documenti da Erp
 LineType
 ---
 0: Item<br>1: ManualItem<br>2: Note<br>3: ModelItem<br>4: VariableItem<br>5: Idrolab
+
 

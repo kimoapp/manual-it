@@ -1,5 +1,7 @@
+---
+description: Listini da usare per visualizzare i prezzi nel catalogo
+---
 # CatalogPriceList
-Listini da usare per visualizzare i prezzi nel catalogo
 
 <br>
 **Chiavi**
@@ -20,4 +22,6 @@ Listini da usare per visualizzare i prezzi nel catalogo
 | SalesAgentId |  | text | 50 |
 | StatisticClassId |  | text | 50 |
 | ZoneId |  | text | 50 |
+
+
 

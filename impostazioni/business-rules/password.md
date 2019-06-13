@@ -11,28 +11,39 @@
 | [**PasswordCannotBeReused**](password.md#passwordcannotbereused) | La password deve essere diversa dalla precedente |
 | [**PasswordCannotContainUsername**](password.md#passwordcannotcontainusername) | La password non può contenere lo username dell'utente |
 
+## DaysBeforeExpiration 
 -----
 **Tipo:** Nullable`1	 
 
+## LowercaseAndUppercaseRequired 
 -----
 **Tipo:** Boolean	 
 
+## MinimumLetterCharactersRequired 
 -----
 **Tipo:** Int32	 
 
+## MinimumNumberCharactersRequired 
 -----
 **Tipo:** Int32	 
 
+## MinimumPasswordLength 
 -----
 **Tipo:** Int32	 
 **Valore di default:** 1	 
 
+## MinimumSpecialCharactersRequired 
 -----
 **Tipo:** Int32	 
 
+## PasswordCannotBeReused 
 -----
 **Tipo:** Boolean	 
 
+## PasswordCannotContainUsername 
 -----
-**Tipo:** Boolean
+**Tipo:** Boolean	 
+
+
+
 

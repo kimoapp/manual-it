@@ -1,5 +1,7 @@
+---
+description: Lingua
+---
 # Language
-Lingua
 
 <br>
 **Chiavi**
@@ -10,4 +12,6 @@ Lingua
 | :--- | :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
+
+
 

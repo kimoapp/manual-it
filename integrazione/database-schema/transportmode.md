@@ -1,5 +1,7 @@
+---
+description: Mezzi di trasporto
+---
 # TransportMode
-Mezzi di trasporto
 
 <br>
 **Chiavi**
@@ -10,4 +12,6 @@ Mezzi di trasporto
 | :--- | :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
+
+
 

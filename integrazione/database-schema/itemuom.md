@@ -1,5 +1,7 @@
+---
+description: Unità di misura degli articoli
+---
 # ItemUom
-Unità di misura degli articoli
 
 <br>
 **Chiavi**
@@ -26,4 +28,5 @@ Unità di misura degli articoli
 UnitsPerPackDivisibilityRule
 ---
 0: AllowDivisibility<br>1: WarnIfDivided<br>2: DoNotAllowDivisibility
+
 

@@ -1,5 +1,7 @@
+---
+description: Listini prezzi
+---
 # PriceList
-Listini prezzi
 
 <br>
 **Chiavi**
@@ -10,4 +12,6 @@ Listini prezzi
 | :--- | :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
+
+
 

@@ -1,5 +1,7 @@
+---
+description: Prezzi di vendita nell'Erp Nav
+---
 # NavSalesPrice
-Prezzi di vendita nell'Erp Nav
 
 <br>
 **Chiavi**
@@ -50,4 +52,5 @@ SalesType
 Type
 ---
 0: Item<br>1: ItemDiscountGroup<br>102: ItemGroupLevel1<br>103: ItemGroupLevel2<br>104: AllItems<br>105: DefaultItemDiscountGroup<br>106: ItemGroupLevel3<br>107: ItemGroupLevel4<br>108: Trademark
+
 

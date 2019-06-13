@@ -1,5 +1,7 @@
+---
+description: Famiglie di schede marketing
+---
 # MarketingFormFamily
-Famiglie di schede marketing
 
 <br>
 **Chiavi**
@@ -10,4 +12,6 @@ Famiglie di schede marketing
 | :--- | :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
+
+
 

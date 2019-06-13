@@ -1,5 +1,7 @@
+---
+description: Gruppi sconti clienti
+---
 # CustomerDiscountGroup
-Gruppi sconti clienti
 
 <br>
 **Chiavi**
@@ -10,4 +12,6 @@ Gruppi sconti clienti
 | :--- | :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
+
+
 

@@ -1,5 +1,7 @@
+---
+description: Sconti per serie articolo
+---
 # DiscountsPerItemSeries
-Sconti per serie articolo
 
 <br>
 **Chiavi**
@@ -22,4 +24,6 @@ Sconti per serie articolo
 | Id | Id | text | 50 |
 | ItemSeriesId | Id serie articolo | text | 50 |
 | StartDate | Data inizio validità | date |  |
+
+
 

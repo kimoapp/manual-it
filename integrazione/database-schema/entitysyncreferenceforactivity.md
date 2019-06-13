@@ -1,5 +1,7 @@
+---
+description: SyncReference delle entità create o modificate in Kimo
+---
 # EntitySyncReferenceForActivity
-SyncReference delle entità create o modificate in Kimo
 
 <br>
 **Chiavi**
@@ -14,4 +16,6 @@ SyncReference delle entità create o modificate in Kimo
 | Id | Id | text | 50 |
 | SyncReference | Id su KimoServer dell'entità gestita da Kimo | text | 50 |
 | UserId | Id dell'agente | text | 50 |
+
+
 

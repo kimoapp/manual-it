@@ -4,6 +4,10 @@
 | :--- | :--- |
 | [**GoogleMapKeys**](api.md#googlemapkeys) | Chiavi per i webservice di Google |
 
+## GoogleMapKeys 
 -----
-**Tipo:** Valori separati da pipe
+**Tipo:** Valori separati da pipe	 
+
+
+
 

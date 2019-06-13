@@ -1,5 +1,7 @@
+---
+description: Controlli commerciali sulle righe dei documenti di vendita
+---
 # SalesControlDocumentLine
-Controlli commerciali sulle righe dei documenti di vendita
 
 <br>
 **Chiavi**
@@ -37,4 +39,5 @@ SalesControlType
 SeverityLevel
 ---
 0: Error<br>1: Warning
+
 

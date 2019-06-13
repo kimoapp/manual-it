@@ -1,5 +1,7 @@
+---
+description: Classi statistiche
+---
 # StatisticClass
-Classi statistiche
 
 <br>
 **Chiavi**
@@ -10,4 +12,6 @@ Classi statistiche
 | :--- | :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
+
+
 

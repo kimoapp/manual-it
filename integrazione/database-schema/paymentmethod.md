@@ -1,5 +1,7 @@
+---
+description: Modalità di Pagamento (Termini e Condizioni)
+---
 # PaymentMethod
-Modalità di Pagamento (Termini e Condizioni)
 
 <br>
 **Chiavi**
@@ -14,4 +16,6 @@ Modalità di Pagamento (Termini e Condizioni)
 | Discount3 | Sconto | dec |  |
 | Id | Id | text | 50 |
 | UseMode |  | text | 50 |
+
+
 

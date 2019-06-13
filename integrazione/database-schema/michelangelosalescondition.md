@@ -1,5 +1,7 @@
+---
+description: Condizioni di vendita nell'Erp Michelangelo
+---
 # MichelangeloSalesCondition
-Condizioni di vendita nell'Erp Michelangelo
 
 <br>
 **Chiavi**
@@ -98,4 +100,6 @@ Condizioni di vendita nell'Erp Michelangelo
 | Status | Stato | text | 1 |
 | UnitsPerPack | Unità per confezione | dec |  |
 | UseMultiplier | Indica se usare il ricarico | bool |  |
+
+
 

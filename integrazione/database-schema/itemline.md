@@ -1,5 +1,7 @@
+---
+description: Linea articolo
+---
 # ItemLine
-Linea articolo
 
 <br>
 **Chiavi**
@@ -10,4 +12,6 @@ Linea articolo
 | :--- | :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
+
+
 

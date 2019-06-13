@@ -1,5 +1,7 @@
+---
+description: Controlli commerciali sui documenti di vendita
+---
 # SalesControlDocument
-Controlli commerciali sui documenti di vendita
 
 <br>
 **Chiavi**
@@ -31,4 +33,5 @@ SalesControlType
 SeverityLevel
 ---
 0: Error<br>1: Warning
+
 

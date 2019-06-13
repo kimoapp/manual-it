@@ -4,6 +4,10 @@
 | :--- | :--- |
 | [**GetSourcePosition**](discount.md#getsourceposition) |  |
 
+## GetSourcePosition 
 -----
-**Tipo:** String
+**Tipo:** String	 
+
+
+
 

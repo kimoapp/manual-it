@@ -10,12 +10,15 @@
 | [**UnitPriceDecimalDigitsRounding**](pricecalculation.md#unitpricedecimaldigitsrounding) | Numero di cifre decimali nei prezzi unitari |
 | [**UnitPriceRoundingMode**](pricecalculation.md#unitpriceroundingmode) | Modalità di arrotondamento per i prezzi unitaru |
 
+## Algorithm 
 -----
 **Tipo:** String	 
 
+## MinimumNumberOfQuantityRangesToActivateNotification 
 -----
 **Tipo:** Int32	 
 
+## PricePerQtyMultiplierMode 
 -----
 **Tipo:** Enum	 
 **Valore di default:** 0	 
@@ -24,6 +27,7 @@
 * 0 => Applicato sul totale del documento
 * 1 => Applicato sul prezzo unitario
 
+## RetailPricesIncludeVat 
 -----
 **Tipo:** Enum	 
 **Valore di default:** 0	 
@@ -32,14 +36,17 @@
 * 0 => No
 * 1 => Yes
 
+## TotalAmountDecimalDigitsRounding 
 -----
 **Tipo:** Int32	 
 **Valore di default:** 2	 
 
+## UnitPriceDecimalDigitsRounding 
 -----
 **Tipo:** Int32	 
 **Valore di default:** 5	 
 
+## UnitPriceRoundingMode 
 -----
 **Tipo:** Enum	 
 **Valore di default:** 0	 
@@ -48,4 +55,7 @@
 * 0 => Mathematical
 * 1 => RoundUp
 * 2 => RoundDown
+
+
+
 

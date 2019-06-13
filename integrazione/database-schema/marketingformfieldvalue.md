@@ -1,5 +1,7 @@
+---
+description: Valori predefiniti per i campi delle schede marketing (es. per le liste)
+---
 # MarketingFormFieldValue
-Valori predefiniti per i campi delle schede marketing (es. per le liste)
 
 <br>
 **Chiavi**
@@ -13,4 +15,6 @@ Valori predefiniti per i campi delle schede marketing (es. per le liste)
 | Id | Id | text | 50 |
 | ValueDescription | Descrizione | text | 200 |
 | ValueId | Id del valore | text | 50 |
+
+
 

@@ -8,6 +8,7 @@
 | [**SalesConditionDiscountsSearchTypes**](account.md#salesconditiondiscountssearchtypes) | Tipi di condizioni di vendita da mostrare nella funzione 'Sconti per condizioni di vendita' |
 | [**VatNumberMandatoryIfIsOrganization**](account.md#vatnumbermandatoryifisorganization) | La Partita IVA è obbligatoria se il cliente è un'organizzazione |
 
+## AdvancedSearchFields 
 -----
 **Tipo:** Valori separati da pipe	 
 **Valore di default:** CustomerGroup&#124;AddressCity&#124;AddressPostCode&#124;AddressCountrySubdivision	 
@@ -28,9 +29,11 @@
 * StatisticClass
 * Zone
 
+## FiscalCodeMandatoryIfIsPerson 
 -----
 **Tipo:** Boolean	 
 
+## KeywordSearchFields 
 -----
 **Tipo:** Valori separati da pipe	 
 **Valore di default:** Code&#124;Name&#124;Name2	 
@@ -41,6 +44,7 @@
 * Id
 * Name
 
+## SalesConditionDiscountsSearchTypes 
 -----
 **Tipo:** Valori separati da pipe	 
 **Valore di default:** All	 
@@ -50,6 +54,10 @@
 * CustomerManufacturer
 * Manufacturer
 
+## VatNumberMandatoryIfIsOrganization 
 -----
-**Tipo:** Boolean
+**Tipo:** Boolean	 
+
+
+
 

@@ -1,5 +1,7 @@
+---
+description: 
+---
 # DocumentLine
-
 
 <br>
 **Chiavi**
@@ -146,4 +148,5 @@ PromotionStatus
 SaleTypeMode
 ---
 0: Normal<br>1: TotalFreeSample<br>2: TaxableFreeSample<br>3: DiscountOnGoods<br>4: Promotion
+
 

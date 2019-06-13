@@ -4,6 +4,10 @@
 | :--- | :--- |
 | [**Type**](erp.md#type) | Tipo di Erp |
 
+## Type 
 -----
-**Tipo:** String
+**Tipo:** String	 
+
+
+
 

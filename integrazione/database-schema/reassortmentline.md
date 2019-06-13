@@ -1,5 +1,7 @@
+---
+description: Righe dei riassortimenti
+---
 # ReassortmentLine
-Righe dei riassortimenti
 
 <br>
 **Chiavi**
@@ -86,4 +88,5 @@ LineType
 LockedFields
 ---
 0: None<br>1: UnitPrice<br>2: Discounts<br>4: SaleType
+
 

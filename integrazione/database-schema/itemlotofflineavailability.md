@@ -1,5 +1,7 @@
+---
+description: Disponibilità 'offline' dei lotti
+---
 # ItemLotOfflineAvailability
-Disponibilità 'offline' dei lotti
 
 <br>
 **Chiavi**
@@ -20,4 +22,6 @@ Disponibilità 'offline' dei lotti
 | VariableItemId | Id dell'articolo variante | text | 50 |
 | WarehouseAvailability |  | dec |  |
 | WarehouseId | Id del magazzino a cui fa riferimento la disponibilità | text | 50 |
+
+
 

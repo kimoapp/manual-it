@@ -1,5 +1,7 @@
+---
+description: Utenti a cui è stata assegnata l'attività
+---
 # ActivityAssignee
-Utenti a cui è stata assegnata l'attività
 
 <br>
 **Chiavi**
@@ -22,4 +24,5 @@ Utenti a cui è stata assegnata l'attività
 AssigneeType
 ---
 1: User
+
 

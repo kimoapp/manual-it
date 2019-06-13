@@ -1,5 +1,7 @@
+---
+description: Stato civile
+---
 # MaritalStatus
-Stato civile
 
 <br>
 **Chiavi**
@@ -10,4 +12,6 @@ Stato civile
 | :--- | :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
+
+
 

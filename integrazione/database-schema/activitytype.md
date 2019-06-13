@@ -1,5 +1,7 @@
+---
+description: Tipi di attività
+---
 # ActivityType
-Tipi di attività
 
 <br>
 **Chiavi**
@@ -13,4 +15,6 @@ Tipi di attività
 | Id | Id | text | 50 |
 | SortPriority |  | int |  |
 | UseMode |  | text | 50 |
+
+
 

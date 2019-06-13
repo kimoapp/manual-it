@@ -1,5 +1,7 @@
+---
+description: Attività
+---
 # Activity
-Attività
 
 <br>
 **Chiavi**
@@ -68,4 +70,5 @@ RelatedEntityType
 Status
 ---
 0: Undefined<br>1: Open<br>2: Completed<br>3: Expired<br>4: Late<br>5: Dismissed<br>1000: FromRecurrence
+
 
