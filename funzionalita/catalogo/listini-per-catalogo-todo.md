@@ -1,6 +1,7 @@
 # Listini per catalogo
 
-In questa sezione è possibile definire i listini prezzi da utilizzare in base al contesto in cui ci si trova, un listino prezzi può essere attribuito in base a:
+In questa sezione è possibile definire i listini prezzi da utilizzare in base al contesto in cui ci si trova.  
+Un listino prezzi può essere attribuito in base a:
 
 1. Agente
 2. Gruppo Cliente

@@ -1,6 +1,6 @@
 # DocumentNotification
 
-| Valore| Descrizione |
+| Valore | Descrizione |
 | :--- | :--- |
 | [**OnConfirmedDocumentTypes**](documentnotification.md#onconfirmeddocumenttypes) |  |
 | [**OnConfirmedMailBccRecipients**](documentnotification.md#onconfirmedmailbccrecipients) |  |
@@ -12,18 +12,18 @@
 | [**OnConfirmedSendMailToCreatorRecipientMails**](documentnotification.md#onconfirmedsendmailtocreatorrecipientmails) |  |
 | [**SendOnConfirmed**](documentnotification.md#sendonconfirmed) |  |
 
-## OnConfirmedDocumentTypes 
------
-**Tipo:** Valori separati da pipe	 
+## OnConfirmedDocumentTypes
 
-## OnConfirmedMailBccRecipients 
------
-**Tipo:** String	 
+**Tipo:** Valori separati da pipe
 
-## OnConfirmedMailBodyTemplate 
------
-**Tipo:** Template	 
-**Valore di default:** ${DocumentType} '${DocumentNumber}' confermato!	 
+## OnConfirmedMailBccRecipients
+
+**Tipo:** String
+
+## OnConfirmedMailBodyTemplate
+
+**Tipo:** Template  
+**Valore di default:** ${DocumentType} '${DocumentNumber}' confermato!  
 **Valori:**
 
 * AccountCode
@@ -40,14 +40,14 @@
 * ShipmentSiteFreeText
 * ShipmentSiteName
 
-## OnConfirmedMailRecipients 
------
-**Tipo:** String	 
+## OnConfirmedMailRecipients
 
-## OnConfirmedMailSubjectTemplate 
------
-**Tipo:** Template	 
-**Valore di default:** ${DocumentType} '${DocumentNumber}' confermato!	 
+**Tipo:** String
+
+## OnConfirmedMailSubjectTemplate
+
+**Tipo:** Template  
+**Valore di default:** ${DocumentType} '${DocumentNumber}' confermato!  
 **Valori:**
 
 * AccountCode
@@ -64,36 +64,33 @@
 * ShipmentSiteFreeText
 * ShipmentSiteName
 
-## OnConfirmedReportType 
------
-**Tipo:** String	 
+## OnConfirmedReportType
 
-## OnConfirmedSendMailToCreator 
------
-**Tipo:** Enum	 
-**Valore di default:** 0	 
+**Tipo:** String
+
+## OnConfirmedSendMailToCreator
+
+**Tipo:** Enum  
+**Valore di default:** 0  
 **Valori:**
 
-* 0 => None
-* 1 => To
-* 2 => Cc
-* 3 => Bcc
+* 0 =&gt; None
+* 1 =&gt; To
+* 2 =&gt; Cc
+* 3 =&gt; Bcc
 
-## OnConfirmedSendMailToCreatorRecipientMails 
------
-**Tipo:** Enum	 
-**Valore di default:** 0	 
+## OnConfirmedSendMailToCreatorRecipientMails
+
+**Tipo:** Enum  
+**Valore di default:** 0  
 **Valori:**
 
-* 0 => None
-* 1 => To
-* 2 => Cc
-* 3 => Bcc
+* 0 =&gt; None
+* 1 =&gt; To
+* 2 =&gt; Cc
+* 3 =&gt; Bcc
 
-## SendOnConfirmed 
------
-**Tipo:** Boolean	 
+## SendOnConfirmed
 
-
-
+**Tipo:** Boolean
 

@@ -1,6 +1,6 @@
 # Password
 
-| Valore| Descrizione |
+| Valore | Descrizione |
 | :--- | :--- |
 | [**DaysBeforeExpiration**](password.md#daysbeforeexpiration) | Numero di giorni di validità delle password |
 | [**LowercaseAndUppercaseRequired**](password.md#lowercaseanduppercaserequired) | Necessario l'utilizzo di caratteri maiuscoli e minuscoli |
@@ -11,39 +11,36 @@
 | [**PasswordCannotBeReused**](password.md#passwordcannotbereused) | La password deve essere diversa dalla precedente |
 | [**PasswordCannotContainUsername**](password.md#passwordcannotcontainusername) | La password non può contenere lo username dell'utente |
 
-## DaysBeforeExpiration 
------
-**Tipo:** Nullable`1	 
+## DaysBeforeExpiration
 
-## LowercaseAndUppercaseRequired 
------
-**Tipo:** Boolean	 
+**Tipo:** Nullable\`1
 
-## MinimumLetterCharactersRequired 
------
-**Tipo:** Int32	 
+## LowercaseAndUppercaseRequired
 
-## MinimumNumberCharactersRequired 
------
-**Tipo:** Int32	 
+**Tipo:** Boolean
 
-## MinimumPasswordLength 
------
-**Tipo:** Int32	 
-**Valore di default:** 1	 
+## MinimumLetterCharactersRequired
 
-## MinimumSpecialCharactersRequired 
------
-**Tipo:** Int32	 
+**Tipo:** Int32
 
-## PasswordCannotBeReused 
------
-**Tipo:** Boolean	 
+## MinimumNumberCharactersRequired
 
-## PasswordCannotContainUsername 
------
-**Tipo:** Boolean	 
+**Tipo:** Int32
 
+## MinimumPasswordLength
 
+**Tipo:** Int32  
+**Valore di default:** 1
 
+## MinimumSpecialCharactersRequired
+
+**Tipo:** Int32
+
+## PasswordCannotBeReused
+
+**Tipo:** Boolean
+
+## PasswordCannotContainUsername
+
+**Tipo:** Boolean
 

@@ -1,19 +1,16 @@
 # CartEditor
 
-**Context:** CartEditorContext
-**Default Layout:** CartHeaderEditorLayout
-
-
+**Context:** CartEditorContext **Default Layout:** CartHeaderEditorLayout
 
 ## Campi
 
-| Id | Descrizione | 
-| :--- | :--- | 
-| AccountFullName |  | 
-| AccountName |  | 
-| AccountName2 |  | 
-| CreationDate |  | 
-| DeliveryDate |  | 
-| ResponsibleForTransport |  | 
-| ShipmentSite |  | 
+| Id | Descrizione |
+| :--- | :--- |
+| AccountFullName |  |
+| AccountName |  |
+| AccountName2 |  |
+| CreationDate |  |
+| DeliveryDate |  |
+| ResponsibleForTransport |  |
+| ShipmentSite |  |
 

@@ -1,6 +1,6 @@
 # Item
 
-| Valore| Descrizione |
+| Valore | Descrizione |
 | :--- | :--- |
 | [**AdvancedSearchFields**](item.md#advancedsearchfields) | Campi per la ricerca avanzata |
 | [**IdEncodingType**](item.md#idencodingtype) | Modalità di codifica dei codici articoli |
@@ -9,10 +9,10 @@
 | [**LiveSearch**](item.md#livesearch) | Abilita la ricerca 'live' degli articoli |
 | [**SortFields**](item.md#sortfields) |  |
 
-## AdvancedSearchFields 
------
-**Tipo:** Valori separati da pipe	 
-**Valore di default:** ItemGroupLevel1&#124;ItemGroupLevel2	 
+## AdvancedSearchFields
+
+**Tipo:** Valori separati da pipe  
+**Valore di default:** ItemGroupLevel1\|ItemGroupLevel2  
 **Valori:**
 
 * CatalogPriceList
@@ -29,46 +29,43 @@
 * SeasonGroup
 * Trademark
 
-## IdEncodingType 
------
-**Tipo:** Enum	 
-**Valore di default:** 0	 
+## IdEncodingType
+
+**Tipo:** Enum  
+**Valore di default:** 0  
 **Valori:**
 
-* 0 => Id
-* 1 => Produttore + Codice Articolo Produttore, es. 'BTI 5001'
+* 0 =&gt; Id
+* 1 =&gt; Produttore + Codice Articolo Produttore, es. 'BTI 5001'
 
-## ItemFormUrlTemplate 
------
-**Tipo:** Template	 
+## ItemFormUrlTemplate
+
+**Tipo:** Template  
 **Valori:**
 
 * Barcode
 * ItemId
 * ManufacturerItemId
 
-## KeywordSearchFields 
------
-**Tipo:** Valori separati da pipe	 
-**Valore di default:** Id&#124;Description	 
+## KeywordSearchFields
+
+**Tipo:** Valori separati da pipe  
+**Valore di default:** Id\|Description  
 **Valori:**
 
 * Description
 * Id
 
-## LiveSearch 
------
-**Tipo:** Boolean	 
+## LiveSearch
 
-## SortFields 
------
-**Tipo:** Valori separati da pipe	 
-**Valore di default:** Id&#124;Description	 
+**Tipo:** Boolean
+
+## SortFields
+
+**Tipo:** Valori separati da pipe  
+**Valore di default:** Id\|Description  
 **Valori:**
 
 * Description
 * Id
-
-
-
 
