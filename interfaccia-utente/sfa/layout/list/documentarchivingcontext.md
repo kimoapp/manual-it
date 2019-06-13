@@ -1,18 +1,13 @@
-
 # DocumentArchiving
 
-<br/>
-**Context:** DocumentArchivingContext
-<br/>
-**Default Layout:** DocumentArchivingLayout
+  
+ **Context:** DocumentArchivingContext   
+ **Default Layout:** DocumentArchivingLayout
 
-
-
-<br/>
 ## Campi
 
-| Id | Descrizione | 
-| --- | --- | 
-| ArchivingNotes |  | 
-| ArchivingReason |  | 
+| Id | Descrizione |
+| :--- | :--- |
+| ArchivingNotes |  |
+| ArchivingReason |  |
 

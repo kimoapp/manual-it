@@ -1,22 +1,17 @@
-
 # BankAccountEditor
 
-<br/>
-**Context:** BankAccountEditorContext
-<br/>
-**Default Layout:** BankAccountEditorLayout
+  
+ **Context:** BankAccountEditorContext   
+ **Default Layout:** BankAccountEditorLayout
 
-
-
-<br/>
 ## Campi
 
-| Id | Descrizione | 
-| --- | --- | 
-| Abi |  | 
-| Cab |  | 
-| Cc |  | 
-| Cin |  | 
-| Iban |  | 
-| ShouldRegisterOnErp |  | 
+| Id | Descrizione |
+| :--- | :--- |
+| Abi |  |
+| Cab |  |
+| Cc |  |
+| Cin |  |
+| Iban |  |
+| ShouldRegisterOnErp |  |
 
