@@ -1,3 +1,4 @@
+
 # CartLineTableRowEditor
 
 <br/>
@@ -19,4 +20,5 @@
 | ItemImage |  | 
 | SalesQtyWithUom |  | 
 | TotalPrice |  | 
-| UnitPrice |  |
+| UnitPrice |  | 
+

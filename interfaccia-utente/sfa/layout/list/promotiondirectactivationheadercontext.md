@@ -1,3 +1,4 @@
+
 # PromotionDirectActivationHeader
 
 <br/>
@@ -12,4 +13,5 @@
 
 | Id | Descrizione | 
 | --- | --- | 
-| Item |  |
+| Item |  | 
+

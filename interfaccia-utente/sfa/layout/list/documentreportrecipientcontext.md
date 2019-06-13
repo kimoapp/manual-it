@@ -1,3 +1,4 @@
+
 # DocumentReportRecipient
 
 <br/>
@@ -14,4 +15,5 @@
 | --- | --- | 
 | Mail |  | 
 | Name |  | 
-| RecipientType |  |
+| RecipientType |  | 
+

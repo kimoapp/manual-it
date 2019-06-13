@@ -1,3 +1,4 @@
+
 # BudgetLineEditor
 
 <br/>
@@ -29,4 +30,5 @@
 | Locked |  | 
 | Quantity |  | 
 | RevisedAmount |  | 
-| RevisedQuantity |  |
+| RevisedQuantity |  | 
+

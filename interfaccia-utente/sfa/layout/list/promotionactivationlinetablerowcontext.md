@@ -1,3 +1,4 @@
+
 # PromotionActivationLineTableRow
 
 <br/>
@@ -22,4 +23,5 @@
 | MinQty |  | 
 | Notes |  | 
 | StartDate |  | 
-| SuggestedQty |  |
+| SuggestedQty |  | 
+

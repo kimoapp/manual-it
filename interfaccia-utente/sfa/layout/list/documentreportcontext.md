@@ -1,3 +1,4 @@
+
 # DocumentReport
 
 <br/>
@@ -15,4 +16,5 @@
 | Address |  | 
 | RecipientsTable |  | 
 | ReportType |  | 
-| Send |  |
+| Send |  | 
+

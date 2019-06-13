@@ -75,4 +75,5 @@ description: Ricerca account
 | OpeningDays | Giorni di apertura | 
 | Payments |  | 
 | Phone | Telefono | 
-| UnpaidInstallmentsAmount | Indica l'importo degli insoluti del cliente |
+| UnpaidInstallmentsAmount | Indica l'importo degli insoluti del cliente | 
+

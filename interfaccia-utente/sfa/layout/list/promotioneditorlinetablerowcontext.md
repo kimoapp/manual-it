@@ -1,3 +1,4 @@
+
 # PromotionEditorLineTableRow
 
 <br/>
@@ -52,4 +53,5 @@
 | UnitPrice |  | 
 | UnitsPerSalesUom |  | 
 | WarehouseAvailability |  | 
-| WarehousesAvailabilities |  |
+| WarehousesAvailabilities |  | 
+

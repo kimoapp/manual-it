@@ -1,3 +1,4 @@
+
 # ErpDocumentLinesReport
 
 <br/>
@@ -51,4 +52,5 @@
 | Line.SaleTypeId |  | 
 | Line.TotalPrice |  | 
 | Line.UnitPrice |  | 
-| Line.UnitsPerSalesUom |  |
+| Line.UnitsPerSalesUom |  | 
+

@@ -1,3 +1,4 @@
+
 # ErpDocumentLineVariableEditor
 
 <br/>
@@ -39,4 +40,5 @@
 | TotalAmountPanel |  | 
 | UnitPrice |  | 
 | UnitsPerPack |  | 
-| UnitsPerSalesUom |  |
+| UnitsPerSalesUom |  | 
+

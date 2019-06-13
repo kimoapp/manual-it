@@ -1,3 +1,4 @@
+
 # BudgetLinesForAccount
 
 <br/>
@@ -43,4 +44,5 @@
 | LineFreeText1 [1..3] |  | 
 | LineQuantity |  | 
 | LineRevisedAmount |  | 
-| LineRevisedQuantity |  |
+| LineRevisedQuantity |  | 
+

@@ -1,3 +1,4 @@
+
 # ReceivableInstallmentsMultipleCashEditor
 
 <br/>
@@ -25,4 +26,5 @@
 | PaymentType |  | 
 | PayTotal |  | 
 | SelectedCount |  | 
-| TotalResidualDueAmount |  |
+| TotalResidualDueAmount |  | 
+

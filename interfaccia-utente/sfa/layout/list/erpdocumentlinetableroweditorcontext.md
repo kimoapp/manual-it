@@ -1,3 +1,4 @@
+
 # ErpDocumentLineTableRowEditor
 
 <br/>
@@ -34,4 +35,5 @@
 | SaleTypeIcon |  | 
 | TotalPrice |  | 
 | UnitPrice |  | 
-| UnitsPerSalesUom |  |
+| UnitsPerSalesUom |  | 
+

@@ -1,3 +1,4 @@
+
 # AccountActivitiesTableRow
 
 <br/>
@@ -40,4 +41,5 @@
 | RelatedEntityDescription |  | 
 | StartDate |  | 
 | StartTime |  | 
-| Status |  |
+| Status |  | 
+

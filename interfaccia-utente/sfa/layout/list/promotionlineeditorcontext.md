@@ -1,3 +1,4 @@
+
 # PromotionLineEditor
 
 <br/>
@@ -42,4 +43,5 @@
 | TotalAmountPanel |  | 
 | UnitsPerPack |  | 
 | UnitsPerSalesUom |  | 
-| Warehouse |  |
+| Warehouse |  | 
+

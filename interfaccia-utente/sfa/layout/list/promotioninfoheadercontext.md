@@ -1,3 +1,4 @@
+
 # PromotionInfoHeader
 
 <br/>
@@ -19,4 +20,5 @@
 | MinQty |  | 
 | Notes |  | 
 | Number |  | 
-| StartDate |  |
+| StartDate |  | 
+

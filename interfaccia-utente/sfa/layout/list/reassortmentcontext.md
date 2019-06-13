@@ -1,3 +1,4 @@
+
 # Reassortment
 
 <br/>
@@ -112,4 +113,5 @@
 | PromotionStatusIcon |  | 
 | SalesUomId |  | 
 | UnitsPerPack |  | 
-| WarehouseAvailability |  |
+| WarehouseAvailability |  | 
+

@@ -1,3 +1,4 @@
+
 # ItemLotAvailabilitiesSearch
 
 <br/>
@@ -16,4 +17,5 @@
 | LogisticCenterAvailability |  | 
 | LotDescription |  | 
 | WarehouseAvailability |  | 
-| WarehouseId |  |
+| WarehouseId |  | 
+

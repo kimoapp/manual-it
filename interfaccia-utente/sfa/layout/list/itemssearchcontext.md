@@ -1,3 +1,4 @@
+
 # ItemsSearch
 
 <br/>
@@ -165,4 +166,5 @@
 | UnitsPerPack | Unità per confezione | 
 | VatRateId | Id dell'aliquota IVA | 
 | WarehouseAvailability |  | 
-| WarehousesAvailabilities |  |
+| WarehousesAvailabilities |  | 
+
