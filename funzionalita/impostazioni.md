@@ -21,5 +21,5 @@ Le Regole di Business \( Business Rules \) definiscono delle regole/comportament
 
 ![](../.gitbook/assets/image%20%2826%29.png)
 
-Le Impostazioni Server \(Server System Settings\) definiscono alcuni parametri che servono al server  per l'utilizzo di alcune funzioni. È possibile consultarne un elenco più dettagliato nella seguente sezione: [Server System Settings](../integrazione/server-system-settings.md)
+Le Impostazioni Server \(Server System Settings\) definiscono alcuni parametri che servono al server  per l'utilizzo di alcune funzioni. È possibile consultarne un elenco più dettagliato nella seguente sezione: [Server System Settings]()
 

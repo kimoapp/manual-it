@@ -23,7 +23,6 @@
     * [Risorse grafiche per la pubblicazione sugli Store](interfaccia-utente/interfaccia-utente-b2b/risorse-grafiche-per-la-pubblicazione-sugli-store.md)
 * [Integrazione](integrazione/README.md)
   * [Kimo integrator](integrazione/kimo-integrator.md)
-  * [Server System Settings](integrazione/server-system-settings.md)
   * [Database schema](integrazione/database-schema/README.md)
     * [Account](integrazione/database-schema/account.md)
     * [AccountAccountingInfo](integrazione/database-schema/accountaccountinginfo.md)
