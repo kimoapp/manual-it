@@ -1,16 +1,15 @@
 ---
-description: null
+description: 
 ---
-
 # Document
 
-  
- **Chiavi**
+<br>
+**Chiavi**
+- *Id*
+<br><br>
 
-* _Id_
-
-| Campo | Descrizione | Tipo | Dimensione |
-| :--- | :--- | :--- | :--- |
+| Campo | Descrizione | Tipo | Dimensione | 
+| :--- | :--- | :--- | :--- | :--- |
 | AccountAddressCity | Città | text | 40 |
 | AccountAddressCountry | Paese | text | 20 |
 | AccountAddressCountrySubdivision | Provincia | text | 20 |
@@ -27,7 +26,7 @@ description: null
 | AgreedAmount | Importo concordato | dec |  |
 | Amount | Totale documento | dec |  |
 | AmountIncludingVat | Totale documento incluso di IVA | dec |  |
-| [AppOrigin](document.md#apporigin) | Codice CIG | enum |  |
+| [AppOrigin](#apporigin) | Codice CIG | enum |  |
 | ArchivingNotes | Note per il motivo di archiviazione | text | text |
 | ArchivingReasonId | Id della causale di archiviazione | text | 50 |
 | AvailabilityRuleId | Id della regola di disponibilità | text | 50 |
@@ -67,14 +66,14 @@ description: null
 | DiscountOverRetailAmount | Sconto su imponibile retail | dec |  |
 | DiscountOverRetailAmountIncludingVat | Sconto su importo retail IVA compresa | dec |  |
 | DocumentDate | Data documento | date |  |
-| [DocumentFamilyId](document.md#documentfamilyid) | Id della famiglia documento | enum |  |
+| [DocumentFamilyId](#documentfamilyid) | Id della famiglia documento | enum |  |
 | DocumentMarkup | Ricarico | dec |  |
 | DocumentMarkupOnNetCost | Margine | dec |  |
 | DocumentReference | Documento di riferimento | text | text |
-| [DocumentStatus](document.md#documentstatus) | Stato del documento | enum |  |
+| [DocumentStatus](#documentstatus) | Stato del documento | enum |  |
 | DocumentTypeId | Id del tipo documento | text | 50 |
 | EndShipmentDate | Fine data spedizione | date |  |
-| [EntityStatus](document.md#entitystatus) | Campo che definisce lo stato del record | enum |  |
+| [EntityStatus](#entitystatus) | Campo che definisce lo stato del record | enum |  |
 | ExpectedClosingDate |  | date |  |
 | FixedDiscount | Sconto importo | dec |  |
 | FreeBoolean1 | Campo booleano libero | bool |  |
@@ -164,7 +163,7 @@ description: null
 | ShippingChargesAmount | Spese di spedizione | dec |  |
 | ShippingChargesVatRateId | Aliquota IVA per le spese di spedizione | text | 50 |
 | SourceReference | Documento di origine | text | 50 |
-| [SourceReferenceType](document.md#sourcereferencetype) |  | enum |  |
+| [SourceReferenceType](#sourcereferencetype) |  | enum |  |
 | StartShipmentDate | Data inizio spedizione | date |  |
 | SyncReference | Riferimento | text | 50 |
 | TotalAverageDiscount | Sconto medio totale | dec |  |
@@ -177,44 +176,20 @@ description: null
 | VatRateValue | Valore aliquota | dec |  |
 | WarehouseId | Id del magazzino | text | 50 |
 
-## AppOrigin
+AppOrigin
+---
+0: Undefined<br&gt;1: B2b
+DocumentFamilyId
+---
+1: SalesOrders<br&gt;2: SalesQuotes<br&gt;3: SalesInvoices<br&gt;4: NoteCredito<br&gt;5: DDT<br&gt;6: Inventories<br&gt;7: WorkSessions
+DocumentStatus
+---
+0: Open<br&gt;1: Confirmed<br&gt;2: SalesQuoteTransformedToOrder<br&gt;3: Archived
+EntityStatus
+---
+0: ImportedFromErp<br&gt;1: ExportedToErp<br&gt;2: ImportedByErp<br&gt;3: ExportingToErp<br&gt;4: Deleted<br&gt;5: CommittingExportToErp<br&gt;6: ToExportToErp<br&gt;7: Editing<br&gt;8: UploadedToServer<br&gt;10: EditingPending
+SourceReferenceType
+---
+0: Undefined<br&gt;1: FromSalesQuote<br&gt;2: Budget
 
-0: Undefined  
-1: B2b
-
-## DocumentFamilyId
-
-1: SalesOrders  
-2: SalesQuotes  
-3: SalesInvoices  
-4: NoteCredito  
-5: DDT  
-6: Inventories  
-7: WorkSessions
-
-## DocumentStatus
-
-0: Open  
-1: Confirmed  
-2: SalesQuoteTransformedToOrder  
-3: Archived
-
-## EntityStatus
-
-0: ImportedFromErp  
-1: ExportedToErp  
-2: ImportedByErp  
-3: ExportingToErp  
-4: Deleted  
-5: CommittingExportToErp  
-6: ToExportToErp  
-7: Editing  
-8: UploadedToServer  
-10: EditingPending
-
-## SourceReferenceType
-
-0: Undefined  
-1: FromSalesQuote  
-2: Budget
 

@@ -1,16 +1,17 @@
 ---
-description: Tipo di pagamento \(tipo effetto\)
+description: Tipo di pagamento (tipo effetto)
 ---
-
 # PaymentType
 
-  
- **Chiavi**
+<br>
+**Chiavi**
+- *Id*
+<br><br>
 
-* _Id_
-
-| Campo | Descrizione | Tipo | Dimensione |
-| :--- | :--- | :--- | :--- |
+| Campo | Descrizione | Tipo | Dimensione | 
+| :--- | :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
+
+
 

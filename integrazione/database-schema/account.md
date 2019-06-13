@@ -1,18 +1,17 @@
 ---
-description: 'Account \(clienti, prospect, destinazioni merci\)'
+description: Account (clienti, prospect, destinazioni merci)
 ---
-
 # Account
 
-  
- **Chiavi**
+<br>
+**Chiavi**
+- *Id*
+<br><br>
 
-* _Id_
-
-| Campo | Descrizione | Tipo | Dimensione |
-| :--- | :--- | :--- | :--- |
-| [AccountFilterId](account.md#accountfilterid) | Id del filtro clienti | text | 50 |
-| [AccountTypeId](account.md#accounttypeid) | Tipo di account \(cliente, prospect, destinazione merci, ... | enum |  |
+| Campo | Descrizione | Tipo | Dimensione | 
+| :--- | :--- | :--- | :--- | :--- |
+| [AccountFilterId](#accountfilterid) | Id del filtro clienti | text | 50 |
+| [AccountTypeId](#accounttypeid) | Tipo di account \(cliente, prospect, destinazione merci, ... | enum |  |
 | AddressCity | Città | text | 40 |
 | AddressCountry | Paese | text | 20 |
 | AddressCountrySubdivision | Provincia | text | 20 |
@@ -27,19 +26,19 @@ description: 'Account \(clienti, prospect, destinazioni merci\)'
 | CertifiedMail | Mail certificata \(PEC - Posta Elettronica Certificata | text | 100 |
 | ContactInfo | Info di contatto del cliente | text | text |
 | CreationDate | Data di creazione | dt |  |
-| [CreationReason](account.md#creationreason) | Indica se è un nuovo cliente, se è un cliente modificato o se è stato creato un cliente a partire da un prospect | enum |  |
+| [CreationReason](#creationreason) | Indica se è un nuovo cliente, se è un cliente modificato o se è stato creato un cliente a partire da un prospect | enum |  |
 | CreatorId | Id dell'agente che ha creato il record | text | 50 |
 | CurrencyId | Id della valuta | text | 50 |
 | CustomerDiscountGroupId | Id del gruppo sconti cliente | text | 50 |
 | CustomerGroupId | Id del gruppo cliente | text | 50 |
 | CustomerPriceGroupId | Id del gruppo prezzi cliente | text | 50 |
-| [CustomerTypeId](account.md#customertypeid) | Indica se il cliente è una persona fisica o un'organizzazione | enum |  |
+| [CustomerTypeId](#customertypeid) | Indica se il cliente è una persona fisica o un'organizzazione | enum |  |
 | DeliveryDateTypeId | Id del tipo di data consegna | text | 50 |
 | Discount1 | Sconto | dec |  |
 | Discount2 | Sconto | dec |  |
 | Discount3 | Sconto | dec |  |
 | EditMode | Edit Mode | text | 50 |
-| [EntityStatus](account.md#entitystatus) | Campo che definisce lo stato del record | enum |  |
+| [EntityStatus](#entitystatus) | Campo che definisce lo stato del record | enum |  |
 | ErpStatusId1 |  | text | 50 |
 | ErpStatusId2 |  | text | 50 |
 | ErpStatusId3 |  | text | 50 |
@@ -78,7 +77,7 @@ description: 'Account \(clienti, prospect, destinazioni merci\)'
 | LanguageId | Id della lingua | text | 50 |
 | LastModifiedTimeStamp | Data dell'ultima modifica | dt |  |
 | LastModifiedUserId | Id dell'agente che ha effettuato l'ultima modifica | text | 50 |
-| [Level](account.md#level) | Indica il 'livello di qualità' del cliente | enum |  |
+| [Level](#level) | Indica il 'livello di qualità' del cliente | enum |  |
 | Locked | Indica se il cliente è bloccato | bool |  |
 | LogisticCallRequest |  | bool |  |
 | LogisticDeliveryToFloor |  | bool |  |
@@ -94,7 +93,7 @@ description: 'Account \(clienti, prospect, destinazioni merci\)'
 | MobilePhone | Telefono mobile | text | 50 |
 | Name | Ragione sociale | text | 100 |
 | Name2 | Ragione sociale 2 | text | 100 |
-| [NickName](account.md#nickname) | Nickname | text | 100 |
+| [NickName](#nickname) | Nickname | text | 100 |
 | Notes | Note | text | text |
 | OpeningDays | Giorni di apertura o chiusura | text | 30 |
 | PaymentMethodId | Id del metodo di pagamento | text | 50 |
@@ -119,53 +118,26 @@ description: 'Account \(clienti, prospect, destinazioni merci\)'
 | WarehouseId | Id del magazzino | text | 50 |
 | ZoneId | Id della zona | text | 50 |
 
-## AccountFilterId
-
+AccountFilterId
+---
 questo campo è un valore sul quale possono essere filtrati i clienti in fase di ricerca. I valori utilizzati hanno un'anagrafica associata ovvero l'entità AccountFilter
-
-## AccountTypeId
-
-0: Undefined  
-1: Customer  
-2: ShipmentSite  
-3: Prospect
-
-## CreationReason
-
-0: Undefined  
-1: AccountEdited  
-2: NewAccount  
-3: ProspectConvertedToCustomer
-
-## CustomerTypeId
-
-0: Undefined  
-1: Person  
-2: Organization
-
-## EntityStatus
-
-0: ImportedFromErp  
-1: ExportedToErp  
-2: ImportedByErp  
-3: ExportingToErp  
-4: Deleted  
-5: CommittingExportToErp  
-6: ToExportToErp  
-7: Editing  
-8: UploadedToServer  
-10: EditingPending
-
-## Level
-
-Non va più usato per identificare un account come prospect \(usare a tale scopo il campo 'AccountTypeId'\)..  
- 0: Standard  
-1: SHOULD\_USE\_JUST\_FOR\_COMPATIBILITY\_Prospect  
-3: Bronze  
-4: Silver  
-5: Gold
-
-## NickName
-
+AccountTypeId
+---
+0: Undefined<br&gt;1: Customer<br&gt;2: ShipmentSite<br&gt;3: Prospect
+CreationReason
+---
+0: Undefined<br&gt;1: AccountEdited<br&gt;2: NewAccount<br&gt;3: ProspectConvertedToCustomer
+CustomerTypeId
+---
+0: Undefined<br&gt;1: Person<br&gt;2: Organization
+EntityStatus
+---
+0: ImportedFromErp<br&gt;1: ExportedToErp<br&gt;2: ImportedByErp<br&gt;3: ExportingToErp<br&gt;4: Deleted<br&gt;5: CommittingExportToErp<br&gt;6: ToExportToErp<br&gt;7: Editing<br&gt;8: UploadedToServer<br&gt;10: EditingPending
+Level
+---
+Non va più usato per identificare un account come prospect \(usare a tale scopo il campo 'AccountTypeId'\)..<br&gt;  0: Standard<br&gt;1: SHOULD_USE_JUST_FOR_COMPATIBILITY_Prospect<br&gt;3: Bronze<br&gt;4: Silver<br&gt;5: Gold
+NickName
+---
 Nome usato 'comunemente' per indicare l'account, può essere differente dalla ragione sociale \(es. nome con cui è conosciuto un bar\)
+
 

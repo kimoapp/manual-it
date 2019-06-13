@@ -1,16 +1,15 @@
 ---
 description: Contatti
 ---
-
 # Contact
 
-  
- **Chiavi**
+<br>
+**Chiavi**
+- *Id*
+<br><br>
 
-* _Id_
-
-| Campo | Descrizione | Tipo | Dimensione |
-| :--- | :--- | :--- | :--- |
+| Campo | Descrizione | Tipo | Dimensione | 
+| :--- | :--- | :--- | :--- | :--- |
 | AccountId | Codice cliente | text | 50 |
 | AddressCity | Città | text | 40 |
 | AddressCountry | Paese | text | 20 |
@@ -22,7 +21,7 @@ description: Contatti
 | CompanyRoleId | Ruolo in azienda | text | 50 |
 | CreationDate | Data di creazione | dt |  |
 | CreatorId | Id dell'agente che ha creato il record | text | 50 |
-| [EntityStatus](contact.md#entitystatus) | Campo che definisce lo stato del record | enum |  |
+| [EntityStatus](#entitystatus) | Campo che definisce lo stato del record | enum |  |
 | Fax | Fax | text | 50 |
 | FirstName | Nome | text | 100 |
 | FiscalCode | Codice fiscale | text | 30 |
@@ -60,16 +59,8 @@ description: Contatti
 | TitleId | Codice titolo | text | 50 |
 | UploadToServerTimeStamp |  | dt |  |
 
-## EntityStatus
+EntityStatus
+---
+0: ImportedFromErp<br&gt;1: ExportedToErp<br&gt;2: ImportedByErp<br&gt;3: ExportingToErp<br&gt;4: Deleted<br&gt;5: CommittingExportToErp<br&gt;6: ToExportToErp<br&gt;7: Editing<br&gt;8: UploadedToServer<br&gt;10: EditingPending
 
-0: ImportedFromErp  
-1: ExportedToErp  
-2: ImportedByErp  
-3: ExportingToErp  
-4: Deleted  
-5: CommittingExportToErp  
-6: ToExportToErp  
-7: Editing  
-8: UploadedToServer  
-10: EditingPending
 

@@ -1,16 +1,15 @@
 ---
 description: Articoli
 ---
-
 # Item
 
-  
- **Chiavi**
+<br>
+**Chiavi**
+- *Id*
+<br><br>
 
-* _Id_
-
-| Campo | Descrizione | Tipo | Dimensione |
-| :--- | :--- | :--- | :--- |
+| Campo | Descrizione | Tipo | Dimensione | 
+| :--- | :--- | :--- | :--- | :--- |
 | BaseSalesUomId | Id dell'unità di misura di vendita base | text | 10 |
 | ChannelsEnabled | Indica per quali canali è abilitato l'articolo \(se non specificato vale per tutti i canali\) | enum |  |
 | CollectionId | Id della collezione | text | 50 |
@@ -40,7 +39,7 @@ description: Articoli
 | ItemGroupLevel3Id | Id gruppo articoli livello 3 | text | 50 |
 | ItemGroupLevel4Id | Id gruppo articoli livello 4 | text | 50 |
 | ItemSeriesId | Id serie articolo | text | 50 |
-| [ItemType](item.md#itemtype) | Tipo articolo | enum |  |
+| [ItemType](#itemtype) | Tipo articolo | enum |  |
 | LeadTime | Tempo di approvvigionamento | int |  |
 | LineId | Id della linea | text | 50 |
 | LongDescription | Descrizione lunga dell'articolo | text | text |
@@ -52,13 +51,8 @@ description: Articoli
 | TrademarkId | Id del marchio | text | 50 |
 | VatRateId | Id dell'aliquota IVA | text | 50 |
 
-## ItemType
+ItemType
+---
+0: Normal<br&gt;1: Manual<br&gt;2: Note<br&gt;3: ModelItem<br&gt;4: VariableItem<br&gt;5: Idrolab<br&gt;6: Jolly
 
-0: Normal  
-1: Manual  
-2: Note  
-3: ModelItem  
-4: VariableItem  
-5: Idrolab  
-6: Jolly
 

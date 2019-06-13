@@ -1,6 +1,6 @@
 # DocumentNotification
 
-| Valore | Descrizione |
+| Valore| Descrizione |
 | :--- | :--- |
 | [**OnConfirmedDocumentTypes**](documentnotification.md#onconfirmeddocumenttypes) |  |
 | [**OnConfirmedMailBccRecipients**](documentnotification.md#onconfirmedmailbccrecipients) |  |
@@ -12,18 +12,18 @@
 | [**OnConfirmedSendMailToCreatorRecipientMails**](documentnotification.md#onconfirmedsendmailtocreatorrecipientmails) |  |
 | [**SendOnConfirmed**](documentnotification.md#sendonconfirmed) |  |
 
-## OnConfirmedDocumentTypes
+## OnConfirmedDocumentTypes 
 
-**Tipo:** Valori separati da pipe
+**Tipo:** Valori separati da pipe	 
 
-## OnConfirmedMailBccRecipients
+## OnConfirmedMailBccRecipients 
 
-**Tipo:** String
+**Tipo:** String	 
 
-## OnConfirmedMailBodyTemplate
+## OnConfirmedMailBodyTemplate 
 
-**Tipo:** Template  
-**Valore di default:** ${DocumentType} '${DocumentNumber}' confermato!  
+**Tipo:** Template	 
+**Valore di default:** ${DocumentType} '${DocumentNumber}' confermato!	 
 **Valori:**
 
 * AccountCode
@@ -40,14 +40,14 @@
 * ShipmentSiteFreeText
 * ShipmentSiteName
 
-## OnConfirmedMailRecipients
+## OnConfirmedMailRecipients 
 
-**Tipo:** String
+**Tipo:** String	 
 
-## OnConfirmedMailSubjectTemplate
+## OnConfirmedMailSubjectTemplate 
 
-**Tipo:** Template  
-**Valore di default:** ${DocumentType} '${DocumentNumber}' confermato!  
+**Tipo:** Template	 
+**Valore di default:** ${DocumentType} '${DocumentNumber}' confermato!	 
 **Valori:**
 
 * AccountCode
@@ -64,14 +64,14 @@
 * ShipmentSiteFreeText
 * ShipmentSiteName
 
-## OnConfirmedReportType
+## OnConfirmedReportType 
 
-**Tipo:** String
+**Tipo:** String	 
 
-## OnConfirmedSendMailToCreator
+## OnConfirmedSendMailToCreator 
 
-**Tipo:** Enum  
-**Valore di default:** 0  
+**Tipo:** Enum	 
+**Valore di default:** 0	 
 **Valori:**
 
 * 0 =&gt; None
@@ -79,10 +79,10 @@
 * 2 =&gt; Cc
 * 3 =&gt; Bcc
 
-## OnConfirmedSendMailToCreatorRecipientMails
+## OnConfirmedSendMailToCreatorRecipientMails 
 
-**Tipo:** Enum  
-**Valore di default:** 0  
+**Tipo:** Enum	 
+**Valore di default:** 0	 
 **Valori:**
 
 * 0 =&gt; None
@@ -90,7 +90,9 @@
 * 2 =&gt; Cc
 * 3 =&gt; Bcc
 
-## SendOnConfirmed
+## SendOnConfirmed 
 
-**Tipo:** Boolean
+**Tipo:** Boolean	 
+
+
 
