@@ -1,5 +1,5 @@
 ---
-description: Account (clienti, prospect, destinazioni merci)
+description: Account \(clienti, prospect, destinazioni merci\)
 ---
 # Account
 

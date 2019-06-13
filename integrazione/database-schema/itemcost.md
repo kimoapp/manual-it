@@ -1,5 +1,5 @@
 ---
-description: Costo articoli (netto, lordo, ...)
+description: Costo articoli \(netto, lordo, ...\)
 ---
 # ItemCost
 

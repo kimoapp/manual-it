@@ -1,5 +1,5 @@
 ---
-description: Immagini articoli (percorsi dei file)
+description: Immagini articoli \(percorsi dei file\)
 ---
 # ItemImage
 

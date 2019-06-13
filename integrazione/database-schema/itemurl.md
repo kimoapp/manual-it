@@ -1,5 +1,5 @@
 ---
-description: Risorse 'online' degli articoli (schede tecniche online, immagini, ...)
+description: Risorse 'online' degli articoli \(schede tecniche online, immagini, ...\)
 ---
 # ItemUrl
 

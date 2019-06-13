@@ -1,5 +1,5 @@
 ---
-description: Causali di archiviazione dei documenti di vendita (es. motivi di non acquisto)
+description: Causali di archiviazione dei documenti di vendita \(es. motivi di non acquisto\)
 ---
 # DocumentArchivingReason
 

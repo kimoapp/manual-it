@@ -1,5 +1,5 @@
 ---
-description: Modalità di Pagamento (Termini e Condizioni)
+description: Modalità di Pagamento \(Termini e Condizioni\)
 ---
 # PaymentMethod
 

@@ -1,5 +1,5 @@
 ---
-description: Porto (metodo di spedizione)
+description: Porto \(metodo di spedizione\)
 ---
 # ShipmentMethod
 

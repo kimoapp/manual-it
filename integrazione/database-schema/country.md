@@ -1,5 +1,5 @@
 ---
-description: Paese (nazione)
+description: Paese \(nazione\)
 ---
 # Country
 

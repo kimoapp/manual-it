@@ -1,5 +1,5 @@
 ---
-description: Tipo di pagamento (tipo effetto)
+description: Tipo di pagamento \(tipo effetto\)
 ---
 # PaymentType
 
