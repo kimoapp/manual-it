@@ -1,6 +1,6 @@
 # B2b\Cart
 
-| Valore| Descrizione |
+| Valore | Descrizione |
 | :--- | :--- |
 | [**CartFromReassortmentNameTemplate**](b2bcart.md#cartfromreassortmentnametemplate) | Template per il nome del carrello creato dal riassortimento |
 | [**CreditLimitCheck**](b2bcart.md#creditlimitcheck) | Tipo di controllo sul fido al checkout |
@@ -9,44 +9,42 @@
 | [**ShipmentSiteIsMandatory**](b2bcart.md#shipmentsiteismandatory) | Destinazione merci obbligatoria |
 | [**ValidatePricesObsolescence**](b2bcart.md#validatepricesobsolescence) | Abilita la validazione dei prezzi al checkout |
 
-## CartFromReassortmentNameTemplate 
+## CartFromReassortmentNameTemplate
 
-**Tipo:** Template	 
+**Tipo:** Template  
 **Valori:**
 
 * CreationDate
 * ReassortmentType.Description
 
-## CreditLimitCheck 
+## CreditLimitCheck
 
-**Tipo:** Enum	 
+**Tipo:** Enum  
 **Valori:**
 
 * 0 =&gt; Nessun controllo
 * 1 =&gt; Importo totale \(con IVA e spese accessorie incluse\)
 * 2 =&gt; Totale merce \(IVA esclusa\)
 
-## MaxQtyValidationType 
+## MaxQtyValidationType
 
-**Tipo:** Enum	 
-**Valore di default:** 0	 
+**Tipo:** Enum  
+**Valore di default:** 0  
 **Valori:**
 
 * 0 =&gt; Nessun controllo
 * 1 =&gt; In confronto alla disponibilità
 
-## ReassortmentTypeAsConstraintIsMandatory 
+## ReassortmentTypeAsConstraintIsMandatory
 
-**Tipo:** Boolean	 
+**Tipo:** Boolean
 
-## ShipmentSiteIsMandatory 
+## ShipmentSiteIsMandatory
 
-**Tipo:** Boolean	 
+**Tipo:** Boolean
 
-## ValidatePricesObsolescence 
+## ValidatePricesObsolescence
 
-**Tipo:** Boolean	 
-**Valore di default:** True	 
-
-
+**Tipo:** Boolean  
+**Valore di default:** True
 

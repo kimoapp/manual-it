@@ -1,4 +1,4 @@
-﻿# Table of contents
+# Table of contents
 
 * [Piacere, sono Kimo](README.md)
 * [Introduzione](introduzione/README.md)
@@ -240,7 +240,7 @@
   * [Destinazioni Merci](funzionalita/destinazioni-merci.md)
   * [Prospect](funzionalita/prospect.md)
   * [Catalogo](funzionalita/catalogo/README.md)
-    * [Listini per catalogo](funzionalita/catalogo/listini-per-catalogo-todo.md)
+    * [Listini per catalogo](funzionalita/catalogo/listini-per-catalogo.md)
     * [Catalogo da PDF](funzionalita/catalogo/catalogo-da-pdf.md)
   * [Documenti di vendita](funzionalita/documenti-di-vendita/README.md)
     * [Tipi Vendita \(TODO\)](funzionalita/documenti-di-vendita/tipi-vendita.md)

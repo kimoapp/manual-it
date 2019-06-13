@@ -1,15 +1,16 @@
 ---
 description: Attività
 ---
+
 # Activity
 
-<br>
-**Chiavi**
-- *Id*
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| :--- | :--- | :--- | :--- | :--- |
+* _Id_
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
 | AccountId | Id del cliente | text | 50 |
 | ActivityTypeId | Id del tipo attività | text | 50 |
 | ContactId | Contatto | text | 50 |
@@ -17,7 +18,7 @@ description: Attività
 | CreatorId | Id dell'agente che ha creato il record | text | 50 |
 | Duration |  | int |  |
 | EndDate | Data fine attività | dt |  |
-| [EntityStatus](#entitystatus) | Campo che definisce lo stato del record | enum |  |
+| [EntityStatus](activity.md#entitystatus) | Campo che definisce lo stato del record | enum |  |
 | Expiration | Data fine attività | dt |  |
 | FreeBoolean1 | Campo booleano libero | bool |  |
 | FreeBoolean2 | Campo booleano libero | bool |  |
@@ -51,24 +52,25 @@ description: Attività
 | RecurrenceId | Id dell'attività schedulata dal quale è stata generata l'attività | text | 50 |
 | RelatedEntityDescription | Descrizione dell'entità collegata | text | text |
 | RelatedEntityId | Id dell'entità collegata | text | 50 |
-| [RelatedEntityType](#relatedentitytype) | Tipo dell'entità collegata | enum |  |
+| [RelatedEntityType](activity.md#relatedentitytype) | Tipo dell'entità collegata | enum |  |
 | RelatedEntityTypeId | Id del tipo dell'entità collegata | text | 50 |
 | SeasonId | Id della stagione | text | 50 |
 | StartDate | Data inizio attività | dt |  |
-| [Status](#status) | Stato dell'attività | enum |  |
+| [Status](activity.md#status) | Stato dell'attività | enum |  |
 | Subject | Oggetto | text | text |
 | SyncReference | Riferimento | text | 50 |
 | TrademarkId | Id del marchio | text | 50 |
 | UploadToServerTimeStamp |  | dt |  |
 
-EntityStatus
----
-0: ImportedFromErp<br&gt;1: ExportedToErp<br&gt;2: ImportedByErp<br&gt;3: ExportingToErp<br&gt;4: Deleted<br&gt;5: CommittingExportToErp<br&gt;6: ToExportToErp<br&gt;7: Editing<br&gt;8: UploadedToServer<br&gt;10: EditingPending
-RelatedEntityType
----
-0: Undefined<br&gt;1: ErpDocument<br&gt;2: Document<br&gt;3: BudgetLine
-Status
----
-0: Undefined<br&gt;1: Open<br&gt;2: Completed<br&gt;3: Expired<br&gt;4: Late<br&gt;5: Dismissed<br&gt;1000: FromRecurrence
+## EntityStatus
 
+0: ImportedFromErp&lt;br&gt;1: ExportedToErp&lt;br&gt;2: ImportedByErp&lt;br&gt;3: ExportingToErp&lt;br&gt;4: Deleted&lt;br&gt;5: CommittingExportToErp&lt;br&gt;6: ToExportToErp&lt;br&gt;7: Editing&lt;br&gt;8: UploadedToServer&lt;br&gt;10: EditingPending
+
+## RelatedEntityType
+
+0: Undefined&lt;br&gt;1: ErpDocument&lt;br&gt;2: Document&lt;br&gt;3: BudgetLine
+
+## Status
+
+0: Undefined&lt;br&gt;1: Open&lt;br&gt;2: Completed&lt;br&gt;3: Expired&lt;br&gt;4: Late&lt;br&gt;5: Dismissed&lt;br&gt;1000: FromRecurrence
 

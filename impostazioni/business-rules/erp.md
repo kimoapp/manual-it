@@ -1,12 +1,10 @@
 # Erp
 
-| Valore| Descrizione |
+| Valore | Descrizione |
 | :--- | :--- |
 | [**Type**](erp.md#type) | Tipo di Erp |
 
-## Type 
+## Type
 
-**Tipo:** String	 
-
-
+**Tipo:** String
 

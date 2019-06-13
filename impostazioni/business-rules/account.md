@@ -1,6 +1,6 @@
 # Account
 
-| Valore| Descrizione |
+| Valore | Descrizione |
 | :--- | :--- |
 | [**AdvancedSearchFields**](account.md#advancedsearchfields) | Campi per la ricerca avanzata |
 | [**FiscalCodeMandatoryIfIsPerson**](account.md#fiscalcodemandatoryifisperson) | Il Codice Fiscale è obbligatorio se il cliente è una persona fisica |
@@ -8,10 +8,10 @@
 | [**SalesConditionDiscountsSearchTypes**](account.md#salesconditiondiscountssearchtypes) | Tipi di condizioni di vendita da mostrare nella funzione 'Sconti per condizioni di vendita' |
 | [**VatNumberMandatoryIfIsOrganization**](account.md#vatnumbermandatoryifisorganization) | La Partita IVA è obbligatoria se il cliente è un'organizzazione |
 
-## AdvancedSearchFields 
+## AdvancedSearchFields
 
-**Tipo:** Valori separati da pipe	 
-**Valore di default:** CustomerGroup\|AddressCity\|AddressPostCode\|AddressCountrySubdivision	 
+**Tipo:** Valori separati da pipe  
+**Valore di default:** CustomerGroup\|AddressCity\|AddressPostCode\|AddressCountrySubdivision  
 **Valori:**
 
 * AccountFilter
@@ -29,14 +29,14 @@
 * StatisticClass
 * Zone
 
-## FiscalCodeMandatoryIfIsPerson 
+## FiscalCodeMandatoryIfIsPerson
 
-**Tipo:** Boolean	 
+**Tipo:** Boolean
 
-## KeywordSearchFields 
+## KeywordSearchFields
 
-**Tipo:** Valori separati da pipe	 
-**Valore di default:** Code\|Name\|Name2	 
+**Tipo:** Valori separati da pipe  
+**Valore di default:** Code\|Name\|Name2  
 **Valori:**
 
 * Code
@@ -44,19 +44,17 @@
 * Id
 * Name
 
-## SalesConditionDiscountsSearchTypes 
+## SalesConditionDiscountsSearchTypes
 
-**Tipo:** Valori separati da pipe	 
-**Valore di default:** All	 
+**Tipo:** Valori separati da pipe  
+**Valore di default:** All  
 **Valori:**
 
 * All
 * CustomerManufacturer
 * Manufacturer
 
-## VatNumberMandatoryIfIsOrganization 
+## VatNumberMandatoryIfIsOrganization
 
-**Tipo:** Boolean	 
-
-
+**Tipo:** Boolean
 

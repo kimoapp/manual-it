@@ -1,16 +1,17 @@
 ---
 description: Righe dei riassortimenti
 ---
+
 # ReassortmentLine
 
-<br>
-**Chiavi**
-- *Id*
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| :--- | :--- | :--- | :--- | :--- |
-| [ActiveStatus](#activestatus) |  | enum |  |
+* _Id_
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
+| [ActiveStatus](reassortmentline.md#activestatus) |  | enum |  |
 | Availability | Disponibilità | dec |  |
 | AverageDiscount | Sconto | dec |  |
 | AverageUnitPrice | Prezzo unitario | dec |  |
@@ -32,16 +33,16 @@ description: Righe dei riassortimenti
 | FreeDecimal1 | Campo decimale libero | dec |  |
 | FreeDecimal2 | Campo decimale libero | dec |  |
 | FreeDecimal3 | Campo decimale libero | dec |  |
-| FreeQty1_NumberOfPurchases | Numero ordini | int |  |
-| FreeQty1_SalesQty | Quantità di vendita | dec |  |
-| FreeQty2_NumberOfPurchases | Numero ordini | int |  |
-| FreeQty2_SalesQty | Quantità di vendita | dec |  |
-| FreeQty3_NumberOfPurchases | Numero ordini | int |  |
-| FreeQty3_SalesQty | Quantità di vendita | dec |  |
-| FreeQty4_NumberOfPurchases | Numero ordini | int |  |
-| FreeQty4_SalesQty | Quantità di vendita | dec |  |
-| FreeQty5_NumberOfPurchases | Numero ordini | int |  |
-| FreeQty5_SalesQty | Quantità di vendita | dec |  |
+| FreeQty1\_NumberOfPurchases | Numero ordini | int |  |
+| FreeQty1\_SalesQty | Quantità di vendita | dec |  |
+| FreeQty2\_NumberOfPurchases | Numero ordini | int |  |
+| FreeQty2\_SalesQty | Quantità di vendita | dec |  |
+| FreeQty3\_NumberOfPurchases | Numero ordini | int |  |
+| FreeQty3\_SalesQty | Quantità di vendita | dec |  |
+| FreeQty4\_NumberOfPurchases | Numero ordini | int |  |
+| FreeQty4\_SalesQty | Quantità di vendita | dec |  |
+| FreeQty5\_NumberOfPurchases | Numero ordini | int |  |
+| FreeQty5\_SalesQty | Quantità di vendita | dec |  |
 | FreeText1 | Campo testo libero | text | text |
 | FreeText2 | Campo testo libero | text | text |
 | FreeText3 | Campo testo libero | text | text |
@@ -61,8 +62,8 @@ description: Righe dei riassortimenti
 | LastSaleSaleTypeId | Tipo vendita | text | 50 |
 | LastSaleUnitPrice | Prezzo unitario | dec |  |
 | LineNumber | Numero riga | int |  |
-| [LineType](#linetype) | Tipo riga | enum |  |
-| [LockedFields](#lockedfields) | Campi bloccati per l'editing nei documenti | enum |  |
+| [LineType](reassortmentline.md#linetype) | Tipo riga | enum |  |
+| [LockedFields](reassortmentline.md#lockedfields) | Campi bloccati per l'editing nei documenti | enum |  |
 | ManufacturerId | Id del produttore | text | 50 |
 | ManufacturerItemId | Id dell'articolo produttore | text | 50 |
 | Notes | Note | text | text |
@@ -79,14 +80,15 @@ description: Righe dei riassortimenti
 | VariableValueId1 | Valore variante | text | 50 |
 | VariableValueId2 | Valore variante | text | 50 |
 
-ActiveStatus
----
-0: Active<br&gt;1: Deactivated
-LineType
----
-0: Item<br&gt;1: ManualItem<br&gt;2: Note<br&gt;3: ModelItem<br&gt;4: VariableItem<br&gt;5: Idrolab
-LockedFields
----
-0: None<br&gt;1: UnitPrice<br&gt;2: Discounts<br&gt;4: SaleType
+## ActiveStatus
 
+0: Active&lt;br&gt;1: Deactivated
+
+## LineType
+
+0: Item&lt;br&gt;1: ManualItem&lt;br&gt;2: Note&lt;br&gt;3: ModelItem&lt;br&gt;4: VariableItem&lt;br&gt;5: Idrolab
+
+## LockedFields
+
+0: None&lt;br&gt;1: UnitPrice&lt;br&gt;2: Discounts&lt;br&gt;4: SaleType
 

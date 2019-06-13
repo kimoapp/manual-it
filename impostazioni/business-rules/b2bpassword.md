@@ -1,7 +1,6 @@
 # B2b\Password
 
-| Valore| Descrizione |
+| Valore | Descrizione |
 | :--- | :--- |
-
 
 

@@ -1,15 +1,16 @@
 ---
-description: 
+description: null
 ---
+
 # Document
 
-<br>
-**Chiavi**
-- *Id*
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| :--- | :--- | :--- | :--- | :--- |
+* _Id_
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
 | AccountAddressCity | Città | text | 40 |
 | AccountAddressCountry | Paese | text | 20 |
 | AccountAddressCountrySubdivision | Provincia | text | 20 |
@@ -26,7 +27,7 @@ description:
 | AgreedAmount | Importo concordato | dec |  |
 | Amount | Totale documento | dec |  |
 | AmountIncludingVat | Totale documento incluso di IVA | dec |  |
-| [AppOrigin](#apporigin) | Codice CIG | enum |  |
+| [AppOrigin](document.md#apporigin) | Codice CIG | enum |  |
 | ArchivingNotes | Note per il motivo di archiviazione | text | text |
 | ArchivingReasonId | Id della causale di archiviazione | text | 50 |
 | AvailabilityRuleId | Id della regola di disponibilità | text | 50 |
@@ -66,14 +67,14 @@ description:
 | DiscountOverRetailAmount | Sconto su imponibile retail | dec |  |
 | DiscountOverRetailAmountIncludingVat | Sconto su importo retail IVA compresa | dec |  |
 | DocumentDate | Data documento | date |  |
-| [DocumentFamilyId](#documentfamilyid) | Id della famiglia documento | enum |  |
+| [DocumentFamilyId](document.md#documentfamilyid) | Id della famiglia documento | enum |  |
 | DocumentMarkup | Ricarico | dec |  |
 | DocumentMarkupOnNetCost | Margine | dec |  |
 | DocumentReference | Documento di riferimento | text | text |
-| [DocumentStatus](#documentstatus) | Stato del documento | enum |  |
+| [DocumentStatus](document.md#documentstatus) | Stato del documento | enum |  |
 | DocumentTypeId | Id del tipo documento | text | 50 |
 | EndShipmentDate | Fine data spedizione | date |  |
-| [EntityStatus](#entitystatus) | Campo che definisce lo stato del record | enum |  |
+| [EntityStatus](document.md#entitystatus) | Campo che definisce lo stato del record | enum |  |
 | ExpectedClosingDate |  | date |  |
 | FixedDiscount | Sconto importo | dec |  |
 | FreeBoolean1 | Campo booleano libero | bool |  |
@@ -163,7 +164,7 @@ description:
 | ShippingChargesAmount | Spese di spedizione | dec |  |
 | ShippingChargesVatRateId | Aliquota IVA per le spese di spedizione | text | 50 |
 | SourceReference | Documento di origine | text | 50 |
-| [SourceReferenceType](#sourcereferencetype) |  | enum |  |
+| [SourceReferenceType](document.md#sourcereferencetype) |  | enum |  |
 | StartShipmentDate | Data inizio spedizione | date |  |
 | SyncReference | Riferimento | text | 50 |
 | TotalAverageDiscount | Sconto medio totale | dec |  |
@@ -176,20 +177,23 @@ description:
 | VatRateValue | Valore aliquota | dec |  |
 | WarehouseId | Id del magazzino | text | 50 |
 
-AppOrigin
----
-0: Undefined<br&gt;1: B2b
-DocumentFamilyId
----
-1: SalesOrders<br&gt;2: SalesQuotes<br&gt;3: SalesInvoices<br&gt;4: NoteCredito<br&gt;5: DDT<br&gt;6: Inventories<br&gt;7: WorkSessions
-DocumentStatus
----
-0: Open<br&gt;1: Confirmed<br&gt;2: SalesQuoteTransformedToOrder<br&gt;3: Archived
-EntityStatus
----
-0: ImportedFromErp<br&gt;1: ExportedToErp<br&gt;2: ImportedByErp<br&gt;3: ExportingToErp<br&gt;4: Deleted<br&gt;5: CommittingExportToErp<br&gt;6: ToExportToErp<br&gt;7: Editing<br&gt;8: UploadedToServer<br&gt;10: EditingPending
-SourceReferenceType
----
-0: Undefined<br&gt;1: FromSalesQuote<br&gt;2: Budget
+## AppOrigin
 
+0: Undefined&lt;br&gt;1: B2b
+
+## DocumentFamilyId
+
+1: SalesOrders&lt;br&gt;2: SalesQuotes&lt;br&gt;3: SalesInvoices&lt;br&gt;4: NoteCredito&lt;br&gt;5: DDT&lt;br&gt;6: Inventories&lt;br&gt;7: WorkSessions
+
+## DocumentStatus
+
+0: Open&lt;br&gt;1: Confirmed&lt;br&gt;2: SalesQuoteTransformedToOrder&lt;br&gt;3: Archived
+
+## EntityStatus
+
+0: ImportedFromErp&lt;br&gt;1: ExportedToErp&lt;br&gt;2: ImportedByErp&lt;br&gt;3: ExportingToErp&lt;br&gt;4: Deleted&lt;br&gt;5: CommittingExportToErp&lt;br&gt;6: ToExportToErp&lt;br&gt;7: Editing&lt;br&gt;8: UploadedToServer&lt;br&gt;10: EditingPending
+
+## SourceReferenceType
+
+0: Undefined&lt;br&gt;1: FromSalesQuote&lt;br&gt;2: Budget
 

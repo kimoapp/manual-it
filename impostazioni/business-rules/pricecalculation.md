@@ -1,6 +1,6 @@
 # PriceCalculation
 
-| Valore| Descrizione |
+| Valore | Descrizione |
 | :--- | :--- |
 | [**Algorithm**](pricecalculation.md#algorithm) | Algoritmo per il calcolo dei prezzi |
 | [**MinimumNumberOfQuantityRangesToActivateNotification**](pricecalculation.md#minimumnumberofquantityrangestoactivatenotification) | Numero minimo di scaglioni quantità necessari per attivare la gestione degli scaglioni \(e non considerarli semplicemente come articoli di cui è richiesta una quantità minima\) |
@@ -10,51 +10,49 @@
 | [**UnitPriceDecimalDigitsRounding**](pricecalculation.md#unitpricedecimaldigitsrounding) | Numero di cifre decimali nei prezzi unitari |
 | [**UnitPriceRoundingMode**](pricecalculation.md#unitpriceroundingmode) | Modalità di arrotondamento per i prezzi unitaru |
 
-## Algorithm 
+## Algorithm
 
-**Tipo:** String	 
+**Tipo:** String
 
-## MinimumNumberOfQuantityRangesToActivateNotification 
+## MinimumNumberOfQuantityRangesToActivateNotification
 
-**Tipo:** Int32	 
+**Tipo:** Int32
 
-## PricePerQtyMultiplierMode 
+## PricePerQtyMultiplierMode
 
-**Tipo:** Enum	 
-**Valore di default:** 0	 
+**Tipo:** Enum  
+**Valore di default:** 0  
 **Valori:**
 
 * 0 =&gt; Applicato sul totale del documento
 * 1 =&gt; Applicato sul prezzo unitario
 
-## RetailPricesIncludeVat 
+## RetailPricesIncludeVat
 
-**Tipo:** Enum	 
-**Valore di default:** 0	 
+**Tipo:** Enum  
+**Valore di default:** 0  
 **Valori:**
 
 * 0 =&gt; No
 * 1 =&gt; Yes
 
-## TotalAmountDecimalDigitsRounding 
+## TotalAmountDecimalDigitsRounding
 
-**Tipo:** Int32	 
-**Valore di default:** 2	 
+**Tipo:** Int32  
+**Valore di default:** 2
 
-## UnitPriceDecimalDigitsRounding 
+## UnitPriceDecimalDigitsRounding
 
-**Tipo:** Int32	 
-**Valore di default:** 5	 
+**Tipo:** Int32  
+**Valore di default:** 5
 
-## UnitPriceRoundingMode 
+## UnitPriceRoundingMode
 
-**Tipo:** Enum	 
-**Valore di default:** 0	 
+**Tipo:** Enum  
+**Valore di default:** 0  
 **Valori:**
 
 * 0 =&gt; Mathematical
 * 1 =&gt; RoundUp
 * 2 =&gt; RoundDown
-
-
 

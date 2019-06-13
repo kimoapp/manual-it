@@ -1,21 +1,22 @@
 ---
 description: Riga di un budget
 ---
+
 # BudgetLine
 
-<br>
-**Chiavi**
-- *Id*
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| :--- | :--- | :--- | :--- | :--- |
+* _Id_
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
 | AccountId | Id del cliente | text | 50 |
 | Amount | Importo | dec |  |
 | BudgetId | Id del budget | text | 50 |
 | CreationDate | Data di creazione | dt |  |
 | CreatorId | Id dell'agente che ha creato il record | text | 50 |
-| [EntityStatus](#entitystatus) | Campo che definisce lo stato del record | enum |  |
+| [EntityStatus](budgetline.md#entitystatus) | Campo che definisce lo stato del record | enum |  |
 | ErpStatusId1 |  | text | 50 |
 | ErpStatusId2 |  | text | 50 |
 | ErpStatusId3 |  | text | 50 |
@@ -50,8 +51,7 @@ description: Riga di un budget
 | UomId | Unità di misura | text | 10 |
 | UploadToServerTimeStamp |  | dt |  |
 
-EntityStatus
----
-0: ImportedFromErp<br&gt;1: ExportedToErp<br&gt;2: ImportedByErp<br&gt;3: ExportingToErp<br&gt;4: Deleted<br&gt;5: CommittingExportToErp<br&gt;6: ToExportToErp<br&gt;7: Editing<br&gt;8: UploadedToServer<br&gt;10: EditingPending
+## EntityStatus
 
+0: ImportedFromErp&lt;br&gt;1: ExportedToErp&lt;br&gt;2: ImportedByErp&lt;br&gt;3: ExportingToErp&lt;br&gt;4: Deleted&lt;br&gt;5: CommittingExportToErp&lt;br&gt;6: ToExportToErp&lt;br&gt;7: Editing&lt;br&gt;8: UploadedToServer&lt;br&gt;10: EditingPending
 

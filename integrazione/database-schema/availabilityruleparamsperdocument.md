@@ -1,16 +1,17 @@
 ---
 description: Criteri per l'applicazione delle regole di disponibilità ai documenti
 ---
+
 # AvailabilityRuleParamsPerDocument
 
-<br>
-**Chiavi**
-- *Id*
-- TrademarkId, SeasonId, DocumentTypeId, DocumentStartDate, DocumentEndDate, ShipmentStartDate, ShipmentEndDate
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| :--- | :--- | :--- | :--- | :--- |
+* _Id_
+* TrademarkId, SeasonId, DocumentTypeId, DocumentStartDate, DocumentEndDate, ShipmentStartDate, ShipmentEndDate
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
 | DocumentEndDate | Data fine validità | date |  |
 | DocumentStartDate | Data inizio validità | date |  |
 | DocumentTypeId | Id del tipo documento | text | 50 |
@@ -20,6 +21,4 @@ description: Criteri per l'applicazione delle regole di disponibilità ai docume
 | ShipmentEndDate | Data fine validità | date |  |
 | ShipmentStartDate | Data inizio validità | date |  |
 | TrademarkId | Id del Marchio | text | 50 |
-
-
 
