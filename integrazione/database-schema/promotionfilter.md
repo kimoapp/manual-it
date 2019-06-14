@@ -38,4 +38,3 @@ I campi EncodingType ed EncodingKey permettono di definire quali sono le entità
 
 I campi EncodingType ed EncodingKey permettono di definire quali sono le entità a cui va applicata la promozione
 
-

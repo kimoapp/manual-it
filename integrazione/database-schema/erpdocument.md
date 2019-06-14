@@ -128,4 +128,3 @@ description: Documenti da Erp
 | VatRateValue | Valore aliquota | dec |  |
 | WarehouseId | Id del magazzino | text | 50 |
 
-

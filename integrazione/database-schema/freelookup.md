@@ -19,4 +19,3 @@ description: FreeLookup
 | LookupTypeId |  | text | 50 |
 | ValueId |  | text | 50 |
 
-

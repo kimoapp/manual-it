@@ -16,4 +16,3 @@ description: Traduzioni in lingua delle unità di misura
 | LanguageId |  | text | 50 |
 | UomId |  | text | 50 |
 
-

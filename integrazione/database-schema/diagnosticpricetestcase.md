@@ -34,4 +34,3 @@ description: Test diagnostica prezzi
 | UnitPrice |  | dec |  |
 | UnitsPerPack |  | dec |  |
 
-

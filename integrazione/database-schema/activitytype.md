@@ -16,4 +16,3 @@ description: Tipi di attività
 | SortPriority |  | int |  |
 | UseMode |  | text | 50 |
 
-

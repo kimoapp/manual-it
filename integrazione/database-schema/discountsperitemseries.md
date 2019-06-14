@@ -25,4 +25,3 @@ description: Sconti per serie articolo
 | ItemSeriesId | Id serie articolo | text | 50 |
 | StartDate | Data inizio validità | date |  |
 
-

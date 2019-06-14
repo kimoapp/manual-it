@@ -48,4 +48,3 @@ description: Controlli commerciali sulle righe dei documenti di vendita
 * 0: Error
 * 1: Warning
 
-

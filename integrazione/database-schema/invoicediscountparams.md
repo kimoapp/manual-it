@@ -17,4 +17,3 @@ description: Parametri per lo Sconto fattura
 | InvoiceDiscountId | Id sconto Fattura | text | 50 |
 | MinimumAmount | Importo minimo | dec |  |
 
-

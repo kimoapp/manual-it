@@ -20,4 +20,3 @@ description: Righe delle Schede Marketing
 | SyncReference | Riferimento | text | 50 |
 | Value | Valore | text | text |
 
-

@@ -1,5 +1,5 @@
 ---
-description: Risorse 'online' degli articoli (schede tecniche online, immagini, ...)
+description: 'Risorse ''online'' degli articoli (schede tecniche online, immagini, ...)'
 ---
 
 # ItemUrl
@@ -23,5 +23,4 @@ description: Risorse 'online' degli articoli (schede tecniche online, immagini, 
 * 0: Undefined
 * 1: Image
 * 2: OnlineForm
-
 

@@ -14,4 +14,3 @@ description: Produttori
 | Id | Id | text | 50 |
 | Name | Nome | text | 100 |
 
-

@@ -67,4 +67,3 @@ I campi EncodingType ed EncodingKey permettono di definire quali sono le entità
 
 * 0: Default
 
-

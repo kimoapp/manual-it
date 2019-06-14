@@ -13,4 +13,3 @@ description: Famiglie di schede marketing
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
 
-

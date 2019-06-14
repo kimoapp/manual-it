@@ -15,4 +15,3 @@ description: Banca
 | Id | Id | text | 50 |
 | Name | Nome banca | text | 100 |
 
-

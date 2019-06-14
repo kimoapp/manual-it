@@ -1,5 +1,5 @@
 ---
-description: 
+description: null
 ---
 
 # Document
@@ -216,5 +216,4 @@ description:
 * 0: Undefined
 * 1: FromSalesQuote
 * 2: Budget
-
 

@@ -16,4 +16,3 @@ description: Saldo punti vendita
 | Points | Punti | dec |  |
 | SalesAgentId | Id dell'agente | text | 50 |
 
-

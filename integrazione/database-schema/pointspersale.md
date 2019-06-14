@@ -24,4 +24,3 @@ description: Punti per la vendita di articoli
 | StartDate | Data inizio validità | date |  |
 | UnitsPerPack | Unità per confezione | dec |  |
 
-

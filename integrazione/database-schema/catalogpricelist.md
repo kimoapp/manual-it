@@ -23,4 +23,3 @@ description: Listini da usare per visualizzare i prezzi nel catalogo
 | StatisticClassId |  | text | 50 |
 | ZoneId |  | text | 50 |
 
-

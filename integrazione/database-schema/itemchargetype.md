@@ -13,4 +13,3 @@ description: Tipi di spese per articoli (es. RAEE)
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
 
-

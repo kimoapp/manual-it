@@ -20,4 +20,3 @@ description: Regole di disponibilità
 * 0: DoNotValidate
 * 1: BlockIfExceed
 
-

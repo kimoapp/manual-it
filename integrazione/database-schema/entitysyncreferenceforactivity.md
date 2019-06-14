@@ -17,4 +17,3 @@ description: SyncReference delle entità create o modificate in Kimo
 | SyncReference | Id su KimoServer dell'entità gestita da Kimo | text | 50 |
 | UserId | Id dell'agente | text | 50 |
 
-

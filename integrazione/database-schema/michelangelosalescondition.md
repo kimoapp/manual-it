@@ -101,4 +101,3 @@ description: Condizioni di vendita nell'Erp Michelangelo
 | UnitsPerPack | Unità per confezione | dec |  |
 | UseMultiplier | Indica se usare il ricarico | bool |  |
 
-

@@ -14,4 +14,3 @@ description: Valuta
 | Id | Id | text | 50 |
 | Symbol | Simbolo | text | 10 |
 
-

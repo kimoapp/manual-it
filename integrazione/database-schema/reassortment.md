@@ -16,4 +16,3 @@ description: Riassortimenti
 | ReassortmentTypeId | Tipo di riassortimento | text | 50 |
 | ShipmentSiteId | Id della destinazione merce a cui fa riferimento il riassortimento | text | 50 |
 
-

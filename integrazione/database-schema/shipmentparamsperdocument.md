@@ -22,4 +22,3 @@ description: Parametri per la spedizione di un documento di vendita
 | ShipmentStartDateEditable | Consenti modifica data inizio spedizione | bool |  |
 | TrademarkId | Id del Marchio | text | 50 |
 
-

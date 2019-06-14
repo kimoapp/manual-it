@@ -25,4 +25,3 @@ description: Utenti a cui è stata assegnata l'attività
 
 * 1: User
 
-

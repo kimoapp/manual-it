@@ -14,4 +14,3 @@ description: Marchi
 | Id | Id | text | 50 |
 | MinQty | Quantità minima | dec |  |
 
-

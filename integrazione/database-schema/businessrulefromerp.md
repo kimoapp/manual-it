@@ -15,4 +15,3 @@ description: Valori per Business Rule definite sull'Erp
 | Key |  | text | 100 |
 | Value |  | text | text |
 
-

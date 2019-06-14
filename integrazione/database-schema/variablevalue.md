@@ -17,4 +17,3 @@ description: Valori per le varianti
 | ValueId | Id | text | 50 |
 | VariableId | Id variante | text | 50 |
 
-

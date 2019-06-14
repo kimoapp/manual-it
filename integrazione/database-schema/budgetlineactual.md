@@ -44,4 +44,3 @@ description: Riga di un budget con i dati "effettivi" registrati dall'Erp
 | Quantity | Quantità | dec |  |
 | UomId | Unità di misura | text | 10 |
 
-

@@ -20,4 +20,3 @@ description: Spese per articoli
 | StartDate | Data inizio validità | date |  |
 | Value | Valore spesa dell'articolo | dec |  |
 
-

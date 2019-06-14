@@ -48,4 +48,3 @@ description: Scheda contabile di un account
 | UnpaidsNumber | Numero insoluti anno corrente | int |  |
 | UnpaidsPastNumber | Numero insoluti anno precedente | int |  |
 
-
