@@ -1,5 +1,5 @@
 ---
-description: 
+description: null
 ---
 
 # DocumentLine
@@ -132,34 +132,24 @@ description:
 | VatRateIsExemption | Indica se l'IVA è calcolata o no | bool |  |
 | VatRateValue | Valore aliquota | dec |  |
 | WarehouseId | Id del magazzino | text | 50 |
+
 ## AvailabilityMode
 
-0: Regular
-1: Virtual
+0: Regular 1: Virtual
+
 ## LineType
 
-0: Item
-1: ManualItem
-2: Note
-3: ModelItem
-4: VariableItem
-5: Idrolab
+0: Item 1: ManualItem 2: Note 3: ModelItem 4: VariableItem 5: Idrolab
+
 ## PriceRecalculationStatus
 
-0: None
-1: ConfirmationRequired
+0: None 1: ConfirmationRequired
+
 ## PromotionStatus
 
-0: NotActive
-1: ShouldChoosePromotion
-2: PromoDaListinoPersonalizzato
-3: Activated
-4: AutomaticPromotionActivated
+0: NotActive 1: ShouldChoosePromotion 2: PromoDaListinoPersonalizzato 3: Activated 4: AutomaticPromotionActivated
+
 ## SaleTypeMode
 
-0: Normal
-1: TotalFreeSample
-2: TaxableFreeSample
-3: DiscountOnGoods
-4: Promotion
+0: Normal 1: TotalFreeSample 2: TaxableFreeSample 3: DiscountOnGoods 4: Promotion
 

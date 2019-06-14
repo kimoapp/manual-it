@@ -1,5 +1,5 @@
 ---
-description: Articoli alternativi, sostitutivi o collegati
+description: 'Articoli alternativi, sostitutivi o collegati'
 ---
 
 # ItemAssociated
@@ -19,9 +19,8 @@ description: Articoli alternativi, sostitutivi o collegati
 | Priority |  | int |  |
 | SourceItemId | Id dell'articolo di interesse | text | 50 |
 | StartDate | Data inizio validità | date |  |
+
 ## AssociationType
 
-1: Related
-2: Substitutive
-3: Alternative
+1: Related 2: Substitutive 3: Alternative
 
