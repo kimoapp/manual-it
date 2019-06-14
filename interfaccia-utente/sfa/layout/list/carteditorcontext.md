@@ -1,4 +1,3 @@
-
 # CartEditor
 
 **Context:** CartEditorContext  

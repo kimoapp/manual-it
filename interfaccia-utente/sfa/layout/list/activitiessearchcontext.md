@@ -1,4 +1,3 @@
-
 # ActivitiesSearch
 
 **Context:** ActivitiesSearchContext  

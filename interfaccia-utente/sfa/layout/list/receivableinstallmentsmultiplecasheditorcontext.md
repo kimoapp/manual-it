@@ -1,4 +1,3 @@
-
 # ReceivableInstallmentsMultipleCashEditor
 
 **Context:** ReceivableInstallmentsMultipleCashEditorContext  

@@ -1,4 +1,3 @@
-
 # DocumentReport
 
 **Context:** DocumentReportContext  

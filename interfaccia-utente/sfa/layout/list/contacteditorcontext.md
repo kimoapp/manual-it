@@ -1,4 +1,3 @@
-
 # ContactEditor
 
 **Context:** ContactEditorContext  

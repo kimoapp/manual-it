@@ -1,4 +1,3 @@
-
 # ReceivableInstallmentEditor
 
 **Context:** ReceivableInstallmentEditorContext  

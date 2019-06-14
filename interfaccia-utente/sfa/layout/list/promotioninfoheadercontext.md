@@ -1,4 +1,3 @@
-
 # PromotionInfoHeader
 
 **Context:** PromotionInfoHeaderContext  

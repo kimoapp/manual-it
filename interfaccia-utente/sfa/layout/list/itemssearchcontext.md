@@ -1,4 +1,3 @@
-
 # ItemsSearch
 
 **Context:** ItemsSearchContext  

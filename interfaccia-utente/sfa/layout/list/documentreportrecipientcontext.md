@@ -1,4 +1,3 @@
-
 # DocumentReportRecipient
 
 **Context:** DocumentReportRecipientContext  

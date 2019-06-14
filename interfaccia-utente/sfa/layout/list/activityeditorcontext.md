@@ -1,4 +1,3 @@
-
 # ActivityEditor
 
 **Context:** ActivityEditorContext  

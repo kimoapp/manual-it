@@ -1,4 +1,3 @@
-
 # CustomerScheduledPaymentsTableRow
 
 **Context:** CustomerScheduledPaymentsTableRowContext  

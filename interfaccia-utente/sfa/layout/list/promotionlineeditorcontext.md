@@ -1,4 +1,3 @@
-
 # PromotionLineEditor
 
 **Context:** PromotionLineEditorContext  

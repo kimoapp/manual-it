@@ -1,4 +1,3 @@
-
 # ErpDocumentLineVariableEditor
 
 **Context:** ErpDocumentLineVariableEditorContext  

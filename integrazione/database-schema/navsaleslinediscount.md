@@ -31,26 +31,29 @@ description: Sconti nell'Erp Nav
 | [Type](navsaleslinediscount.md#type) | Tipo sconto | enum |  |
 | UomId | Unità di misura | text | 50 |
 | VariableItemId | Id dell'articolo variante | text | 50 |
+
 ## FindNext
 
-0. No
-1. Yes
-## SalesType
+1. No
+2. Yes
 
-0. Customer
-1. CustomerDiscountGroup
-1. CustomerDiscountGroup
-2. AllCustomers
-3. Campaign
-## Type
+   **SalesType**
 
-0. Item
-1. ItemDiscountGroup
-102. ItemGroupLevel1
-103. ItemGroupLevel2
-104. AllItems
-105. DefaultItemDiscountGroup
-106. ItemGroupLevel3
-107. ItemGroupLevel4
-108. Trademark
+3. Customer
+4. CustomerDiscountGroup
+5. CustomerDiscountGroup
+6. AllCustomers
+7. Campaign
+
+   **Type**
+
+8. Item
+9. ItemDiscountGroup
+10. ItemGroupLevel1
+11. ItemGroupLevel2
+12. AllItems
+13. DefaultItemDiscountGroup
+14. ItemGroupLevel3
+15. ItemGroupLevel4
+16. Trademark
 

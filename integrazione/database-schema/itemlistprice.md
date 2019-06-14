@@ -44,14 +44,16 @@ description: Prezzi per articolo
 | StartQuantityRange | Inizio Scaglione quantità | dec |  |
 | UnitPrice | Prezzo unitario | dec |  |
 | UnitsPerPack | Unità per confezione | dec |  |
+
 ## IgnoreDiscounts
 
-0. No
-1. Yes
-## LockedFields
+1. No
+2. Yes
 
-0. None
-1. UnitPrice
-2. Discounts
-4. SaleType
+   **LockedFields**
+
+3. None
+4. UnitPrice
+5. Discounts
+6. SaleType
 

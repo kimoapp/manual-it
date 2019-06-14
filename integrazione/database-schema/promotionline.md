@@ -49,17 +49,21 @@ description: Righe promozioni
 | StartDate | Data inizio validità | date |  |
 | SuggestedQty | Quantità suggerita | dec |  |
 | VatRateId | Id dell'aliquota IVA | text | 50 |
+
 ## EncodingKey
 
 I campi EncodingType ed EncodingKey permettono di definire quali sono le entità a cui va applicata la promozione
+
 ## EncodingType
 
 I campi EncodingType ed EncodingKey permettono di definire quali sono le entità a cui va applicata la promozione
+
 ## GiftQtyMode
 
-0. Quantità gratuita 'inclusa' in quella a pagamento
-1. Quantità gratuita NON 'inclusa' in quella a pagamento
-## QtyDivisibilityRule
+1. Quantità gratuita 'inclusa' in quella a pagamento
+2. Quantità gratuita NON 'inclusa' in quella a pagamento
 
-0. Default
+   **QtyDivisibilityRule**
+
+3. Default
 

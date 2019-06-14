@@ -1,4 +1,3 @@
-
 # BankAccountsSearch
 
 **Context:** BankAccountsSearchContext  

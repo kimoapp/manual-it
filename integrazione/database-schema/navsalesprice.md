@@ -39,30 +39,34 @@ description: Prezzi di vendita nell'Erp Nav
 | VariableValueId1 | Valore variante | text | 50 |
 | VariableValueId2 | Valore variante | text | 50 |
 | VatRateId | Id aliquota IVA | text | 50 |
+
 ## FindNext
 
-0. No
-1. Yes
-## SalesDocumentType
+1. No
+2. Yes
 
-0. AllDocuments
-1. Document
-## SalesType
+   **SalesDocumentType**
 
-0. Customer
-1. CustomerDiscountGroup
-1. CustomerDiscountGroup
-2. AllCustomers
-3. Campaign
-## Type
+3. AllDocuments
+4. Document
 
-0. Item
-1. ItemDiscountGroup
-102. ItemGroupLevel1
-103. ItemGroupLevel2
-104. AllItems
-105. DefaultItemDiscountGroup
-106. ItemGroupLevel3
-107. ItemGroupLevel4
-108. Trademark
+   **SalesType**
+
+5. Customer
+6. CustomerDiscountGroup
+7. CustomerDiscountGroup
+8. AllCustomers
+9. Campaign
+
+   **Type**
+
+10. Item
+11. ItemDiscountGroup
+12. ItemGroupLevel1
+13. ItemGroupLevel2
+14. AllItems
+15. DefaultItemDiscountGroup
+16. ItemGroupLevel3
+17. ItemGroupLevel4
+18. Trademark
 

@@ -1,4 +1,3 @@
-
 # ContactsSearch
 
 **Context:** ContactsSearchContext  

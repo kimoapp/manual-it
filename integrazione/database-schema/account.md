@@ -1,5 +1,5 @@
 ---
-description: Account (clienti, prospect, destinazioni merci)
+description: 'Account (clienti, prospect, destinazioni merci)'
 ---
 
 # Account
@@ -117,46 +117,48 @@ description: Account (clienti, prospect, destinazioni merci)
 | VatRateId | Id dell'aliquota IVA | text | 50 |
 | WarehouseId | Id del magazzino | text | 50 |
 | ZoneId | Id della zona | text | 50 |
+
 ## AccountFilterId
 
 questo campo è un valore sul quale possono essere filtrati i clienti in fase di ricerca. I valori utilizzati hanno un'anagrafica associata ovvero l'entità AccountFilter
+
 ## AccountTypeId
 
-0. Undefined
-1. Customer
-2. ShipmentSite
-3. Prospect
-## CreationReason
+1. Undefined
+2. Customer
+3. ShipmentSite
+4. Prospect
 
-0. Undefined
-1. AccountEdited
-2. NewAccount
-3. ProspectConvertedToCustomer
-## CustomerTypeId
+   **CreationReason**
 
-0. Undefined
-1. Person
-2. Organization
-## EntityStatus
+5. Undefined
+6. AccountEdited
+7. NewAccount
+8. ProspectConvertedToCustomer
 
-0. ImportedFromErp
-1. ExportedToErp
-2. ImportedByErp
-3. ExportingToErp
-4. Deleted
-5. CommittingExportToErp
-6. ToExportToErp
-7. Editing
-8. UploadedToServer
-10. EditingPending
-## Level
+   **CustomerTypeId**
 
-Non va più usato per identificare un account come prospect \(usare a tale scopo il campo 'AccountTypeId'\)..
-0. Standard
-1. SHOULD\_USE\_JUST\_FOR\_COMPATIBILITY\_Prospect
-3. Bronze
-4. Silver
-5. Gold
+9. Undefined
+10. Person
+11. Organization
+
+    **EntityStatus**
+
+12. ImportedFromErp
+13. ExportedToErp
+14. ImportedByErp
+15. ExportingToErp
+16. Deleted
+17. CommittingExportToErp
+18. ToExportToErp
+19. Editing
+20. UploadedToServer
+21. EditingPending
+
+    **Level**
+
+Non va più usato per identificare un account come prospect \(usare a tale scopo il campo 'AccountTypeId'\).. 0. Standard 1. SHOULD\_USE\_JUST\_FOR\_COMPATIBILITY\_Prospect 3. Bronze 4. Silver 5. Gold
+
 ## NickName
 
 Nome usato 'comunemente' per indicare l'account, può essere differente dalla ragione sociale \(es. nome con cui è conosciuto un bar\)

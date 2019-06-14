@@ -1,4 +1,3 @@
-
 # BudgetLineTableRow
 
 **Context:** BudgetLineTableRowContext  

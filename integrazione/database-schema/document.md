@@ -1,5 +1,5 @@
 ---
-description: 
+description: null
 ---
 
 # Document
@@ -175,40 +175,45 @@ description:
 | VatRateIsExemption | Indica se l'IVA è calcolata o no | bool |  |
 | VatRateValue | Valore aliquota | dec |  |
 | WarehouseId | Id del magazzino | text | 50 |
+
 ## AppOrigin
 
-0. Undefined
-1. B2b
-## DocumentFamilyId
+1. Undefined
+2. B2b
 
-1. SalesOrders
-2. SalesQuotes
-3. SalesInvoices
-4. NoteCredito
-5. DDT
-6. Inventories
-7. WorkSessions
-## DocumentStatus
+   **DocumentFamilyId**
 
-0. Open
-1. Confirmed
-2. SalesQuoteTransformedToOrder
-3. Archived
-## EntityStatus
+3. SalesOrders
+4. SalesQuotes
+5. SalesInvoices
+6. NoteCredito
+7. DDT
+8. Inventories
+9. WorkSessions
 
-0. ImportedFromErp
-1. ExportedToErp
-2. ImportedByErp
-3. ExportingToErp
-4. Deleted
-5. CommittingExportToErp
-6. ToExportToErp
-7. Editing
-8. UploadedToServer
-10. EditingPending
-## SourceReferenceType
+   **DocumentStatus**
 
-0. Undefined
-1. FromSalesQuote
-2. Budget
+10. Open
+11. Confirmed
+12. SalesQuoteTransformedToOrder
+13. Archived
+
+    **EntityStatus**
+
+14. ImportedFromErp
+15. ExportedToErp
+16. ImportedByErp
+17. ExportingToErp
+18. Deleted
+19. CommittingExportToErp
+20. ToExportToErp
+21. Editing
+22. UploadedToServer
+23. EditingPending
+
+    **SourceReferenceType**
+
+24. Undefined
+25. FromSalesQuote
+26. Budget
 
