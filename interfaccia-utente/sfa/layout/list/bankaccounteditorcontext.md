@@ -3,8 +3,6 @@
 **Context:** BankAccountEditorContext  
 **Default Layout:** BankAccountEditorLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

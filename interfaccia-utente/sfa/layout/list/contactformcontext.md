@@ -3,8 +3,6 @@
 **Context:** ContactFormContext  
 **Default Layout:** ContactFormLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

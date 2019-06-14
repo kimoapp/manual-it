@@ -3,8 +3,6 @@
 **Context:** ContactsSearchContext  
 **Default Layout:** ContactsSearchLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

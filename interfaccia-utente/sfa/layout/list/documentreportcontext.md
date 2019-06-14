@@ -3,8 +3,6 @@
 **Context:** DocumentReportContext  
 **Default Layout:** DocumentReportLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

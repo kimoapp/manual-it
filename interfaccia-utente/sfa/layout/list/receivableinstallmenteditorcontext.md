@@ -3,8 +3,6 @@
 **Context:** ReceivableInstallmentEditorContext  
 **Default Layout:** ReceivableInstallmentEditorLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

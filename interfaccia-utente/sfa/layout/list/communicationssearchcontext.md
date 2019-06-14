@@ -3,8 +3,6 @@
 **Context:** CommunicationsSearchContext  
 **Default Layout:** CommunicationsSearchLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

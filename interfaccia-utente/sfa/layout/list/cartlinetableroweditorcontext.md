@@ -3,8 +3,6 @@
 **Context:** CartLineTableRowEditorContext  
 **Default Layout:** CartLineTableRowEditorLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

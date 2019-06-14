@@ -3,8 +3,6 @@
 **Context:** CartEditorContext  
 **Default Layout:** CartHeaderEditorLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

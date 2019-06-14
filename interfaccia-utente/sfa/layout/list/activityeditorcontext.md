@@ -3,8 +3,6 @@
 **Context:** ActivityEditorContext  
 **Default Layout:** ActivityEditorLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

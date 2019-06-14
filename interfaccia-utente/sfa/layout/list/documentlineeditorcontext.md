@@ -3,7 +3,6 @@
 **Context:** DocumentLineEditorContext  
 **Default Layout:** DocumentLineEditorLayout
 
-
 ## Regole
 
 | Id | Descrizione |

@@ -3,7 +3,6 @@
 **Context:** DocumentLineTableRowEditorContext  
 **Default Layout:** DocumentLineTableRowEditorLayout
 
-
 ## Regole
 
 | Id | Descrizione |

@@ -1,16 +1,17 @@
 ---
 description: Righe dei riassortimenti
 ---
+
 # ReassortmentLine
 
-<br>
-**Chiavi**
-- *Id*
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| :--- | :--- | :--- | :--- | :--- |
-| [ActiveStatus](#activestatus) |  | enum |  |
+* _Id_
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
+| [ActiveStatus](reassortmentline.md#activestatus) |  | enum |  |
 | Availability | Disponibilità | dec |  |
 | AverageDiscount | Sconto | dec |  |
 | AverageUnitPrice | Prezzo unitario | dec |  |
@@ -61,8 +62,8 @@ description: Righe dei riassortimenti
 | LastSaleSaleTypeId | Tipo vendita | text | 50 |
 | LastSaleUnitPrice | Prezzo unitario | dec |  |
 | LineNumber | Numero riga | int |  |
-| [LineType](#linetype) | Tipo riga | enum |  |
-| [LockedFields](#lockedfields) | Campi bloccati per l'editing nei documenti | enum |  |
+| [LineType](reassortmentline.md#linetype) | Tipo riga | enum |  |
+| [LockedFields](reassortmentline.md#lockedfields) | Campi bloccati per l'editing nei documenti | enum |  |
 | ManufacturerId | Id del produttore | text | 50 |
 | ManufacturerItemId | Id dell'articolo produttore | text | 50 |
 | Notes | Note | text | text |
@@ -79,14 +80,15 @@ description: Righe dei riassortimenti
 | VariableValueId1 | Valore variante | text | 50 |
 | VariableValueId2 | Valore variante | text | 50 |
 
-ActiveStatus
----
-0: Active&ltbr&gt;1: Deactivated
-LineType
----
-0: Item&ltbr&gt;1: ManualItem&ltbr&gt;2: Note&ltbr&gt;3: ModelItem&ltbr&gt;4: VariableItem&ltbr&gt;5: Idrolab
-LockedFields
----
-0: None&ltbr&gt;1: UnitPrice&ltbr&gt;2: Discounts&ltbr&gt;4: SaleType
+## ActiveStatus
 
+0: Active&lt;br&gt;1: Deactivated
+
+## LineType
+
+0: Item&lt;br&gt;1: ManualItem&lt;br&gt;2: Note&lt;br&gt;3: ModelItem&lt;br&gt;4: VariableItem&lt;br&gt;5: Idrolab
+
+## LockedFields
+
+0: None&lt;br&gt;1: UnitPrice&lt;br&gt;2: Discounts&lt;br&gt;4: SaleType
 

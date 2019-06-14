@@ -3,8 +3,6 @@
 **Context:** ErpDocumentHeaderEditorContext  
 **Default Layout:** ErpDocumentHeaderEditorLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

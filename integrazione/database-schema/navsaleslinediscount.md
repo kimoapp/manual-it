@@ -1,16 +1,17 @@
 ---
 description: Sconti nell'Erp Nav
 ---
+
 # NavSalesLineDiscount
 
-<br>
-**Chiavi**
-- *Id*
-- Code, Type, SalesType, SalesCode, StartQuantityRange, EndQuantityRange, UomId, CurrencyId, StartDate, EndDate, VariableItemId
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| :--- | :--- | :--- | :--- | :--- |
+* _Id_
+* Code, Type, SalesType, SalesCode, StartQuantityRange, EndQuantityRange, UomId, CurrencyId, StartDate, EndDate, VariableItemId
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
 | Code | Codice sconto | text | 50 |
 | CurrencyId | Id della valuta | text | 50 |
 | Discount1 | Sconto | dec |  |
@@ -20,26 +21,27 @@ description: Sconti nell'Erp Nav
 | Discount5 | Sconto | dec |  |
 | EndDate | Data fine validità | date |  |
 | EndQuantityRange | Fine scaglione quantità | dec |  |
-| [FindNext](#findnext) | Usato in Dynamics AX | enum |  |
+| [FindNext](navsaleslinediscount.md#findnext) | Usato in Dynamics AX | enum |  |
 | Id | Id | text | 50 |
 | RecId | Usato in Dynamics AX | text | 50 |
 | SalesCode | Codice vendita | text | 50 |
-| [SalesType](#salestype) | Tipo vendita | enum |  |
+| [SalesType](navsaleslinediscount.md#salestype) | Tipo vendita | enum |  |
 | SpecialPriceListId | Listino speciale | text | 50 |
 | StartDate | Data inizio validità | date |  |
 | StartQuantityRange | Inizio scaglione quantità | dec |  |
-| [Type](#type) | Tipo sconto | enum |  |
+| [Type](navsaleslinediscount.md#type) | Tipo sconto | enum |  |
 | UomId | Unità di misura | text | 50 |
 | VariableItemId | Id dell'articolo variante | text | 50 |
 
-FindNext
----
-0: No&ltbr&gt;1: Yes
-SalesType
----
-0: Customer&ltbr&gt;1: CustomerDiscountGroup&ltbr&gt;1: CustomerDiscountGroup&ltbr&gt;2: AllCustomers&ltbr&gt;3: Campaign
-Type
----
-0: Item&ltbr&gt;1: ItemDiscountGroup&ltbr&gt;102: ItemGroupLevel1&ltbr&gt;103: ItemGroupLevel2&ltbr&gt;104: AllItems&ltbr&gt;105: DefaultItemDiscountGroup&ltbr&gt;106: ItemGroupLevel3&ltbr&gt;107: ItemGroupLevel4&ltbr&gt;108: Trademark
+## FindNext
 
+0: No&lt;br&gt;1: Yes
+
+## SalesType
+
+0: Customer&lt;br&gt;1: CustomerDiscountGroup&lt;br&gt;1: CustomerDiscountGroup&lt;br&gt;2: AllCustomers&lt;br&gt;3: Campaign
+
+## Type
+
+0: Item&lt;br&gt;1: ItemDiscountGroup&lt;br&gt;102: ItemGroupLevel1&lt;br&gt;103: ItemGroupLevel2&lt;br&gt;104: AllItems&lt;br&gt;105: DefaultItemDiscountGroup&lt;br&gt;106: ItemGroupLevel3&lt;br&gt;107: ItemGroupLevel4&lt;br&gt;108: Trademark
 

@@ -3,8 +3,6 @@
 **Context:** ErpDocumentLineTableRowEditorContext  
 **Default Layout:** ErpDocumentLineTableRowEditorLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

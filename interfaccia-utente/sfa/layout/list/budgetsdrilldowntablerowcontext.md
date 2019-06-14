@@ -3,8 +3,6 @@
 **Context:** BudgetsDrillDownTableRowContext  
 **Default Layout:** BudgetsDrillDownTableRowLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

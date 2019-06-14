@@ -3,8 +3,6 @@
 **Context:** AccountActivitiesTableRowContext  
 **Default Layout:** AccountActivitiesTableRowLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

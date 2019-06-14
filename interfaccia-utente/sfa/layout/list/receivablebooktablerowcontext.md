@@ -3,8 +3,6 @@
 **Context:** ReceivableBookTableRowContext  
 **Default Layout:** ReceivablesBookTableRowLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

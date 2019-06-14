@@ -3,8 +3,6 @@
 **Context:** CustomerScheduledPaymentsTableRowContext  
 **Default Layout:** CustomerScheduledPaymentsTableRowLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

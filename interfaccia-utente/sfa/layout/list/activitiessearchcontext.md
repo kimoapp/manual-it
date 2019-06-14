@@ -3,8 +3,6 @@
 **Context:** ActivitiesSearchContext  
 **Default Layout:** ActivitiesSearchLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

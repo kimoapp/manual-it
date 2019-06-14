@@ -3,8 +3,6 @@
 **Context:** CartsSearchContext  
 **Default Layout:** CartsSearchLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

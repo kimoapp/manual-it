@@ -3,8 +3,6 @@
 **Context:** ItemLotAvailabilitiesSearchContext  
 **Default Layout:** ItemLotAvailabilitiesSearchLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

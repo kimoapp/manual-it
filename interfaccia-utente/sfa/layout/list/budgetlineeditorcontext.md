@@ -3,8 +3,6 @@
 **Context:** BudgetLineEditorContext  
 **Default Layout:** BudgetLineEditorLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

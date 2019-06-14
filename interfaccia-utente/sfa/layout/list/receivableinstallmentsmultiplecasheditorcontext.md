@@ -3,8 +3,6 @@
 **Context:** ReceivableInstallmentsMultipleCashEditorContext  
 **Default Layout:** ReceivableInstallmentsMultipleCashEditorLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

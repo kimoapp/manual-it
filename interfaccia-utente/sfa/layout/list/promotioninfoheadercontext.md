@@ -3,8 +3,6 @@
 **Context:** PromotionInfoHeaderContext  
 **Default Layout:** PromotionInfoHeaderLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

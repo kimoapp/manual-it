@@ -3,8 +3,6 @@
 **Context:** ContactEditorContext  
 **Default Layout:** ContactEditorLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

@@ -3,8 +3,6 @@
 **Context:** DocumentHeaderEditorContext  
 **Default Layout:** DocumentHeaderEditorLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

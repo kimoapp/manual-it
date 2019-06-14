@@ -3,8 +3,6 @@
 **Context:** ItemFormContext  
 **Default Layout:** ItemFormLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

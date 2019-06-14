@@ -3,8 +3,6 @@
 **Context:** ActivityToPlanContext  
 **Default Layout:** ActivityToPlanLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

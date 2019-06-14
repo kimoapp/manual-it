@@ -1,21 +1,21 @@
 ---
 description: Specifiche tecniche degli articoli
 ---
+
 # ItemSpecification
 
-<br>
-**Chiavi**
-- *Id*
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| :--- | :--- | :--- | :--- | :--- |
+* _Id_
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
-| [ValueType](#valuetype) | Tipo del campo | enum |  |
+| [ValueType](itemspecification.md#valuetype) | Tipo del campo | enum |  |
 
-ValueType
----
-1: Text&ltbr&gt;2: Decimal
+## ValueType
 
+1: Text&lt;br&gt;2: Decimal
 

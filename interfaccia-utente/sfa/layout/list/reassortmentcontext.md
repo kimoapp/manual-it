@@ -12,7 +12,6 @@
 | Document.NotAdded | Attivo quando l'articolo non è stato ancora aggiunto al documento di vendita |
 | NotPrebuy |  |
 
-
 ## Campi
 
 | Id | Descrizione |

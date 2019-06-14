@@ -3,8 +3,6 @@
 **Context:** ErpDocumentsSearchContext  
 **Default Layout:** ErpDocumentsSearchLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

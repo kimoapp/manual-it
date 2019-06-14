@@ -3,8 +3,6 @@
 **Context:** PromotionActivationLineTableRowContext  
 **Default Layout:** PromotionActivationLineTableRowLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

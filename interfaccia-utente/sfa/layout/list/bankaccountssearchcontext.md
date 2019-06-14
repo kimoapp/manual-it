@@ -3,8 +3,6 @@
 **Context:** BankAccountsSearchContext  
 **Default Layout:** BankAccountsSearchLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

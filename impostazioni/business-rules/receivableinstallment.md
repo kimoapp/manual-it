@@ -7,3 +7,4 @@
 ## AllowMultiplePaymentsForInstallment
 
 **Tipo:** Boolean
+

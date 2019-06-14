@@ -1,17 +1,18 @@
 ---
-description: Account (clienti, prospect, destinazioni merci)
+description: 'Account (clienti, prospect, destinazioni merci)'
 ---
+
 # Account
 
-<br>
-**Chiavi**
-- *Id*
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| :--- | :--- | :--- | :--- | :--- |
-| [AccountFilterId](#accountfilterid) | Id del filtro clienti | text | 50 |
-| [AccountTypeId](#accounttypeid) | Tipo di account \(cliente, prospect, destinazione merci, ... | enum |  |
+* _Id_
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
+| [AccountFilterId](account.md#accountfilterid) | Id del filtro clienti | text | 50 |
+| [AccountTypeId](account.md#accounttypeid) | Tipo di account \(cliente, prospect, destinazione merci, ... | enum |  |
 | AddressCity | Città | text | 40 |
 | AddressCountry | Paese | text | 20 |
 | AddressCountrySubdivision | Provincia | text | 20 |
@@ -26,19 +27,19 @@ description: Account (clienti, prospect, destinazioni merci)
 | CertifiedMail | Mail certificata \(PEC - Posta Elettronica Certificata | text | 100 |
 | ContactInfo | Info di contatto del cliente | text | text |
 | CreationDate | Data di creazione | dt |  |
-| [CreationReason](#creationreason) | Indica se è un nuovo cliente, se è un cliente modificato o se è stato creato un cliente a partire da un prospect | enum |  |
+| [CreationReason](account.md#creationreason) | Indica se è un nuovo cliente, se è un cliente modificato o se è stato creato un cliente a partire da un prospect | enum |  |
 | CreatorId | Id dell'agente che ha creato il record | text | 50 |
 | CurrencyId | Id della valuta | text | 50 |
 | CustomerDiscountGroupId | Id del gruppo sconti cliente | text | 50 |
 | CustomerGroupId | Id del gruppo cliente | text | 50 |
 | CustomerPriceGroupId | Id del gruppo prezzi cliente | text | 50 |
-| [CustomerTypeId](#customertypeid) | Indica se il cliente è una persona fisica o un'organizzazione | enum |  |
+| [CustomerTypeId](account.md#customertypeid) | Indica se il cliente è una persona fisica o un'organizzazione | enum |  |
 | DeliveryDateTypeId | Id del tipo di data consegna | text | 50 |
 | Discount1 | Sconto | dec |  |
 | Discount2 | Sconto | dec |  |
 | Discount3 | Sconto | dec |  |
 | EditMode | Edit Mode | text | 50 |
-| [EntityStatus](#entitystatus) | Campo che definisce lo stato del record | enum |  |
+| [EntityStatus](account.md#entitystatus) | Campo che definisce lo stato del record | enum |  |
 | ErpStatusId1 |  | text | 50 |
 | ErpStatusId2 |  | text | 50 |
 | ErpStatusId3 |  | text | 50 |
@@ -77,7 +78,7 @@ description: Account (clienti, prospect, destinazioni merci)
 | LanguageId | Id della lingua | text | 50 |
 | LastModifiedTimeStamp | Data dell'ultima modifica | dt |  |
 | LastModifiedUserId | Id dell'agente che ha effettuato l'ultima modifica | text | 50 |
-| [Level](#level) | Indica il 'livello di qualità' del cliente | enum |  |
+| [Level](account.md#level) | Indica il 'livello di qualità' del cliente | enum |  |
 | Locked | Indica se il cliente è bloccato | bool |  |
 | LogisticCallRequest |  | bool |  |
 | LogisticDeliveryToFloor |  | bool |  |
@@ -93,7 +94,7 @@ description: Account (clienti, prospect, destinazioni merci)
 | MobilePhone | Telefono mobile | text | 50 |
 | Name | Ragione sociale | text | 100 |
 | Name2 | Ragione sociale 2 | text | 100 |
-| [NickName](#nickname) | Nickname | text | 100 |
+| [NickName](account.md#nickname) | Nickname | text | 100 |
 | Notes | Note | text | text |
 | OpeningDays | Giorni di apertura o chiusura | text | 30 |
 | PaymentMethodId | Id del metodo di pagamento | text | 50 |
@@ -118,26 +119,31 @@ description: Account (clienti, prospect, destinazioni merci)
 | WarehouseId | Id del magazzino | text | 50 |
 | ZoneId | Id della zona | text | 50 |
 
-AccountFilterId
----
-questo campo è un valore sul quale possono essere filtrati i clienti in fase di ricerca. I valori utilizzati hanno un'anagrafica associata ovvero l'entità AccountFilter
-AccountTypeId
----
-0: Undefined&ltbr&gt;1: Customer&ltbr&gt;2: ShipmentSite&ltbr&gt;3: Prospect
-CreationReason
----
-0: Undefined&ltbr&gt;1: AccountEdited&ltbr&gt;2: NewAccount&ltbr&gt;3: ProspectConvertedToCustomer
-CustomerTypeId
----
-0: Undefined&ltbr&gt;1: Person&ltbr&gt;2: Organization
-EntityStatus
----
-0: ImportedFromErp&ltbr&gt;1: ExportedToErp&ltbr&gt;2: ImportedByErp&ltbr&gt;3: ExportingToErp&ltbr&gt;4: Deleted&ltbr&gt;5: CommittingExportToErp&ltbr&gt;6: ToExportToErp&ltbr&gt;7: Editing&ltbr&gt;8: UploadedToServer&ltbr&gt;10: EditingPending
-Level
----
-Non va più usato per identificare un account come prospect \(usare a tale scopo il campo 'AccountTypeId'\)..&ltbr&gt;  0: Standard&ltbr&gt;1: SHOULD\_USE\_JUST\_FOR\_COMPATIBILITY\_Prospect&ltbr&gt;3: Bronze&ltbr&gt;4: Silver&ltbr&gt;5: Gold
-NickName
----
-Nome usato 'comunemente' per indicare l'account, può essere differente dalla ragione sociale \(es. nome con cui è conosciuto un bar\)
+## AccountFilterId
 
+questo campo è un valore sul quale possono essere filtrati i clienti in fase di ricerca. I valori utilizzati hanno un'anagrafica associata ovvero l'entità AccountFilter
+
+## AccountTypeId
+
+0: Undefined&lt;br&gt;1: Customer&lt;br&gt;2: ShipmentSite&lt;br&gt;3: Prospect
+
+## CreationReason
+
+0: Undefined&lt;br&gt;1: AccountEdited&lt;br&gt;2: NewAccount&lt;br&gt;3: ProspectConvertedToCustomer
+
+## CustomerTypeId
+
+0: Undefined&lt;br&gt;1: Person&lt;br&gt;2: Organization
+
+## EntityStatus
+
+0: ImportedFromErp&lt;br&gt;1: ExportedToErp&lt;br&gt;2: ImportedByErp&lt;br&gt;3: ExportingToErp&lt;br&gt;4: Deleted&lt;br&gt;5: CommittingExportToErp&lt;br&gt;6: ToExportToErp&lt;br&gt;7: Editing&lt;br&gt;8: UploadedToServer&lt;br&gt;10: EditingPending
+
+## Level
+
+Non va più usato per identificare un account come prospect \(usare a tale scopo il campo 'AccountTypeId'\)..&lt;br&gt; 0: Standard&lt;br&gt;1: SHOULD\_USE\_JUST\_FOR\_COMPATIBILITY\_Prospect&lt;br&gt;3: Bronze&lt;br&gt;4: Silver&lt;br&gt;5: Gold
+
+## NickName
+
+Nome usato 'comunemente' per indicare l'account, può essere differente dalla ragione sociale \(es. nome con cui è conosciuto un bar\)
 

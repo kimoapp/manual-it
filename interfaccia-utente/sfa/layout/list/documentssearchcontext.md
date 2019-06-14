@@ -3,8 +3,6 @@
 **Context:** DocumentsSearchContext  
 **Default Layout:** DocumentsSearchLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

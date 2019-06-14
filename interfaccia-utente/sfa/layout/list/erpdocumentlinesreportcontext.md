@@ -3,8 +3,6 @@
 **Context:** ErpDocumentLinesReportContext  
 **Default Layout:** ErpDocumentLinesReportLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

@@ -3,7 +3,6 @@
 **Context:** PromotionLineEditorContext  
 **Default Layout:** PromotionLineEditorLayout
 
-
 ## Regole
 
 | Id | Descrizione |

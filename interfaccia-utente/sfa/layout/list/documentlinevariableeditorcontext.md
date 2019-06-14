@@ -3,8 +3,6 @@
 **Context:** DocumentLineVariableEditorContext  
 **Default Layout:** DocumentLineVariableEditorLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

@@ -3,8 +3,6 @@
 **Context:** BudgetLineTableRowContext  
 **Default Layout:** BudgetLineTableRowLayout
 
-
-
 ## Campi
 
 | Id | Descrizione |

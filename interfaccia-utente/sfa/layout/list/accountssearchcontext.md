@@ -1,11 +1,11 @@
 ---
 description: Ricerca account
 ---
+
 # AccountsSearch
 
 **Context:** AccountsSearchContext  
 **Default Layout:** AccountsSearchLayout
-
 
 ## Regole
 
