@@ -179,6 +179,7 @@ description:
 
 * 0: Undefined
 * 1: B2b
+
 ## DocumentFamilyId
 
 * 1: SalesOrders
@@ -188,12 +189,14 @@ description:
 * 5: DDT
 * 6: Inventories
 * 7: WorkSessions
+
 ## DocumentStatus
 
 * 0: Open
 * 1: Confirmed
 * 2: SalesQuoteTransformedToOrder
 * 3: Archived
+
 ## EntityStatus
 
 * 0: ImportedFromErp
@@ -206,9 +209,11 @@ description:
 * 7: Editing
 * 8: UploadedToServer
 * 10: EditingPending
+
 ## SourceReferenceType
 
 * 0: Undefined
 * 1: FromSalesQuote
 * 2: Budget
+
 

@@ -35,6 +35,7 @@ description: Sconti nell'Erp Nav
 
 * 0: No
 * 1: Yes
+
 ## SalesType
 
 * 0: Customer
@@ -42,6 +43,7 @@ description: Sconti nell'Erp Nav
 * 1: CustomerDiscountGroup
 * 2: AllCustomers
 * 3: Campaign
+
 ## Type
 
 * 0: Item
@@ -53,4 +55,5 @@ description: Sconti nell'Erp Nav
 * 106: ItemGroupLevel3
 * 107: ItemGroupLevel4
 * 108: Trademark
+
 

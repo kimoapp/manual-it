@@ -48,10 +48,12 @@ description: Prezzi per articolo
 
 * 0: No
 * 1: Yes
+
 ## LockedFields
 
 * 0: None
 * 1: UnitPrice
 * 2: Discounts
 * 4: SaleType
+
 

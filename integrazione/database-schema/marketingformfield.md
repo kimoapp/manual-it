@@ -31,3 +31,4 @@ description: Campi delle schede marketing
 * 25: NullableBoolean
 * 100: Label
 
+

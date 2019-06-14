@@ -136,6 +136,7 @@ description:
 
 * 0: Regular
 * 1: Virtual
+
 ## LineType
 
 * 0: Item
@@ -144,10 +145,12 @@ description:
 * 3: ModelItem
 * 4: VariableItem
 * 5: Idrolab
+
 ## PriceRecalculationStatus
 
 * 0: None
 * 1: ConfirmationRequired
+
 ## PromotionStatus
 
 * 0: NotActive
@@ -155,6 +158,7 @@ description:
 * 2: PromoDaListinoPersonalizzato
 * 3: Activated
 * 4: AutomaticPromotionActivated
+
 ## SaleTypeMode
 
 * 0: Normal
@@ -162,4 +166,5 @@ description:
 * 2: TaxableFreeSample
 * 3: DiscountOnGoods
 * 4: Promotion
+
 

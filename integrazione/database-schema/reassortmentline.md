@@ -82,6 +82,7 @@ description: Righe dei riassortimenti
 
 * 0: Active
 * 1: Deactivated
+
 ## LineType
 
 * 0: Item
@@ -90,10 +91,12 @@ description: Righe dei riassortimenti
 * 3: ModelItem
 * 4: VariableItem
 * 5: Idrolab
+
 ## LockedFields
 
 * 0: None
 * 1: UnitPrice
 * 2: Discounts
 * 4: SaleType
+
 

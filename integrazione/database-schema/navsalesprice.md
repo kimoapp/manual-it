@@ -43,10 +43,12 @@ description: Prezzi di vendita nell'Erp Nav
 
 * 0: No
 * 1: Yes
+
 ## SalesDocumentType
 
 * 0: AllDocuments
 * 1: Document
+
 ## SalesType
 
 * 0: Customer
@@ -54,6 +56,7 @@ description: Prezzi di vendita nell'Erp Nav
 * 1: CustomerDiscountGroup
 * 2: AllCustomers
 * 3: Campaign
+
 ## Type
 
 * 0: Item
@@ -65,4 +68,5 @@ description: Prezzi di vendita nell'Erp Nav
 * 106: ItemGroupLevel3
 * 107: ItemGroupLevel4
 * 108: Trademark
+
 

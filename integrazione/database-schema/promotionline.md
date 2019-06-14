@@ -52,14 +52,18 @@ description: Righe promozioni
 ## EncodingKey
 
 I campi EncodingType ed EncodingKey permettono di definire quali sono le entità a cui va applicata la promozione
+
 ## EncodingType
 
 I campi EncodingType ed EncodingKey permettono di definire quali sono le entità a cui va applicata la promozione
+
 ## GiftQtyMode
 
 * 0: Quantità gratuita 'inclusa' in quella a pagamento
 * 1: Quantità gratuita NON 'inclusa' in quella a pagamento
+
 ## QtyDivisibilityRule
 
 * 0: Default
+
 

@@ -72,12 +72,14 @@ description: Attività
 * 7: Editing
 * 8: UploadedToServer
 * 10: EditingPending
+
 ## RelatedEntityType
 
 * 0: Undefined
 * 1: ErpDocument
 * 2: Document
 * 3: BudgetLine
+
 ## Status
 
 * 0: Undefined
@@ -87,4 +89,5 @@ description: Attività
 * 4: Late
 * 5: Dismissed
 * 1000: FromRecurrence
+
 

@@ -120,23 +120,27 @@ description: Account (clienti, prospect, destinazioni merci)
 ## AccountFilterId
 
 questo campo è un valore sul quale possono essere filtrati i clienti in fase di ricerca. I valori utilizzati hanno un'anagrafica associata ovvero l'entità AccountFilter
+
 ## AccountTypeId
 
 * 0: Undefined
 * 1: Customer
 * 2: ShipmentSite
 * 3: Prospect
+
 ## CreationReason
 
 * 0: Undefined
 * 1: AccountEdited
 * 2: NewAccount
 * 3: ProspectConvertedToCustomer
+
 ## CustomerTypeId
 
 * 0: Undefined
 * 1: Person
 * 2: Organization
+
 ## EntityStatus
 
 * 0: ImportedFromErp
@@ -149,6 +153,7 @@ questo campo è un valore sul quale possono essere filtrati i clienti in fase di
 * 7: Editing
 * 8: UploadedToServer
 * 10: EditingPending
+
 ## Level
 
 Non va più usato per identificare un account come prospect \(usare a tale scopo il campo 'AccountTypeId'\)..
@@ -157,7 +162,9 @@ Non va più usato per identificare un account come prospect \(usare a tale scopo
 * 3: Bronze
 * 4: Silver
 * 5: Gold
+
 ## NickName
 
 Nome usato 'comunemente' per indicare l'account, può essere differente dalla ragione sociale \(es. nome con cui è conosciuto un bar\)
+
 

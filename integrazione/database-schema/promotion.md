@@ -51,6 +51,7 @@ description: Promozioni
 
 * 0: Default
 * 1: Automatic
+
 ## CustomerDiscountsRule
 
 * 0: Default\_Or\_IncludeForCustomerGroupOnMichelangelo
@@ -59,18 +60,22 @@ description: Promozioni
 * 3: PreserveDiscountsOnImposedUnitPrice
 * 4: TakeGrossUnitPrice
 * 5: TakeNetUnitPrice
+
 ## GiftQtyMode
 
 * 0: Quantità gratuita 'inclusa' in quella a pagamento
 * 1: Quantità gratuita NON 'inclusa' in quella a pagamento
+
 ## PricePrintingRule
 
 * 0: Print
 * 1: NoPrint
+
 ## PromotionType
 
 * 0: Classic
 * 1: Kit
 * 2: NPlusM
 * 3: NPlusM\_MonoReference
+
 

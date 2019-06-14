@@ -31,8 +31,10 @@ description: Controlli commerciali sui documenti di vendita
 * 0: None
 * 1: Importo minimo
 * 2: Sconto medio totale massimo
+
 ## SeverityLevel
 
 * 0: Error
 * 1: Warning
+
 

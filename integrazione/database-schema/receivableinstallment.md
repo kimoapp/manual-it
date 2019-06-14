@@ -85,10 +85,12 @@ description: Scadenzario
 * 7: Editing
 * 8: UploadedToServer
 * 10: EditingPending
+
 ## PaymentStatus
 
 * 0: ToPay
 * 1: Paid
 * 2: Unpaid
 * 3: PaidOnKimo
+
 

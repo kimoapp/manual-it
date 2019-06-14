@@ -41,8 +41,10 @@ description: Controlli commerciali sulle righe dei documenti di vendita
 * 4: Vendita per quantità disponibile
 * 5: Ripristino condizioni di vendita per quantità non conforme al confezionamento
 * 6: Prezzo Unitario non a zero
+
 ## SeverityLevel
 
 * 0: Error
 * 1: Warning
+
 
