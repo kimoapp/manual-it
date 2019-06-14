@@ -26,12 +26,13 @@ description: Controlli commerciali sui documenti di vendita
 | StartDate | Data inizio validità | date |  |
 | TrademarkId | Id del trademark | text | 50 |
 | Value | Valore \(vedi documentazione dei Controlli Commerciali\) | dec |  |
-
 ## SalesControlType
 
-0: None 1: Importo minimo 2: Sconto medio totale massimo
-
+0. None
+1. Importo minimo
+2. Sconto medio totale massimo
 ## SeverityLevel
 
-0: Error 1: Warning
+0. Error
+1. Warning
 

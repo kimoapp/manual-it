@@ -11,7 +11,7 @@ description: Traduzioni in lingua dei FreeLookup
 
 | Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
-| Description | Descrizione in lingua | text | 130 |
+| Description | Descrizione in lingua  | text | 130 |
 | Id | Id | text | 50 |
 | ItemId |  | text | 50 |
 | LanguageId |  | text | 50 |

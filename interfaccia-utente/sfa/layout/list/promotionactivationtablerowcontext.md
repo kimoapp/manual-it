@@ -1,3 +1,4 @@
+
 # PromotionActivationTableRow
 
 **Context:** PromotionActivationTableRowContext  

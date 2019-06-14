@@ -1,5 +1,5 @@
 ---
-description: 'Costo articoli (netto, lordo, ...)'
+description: Costo articoli (netto, lordo, ...)
 ---
 
 # ItemCost
@@ -22,8 +22,8 @@ description: 'Costo articoli (netto, lordo, ...)'
 | StartDate | Data inizio validità | date |  |
 | [Type](itemcost.md#type) |  | enum |  |
 | UnitsPerPack | Unità per confezione | dec |  |
-
 ## Type
 
-0: Regualar 1: NetCost
+0. Regualar
+1. NetCost
 

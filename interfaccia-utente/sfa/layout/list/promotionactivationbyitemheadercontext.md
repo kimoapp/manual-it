@@ -1,3 +1,4 @@
+
 # PromotionActivationByItemHeader
 
 **Context:** PromotionActivationByItemHeaderContext  
