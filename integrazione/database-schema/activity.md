@@ -60,34 +60,31 @@ description: Attività
 | SyncReference | Riferimento | text | 50 |
 | TrademarkId | Id del marchio | text | 50 |
 | UploadToServerTimeStamp |  | dt |  |
-
 ## EntityStatus
 
-1. ImportedFromErp
-2. ExportedToErp
-3. ImportedByErp
-4. ExportingToErp
-5. Deleted
-6. CommittingExportToErp
-7. ToExportToErp
-8. Editing
-9. UploadedToServer
-10. EditingPending
+* 0: ImportedFromErp
+* 1: ExportedToErp
+* 2: ImportedByErp
+* 3: ExportingToErp
+* 4: Deleted
+* 5: CommittingExportToErp
+* 6: ToExportToErp
+* 7: Editing
+* 8: UploadedToServer
+* 10: EditingPending
+## RelatedEntityType
 
-    **RelatedEntityType**
+* 0: Undefined
+* 1: ErpDocument
+* 2: Document
+* 3: BudgetLine
+## Status
 
-11. Undefined
-12. ErpDocument
-13. Document
-14. BudgetLine
-
-    **Status**
-
-15. Undefined
-16. Open
-17. Completed
-18. Expired
-19. Late
-20. Dismissed
-21. FromRecurrence
+* 0: Undefined
+* 1: Open
+* 2: Completed
+* 3: Expired
+* 4: Late
+* 5: Dismissed
+* 1000: FromRecurrence
 

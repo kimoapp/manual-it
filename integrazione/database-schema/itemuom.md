@@ -24,10 +24,9 @@ description: Unità di misura degli articoli
 | SalesUomId | Unità di misura di vendita | text | 20 |
 | UnitsPerPack | Unità per confezione | dec |  |
 | [UnitsPerPackDivisibilityRule](itemuom.md#unitsperpackdivisibilityrule) | Indica se la quantità totale deve essere divisibile per l'unità per confezione | enum |  |
-
 ## UnitsPerPackDivisibilityRule
 
-1. AllowDivisibility
-2. WarnIfDivided
-3. DoNotAllowDivisibility
+* 0: AllowDivisibility
+* 1: WarnIfDivided
+* 2: DoNotAllowDivisibility
 

@@ -50,14 +50,13 @@ description: Articoli
 | SeasonId | Id della stagione | text | 50 |
 | TrademarkId | Id del marchio | text | 50 |
 | VatRateId | Id dell'aliquota IVA | text | 50 |
-
 ## ItemType
 
-1. Normal
-2. Manual
-3. Note
-4. ModelItem
-5. VariableItem
-6. Idrolab
-7. Jolly
+* 0: Normal
+* 1: Manual
+* 2: Note
+* 3: ModelItem
+* 4: VariableItem
+* 5: Idrolab
+* 6: Jolly
 

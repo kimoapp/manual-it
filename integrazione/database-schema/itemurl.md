@@ -1,5 +1,5 @@
 ---
-description: 'Risorse ''online'' degli articoli (schede tecniche online, immagini, ...)'
+description: Risorse 'online' degli articoli (schede tecniche online, immagini, ...)
 ---
 
 # ItemUrl
@@ -17,10 +17,9 @@ description: 'Risorse ''online'' degli articoli (schede tecniche online, immagin
 | Priority |  | int |  |
 | Url | Url collegato all'articolo | text | 500 |
 | [UrlTypeId](itemurl.md#urltypeid) |  | enum |  |
-
 ## UrlTypeId
 
-1. Undefined
-2. Image
-3. OnlineForm
+* 0: Undefined
+* 1: Image
+* 2: OnlineForm
 

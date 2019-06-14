@@ -73,24 +73,22 @@ description: Scadenzario
 | UnpaidPaymentTypeId | Id tipo effetto | text | 50 |
 | UnpaidReference | Riferimento | text | 50 |
 | UploadToServerTimeStamp |  | dt |  |
-
 ## EntityStatus
 
-1. ImportedFromErp
-2. ExportedToErp
-3. ImportedByErp
-4. ExportingToErp
-5. Deleted
-6. CommittingExportToErp
-7. ToExportToErp
-8. Editing
-9. UploadedToServer
-10. EditingPending
+* 0: ImportedFromErp
+* 1: ExportedToErp
+* 2: ImportedByErp
+* 3: ExportingToErp
+* 4: Deleted
+* 5: CommittingExportToErp
+* 6: ToExportToErp
+* 7: Editing
+* 8: UploadedToServer
+* 10: EditingPending
+## PaymentStatus
 
-    **PaymentStatus**
-
-11. ToPay
-12. Paid
-13. Unpaid
-14. PaidOnKimo
+* 0: ToPay
+* 1: Paid
+* 2: Unpaid
+* 3: PaidOnKimo
 

@@ -2,7 +2,7 @@
 
 | Valore | Descrizione |
 | :--- | :--- |
-| [**{Field}\Format**](freefield.md#%7Bfield%7D%5Cformat) | Formato del campo |
+| [**{Field}\Format**](freefield.md#%7bfield%7d%5cformat) | Formato del campo |
 
 ## {Field}\Format
 
@@ -14,4 +14,5 @@
 * 1 =&gt; Prezzo unitario
 * 2 =&gt; Importo totale
 * 3 =&gt; Quantità
+
 

@@ -78,25 +78,22 @@ description: Righe dei riassortimenti
 | VariableItemId | Id dell'articolo variante | text | 50 |
 | VariableValueId1 | Valore variante | text | 50 |
 | VariableValueId2 | Valore variante | text | 50 |
-
 ## ActiveStatus
 
-1. Active
-2. Deactivated
+* 0: Active
+* 1: Deactivated
+## LineType
 
-   **LineType**
+* 0: Item
+* 1: ManualItem
+* 2: Note
+* 3: ModelItem
+* 4: VariableItem
+* 5: Idrolab
+## LockedFields
 
-3. Item
-4. ManualItem
-5. Note
-6. ModelItem
-7. VariableItem
-8. Idrolab
-
-   **LockedFields**
-
-9. None
-10. UnitPrice
-11. Discounts
-12. SaleType
+* 0: None
+* 1: UnitPrice
+* 2: Discounts
+* 4: SaleType
 
