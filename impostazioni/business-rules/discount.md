@@ -7,4 +7,3 @@
 ## GetSourcePosition
 
 **Tipo:** String
-

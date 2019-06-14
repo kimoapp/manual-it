@@ -16,4 +16,3 @@ description: Valori per le varianti
 | SortPriority | Priorità di ordinamento | int |  |
 | ValueId | Id | text | 50 |
 | VariableId | Id variante | text | 50 |
-
