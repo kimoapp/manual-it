@@ -1,16 +1,14 @@
 ---
 description: Prezzi di vendita nell'Erp Nav
 ---
-
 # NavSalesPrice
 
-  
- **Chiavi**
+**Chiavi**
 
-* _Id_
-* ItemId, SeasonId, ConstantVariableId, VariableId1, VariableValueId1, VariableId2, VariableValueId2, SalesType, SalesCode, UomId, CurrencyId, StartDate, EndDate, StartQuantityRange, EndQuantityRange, SalesDocumentType, SalesDocumentCode
+- *Id*
+- ItemId, SeasonId, ConstantVariableId, VariableId1, VariableValueId1, VariableId2, VariableValueId2, SalesType, SalesCode, UomId, CurrencyId, StartDate, EndDate, StartQuantityRange, EndQuantityRange, SalesDocumentType, SalesDocumentCode
 
-| Campo | Descrizione | Tipo | Dimensione |
+| Campo | Descrizione | Tipo | Dimensione | 
 | :--- | :--- | :--- | :--- |
 | AllowInvoiceDiscount | Indica se sono permessi gli sconti fattura | bool |  |
 | AllowLineDiscount | Indica se sono permessi gli sconti a livello di riga ordine | bool |  |
@@ -40,20 +38,17 @@ description: Prezzi di vendita nell'Erp Nav
 | VariableValueId1 | Valore variante | text | 50 |
 | VariableValueId2 | Valore variante | text | 50 |
 | VatRateId | Id aliquota IVA | text | 50 |
-
 ## FindNext
 
 0: No&lt;br&gt;1: Yes
-
 ## SalesDocumentType
 
 0: AllDocuments&lt;br&gt;1: Document
-
 ## SalesType
 
 0: Customer&lt;br&gt;1: CustomerDiscountGroup&lt;br&gt;1: CustomerDiscountGroup&lt;br&gt;2: AllCustomers&lt;br&gt;3: Campaign
-
 ## Type
 
 0: Item&lt;br&gt;1: ItemDiscountGroup&lt;br&gt;102: ItemGroupLevel1&lt;br&gt;103: ItemGroupLevel2&lt;br&gt;104: AllItems&lt;br&gt;105: DefaultItemDiscountGroup&lt;br&gt;106: ItemGroupLevel3&lt;br&gt;107: ItemGroupLevel4&lt;br&gt;108: Trademark
+
 

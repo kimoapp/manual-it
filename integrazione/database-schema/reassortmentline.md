@@ -1,15 +1,13 @@
 ---
 description: Righe dei riassortimenti
 ---
-
 # ReassortmentLine
 
-  
- **Chiavi**
+**Chiavi**
 
-* _Id_
+- *Id*
 
-| Campo | Descrizione | Tipo | Dimensione |
+| Campo | Descrizione | Tipo | Dimensione | 
 | :--- | :--- | :--- | :--- |
 | [ActiveStatus](reassortmentline.md#activestatus) |  | enum |  |
 | Availability | Disponibilità | dec |  |
@@ -79,16 +77,14 @@ description: Righe dei riassortimenti
 | VariableItemId | Id dell'articolo variante | text | 50 |
 | VariableValueId1 | Valore variante | text | 50 |
 | VariableValueId2 | Valore variante | text | 50 |
-
 ## ActiveStatus
 
 0: Active&lt;br&gt;1: Deactivated
-
 ## LineType
 
 0: Item&lt;br&gt;1: ManualItem&lt;br&gt;2: Note&lt;br&gt;3: ModelItem&lt;br&gt;4: VariableItem&lt;br&gt;5: Idrolab
-
 ## LockedFields
 
 0: None&lt;br&gt;1: UnitPrice&lt;br&gt;2: Discounts&lt;br&gt;4: SaleType
+
 

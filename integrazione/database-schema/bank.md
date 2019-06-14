@@ -1,18 +1,17 @@
 ---
 description: Banca
 ---
-
 # Bank
 
-  
- **Chiavi**
+**Chiavi**
 
-* _Id_
-* Abi
+- *Id*
+- Abi
 
-| Campo | Descrizione | Tipo | Dimensione |
+| Campo | Descrizione | Tipo | Dimensione | 
 | :--- | :--- | :--- | :--- |
 | Abi | Codice ABI | text | 5 |
 | Id | Id | text | 50 |
 | Name | Nome banca | text | 100 |
+
 

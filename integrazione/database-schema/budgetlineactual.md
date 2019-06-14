@@ -1,16 +1,14 @@
 ---
 description: Riga di un budget con i dati "effettivi" registrati dall'Erp
 ---
-
 # BudgetLineActual
 
-  
- **Chiavi**
+**Chiavi**
 
-* _Id_
-* BudgetId, AccountId
+- *Id*
+- BudgetId, AccountId
 
-| Campo | Descrizione | Tipo | Dimensione |
+| Campo | Descrizione | Tipo | Dimensione | 
 | :--- | :--- | :--- | :--- |
 | AccountId | Id del cliente | text | 50 |
 | Amount | Importo | dec |  |
@@ -44,4 +42,5 @@ description: Riga di un budget con i dati "effettivi" registrati dall'Erp
 | PreviousQuantity | Quantità Precedente | dec |  |
 | Quantity | Quantità | dec |  |
 | UomId | Unità di misura | text | 10 |
+
 

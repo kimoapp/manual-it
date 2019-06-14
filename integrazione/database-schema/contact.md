@@ -1,15 +1,13 @@
 ---
 description: Contatti
 ---
-
 # Contact
 
-  
- **Chiavi**
+**Chiavi**
 
-* _Id_
+- *Id*
 
-| Campo | Descrizione | Tipo | Dimensione |
+| Campo | Descrizione | Tipo | Dimensione | 
 | :--- | :--- | :--- | :--- |
 | AccountId | Codice cliente | text | 50 |
 | AddressCity | Città | text | 40 |
@@ -59,8 +57,8 @@ description: Contatti
 | SyncReference | Riferimento | text | 50 |
 | TitleId | Codice titolo | text | 50 |
 | UploadToServerTimeStamp |  | dt |  |
-
 ## EntityStatus
 
 0: ImportedFromErp&lt;br&gt;1: ExportedToErp&lt;br&gt;2: ImportedByErp&lt;br&gt;3: ExportingToErp&lt;br&gt;4: Deleted&lt;br&gt;5: CommittingExportToErp&lt;br&gt;6: ToExportToErp&lt;br&gt;7: Editing&lt;br&gt;8: UploadedToServer&lt;br&gt;10: EditingPending
+
 

@@ -1,19 +1,18 @@
 ---
 description: Saldo punti vendita
 ---
-
 # PointsPerSaleBalance
 
-  
- **Chiavi**
+**Chiavi**
 
-* _Id_
-* AccountId, SalesAgentId
+- *Id*
+- AccountId, SalesAgentId
 
-| Campo | Descrizione | Tipo | Dimensione |
+| Campo | Descrizione | Tipo | Dimensione | 
 | :--- | :--- | :--- | :--- |
 | AccountId | Id del cliente | text | 50 |
 | Id | Id | text | 50 |
 | Points | Punti | dec |  |
 | SalesAgentId | Id dell'agente | text | 50 |
+
 

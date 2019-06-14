@@ -1,17 +1,16 @@
 ---
 description: Paese (nazione)
 ---
-
 # Country
 
-  
- **Chiavi**
+**Chiavi**
 
-* _Id_
+- *Id*
 
-| Campo | Descrizione | Tipo | Dimensione |
+| Campo | Descrizione | Tipo | Dimensione | 
 | :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
 | IsoCode | Codice ISO | text | 50 |
+
 

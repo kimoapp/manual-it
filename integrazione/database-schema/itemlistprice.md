@@ -1,16 +1,14 @@
 ---
 description: Prezzi per articolo
 ---
-
 # ItemListPrice
 
-  
- **Chiavi**
+**Chiavi**
 
-* _Id_
-* ItemId, AccountId, PriceListId, SalesUomId, UnitsPerPack, CurrencyId, StartDate, EndDate, StartQuantityRange, EndQuantityRange, PriceListType, SalesConditionKey, SalesAgentId
+- *Id*
+- ItemId, AccountId, PriceListId, SalesUomId, UnitsPerPack, CurrencyId, StartDate, EndDate, StartQuantityRange, EndQuantityRange, PriceListType, SalesConditionKey, SalesAgentId
 
-| Campo | Descrizione | Tipo | Dimensione |
+| Campo | Descrizione | Tipo | Dimensione | 
 | :--- | :--- | :--- | :--- |
 | AccountId | Id del cliente | text | 50 |
 | CurrencyId | Id della valuta | text | 50 |
@@ -45,12 +43,11 @@ description: Prezzi per articolo
 | StartQuantityRange | Inizio Scaglione quantità | dec |  |
 | UnitPrice | Prezzo unitario | dec |  |
 | UnitsPerPack | Unità per confezione | dec |  |
-
 ## IgnoreDiscounts
 
 0: No&lt;br&gt;1: Yes
-
 ## LockedFields
 
 0: None&lt;br&gt;1: UnitPrice&lt;br&gt;2: Discounts&lt;br&gt;4: SaleType
+
 

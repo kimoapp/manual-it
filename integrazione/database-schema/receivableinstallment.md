@@ -1,15 +1,13 @@
 ---
 description: Scadenzario
 ---
-
 # ReceivableInstallment
 
-  
- **Chiavi**
+**Chiavi**
 
-* _Id_
+- *Id*
 
-| Campo | Descrizione | Tipo | Dimensione |
+| Campo | Descrizione | Tipo | Dimensione | 
 | :--- | :--- | :--- | :--- |
 | ActualPaymentAmount | Importo del pagamento | dec |  |
 | ActualPaymentDate | Data | date |  |
@@ -74,12 +72,11 @@ description: Scadenzario
 | UnpaidPaymentTypeId | Id tipo effetto | text | 50 |
 | UnpaidReference | Riferimento | text | 50 |
 | UploadToServerTimeStamp |  | dt |  |
-
 ## EntityStatus
 
 0: ImportedFromErp&lt;br&gt;1: ExportedToErp&lt;br&gt;2: ImportedByErp&lt;br&gt;3: ExportingToErp&lt;br&gt;4: Deleted&lt;br&gt;5: CommittingExportToErp&lt;br&gt;6: ToExportToErp&lt;br&gt;7: Editing&lt;br&gt;8: UploadedToServer&lt;br&gt;10: EditingPending
-
 ## PaymentStatus
 
 0: ToPay&lt;br&gt;1: Paid&lt;br&gt;2: Unpaid&lt;br&gt;3: PaidOnKimo
+
 

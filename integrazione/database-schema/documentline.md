@@ -1,15 +1,13 @@
 ---
-description: null
+description: 
 ---
-
 # DocumentLine
 
-  
- **Chiavi**
+**Chiavi**
 
-* _Id_
+- *Id*
 
-| Campo | Descrizione | Tipo | Dimensione |
+| Campo | Descrizione | Tipo | Dimensione | 
 | :--- | :--- | :--- | :--- |
 | Amount | Totale documento | dec |  |
 | AmountIncludingVat | Totale documento incluso di IVA | dec |  |
@@ -133,24 +131,20 @@ description: null
 | VatRateIsExemption | Indica se l'IVA è calcolata o no | bool |  |
 | VatRateValue | Valore aliquota | dec |  |
 | WarehouseId | Id del magazzino | text | 50 |
-
 ## AvailabilityMode
 
 0: Regular&lt;br&gt;1: Virtual
-
 ## LineType
 
 0: Item&lt;br&gt;1: ManualItem&lt;br&gt;2: Note&lt;br&gt;3: ModelItem&lt;br&gt;4: VariableItem&lt;br&gt;5: Idrolab
-
 ## PriceRecalculationStatus
 
 0: None&lt;br&gt;1: ConfirmationRequired
-
 ## PromotionStatus
 
 0: NotActive&lt;br&gt;1: ShouldChoosePromotion&lt;br&gt;2: PromoDaListinoPersonalizzato&lt;br&gt;3: Activated&lt;br&gt;4: AutomaticPromotionActivated
-
 ## SaleTypeMode
 
 0: Normal&lt;br&gt;1: TotalFreeSample&lt;br&gt;2: TaxableFreeSample&lt;br&gt;3: DiscountOnGoods&lt;br&gt;4: Promotion
+
 

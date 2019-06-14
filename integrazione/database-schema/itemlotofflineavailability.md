@@ -1,16 +1,14 @@
 ---
 description: Disponibilità 'offline' dei lotti
 ---
-
 # ItemLotOfflineAvailability
 
-  
- **Chiavi**
+**Chiavi**
 
-* _Id_
-* Lot, ItemId, WarehouseId, VariableItemId, StartAvailabilityDate
+- *Id*
+- Lot, ItemId, WarehouseId, VariableItemId, StartAvailabilityDate
 
-| Campo | Descrizione | Tipo | Dimensione |
+| Campo | Descrizione | Tipo | Dimensione | 
 | :--- | :--- | :--- | :--- |
 | AvailabilityAsFreeText | Campo testo libero in cui riportare la disponibilità strutturata come richiesto dal cliente | text | 50 |
 | GlobalAvailability |  | dec |  |
@@ -23,4 +21,5 @@ description: Disponibilità 'offline' dei lotti
 | VariableItemId | Id dell'articolo variante | text | 50 |
 | WarehouseAvailability |  | dec |  |
 | WarehouseId | Id del magazzino a cui fa riferimento la disponibilità | text | 50 |
+
 

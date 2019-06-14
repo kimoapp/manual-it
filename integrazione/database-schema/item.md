@@ -1,15 +1,13 @@
 ---
 description: Articoli
 ---
-
 # Item
 
-  
- **Chiavi**
+**Chiavi**
 
-* _Id_
+- *Id*
 
-| Campo | Descrizione | Tipo | Dimensione |
+| Campo | Descrizione | Tipo | Dimensione | 
 | :--- | :--- | :--- | :--- |
 | BaseSalesUomId | Id dell'unità di misura di vendita base | text | 10 |
 | ChannelsEnabled | Indica per quali canali è abilitato l'articolo \(se non specificato vale per tutti i canali\) | enum |  |
@@ -51,8 +49,8 @@ description: Articoli
 | SeasonId | Id della stagione | text | 50 |
 | TrademarkId | Id del marchio | text | 50 |
 | VatRateId | Id dell'aliquota IVA | text | 50 |
-
 ## ItemType
 
 0: Normal&lt;br&gt;1: Manual&lt;br&gt;2: Note&lt;br&gt;3: ModelItem&lt;br&gt;4: VariableItem&lt;br&gt;5: Idrolab&lt;br&gt;6: Jolly
+
 

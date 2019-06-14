@@ -1,16 +1,14 @@
 ---
 description: Spese di spedizione
 ---
-
 # ShippingCharge
 
-  
- **Chiavi**
+**Chiavi**
 
-* _Id_
-* AccountId, StartAmount, EndAmount, ShipmentMethodId, TransportModeId, StartDate, EndDate
+- *Id*
+- AccountId, StartAmount, EndAmount, ShipmentMethodId, TransportModeId, StartDate, EndDate
 
-| Campo | Descrizione | Tipo | Dimensione |
+| Campo | Descrizione | Tipo | Dimensione | 
 | :--- | :--- | :--- | :--- |
 | AccountId | Id del cliente | text | 50 |
 | EndAmount | Range fine importo | dec |  |
@@ -23,4 +21,5 @@ description: Spese di spedizione
 | StartDate | Data inizio validità | date |  |
 | TransportModeId | Id modalità di trasporto | text | 50 |
 | VatRateId | Id dell'aliquota IVA | text | 50 |
+
 

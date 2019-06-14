@@ -93,4 +93,3 @@
 ## SendOnConfirmed
 
 **Tipo:** Boolean
-

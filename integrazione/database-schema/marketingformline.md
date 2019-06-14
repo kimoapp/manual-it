@@ -1,15 +1,13 @@
 ---
 description: Righe delle Schede Marketing
 ---
-
 # MarketingFormLine
 
-  
- **Chiavi**
+**Chiavi**
 
-* _Id_
+- *Id*
 
-| Campo | Descrizione | Tipo | Dimensione |
+| Campo | Descrizione | Tipo | Dimensione | 
 | :--- | :--- | :--- | :--- |
 | CreationDate | Data di creazione | dt |  |
 | CreatorId | Id dell'agente che ha creato il record | text | 50 |
@@ -20,4 +18,5 @@ description: Righe delle Schede Marketing
 | LastModifiedUserId | Id dell'agente che ha effettuato l'ultima modifica | text | 50 |
 | SyncReference | Riferimento | text | 50 |
 | Value | Valore | text | text |
+
 

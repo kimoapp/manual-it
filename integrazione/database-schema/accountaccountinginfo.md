@@ -1,16 +1,14 @@
 ---
 description: Scheda contabile di un account
 ---
-
 # AccountAccountingInfo
 
-  
- **Chiavi**
+**Chiavi**
 
-* _Id_
-* AccountId
+- *Id*
+- AccountId
 
-| Campo | Descrizione | Tipo | Dimensione |
+| Campo | Descrizione | Tipo | Dimensione | 
 | :--- | :--- | :--- | :--- |
 | AccountId | Id del cliente | text | 50 |
 | CreditLimitGrantedAmount | Importo fido concesso | dec |  |
@@ -48,4 +46,5 @@ description: Scheda contabile di un account
 | UnpaidsAmount | Importo insoluti | dec |  |
 | UnpaidsNumber | Numero insoluti anno corrente | int |  |
 | UnpaidsPastNumber | Numero insoluti anno precedente | int |  |
+
 
