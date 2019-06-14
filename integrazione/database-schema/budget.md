@@ -1,21 +1,22 @@
 ---
 description: Budget
 ---
+
 # Budget
 
-<br>
-**Chiavi**
-- *Id*
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| :--- | :--- | :--- | :--- | :--- |
+* _Id_
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
 | Amount | Importo | dec |  |
 | AverageUnitPrice | Prezzo unitario medio | dec |  |
 | CreationDate | Data di creazione | dt |  |
 | CreatorId | Id dell'agente che ha creato il record | text | 50 |
 | Description | Note | text | text |
-| [EntityStatus](#entitystatus) | Campo che definisce lo stato del record | enum |  |
+| [EntityStatus](budget.md#entitystatus) | Campo che definisce lo stato del record | enum |  |
 | ErpStatusId1 |  | text | 50 |
 | ErpStatusId2 |  | text | 50 |
 | ErpStatusId3 |  | text | 50 |
@@ -43,8 +44,7 @@ description: Budget
 | UomId | Unità di misura | text | 10 |
 | UploadToServerTimeStamp |  | dt |  |
 
-EntityStatus
----
-0: ImportedFromErp&ltbr&gt;1: ExportedToErp&ltbr&gt;2: ImportedByErp&ltbr&gt;3: ExportingToErp&ltbr&gt;4: Deleted&ltbr&gt;5: CommittingExportToErp&ltbr&gt;6: ToExportToErp&ltbr&gt;7: Editing&ltbr&gt;8: UploadedToServer&ltbr&gt;10: EditingPending
+## EntityStatus
 
+0: ImportedFromErp&lt;br&gt;1: ExportedToErp&lt;br&gt;2: ImportedByErp&lt;br&gt;3: ExportingToErp&lt;br&gt;4: Deleted&lt;br&gt;5: CommittingExportToErp&lt;br&gt;6: ToExportToErp&lt;br&gt;7: Editing&lt;br&gt;8: UploadedToServer&lt;br&gt;10: EditingPending
 

@@ -1,20 +1,21 @@
 ---
 description: Schede Marketing
 ---
+
 # MarketingForm
 
-<br>
-**Chiavi**
-- *Id*
-- AccountId, FormTypeId
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| :--- | :--- | :--- | :--- | :--- |
+* _Id_
+* AccountId, FormTypeId
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
 | AccountId | Id del cliente | text | 50 |
 | CreationDate | Data di creazione | dt |  |
 | CreatorId | Id dell'agente che ha creato il record | text | 50 |
-| [EntityStatus](#entitystatus) | Campo che definisce lo stato del record | enum |  |
+| [EntityStatus](marketingform.md#entitystatus) | Campo che definisce lo stato del record | enum |  |
 | FormFamilyId | Id della famiglia della scheda marketing | text | 50 |
 | FormTypeId | Id del tipo di scheda marketing | text | 50 |
 | Id | Id | text | 50 |
@@ -25,8 +26,7 @@ description: Schede Marketing
 | SyncReference | Riferimento | text | 50 |
 | UploadToServerTimeStamp |  | dt |  |
 
-EntityStatus
----
-0: ImportedFromErp&ltbr&gt;1: ExportedToErp&ltbr&gt;2: ImportedByErp&ltbr&gt;3: ExportingToErp&ltbr&gt;4: Deleted&ltbr&gt;5: CommittingExportToErp&ltbr&gt;6: ToExportToErp&ltbr&gt;7: Editing&ltbr&gt;8: UploadedToServer&ltbr&gt;10: EditingPending
+## EntityStatus
 
+0: ImportedFromErp&lt;br&gt;1: ExportedToErp&lt;br&gt;2: ImportedByErp&lt;br&gt;3: ExportingToErp&lt;br&gt;4: Deleted&lt;br&gt;5: CommittingExportToErp&lt;br&gt;6: ToExportToErp&lt;br&gt;7: Editing&lt;br&gt;8: UploadedToServer&lt;br&gt;10: EditingPending
 

@@ -1,22 +1,22 @@
 ---
 description: Regole di disponibilità
 ---
+
 # AvailabilityRule
 
-<br>
-**Chiavi**
-- *Id*
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| :--- | :--- | :--- | :--- | :--- |
+* _Id_
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
-| [ItemAvailabilityValidationRule](#itemavailabilityvalidationrule) | Indica se la quantità inserita deve essere confrontata con la disponibilità dell'articolo | enum |  |
+| [ItemAvailabilityValidationRule](availabilityrule.md#itemavailabilityvalidationrule) | Indica se la quantità inserita deve essere confrontata con la disponibilità dell'articolo | enum |  |
 | ShouldShowItemAvailability | Indica se la disponibilità dell'articolo è visibile in fase di inserimento quantità | bool |  |
 
-ItemAvailabilityValidationRule
----
-0: DoNotValidate&ltbr&gt;1: BlockIfExceed
+## ItemAvailabilityValidationRule
 
+0: DoNotValidate&lt;br&gt;1: BlockIfExceed
 

@@ -1,18 +1,19 @@
 ---
-description: 
+description: null
 ---
+
 # DocumentLine
 
-<br>
-**Chiavi**
-- *Id*
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| :--- | :--- | :--- | :--- | :--- |
+* _Id_
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
 | Amount | Totale documento | dec |  |
 | AmountIncludingVat | Totale documento incluso di IVA | dec |  |
-| [AvailabilityMode](#availabilitymode) | Modalità disponibilità | enum |  |
+| [AvailabilityMode](documentline.md#availabilitymode) | Modalità disponibilità | enum |  |
 | AvailabilityRuleId | Id della regola di disponibilità | text | 50 |
 | CheckoutAvailabilityAsFreeText | Campo testo libero in cui riportare la disponibilità strutturata come richiesto dal cliente | text | text |
 | CheckoutGlobalAvailability | Disponibilità Globale | dec |  |
@@ -61,7 +62,7 @@ description:
 | LineMarkup | Ricarico | dec |  |
 | LineMarkupOnNetCost | Margine | dec |  |
 | LineNumber | Riga documento | int |  |
-| [LineType](#linetype) | Tipo riga | enum |  |
+| [LineType](documentline.md#linetype) | Tipo riga | enum |  |
 | ManufacturerId | Id del produttore | text | 50 |
 | ManufacturerItemId | Id dell'articolo produttore | text | 50 |
 | NetCost | Costo netto | dec |  |
@@ -89,11 +90,11 @@ description:
 | PriceListId | Id listino | text | 50 |
 | PriceListInfo | Info listino | text | text |
 | PricePerQtyMultiplier |  | dec |  |
-| [PriceRecalculationStatus](#pricerecalculationstatus) | Stato del ricalcolo dei prezzi | enum |  |
+| [PriceRecalculationStatus](documentline.md#pricerecalculationstatus) | Stato del ricalcolo dei prezzi | enum |  |
 | PromotionActivationGroupId | Id della promozione | text | 50 |
 | PromotionId | Id della promozione | text | 50 |
 | PromotionLineId | Id della riga promozione | text | 50 |
-| [PromotionStatus](#promotionstatus) | stato della promozione per quell'articolo | enum |  |
+| [PromotionStatus](documentline.md#promotionstatus) | stato della promozione per quell'articolo | enum |  |
 | RetailAmount | Totale documento Retail | dec |  |
 | RetailAmountIncludingVat | Totale documento Retail incluso di IVA | dec |  |
 | RetailDiscount1 | Sconto | dec |  |
@@ -109,7 +110,7 @@ description:
 | SalesQty | Quantità totale espressa nell'unità di misura di vendita | dec |  |
 | SalesUomId | Unità di misura di vendita | text | 10 |
 | SaleTypeId | Id | text | 50 |
-| [SaleTypeMode](#saletypemode) | Modalità | enum |  |
+| [SaleTypeMode](documentline.md#saletypemode) | Modalità | enum |  |
 | SeasonId | Id della stagione | text | 50 |
 | ShipmentDescription | Descrizione spedizione | text | text |
 | SourceReference | Numero del documento di riferimento | text | 50 |
@@ -133,20 +134,23 @@ description:
 | VatRateValue | Valore aliquota | dec |  |
 | WarehouseId | Id del magazzino | text | 50 |
 
-AvailabilityMode
----
-0: Regular&ltbr&gt;1: Virtual
-LineType
----
-0: Item&ltbr&gt;1: ManualItem&ltbr&gt;2: Note&ltbr&gt;3: ModelItem&ltbr&gt;4: VariableItem&ltbr&gt;5: Idrolab
-PriceRecalculationStatus
----
-0: None&ltbr&gt;1: ConfirmationRequired
-PromotionStatus
----
-0: NotActive&ltbr&gt;1: ShouldChoosePromotion&ltbr&gt;2: PromoDaListinoPersonalizzato&ltbr&gt;3: Activated&ltbr&gt;4: AutomaticPromotionActivated
-SaleTypeMode
----
-0: Normal&ltbr&gt;1: TotalFreeSample&ltbr&gt;2: TaxableFreeSample&ltbr&gt;3: DiscountOnGoods&ltbr&gt;4: Promotion
+## AvailabilityMode
 
+0: Regular&lt;br&gt;1: Virtual
+
+## LineType
+
+0: Item&lt;br&gt;1: ManualItem&lt;br&gt;2: Note&lt;br&gt;3: ModelItem&lt;br&gt;4: VariableItem&lt;br&gt;5: Idrolab
+
+## PriceRecalculationStatus
+
+0: None&lt;br&gt;1: ConfirmationRequired
+
+## PromotionStatus
+
+0: NotActive&lt;br&gt;1: ShouldChoosePromotion&lt;br&gt;2: PromoDaListinoPersonalizzato&lt;br&gt;3: Activated&lt;br&gt;4: AutomaticPromotionActivated
+
+## SaleTypeMode
+
+0: Normal&lt;br&gt;1: TotalFreeSample&lt;br&gt;2: TaxableFreeSample&lt;br&gt;3: DiscountOnGoods&lt;br&gt;4: Promotion
 

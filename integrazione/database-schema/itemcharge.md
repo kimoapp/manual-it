@@ -1,16 +1,17 @@
 ---
 description: Spese per articoli
 ---
+
 # ItemCharge
 
-<br>
-**Chiavi**
-- *Id*
-- ItemChargeTypeId, ItemId, AccountId, StartDate, EndDate, CurrencyId
-<br><br>
+  
+ **Chiavi**
 
-| Campo | Descrizione | Tipo | Dimensione | 
-| :--- | :--- | :--- | :--- | :--- |
+* _Id_
+* ItemChargeTypeId, ItemId, AccountId, StartDate, EndDate, CurrencyId
+
+| Campo | Descrizione | Tipo | Dimensione |
+| :--- | :--- | :--- | :--- |
 | AccountId | Id del cliente | text | 50 |
 | CurrencyId | Id della valuta | text | 50 |
 | EndDate | Data fine validità | date |  |
@@ -19,6 +20,4 @@ description: Spese per articoli
 | ItemId | Id dell'articolo | text | 50 |
 | StartDate | Data inizio validità | date |  |
 | Value | Valore spesa dell'articolo | dec |  |
-
-
 
