@@ -58,6 +58,7 @@ description: Contatti
 | SyncReference | Riferimento | text | 50 |
 | TitleId | Codice titolo | text | 50 |
 | UploadToServerTimeStamp |  | dt |  |
+
 ## EntityStatus
 
 * 0: ImportedFromErp
@@ -70,5 +71,4 @@ description: Contatti
 * 7: Editing
 * 8: UploadedToServer
 * 10: EditingPending
-
 

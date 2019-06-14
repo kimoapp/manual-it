@@ -1,4 +1,3 @@
-
 # ErpDocumentHeaderEditor
 
 **Context:** ErpDocumentHeaderEditorContext  

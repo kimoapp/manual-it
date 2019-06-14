@@ -32,6 +32,7 @@ description: Controlli commerciali sulle righe dei documenti di vendita
 | TrademarkId | Id del trademark | text | 50 |
 | Value | Valore \(vedi documentazione dei Controlli Commerciali\) | dec |  |
 | VariableItemId | Id dell'articolo variante | text | 50 |
+
 ## SalesControlType
 
 * 0: None
@@ -46,5 +47,4 @@ description: Controlli commerciali sulle righe dei documenti di vendita
 
 * 0: Error
 * 1: Warning
-
 

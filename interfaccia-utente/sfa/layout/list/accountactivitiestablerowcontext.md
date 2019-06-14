@@ -1,4 +1,3 @@
-
 # AccountActivitiesTableRow
 
 **Context:** AccountActivitiesTableRowContext  

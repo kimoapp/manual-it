@@ -1,4 +1,3 @@
-
 # DocumentLineEditor
 
 **Context:** DocumentLineEditorContext  

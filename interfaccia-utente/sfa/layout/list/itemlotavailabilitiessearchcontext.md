@@ -1,4 +1,3 @@
-
 # ItemLotAvailabilitiesSearch
 
 **Context:** ItemLotAvailabilitiesSearchContext  

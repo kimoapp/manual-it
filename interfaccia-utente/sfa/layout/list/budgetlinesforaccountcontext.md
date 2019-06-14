@@ -1,4 +1,3 @@
-
 # BudgetLinesForAccount
 
 **Context:** BudgetLinesForAccountContext  

@@ -1,4 +1,3 @@
-
 # CartsSearch
 
 **Context:** CartsSearchContext  

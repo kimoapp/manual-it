@@ -1,4 +1,3 @@
-
 # PromotionDirectActivationHeader
 
 **Context:** PromotionDirectActivationHeaderContext  

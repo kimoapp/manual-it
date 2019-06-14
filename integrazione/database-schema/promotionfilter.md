@@ -29,6 +29,7 @@ description: Filtri promozioni
 | WarehouseId8 | Id del magazzino | text | 50 |
 | WarehouseId9 | Id del magazzino | text | 50 |
 | WarehousesIncluded |  | bool |  |
+
 ## EncodingKey
 
 I campi EncodingType ed EncodingKey permettono di definire quali sono le entità a cui va applicata la promozione
@@ -36,5 +37,4 @@ I campi EncodingType ed EncodingKey permettono di definire quali sono le entità
 ## EncodingType
 
 I campi EncodingType ed EncodingKey permettono di definire quali sono le entità a cui va applicata la promozione
-
 

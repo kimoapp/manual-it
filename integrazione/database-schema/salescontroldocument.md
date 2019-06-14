@@ -26,6 +26,7 @@ description: Controlli commerciali sui documenti di vendita
 | StartDate | Data inizio validità | date |  |
 | TrademarkId | Id del trademark | text | 50 |
 | Value | Valore \(vedi documentazione dei Controlli Commerciali\) | dec |  |
+
 ## SalesControlType
 
 * 0: None
@@ -36,5 +37,4 @@ description: Controlli commerciali sui documenti di vendita
 
 * 0: Error
 * 1: Warning
-
 

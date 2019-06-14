@@ -31,6 +31,7 @@ description: Sconti nell'Erp Nav
 | [Type](navsaleslinediscount.md#type) | Tipo sconto | enum |  |
 | UomId | Unità di misura | text | 50 |
 | VariableItemId | Id dell'articolo variante | text | 50 |
+
 ## FindNext
 
 * 0: No
@@ -55,5 +56,4 @@ description: Sconti nell'Erp Nav
 * 106: ItemGroupLevel3
 * 107: ItemGroupLevel4
 * 108: Trademark
-
 

@@ -19,6 +19,7 @@ description: Campi delle schede marketing
 | FormTypeId | Id del tipo di scheda | text | 50 |
 | Id | Id | text | 50 |
 | Row | Riga | int |  |
+
 ## FieldType
 
 * 0: NullableText
@@ -30,5 +31,4 @@ description: Campi delle schede marketing
 * 9: MultiSelectionList
 * 25: NullableBoolean
 * 100: Label
-
 

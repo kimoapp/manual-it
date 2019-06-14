@@ -1,4 +1,3 @@
-
 # BudgetLineEditor
 
 **Context:** BudgetLineEditorContext  

@@ -49,6 +49,7 @@ description: Righe promozioni
 | StartDate | Data inizio validità | date |  |
 | SuggestedQty | Quantità suggerita | dec |  |
 | VatRateId | Id dell'aliquota IVA | text | 50 |
+
 ## EncodingKey
 
 I campi EncodingType ed EncodingKey permettono di definire quali sono le entità a cui va applicata la promozione
@@ -65,5 +66,4 @@ I campi EncodingType ed EncodingKey permettono di definire quali sono le entità
 ## QtyDivisibilityRule
 
 * 0: Default
-
 

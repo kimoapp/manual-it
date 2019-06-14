@@ -1,5 +1,5 @@
 ---
-description: 
+description: null
 ---
 
 # Document
@@ -175,6 +175,7 @@ description:
 | VatRateIsExemption | Indica se l'IVA è calcolata o no | bool |  |
 | VatRateValue | Valore aliquota | dec |  |
 | WarehouseId | Id del magazzino | text | 50 |
+
 ## AppOrigin
 
 * 0: Undefined
@@ -215,5 +216,4 @@ description:
 * 0: Undefined
 * 1: FromSalesQuote
 * 2: Budget
-
 

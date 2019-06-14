@@ -60,6 +60,7 @@ description: Attività
 | SyncReference | Riferimento | text | 50 |
 | TrademarkId | Id del marchio | text | 50 |
 | UploadToServerTimeStamp |  | dt |  |
+
 ## EntityStatus
 
 * 0: ImportedFromErp
@@ -89,5 +90,4 @@ description: Attività
 * 4: Late
 * 5: Dismissed
 * 1000: FromRecurrence
-
 

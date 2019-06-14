@@ -78,6 +78,7 @@ description: Righe dei riassortimenti
 | VariableItemId | Id dell'articolo variante | text | 50 |
 | VariableValueId1 | Valore variante | text | 50 |
 | VariableValueId2 | Valore variante | text | 50 |
+
 ## ActiveStatus
 
 * 0: Active
@@ -98,5 +99,4 @@ description: Righe dei riassortimenti
 * 1: UnitPrice
 * 2: Discounts
 * 4: SaleType
-
 

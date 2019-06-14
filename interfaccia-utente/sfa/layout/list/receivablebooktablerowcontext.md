@@ -1,4 +1,3 @@
-
 # ReceivableBookTableRow
 
 **Context:** ReceivableBookTableRowContext  

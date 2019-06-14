@@ -1,4 +1,3 @@
-
 # CommunicationsSearch
 
 **Context:** CommunicationsSearchContext  

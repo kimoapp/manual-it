@@ -44,6 +44,7 @@ description: Prezzi per articolo
 | StartQuantityRange | Inizio Scaglione quantità | dec |  |
 | UnitPrice | Prezzo unitario | dec |  |
 | UnitsPerPack | Unità per confezione | dec |  |
+
 ## IgnoreDiscounts
 
 * 0: No
@@ -55,5 +56,4 @@ description: Prezzi per articolo
 * 1: UnitPrice
 * 2: Discounts
 * 4: SaleType
-
 

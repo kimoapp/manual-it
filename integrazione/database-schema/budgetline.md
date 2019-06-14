@@ -49,6 +49,7 @@ description: Riga di un budget
 | SyncReference | Riferimento | text | 50 |
 | UomId | Unità di misura | text | 10 |
 | UploadToServerTimeStamp |  | dt |  |
+
 ## EntityStatus
 
 * 0: ImportedFromErp
@@ -61,5 +62,4 @@ description: Riga di un budget
 * 7: Editing
 * 8: UploadedToServer
 * 10: EditingPending
-
 

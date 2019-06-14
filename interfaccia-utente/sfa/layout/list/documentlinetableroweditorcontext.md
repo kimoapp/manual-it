@@ -1,4 +1,3 @@
-
 # DocumentLineTableRowEditor
 
 **Context:** DocumentLineTableRowEditorContext  

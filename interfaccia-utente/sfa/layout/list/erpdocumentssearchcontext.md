@@ -1,4 +1,3 @@
-
 # ErpDocumentsSearch
 
 **Context:** ErpDocumentsSearchContext  

@@ -1,4 +1,3 @@
-
 # BankAccountEditor
 
 **Context:** BankAccountEditorContext  

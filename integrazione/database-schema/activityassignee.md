@@ -20,8 +20,8 @@ description: Utenti a cui è stata assegnata l'attività
 | IsDeleted | Indica se il record è stato cancellato | bool |  |
 | LastModifiedUserId | Id dell'agente che ha effettuato l'ultima modifica | text | 50 |
 | SyncReference | Riferimento | text | 50 |
+
 ## AssigneeType
 
 * 1: User
-
 

@@ -1,4 +1,3 @@
-
 # DocumentsSearch
 
 **Context:** DocumentsSearchContext  

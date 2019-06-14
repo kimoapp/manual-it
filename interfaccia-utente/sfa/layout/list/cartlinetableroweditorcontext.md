@@ -1,4 +1,3 @@
-
 # CartLineTableRowEditor
 
 **Context:** CartLineTableRowEditorContext  

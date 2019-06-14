@@ -1,4 +1,3 @@
-
 # PromotionEditorLineTableRow
 
 **Context:** PromotionEditorLineTableRowContext  

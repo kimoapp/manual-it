@@ -1,5 +1,5 @@
 ---
-description: 
+description: null
 ---
 
 # DocumentLine
@@ -132,6 +132,7 @@ description:
 | VatRateIsExemption | Indica se l'IVA è calcolata o no | bool |  |
 | VatRateValue | Valore aliquota | dec |  |
 | WarehouseId | Id del magazzino | text | 50 |
+
 ## AvailabilityMode
 
 * 0: Regular
@@ -166,5 +167,4 @@ description:
 * 2: TaxableFreeSample
 * 3: DiscountOnGoods
 * 4: Promotion
-
 

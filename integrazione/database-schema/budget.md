@@ -42,6 +42,7 @@ description: Budget
 | TrademarkId | Id del marchio | text | 50 |
 | UomId | Unità di misura | text | 10 |
 | UploadToServerTimeStamp |  | dt |  |
+
 ## EntityStatus
 
 * 0: ImportedFromErp
@@ -54,5 +55,4 @@ description: Budget
 * 7: Editing
 * 8: UploadedToServer
 * 10: EditingPending
-
 
