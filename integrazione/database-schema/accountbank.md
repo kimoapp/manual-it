@@ -19,3 +19,4 @@ description: Banche di un account
 | Id | Id | text | 50 |
 | Priority | Indica la priorità di selezione della banca | int |  |
 
+

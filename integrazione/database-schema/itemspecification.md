@@ -19,3 +19,4 @@ description: Specifiche tecniche degli articoli
 * 1: Text
 * 2: Decimal
 
+

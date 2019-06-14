@@ -17,3 +17,4 @@ description: Modalità di Pagamento (Termini e Condizioni)
 | Id | Id | text | 50 |
 | UseMode |  | text | 50 |
 
+

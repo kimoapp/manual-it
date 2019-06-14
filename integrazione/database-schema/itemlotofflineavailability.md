@@ -23,3 +23,4 @@ description: Disponibilità 'offline' dei lotti
 | WarehouseAvailability |  | dec |  |
 | WarehouseId | Id del magazzino a cui fa riferimento la disponibilità | text | 50 |
 
+

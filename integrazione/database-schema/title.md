@@ -1,5 +1,5 @@
 ---
-description: 'Titolo di una persona (es. Dott., Ing., ...)'
+description: Titolo di una persona (es. Dott., Ing., ...)
 ---
 
 # Title
@@ -12,4 +12,5 @@ description: 'Titolo di una persona (es. Dott., Ing., ...)'
 | :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
+
 

@@ -13,3 +13,4 @@ description: Listini prezzi
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
 
+

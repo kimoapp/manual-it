@@ -16,3 +16,4 @@ description: Traduzioni in lingua dei FreeLookup
 | Id | Id | text | 50 |
 | LanguageId |  | text | 50 |
 
+

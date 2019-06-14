@@ -15,3 +15,4 @@ description: Tipi di schede marketing
 | Id | Id | text | 50 |
 | RegistryTypeId | Id del tipo di registrazione | text | 50 |
 
+

@@ -17,3 +17,4 @@ description: Allegati articoli
 | ItemId | Id dell'articolo | text | 50 |
 | Priority | Priorità nella visualizzazione dell'allegato | int |  |
 
+

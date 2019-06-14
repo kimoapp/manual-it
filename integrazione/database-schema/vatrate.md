@@ -15,3 +15,4 @@ description: Aliquote IVA
 | IsExemption | Indica l'esenzione | bool |  |
 | Value | Valore aliquota IVA | dec |  |
 
+

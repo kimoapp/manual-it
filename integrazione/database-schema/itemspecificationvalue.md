@@ -16,3 +16,4 @@ description: Valori delle specifiche tecniche degli articoli
 | SpecificationId | Id specifica | text | 50 |
 | Value | Valore | text | text |
 
+

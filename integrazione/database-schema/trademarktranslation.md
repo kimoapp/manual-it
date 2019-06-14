@@ -16,3 +16,4 @@ description: Traduzioni in lingua dei marchi
 | LanguageId |  | text | 50 |
 | TrademarkId |  | text | 50 |
 
+

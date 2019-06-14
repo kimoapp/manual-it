@@ -16,3 +16,4 @@ description: Marchi per cliente
 | SalesAgentId | Id dell'agente | text | 50 |
 | TrademarkId | Id del marchio | text | 50 |
 
+

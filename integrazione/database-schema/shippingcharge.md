@@ -23,3 +23,4 @@ description: Spese di spedizione
 | TransportModeId | Id modalità di trasporto | text | 50 |
 | VatRateId | Id dell'aliquota IVA | text | 50 |
 
+

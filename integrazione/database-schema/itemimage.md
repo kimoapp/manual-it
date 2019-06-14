@@ -19,3 +19,4 @@ description: Immagini articoli (percorsi dei file)
 | VariableId1 | Id Variante 1 | text | 50 |
 | VariableValueId1 | Valore Variante 1 | text | 50 |
 
+

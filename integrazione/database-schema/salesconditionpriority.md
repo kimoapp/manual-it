@@ -19,3 +19,4 @@ description: Priorità delle condizioni di vendita
 | ShouldIncludeStandardDiscountsInPrice | Indica se si richiede l'inclusione nel prezzo degli sconti standard | bool |  |
 | Type |  | int |  |
 
+

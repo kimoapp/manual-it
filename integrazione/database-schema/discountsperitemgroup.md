@@ -28,3 +28,4 @@ description: Sconti per gruppo merceologico
 | ItemGroupLevel4Id | Id gruppo articoli a livello 4 | text | 50 |
 | StartDate | Data inizio validità | date |  |
 
+

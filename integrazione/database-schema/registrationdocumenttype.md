@@ -13,3 +13,4 @@ description: Tipi di documenti di registrazione
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
 
+

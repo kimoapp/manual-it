@@ -27,3 +27,4 @@ description: Condizioni di ricarico nell'Erp Michelangelo
 | UnitsPerPack | Unità per confezione | dec |  |
 | UseMultiplier | Indica se usare il ricarico | bool |  |
 
+

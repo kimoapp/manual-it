@@ -13,7 +13,7 @@
 
 ## DaysBeforeExpiration
 
-**Tipo:** Nullable\`1
+**Tipo:** Nullable`1
 
 ## LowercaseAndUppercaseRequired
 
@@ -43,4 +43,5 @@
 ## PasswordCannotContainUsername
 
 **Tipo:** Boolean
+
 

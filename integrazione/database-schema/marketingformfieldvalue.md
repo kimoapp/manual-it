@@ -16,3 +16,4 @@ description: Valori predefiniti per i campi delle schede marketing (es. per le l
 | ValueDescription | Descrizione | text | 200 |
 | ValueId | Id del valore | text | 50 |
 
+

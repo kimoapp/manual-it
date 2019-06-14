@@ -16,3 +16,4 @@ description: Giorni di consegna per Area Logistica
 | Id | Id | text | 50 |
 | SourceLogisticAreaId | Id dell'area logistica sorgente | text | 50 |
 
+

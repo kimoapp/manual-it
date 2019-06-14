@@ -16,3 +16,4 @@ description: Agenzia bancaria
 | Id | Id | text | 50 |
 | Name | Nome Banca | text | 100 |
 
+

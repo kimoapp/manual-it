@@ -16,3 +16,4 @@ description: Tipi di vendita per articolo
 | Priority | Priorità di utilizzo | int |  |
 | SaleTypeId | Id del tipo vendita | text | 50 |
 
+
