@@ -1,7 +1,6 @@
 ---
 description: Ricerca account
 ---
-
 # AccountsSearch
 
 **Context:** AccountsSearchContext  

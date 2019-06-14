@@ -1,5 +1,5 @@
 ---
-description: null
+description: 
 ---
 
 # Document
@@ -175,24 +175,40 @@ description: null
 | VatRateIsExemption | Indica se l'IVA è calcolata o no | bool |  |
 | VatRateValue | Valore aliquota | dec |  |
 | WarehouseId | Id del magazzino | text | 50 |
-
 ## AppOrigin
 
-0: Undefined&lt;br&gt;1: B2b
-
+0: Undefined
+1: B2b
 ## DocumentFamilyId
 
-1: SalesOrders&lt;br&gt;2: SalesQuotes&lt;br&gt;3: SalesInvoices&lt;br&gt;4: NoteCredito&lt;br&gt;5: DDT&lt;br&gt;6: Inventories&lt;br&gt;7: WorkSessions
-
+1: SalesOrders
+2: SalesQuotes
+3: SalesInvoices
+4: NoteCredito
+5: DDT
+6: Inventories
+7: WorkSessions
 ## DocumentStatus
 
-0: Open&lt;br&gt;1: Confirmed&lt;br&gt;2: SalesQuoteTransformedToOrder&lt;br&gt;3: Archived
-
+0: Open
+1: Confirmed
+2: SalesQuoteTransformedToOrder
+3: Archived
 ## EntityStatus
 
-0: ImportedFromErp&lt;br&gt;1: ExportedToErp&lt;br&gt;2: ImportedByErp&lt;br&gt;3: ExportingToErp&lt;br&gt;4: Deleted&lt;br&gt;5: CommittingExportToErp&lt;br&gt;6: ToExportToErp&lt;br&gt;7: Editing&lt;br&gt;8: UploadedToServer&lt;br&gt;10: EditingPending
-
+0: ImportedFromErp
+1: ExportedToErp
+2: ImportedByErp
+3: ExportingToErp
+4: Deleted
+5: CommittingExportToErp
+6: ToExportToErp
+7: Editing
+8: UploadedToServer
+10: EditingPending
 ## SourceReferenceType
 
-0: Undefined&lt;br&gt;1: FromSalesQuote&lt;br&gt;2: Budget
+0: Undefined
+1: FromSalesQuote
+2: Budget
 

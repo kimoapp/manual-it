@@ -47,24 +47,30 @@ description: Promozioni
 | QuantityRange4\_Quantity | Quantità | dec |  |
 | SaleTypeId | Tipo vendita | text | 50 |
 | StartDate | Data inizio validità | date |  |
-
 ## ActivationMode
 
-0: Default&lt;br&gt;1: Automatic
-
+0: Default
+1: Automatic
 ## CustomerDiscountsRule
 
-0: Default\_Or\_IncludeForCustomerGroupOnMichelangelo&lt;br&gt;1: IncludeForCustomer&lt;br&gt;2: IncludeForGrossCost&lt;br&gt;3: PreserveDiscountsOnImposedUnitPrice&lt;br&gt;4: TakeGrossUnitPrice&lt;br&gt;5: TakeNetUnitPrice
-
+0: Default\_Or\_IncludeForCustomerGroupOnMichelangelo
+1: IncludeForCustomer
+2: IncludeForGrossCost
+3: PreserveDiscountsOnImposedUnitPrice
+4: TakeGrossUnitPrice
+5: TakeNetUnitPrice
 ## GiftQtyMode
 
-0: Quantità gratuita 'inclusa' in quella a pagamento&lt;br&gt;1: Quantità gratuita NON 'inclusa' in quella a pagamento
-
+0: Quantità gratuita 'inclusa' in quella a pagamento
+1: Quantità gratuita NON 'inclusa' in quella a pagamento
 ## PricePrintingRule
 
-0: Print&lt;br&gt;1: NoPrint
-
+0: Print
+1: NoPrint
 ## PromotionType
 
-0: Classic&lt;br&gt;1: Kit&lt;br&gt;2: NPlusM&lt;br&gt;3: NPlusM\_MonoReference
+0: Classic
+1: Kit
+2: NPlusM
+3: NPlusM\_MonoReference
 

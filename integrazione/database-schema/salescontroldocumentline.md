@@ -32,12 +32,17 @@ description: Controlli commerciali sulle righe dei documenti di vendita
 | TrademarkId | Id del trademark | text | 50 |
 | Value | Valore \(vedi documentazione dei Controlli Commerciali\) | dec |  |
 | VariableItemId | Id dell'articolo variante | text | 50 |
-
 ## SalesControlType
 
-0: None&lt;br&gt;1: Sconto massimo&lt;br&gt;2: Quantità minima&lt;br&gt;3: Prezzo minimo&lt;br&gt;4: Vendita per quantità disponibile&lt;br&gt;5: Ripristino condizioni di vendita per quantità non conforme al confezionamento&lt;br&gt;6: Prezzo Unitario non a zero
-
+0: None
+1: Sconto massimo
+2: Quantità minima
+3: Prezzo minimo
+4: Vendita per quantità disponibile
+5: Ripristino condizioni di vendita per quantità non conforme al confezionamento
+6: Prezzo Unitario non a zero
 ## SeverityLevel
 
-0: Error&lt;br&gt;1: Warning
+0: Error
+1: Warning
 

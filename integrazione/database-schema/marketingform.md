@@ -24,8 +24,16 @@ description: Schede Marketing
 | RegistryTypeId | Id del tipo di registrazione | text | 50 |
 | SyncReference | Riferimento | text | 50 |
 | UploadToServerTimeStamp |  | dt |  |
-
 ## EntityStatus
 
-0: ImportedFromErp&lt;br&gt;1: ExportedToErp&lt;br&gt;2: ImportedByErp&lt;br&gt;3: ExportingToErp&lt;br&gt;4: Deleted&lt;br&gt;5: CommittingExportToErp&lt;br&gt;6: ToExportToErp&lt;br&gt;7: Editing&lt;br&gt;8: UploadedToServer&lt;br&gt;10: EditingPending
+0: ImportedFromErp
+1: ExportedToErp
+2: ImportedByErp
+3: ExportingToErp
+4: Deleted
+5: CommittingExportToErp
+6: ToExportToErp
+7: Editing
+8: UploadedToServer
+10: EditingPending
 
