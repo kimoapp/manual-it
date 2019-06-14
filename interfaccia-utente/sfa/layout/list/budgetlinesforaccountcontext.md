@@ -1,6 +1,9 @@
 # BudgetLinesForAccount
 
-**Context:** BudgetLinesForAccountContext **Default Layout:** BudgetLinesForAccountTableRowLayout
+**Context:** BudgetLinesForAccountContext  
+**Default Layout:** BudgetLinesForAccountTableRowLayout
+
+
 
 ## Campi
 

@@ -1,6 +1,9 @@
 # DocumentReportRecipient
 
-**Context:** DocumentReportRecipientContext **Default Layout:** DocumentReportRecipientLayout
+**Context:** DocumentReportRecipientContext  
+**Default Layout:** DocumentReportRecipientLayout
+
+
 
 ## Campi
 

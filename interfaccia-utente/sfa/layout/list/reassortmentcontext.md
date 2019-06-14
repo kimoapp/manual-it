@@ -1,6 +1,7 @@
 # Reassortment
 
-**Context:** ReassortmentContext **Default Layout:** ReassortmentLayout
+**Context:** ReassortmentContext  
+**Default Layout:** ReassortmentLayout
 
 ## Contesti
 
@@ -10,6 +11,7 @@
 | Document.Added | Attivo quando l'articolo è stato aggiunto al documento di vendita |
 | Document.NotAdded | Attivo quando l'articolo non è stato ancora aggiunto al documento di vendita |
 | NotPrebuy |  |
+
 
 ## Campi
 

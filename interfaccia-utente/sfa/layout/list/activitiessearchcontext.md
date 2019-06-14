@@ -1,6 +1,9 @@
 # ActivitiesSearch
 
-**Context:** ActivitiesSearchContext **Default Layout:** ActivitiesSearchLayout
+**Context:** ActivitiesSearchContext  
+**Default Layout:** ActivitiesSearchLayout
+
+
 
 ## Campi
 

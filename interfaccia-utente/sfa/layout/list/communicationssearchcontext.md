@@ -1,6 +1,9 @@
 # CommunicationsSearch
 
-**Context:** CommunicationsSearchContext **Default Layout:** CommunicationsSearchLayout
+**Context:** CommunicationsSearchContext  
+**Default Layout:** CommunicationsSearchLayout
+
+
 
 ## Campi
 

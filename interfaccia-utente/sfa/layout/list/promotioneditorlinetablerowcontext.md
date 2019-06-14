@@ -1,6 +1,8 @@
 # PromotionEditorLineTableRow
 
-**Context:** PromotionEditorLineTableRowContext **Default Layout:** PromotionEditorLineTableRowLayout
+**Context:** PromotionEditorLineTableRowContext  
+**Default Layout:** PromotionEditorLineTableRowLayout
+
 
 ## Regole
 

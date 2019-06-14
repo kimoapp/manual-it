@@ -1,6 +1,8 @@
 # DocumentLineEditor
 
-**Context:** DocumentLineEditorContext **Default Layout:** DocumentLineEditorLayout
+**Context:** DocumentLineEditorContext  
+**Default Layout:** DocumentLineEditorLayout
+
 
 ## Regole
 

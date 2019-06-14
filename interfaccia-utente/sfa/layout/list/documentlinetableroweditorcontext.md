@@ -1,6 +1,8 @@
 # DocumentLineTableRowEditor
 
-**Context:** DocumentLineTableRowEditorContext **Default Layout:** DocumentLineTableRowEditorLayout
+**Context:** DocumentLineTableRowEditorContext  
+**Default Layout:** DocumentLineTableRowEditorLayout
+
 
 ## Regole
 

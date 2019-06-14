@@ -1,6 +1,9 @@
 # PromotionActivationTableRow
 
-**Context:** PromotionActivationTableRowContext **Default Layout:** PromotionActivationTableRowLayout
+**Context:** PromotionActivationTableRowContext  
+**Default Layout:** PromotionActivationTableRowLayout
+
+
 
 ## Campi
 

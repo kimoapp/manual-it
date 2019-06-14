@@ -1,10 +1,12 @@
 ---
 description: Scheda con le informazioni di un account
 ---
-
 # CustomerForm
 
-**Context:** CustomerFormContext **Default Layout:** CustomerFormLayout
+**Context:** CustomerFormContext  
+**Default Layout:** CustomerFormLayout
+
+
 
 ## Campi
 

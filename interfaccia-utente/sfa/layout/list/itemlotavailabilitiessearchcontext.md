@@ -1,6 +1,9 @@
 # ItemLotAvailabilitiesSearch
 
-**Context:** ItemLotAvailabilitiesSearchContext **Default Layout:** ItemLotAvailabilitiesSearchLayout
+**Context:** ItemLotAvailabilitiesSearchContext  
+**Default Layout:** ItemLotAvailabilitiesSearchLayout
+
+
 
 ## Campi
 

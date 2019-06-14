@@ -1,6 +1,9 @@
 # PromotionInfoHeader
 
-**Context:** PromotionInfoHeaderContext **Default Layout:** PromotionInfoHeaderLayout
+**Context:** PromotionInfoHeaderContext  
+**Default Layout:** PromotionInfoHeaderLayout
+
+
 
 ## Campi
 

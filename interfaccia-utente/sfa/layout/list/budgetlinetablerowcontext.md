@@ -1,6 +1,9 @@
 # BudgetLineTableRow
 
-**Context:** BudgetLineTableRowContext **Default Layout:** BudgetLineTableRowLayout
+**Context:** BudgetLineTableRowContext  
+**Default Layout:** BudgetLineTableRowLayout
+
+
 
 ## Campi
 

@@ -1,6 +1,9 @@
 # DocumentLineVariableEditor
 
-**Context:** DocumentLineVariableEditorContext **Default Layout:** DocumentLineVariableEditorLayout
+**Context:** DocumentLineVariableEditorContext  
+**Default Layout:** DocumentLineVariableEditorLayout
+
+
 
 ## Campi
 

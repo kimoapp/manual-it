@@ -1,6 +1,9 @@
 # ActivityEditor
 
-**Context:** ActivityEditorContext **Default Layout:** ActivityEditorLayout
+**Context:** ActivityEditorContext  
+**Default Layout:** ActivityEditorLayout
+
+
 
 ## Campi
 

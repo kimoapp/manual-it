@@ -1,6 +1,9 @@
 # ErpDocumentLineVariableEditor
 
-**Context:** ErpDocumentLineVariableEditorContext **Default Layout:** ErpDocumentLineVariableEditorLayout
+**Context:** ErpDocumentLineVariableEditorContext  
+**Default Layout:** ErpDocumentLineVariableEditorLayout
+
+
 
 ## Campi
 

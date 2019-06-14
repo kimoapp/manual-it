@@ -1,6 +1,8 @@
 # PromotionLineEditor
 
-**Context:** PromotionLineEditorContext **Default Layout:** PromotionLineEditorLayout
+**Context:** PromotionLineEditorContext  
+**Default Layout:** PromotionLineEditorLayout
+
 
 ## Regole
 

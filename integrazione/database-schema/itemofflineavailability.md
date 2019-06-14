@@ -1,17 +1,16 @@
 ---
 description: Disponibilità 'offline' degli articoli
 ---
-
 # ItemOfflineAvailability
 
-  
- **Chiavi**
+<br>
+**Chiavi**
+- *Id*
+- ItemId, WarehouseId, VariableItemId, StartAvailabilityDate
+<br><br>
 
-* _Id_
-* ItemId, WarehouseId, VariableItemId, StartAvailabilityDate
-
-| Campo | Descrizione | Tipo | Dimensione |
-| :--- | :--- | :--- | :--- |
+| Campo | Descrizione | Tipo | Dimensione | 
+| :--- | :--- | :--- | :--- | :--- |
 | AvailabilityAsFreeText | Campo testo libero in cui riportare la disponibilità strutturata come richiesto dal cliente | text | text |
 | ErpStatusId1 |  | text | 50 |
 | ErpStatusId2 |  | text | 50 |
@@ -27,4 +26,6 @@ description: Disponibilità 'offline' degli articoli
 | VariableItemId | Id dell'articolo variante | text | 50 |
 | WarehouseAvailability | Disponibilità Magazzino | dec |  |
 | WarehouseId | Id del magazzino a cui fa riferimento la disponibilità | text | 50 |
+
+
 

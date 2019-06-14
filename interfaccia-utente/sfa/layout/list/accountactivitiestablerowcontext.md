@@ -1,6 +1,9 @@
 # AccountActivitiesTableRow
 
-**Context:** AccountActivitiesTableRowContext **Default Layout:** AccountActivitiesTableRowLayout
+**Context:** AccountActivitiesTableRowContext  
+**Default Layout:** AccountActivitiesTableRowLayout
+
+
 
 ## Campi
 

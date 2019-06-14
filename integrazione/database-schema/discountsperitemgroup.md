@@ -1,17 +1,16 @@
 ---
 description: Sconti per gruppo merceologico
 ---
-
 # DiscountsPerItemGroup
 
-  
- **Chiavi**
+<br>
+**Chiavi**
+- *Id*
+- AccountId, CustomerGroupId, CustomerDiscountGroupId, ItemGroupLevel1Id, ItemGroupLevel2Id, ItemGroupLevel3Id, ItemGroupLevel4Id, StartDate, EndDate
+<br><br>
 
-* _Id_
-* AccountId, CustomerGroupId, CustomerDiscountGroupId, ItemGroupLevel1Id, ItemGroupLevel2Id, ItemGroupLevel3Id, ItemGroupLevel4Id, StartDate, EndDate
-
-| Campo | Descrizione | Tipo | Dimensione |
-| :--- | :--- | :--- | :--- |
+| Campo | Descrizione | Tipo | Dimensione | 
+| :--- | :--- | :--- | :--- | :--- |
 | AccountId | Id del cliente | text | 50 |
 | CustomerDiscountGroupId | Id del gruppo sconti cliente | text | 50 |
 | CustomerGroupId | Id del gruppo cliente | text | 50 |
@@ -28,4 +27,6 @@ description: Sconti per gruppo merceologico
 | ItemGroupLevel3Id | Id gruppo articoli a livello 3 | text | 50 |
 | ItemGroupLevel4Id | Id gruppo articoli a livello 4 | text | 50 |
 | StartDate | Data inizio validità | date |  |
+
+
 

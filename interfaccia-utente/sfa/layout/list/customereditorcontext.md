@@ -1,10 +1,12 @@
 ---
 description: Editor per creazione e modifica di clienti e prospect
 ---
-
 # CustomerEditor
 
-**Context:** CustomerEditorContext **Default Layout:** CustomerEditorLayout
+**Context:** CustomerEditorContext  
+**Default Layout:** CustomerEditorLayout
+
+
 
 ## Campi
 

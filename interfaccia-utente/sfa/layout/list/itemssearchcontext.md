@@ -1,6 +1,7 @@
 # ItemsSearch
 
-**Context:** ItemsSearchContext **Default Layout:** ItemsSearchLayout
+**Context:** ItemsSearchContext  
+**Default Layout:** ItemsSearchLayout
 
 ## Contesti
 

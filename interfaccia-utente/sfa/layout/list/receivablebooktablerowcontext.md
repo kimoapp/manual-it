@@ -1,6 +1,9 @@
 # ReceivableBookTableRow
 
-**Context:** ReceivableBookTableRowContext **Default Layout:** ReceivablesBookTableRowLayout
+**Context:** ReceivableBookTableRowContext  
+**Default Layout:** ReceivablesBookTableRowLayout
+
+
 
 ## Campi
 

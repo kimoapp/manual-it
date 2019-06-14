@@ -1,6 +1,9 @@
 # ErpDocumentLinesReport
 
-**Context:** ErpDocumentLinesReportContext **Default Layout:** ErpDocumentLinesReportLayout
+**Context:** ErpDocumentLinesReportContext  
+**Default Layout:** ErpDocumentLinesReportLayout
+
+
 
 ## Campi
 

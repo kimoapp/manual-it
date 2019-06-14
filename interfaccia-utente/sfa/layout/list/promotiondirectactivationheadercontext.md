@@ -1,6 +1,9 @@
 # PromotionDirectActivationHeader
 
-**Context:** PromotionDirectActivationHeaderContext **Default Layout:** PromotionDirectActivationHeaderLayout
+**Context:** PromotionDirectActivationHeaderContext  
+**Default Layout:** PromotionDirectActivationHeaderLayout
+
+
 
 ## Campi
 
