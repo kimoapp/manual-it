@@ -1,14 +1,15 @@
 ---
 description: Utenti a cui è stata assegnata l'attività
 ---
+
 # ActivityAssignee
 
 **Chiavi**
 
-- *Id*
-- ActivityId, AssigneeId
+* _Id_
+* ActivityId, AssigneeId
 
-| Campo | Descrizione | Tipo | Dimensione | 
+| Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
 | ActivityId | Id dell'attività | text | 50 |
 | AssigneeId | Id dell'assegnatario | text | 50 |
@@ -19,8 +20,8 @@ description: Utenti a cui è stata assegnata l'attività
 | IsDeleted | Indica se il record è stato cancellato | bool |  |
 | LastModifiedUserId | Id dell'agente che ha effettuato l'ultima modifica | text | 50 |
 | SyncReference | Riferimento | text | 50 |
+
 ## AssigneeType
 
 1: User
-
 

@@ -1,14 +1,15 @@
 ---
 description: Parametri per la spedizione di un documento di vendita
 ---
+
 # ShipmentParamsPerDocument
 
 **Chiavi**
 
-- *Id*
-- TrademarkId, SeasonId, DocumentTypeId, ShipmentNumber
+* _Id_
+* TrademarkId, SeasonId, DocumentTypeId, ShipmentNumber
 
-| Campo | Descrizione | Tipo | Dimensione | 
+| Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | 100 |
 | DocumentTypeId | Id del tipo documento | text | 50 |
@@ -20,5 +21,4 @@ description: Parametri per la spedizione di un documento di vendita
 | ShipmentStartDate | Data inizio validità | date |  |
 | ShipmentStartDateEditable | Consenti modifica data inizio spedizione | bool |  |
 | TrademarkId | Id del Marchio | text | 50 |
-
 

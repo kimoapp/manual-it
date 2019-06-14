@@ -1,13 +1,14 @@
 ---
-description: Account (clienti, prospect, destinazioni merci)
+description: 'Account (clienti, prospect, destinazioni merci)'
 ---
+
 # Account
 
 **Chiavi**
 
-- *Id*
+* _Id_
 
-| Campo | Descrizione | Tipo | Dimensione | 
+| Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
 | [AccountFilterId](account.md#accountfilterid) | Id del filtro clienti | text | 50 |
 | [AccountTypeId](account.md#accounttypeid) | Tipo di account \(cliente, prospect, destinazione merci, ... | enum |  |
@@ -116,26 +117,32 @@ description: Account (clienti, prospect, destinazioni merci)
 | VatRateId | Id dell'aliquota IVA | text | 50 |
 | WarehouseId | Id del magazzino | text | 50 |
 | ZoneId | Id della zona | text | 50 |
+
 ## AccountFilterId
 
 questo campo è un valore sul quale possono essere filtrati i clienti in fase di ricerca. I valori utilizzati hanno un'anagrafica associata ovvero l'entità AccountFilter
+
 ## AccountTypeId
 
 0: Undefined&lt;br&gt;1: Customer&lt;br&gt;2: ShipmentSite&lt;br&gt;3: Prospect
+
 ## CreationReason
 
 0: Undefined&lt;br&gt;1: AccountEdited&lt;br&gt;2: NewAccount&lt;br&gt;3: ProspectConvertedToCustomer
+
 ## CustomerTypeId
 
 0: Undefined&lt;br&gt;1: Person&lt;br&gt;2: Organization
+
 ## EntityStatus
 
 0: ImportedFromErp&lt;br&gt;1: ExportedToErp&lt;br&gt;2: ImportedByErp&lt;br&gt;3: ExportingToErp&lt;br&gt;4: Deleted&lt;br&gt;5: CommittingExportToErp&lt;br&gt;6: ToExportToErp&lt;br&gt;7: Editing&lt;br&gt;8: UploadedToServer&lt;br&gt;10: EditingPending
+
 ## Level
 
-Non va più usato per identificare un account come prospect \(usare a tale scopo il campo 'AccountTypeId'\)..&lt;br&gt;  0: Standard&lt;br&gt;1: SHOULD\_USE\_JUST\_FOR\_COMPATIBILITY\_Prospect&lt;br&gt;3: Bronze&lt;br&gt;4: Silver&lt;br&gt;5: Gold
+Non va più usato per identificare un account come prospect \(usare a tale scopo il campo 'AccountTypeId'\)..&lt;br&gt; 0: Standard&lt;br&gt;1: SHOULD\_USE\_JUST\_FOR\_COMPATIBILITY\_Prospect&lt;br&gt;3: Bronze&lt;br&gt;4: Silver&lt;br&gt;5: Gold
+
 ## NickName
 
 Nome usato 'comunemente' per indicare l'account, può essere differente dalla ragione sociale \(es. nome con cui è conosciuto un bar\)
-
 

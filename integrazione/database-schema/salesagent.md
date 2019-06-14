@@ -1,13 +1,14 @@
 ---
 description: Agenti
 ---
+
 # SalesAgent
 
 **Chiavi**
 
-- *Id*
+* _Id_
 
-| Campo | Descrizione | Tipo | Dimensione | 
+| Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
 | AddressCity | Città | text | 40 |
 | AddressCountry | Paese | text | 20 |
@@ -27,5 +28,4 @@ description: Agenti
 | Phone2 | Telefono | text | 50 |
 | VatNumber | Partita Iva | text | 30 |
 | Website | Sito web | text | text |
-
 

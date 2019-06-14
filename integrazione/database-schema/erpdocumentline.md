@@ -1,13 +1,14 @@
 ---
 description: Righe dei Documenti da Erp
 ---
+
 # ErpDocumentLine
 
 **Chiavi**
 
-- *Id*
+* _Id_
 
-| Campo | Descrizione | Tipo | Dimensione | 
+| Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
 | Amount | Totale documento | dec |  |
 | AmountIncludingVat | Totale documento incluso di IVA | dec |  |
@@ -97,8 +98,8 @@ description: Righe dei Documenti da Erp
 | VatRateIsExemption | Indica se l'IVA è calcolata o no | bool |  |
 | VatRateValue | Valore aliquota | dec |  |
 | WarehouseId | Id del magazzino | text | 50 |
+
 ## LineType
 
 0: Item&lt;br&gt;1: ManualItem&lt;br&gt;2: Note&lt;br&gt;3: ModelItem&lt;br&gt;4: VariableItem&lt;br&gt;5: Idrolab
-
 

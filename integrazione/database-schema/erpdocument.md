@@ -1,13 +1,14 @@
 ---
 description: Documenti da Erp
 ---
+
 # ErpDocument
 
 **Chiavi**
 
-- *Id*
+* _Id_
 
-| Campo | Descrizione | Tipo | Dimensione | 
+| Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
 | AccountAddressCity | Città | text | 40 |
 | AccountAddressCountry | Paese | text | 20 |
@@ -126,5 +127,4 @@ description: Documenti da Erp
 | VatRateIsExemption | Indica se l'IVA è calcolata o no | bool |  |
 | VatRateValue | Valore aliquota | dec |  |
 | WarehouseId | Id del magazzino | text | 50 |
-
 

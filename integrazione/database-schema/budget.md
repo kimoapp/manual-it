@@ -1,13 +1,14 @@
 ---
 description: Budget
 ---
+
 # Budget
 
 **Chiavi**
 
-- *Id*
+* _Id_
 
-| Campo | Descrizione | Tipo | Dimensione | 
+| Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
 | Amount | Importo | dec |  |
 | AverageUnitPrice | Prezzo unitario medio | dec |  |
@@ -41,8 +42,8 @@ description: Budget
 | TrademarkId | Id del marchio | text | 50 |
 | UomId | Unità di misura | text | 10 |
 | UploadToServerTimeStamp |  | dt |  |
+
 ## EntityStatus
 
 0: ImportedFromErp&lt;br&gt;1: ExportedToErp&lt;br&gt;2: ImportedByErp&lt;br&gt;3: ExportingToErp&lt;br&gt;4: Deleted&lt;br&gt;5: CommittingExportToErp&lt;br&gt;6: ToExportToErp&lt;br&gt;7: Editing&lt;br&gt;8: UploadedToServer&lt;br&gt;10: EditingPending
-
 

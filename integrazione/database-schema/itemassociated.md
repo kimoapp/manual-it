@@ -1,14 +1,15 @@
 ---
-description: Articoli alternativi, sostitutivi o collegati
+description: 'Articoli alternativi, sostitutivi o collegati'
 ---
+
 # ItemAssociated
 
 **Chiavi**
 
-- *Id*
-- SourceItemId, AssociationType, AssociatedItemId, CustomerId, StartDate, EndDate
+* _Id_
+* SourceItemId, AssociationType, AssociatedItemId, CustomerId, StartDate, EndDate
 
-| Campo | Descrizione | Tipo | Dimensione | 
+| Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
 | AssociatedItemId | Id dell'articolo associato | text | 50 |
 | [AssociationType](itemassociated.md#associationtype) | Tipo di associazione | enum |  |
@@ -18,8 +19,8 @@ description: Articoli alternativi, sostitutivi o collegati
 | Priority |  | int |  |
 | SourceItemId | Id dell'articolo di interesse | text | 50 |
 | StartDate | Data inizio validità | date |  |
+
 ## AssociationType
 
 1: Related&lt;br&gt;2: Substitutive&lt;br&gt;3: Alternative
-
 

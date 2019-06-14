@@ -1,14 +1,15 @@
 ---
 description: Priorità delle condizioni di vendita
 ---
+
 # SalesConditionPriority
 
 **Chiavi**
 
-- *Id*
-- SalesConditionTypeId, Type, SalesAgentId
+* _Id_
+* SalesConditionTypeId, Type, SalesAgentId
 
-| Campo | Descrizione | Tipo | Dimensione | 
+| Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
 | Id | Id | text | 50 |
 | IsStandardSalesCondition | Indica se è una condizione standard | bool |  |
@@ -17,5 +18,4 @@ description: Priorità delle condizioni di vendita
 | SalesConditionTypeId | Id del tipo condizione di vendita | text | 1000 |
 | ShouldIncludeStandardDiscountsInPrice | Indica se si richiede l'inclusione nel prezzo degli sconti standard | bool |  |
 | Type |  | int |  |
-
 

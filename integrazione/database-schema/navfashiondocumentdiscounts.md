@@ -1,14 +1,15 @@
 ---
 description: Sconti sui documenti usati nell'Erp Nav Fashion
 ---
+
 # NavFashionDocumentDiscounts
 
 **Chiavi**
 
-- *Id*
-- AccountId, TrademarkId, PaymentMethodId
+* _Id_
+* AccountId, TrademarkId, PaymentMethodId
 
-| Campo | Descrizione | Tipo | Dimensione | 
+| Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
 | AccountId | Id del cliente | text | 50 |
 | Discount1 | Sconto | dec |  |
@@ -20,5 +21,4 @@ description: Sconti sui documenti usati nell'Erp Nav Fashion
 | PaymentMethodDiscount3 | Sconto legato al metodo di pagamento | dec |  |
 | PaymentMethodId | Id del metodo di pagamento | text | 50 |
 | TrademarkId | Id del marchio | text | 50 |
-
 

@@ -1,13 +1,14 @@
 ---
 description: Righe promozioni
 ---
+
 # PromotionLine
 
 **Chiavi**
 
-- *Id*
+* _Id_
 
-| Campo | Descrizione | Tipo | Dimensione | 
+| Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | text |
 | Discount1 | Sconto | dec |  |
@@ -48,17 +49,20 @@ description: Righe promozioni
 | StartDate | Data inizio validità | date |  |
 | SuggestedQty | Quantità suggerita | dec |  |
 | VatRateId | Id dell'aliquota IVA | text | 50 |
+
 ## EncodingKey
 
 I campi EncodingType ed EncodingKey permettono di definire quali sono le entità a cui va applicata la promozione
+
 ## EncodingType
 
 I campi EncodingType ed EncodingKey permettono di definire quali sono le entità a cui va applicata la promozione
+
 ## GiftQtyMode
 
 0: Quantità gratuita 'inclusa' in quella a pagamento&lt;br&gt;1: Quantità gratuita NON 'inclusa' in quella a pagamento
+
 ## QtyDivisibilityRule
 
 0: Default
-
 

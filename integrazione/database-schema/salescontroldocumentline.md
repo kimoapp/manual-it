@@ -1,14 +1,15 @@
 ---
 description: Controlli commerciali sulle righe dei documenti di vendita
 ---
+
 # SalesControlDocumentLine
 
 **Chiavi**
 
-- *Id*
-- SalesControlType, ChannelsEnabled, ItemId, VariableItemId, SalesUomId, AccountId, SalesAgentId, DocumentTypeId, CurrencyId, SeasonId, TrademarkId, StartDate, EndDate
+* _Id_
+* SalesControlType, ChannelsEnabled, ItemId, VariableItemId, SalesUomId, AccountId, SalesAgentId, DocumentTypeId, CurrencyId, SeasonId, TrademarkId, StartDate, EndDate
 
-| Campo | Descrizione | Tipo | Dimensione | 
+| Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
 | AccountId | Id del cliente | text | 50 |
 | ChannelsEnabled | Indica per quali canali è abilitato \(se non specificato vale per tutti i canali\) | enum |  |
@@ -31,11 +32,12 @@ description: Controlli commerciali sulle righe dei documenti di vendita
 | TrademarkId | Id del trademark | text | 50 |
 | Value | Valore \(vedi documentazione dei Controlli Commerciali\) | dec |  |
 | VariableItemId | Id dell'articolo variante | text | 50 |
+
 ## SalesControlType
 
 0: None&lt;br&gt;1: Sconto massimo&lt;br&gt;2: Quantità minima&lt;br&gt;3: Prezzo minimo&lt;br&gt;4: Vendita per quantità disponibile&lt;br&gt;5: Ripristino condizioni di vendita per quantità non conforme al confezionamento&lt;br&gt;6: Prezzo Unitario non a zero
+
 ## SeverityLevel
 
 0: Error&lt;br&gt;1: Warning
-
 

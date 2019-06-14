@@ -1,13 +1,14 @@
 ---
 description: Riga di un budget
 ---
+
 # BudgetLine
 
 **Chiavi**
 
-- *Id*
+* _Id_
 
-| Campo | Descrizione | Tipo | Dimensione | 
+| Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
 | AccountId | Id del cliente | text | 50 |
 | Amount | Importo | dec |  |
@@ -48,8 +49,8 @@ description: Riga di un budget
 | SyncReference | Riferimento | text | 50 |
 | UomId | Unità di misura | text | 10 |
 | UploadToServerTimeStamp |  | dt |  |
+
 ## EntityStatus
 
 0: ImportedFromErp&lt;br&gt;1: ExportedToErp&lt;br&gt;2: ImportedByErp&lt;br&gt;3: ExportingToErp&lt;br&gt;4: Deleted&lt;br&gt;5: CommittingExportToErp&lt;br&gt;6: ToExportToErp&lt;br&gt;7: Editing&lt;br&gt;8: UploadedToServer&lt;br&gt;10: EditingPending
-
 

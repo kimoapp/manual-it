@@ -1,14 +1,15 @@
 ---
 description: Schede Marketing
 ---
+
 # MarketingForm
 
 **Chiavi**
 
-- *Id*
-- AccountId, FormTypeId
+* _Id_
+* AccountId, FormTypeId
 
-| Campo | Descrizione | Tipo | Dimensione | 
+| Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
 | AccountId | Id del cliente | text | 50 |
 | CreationDate | Data di creazione | dt |  |
@@ -23,8 +24,8 @@ description: Schede Marketing
 | RegistryTypeId | Id del tipo di registrazione | text | 50 |
 | SyncReference | Riferimento | text | 50 |
 | UploadToServerTimeStamp |  | dt |  |
+
 ## EntityStatus
 
 0: ImportedFromErp&lt;br&gt;1: ExportedToErp&lt;br&gt;2: ImportedByErp&lt;br&gt;3: ExportingToErp&lt;br&gt;4: Deleted&lt;br&gt;5: CommittingExportToErp&lt;br&gt;6: ToExportToErp&lt;br&gt;7: Editing&lt;br&gt;8: UploadedToServer&lt;br&gt;10: EditingPending
-
 

@@ -1,14 +1,15 @@
 ---
 description: Condizioni di vendita nell'Erp Michelangelo
 ---
+
 # MichelangeloSalesCondition
 
 **Chiavi**
 
-- *Id*
-- SalesConditionTypeId, SalesConditionKey, StartDate, EndDate, CurrencyId, SalesUomId, UnitsPerPack, SalesAgentId
+* _Id_
+* SalesConditionTypeId, SalesConditionKey, StartDate, EndDate, CurrencyId, SalesUomId, UnitsPerPack, SalesAgentId
 
-| Campo | Descrizione | Tipo | Dimensione | 
+| Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
 | Commission | Provvigione | dec |  |
 | CurrencyId | Id della valuta | text | 50 |
@@ -99,5 +100,4 @@ description: Condizioni di vendita nell'Erp Michelangelo
 | Status | Stato | text | 1 |
 | UnitsPerPack | Unità per confezione | dec |  |
 | UseMultiplier | Indica se usare il ricarico | bool |  |
-
 

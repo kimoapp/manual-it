@@ -1,15 +1,15 @@
 ---
-description: Titolo di una persona (es. Dott., Ing., ...)
+description: 'Titolo di una persona (es. Dott., Ing., ...)'
 ---
+
 # Title
 
 **Chiavi**
 
-- *Id*
+* _Id_
 
-| Campo | Descrizione | Tipo | Dimensione | 
+| Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
-
 

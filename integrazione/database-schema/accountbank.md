@@ -1,13 +1,14 @@
 ---
 description: Banche di un account
 ---
+
 # AccountBank
 
 **Chiavi**
 
-- *Id*
+* _Id_
 
-| Campo | Descrizione | Tipo | Dimensione | 
+| Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
 | AccountId | Id del cliente | text | 50 |
 | BankAbi | Codice ABI | text | 5 |
@@ -17,5 +18,4 @@ description: Banche di un account
 | BankIban | Codice IBAN | text | 50 |
 | Id | Id | text | 50 |
 | Priority | Indica la priorità di selezione della banca | int |  |
-
 

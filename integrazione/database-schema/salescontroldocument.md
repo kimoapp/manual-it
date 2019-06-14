@@ -1,14 +1,15 @@
 ---
 description: Controlli commerciali sui documenti di vendita
 ---
+
 # SalesControlDocument
 
 **Chiavi**
 
-- *Id*
-- SalesControlType, ChannelsEnabled, AccountId, SalesAgentId, DocumentTypeId, CurrencyId, SeasonId, TrademarkId, StartDate, EndDate, StartAmountRange, EndAmountRange
+* _Id_
+* SalesControlType, ChannelsEnabled, AccountId, SalesAgentId, DocumentTypeId, CurrencyId, SeasonId, TrademarkId, StartDate, EndDate, StartAmountRange, EndAmountRange
 
-| Campo | Descrizione | Tipo | Dimensione | 
+| Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
 | AccountId | Id del cliente | text | 50 |
 | ChannelsEnabled | Indica per quali canali è abilitato \(se non specificato vale per tutti i canali\) | enum |  |
@@ -25,11 +26,12 @@ description: Controlli commerciali sui documenti di vendita
 | StartDate | Data inizio validità | date |  |
 | TrademarkId | Id del trademark | text | 50 |
 | Value | Valore \(vedi documentazione dei Controlli Commerciali\) | dec |  |
+
 ## SalesControlType
 
 0: None&lt;br&gt;1: Importo minimo&lt;br&gt;2: Sconto medio totale massimo
+
 ## SeverityLevel
 
 0: Error&lt;br&gt;1: Warning
-
 
