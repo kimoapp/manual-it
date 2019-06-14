@@ -1,17 +1,16 @@
 ---
-description: 'Costo articoli (netto, lordo, ...)'
+description: Costo articoli (netto, lordo, ...)
 ---
-
 # ItemCost
 
-  
- **Chiavi**
+<br>
+**Chiavi**
+- *Id*
+- ItemId, StartDate, EndDate, CurrencyId, SalesUomId, UnitsPerPack
+<br><br>
 
-* _Id_
-* ItemId, StartDate, EndDate, CurrencyId, SalesUomId, UnitsPerPack
-
-| Campo | Descrizione | Tipo | Dimensione |
-| :--- | :--- | :--- | :--- |
+| Campo | Descrizione | Tipo | Dimensione | 
+| :--- | :--- | :--- | :--- | :--- |
 | CurrencyId | Id della valuta | text | 50 |
 | EndDate | Data fine validità | date |  |
 | GrossCost | Costo lordo | dec |  |
@@ -21,10 +20,11 @@ description: 'Costo articoli (netto, lordo, ...)'
 | OtherCost | Altro costo | dec |  |
 | SalesUomId | Id unità di misura di vendita | text | 50 |
 | StartDate | Data inizio validità | date |  |
-| [Type](itemcost.md#type) |  | enum |  |
+| [Type](#type) |  | enum |  |
 | UnitsPerPack | Unità per confezione | dec |  |
 
-## Type
+Type
+---
+0: Regualar&ltbr&gt;1: NetCost
 
-0: Regualar&lt;br&gt;1: NetCost
 

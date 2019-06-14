@@ -1,20 +1,21 @@
 ---
 description: Modalità di Pagamento (Termini e Condizioni)
 ---
-
 # PaymentMethod
 
-  
- **Chiavi**
+<br>
+**Chiavi**
+- *Id*
+<br><br>
 
-* _Id_
-
-| Campo | Descrizione | Tipo | Dimensione |
-| :--- | :--- | :--- | :--- |
+| Campo | Descrizione | Tipo | Dimensione | 
+| :--- | :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | 100 |
 | Discount1 | Sconto | dec |  |
 | Discount2 | Sconto | dec |  |
 | Discount3 | Sconto | dec |  |
 | Id | Id | text | 50 |
 | UseMode |  | text | 50 |
+
+
 

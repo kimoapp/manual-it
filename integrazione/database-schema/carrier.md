@@ -1,21 +1,21 @@
 ---
 description: Vettore
 ---
-
 # Carrier
 
-  
- **Chiavi**
+<br>
+**Chiavi**
+- *Id*
+<br><br>
 
-* _Id_
-
-| Campo | Descrizione | Tipo | Dimensione |
-| :--- | :--- | :--- | :--- |
+| Campo | Descrizione | Tipo | Dimensione | 
+| :--- | :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
-| [SubscriptionType](carrier.md#subscriptiontype) | Tipo abbonamento | enum |  |
+| [SubscriptionType](#subscriptiontype) | Tipo abbonamento | enum |  |
 
-## SubscriptionType
+SubscriptionType
+---
+0: None&ltbr&gt;1: Standard
 
-0: None&lt;br&gt;1: Standard
 

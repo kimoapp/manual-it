@@ -1,17 +1,16 @@
 ---
 description: FreeLookup
 ---
-
 # FreeLookup
 
-  
- **Chiavi**
+<br>
+**Chiavi**
+- *Id*
+- Entity, FieldIndex, Context, ValueId
+<br><br>
 
-* _Id_
-* Entity, FieldIndex, Context, ValueId
-
-| Campo | Descrizione | Tipo | Dimensione |
-| :--- | :--- | :--- | :--- |
+| Campo | Descrizione | Tipo | Dimensione | 
+| :--- | :--- | :--- | :--- | :--- |
 | Context |  | text | 50 |
 | Description | Descrizione | text | 100 |
 | Entity |  | text | 50 |
@@ -19,4 +18,6 @@ description: FreeLookup
 | Id | Id | text | 50 |
 | LookupTypeId |  | text | 50 |
 | ValueId |  | text | 50 |
+
+
 

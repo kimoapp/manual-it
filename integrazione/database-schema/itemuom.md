@@ -1,17 +1,16 @@
 ---
 description: Unità di misura degli articoli
 ---
-
 # ItemUom
 
-  
- **Chiavi**
+<br>
+**Chiavi**
+- *Id*
+- ItemId, PackUomId, PackUnitUomId, SalesUomId, UnitsPerPack, Barcode
+<br><br>
 
-* _Id_
-* ItemId, PackUomId, PackUnitUomId, SalesUomId, UnitsPerPack, Barcode
-
-| Campo | Descrizione | Tipo | Dimensione |
-| :--- | :--- | :--- | :--- |
+| Campo | Descrizione | Tipo | Dimensione | 
+| :--- | :--- | :--- | :--- | :--- |
 | Barcode | Codice a barre | text | 50 |
 | Id | Id | text | 50 |
 | ItemId | Id dell'articolo | text | 50 |
@@ -24,9 +23,10 @@ description: Unità di misura degli articoli
 | Priority | Priorità di utilizzo dell'unità di misura | int |  |
 | SalesUomId | Unità di misura di vendita | text | 20 |
 | UnitsPerPack | Unità per confezione | dec |  |
-| [UnitsPerPackDivisibilityRule](itemuom.md#unitsperpackdivisibilityrule) | Indica se la quantità totale deve essere divisibile per l'unità per confezione | enum |  |
+| [UnitsPerPackDivisibilityRule](#unitsperpackdivisibilityrule) | Indica se la quantità totale deve essere divisibile per l'unità per confezione | enum |  |
 
-## UnitsPerPackDivisibilityRule
+UnitsPerPackDivisibilityRule
+---
+0: AllowDivisibility&ltbr&gt;1: WarnIfDivided&ltbr&gt;2: DoNotAllowDivisibility
 
-0: AllowDivisibility&lt;br&gt;1: WarnIfDivided&lt;br&gt;2: DoNotAllowDivisibility
 

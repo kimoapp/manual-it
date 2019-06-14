@@ -1,16 +1,15 @@
 ---
 description: Scadenzario
 ---
-
 # ReceivableInstallment
 
-  
- **Chiavi**
+<br>
+**Chiavi**
+- *Id*
+<br><br>
 
-* _Id_
-
-| Campo | Descrizione | Tipo | Dimensione |
-| :--- | :--- | :--- | :--- |
+| Campo | Descrizione | Tipo | Dimensione | 
+| :--- | :--- | :--- | :--- | :--- |
 | ActualPaymentAmount | Importo del pagamento | dec |  |
 | ActualPaymentDate | Data | date |  |
 | ActualPaymentReference | Riferimento al pagamento | text | text |
@@ -30,7 +29,7 @@ description: Scadenzario
 | CustomerName2 | Nome 2 | text | 100 |
 | DebitInterestAmount | Importo interessi | dec |  |
 | DebitNoteNumber | Numero | text | 50 |
-| [EntityStatus](receivableinstallment.md#entitystatus) | Campo che definisce lo stato del record | enum |  |
+| [EntityStatus](#entitystatus) | Campo che definisce lo stato del record | enum |  |
 | ExpiryDate | Data di scadenza | date |  |
 | FreeBoolean1 | Campo booleano libero | bool |  |
 | FreeBoolean2 | Campo booleano libero | bool |  |
@@ -59,7 +58,7 @@ description: Scadenzario
 | PaidAmount | Importo pagato | dec |  |
 | PaidDate | Data pagamento | date |  |
 | PaymentForcedlyClosed | Indica una chiusura forzata della rata | bool |  |
-| [PaymentStatus](receivableinstallment.md#paymentstatus) | Stato del pagamento | enum |  |
+| [PaymentStatus](#paymentstatus) | Stato del pagamento | enum |  |
 | PaymentTypeId | Tipo pagamento atteso | text | 50 |
 | ReceivableDate | Data | date |  |
 | ReceivableId | Id | text | 50 |
@@ -75,11 +74,11 @@ description: Scadenzario
 | UnpaidReference | Riferimento | text | 50 |
 | UploadToServerTimeStamp |  | dt |  |
 
-## EntityStatus
+EntityStatus
+---
+0: ImportedFromErp&ltbr&gt;1: ExportedToErp&ltbr&gt;2: ImportedByErp&ltbr&gt;3: ExportingToErp&ltbr&gt;4: Deleted&ltbr&gt;5: CommittingExportToErp&ltbr&gt;6: ToExportToErp&ltbr&gt;7: Editing&ltbr&gt;8: UploadedToServer&ltbr&gt;10: EditingPending
+PaymentStatus
+---
+0: ToPay&ltbr&gt;1: Paid&ltbr&gt;2: Unpaid&ltbr&gt;3: PaidOnKimo
 
-0: ImportedFromErp&lt;br&gt;1: ExportedToErp&lt;br&gt;2: ImportedByErp&lt;br&gt;3: ExportingToErp&lt;br&gt;4: Deleted&lt;br&gt;5: CommittingExportToErp&lt;br&gt;6: ToExportToErp&lt;br&gt;7: Editing&lt;br&gt;8: UploadedToServer&lt;br&gt;10: EditingPending
-
-## PaymentStatus
-
-0: ToPay&lt;br&gt;1: Paid&lt;br&gt;2: Unpaid&lt;br&gt;3: PaidOnKimo
 

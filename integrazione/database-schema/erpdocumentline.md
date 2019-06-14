@@ -1,16 +1,15 @@
 ---
 description: Righe dei Documenti da Erp
 ---
-
 # ErpDocumentLine
 
-  
- **Chiavi**
+<br>
+**Chiavi**
+- *Id*
+<br><br>
 
-* _Id_
-
-| Campo | Descrizione | Tipo | Dimensione |
-| :--- | :--- | :--- | :--- |
+| Campo | Descrizione | Tipo | Dimensione | 
+| :--- | :--- | :--- | :--- | :--- |
 | Amount | Totale documento | dec |  |
 | AmountIncludingVat | Totale documento incluso di IVA | dec |  |
 | DeliveryDate | Data di consegna | date |  |
@@ -59,7 +58,7 @@ description: Righe dei Documenti da Erp
 | ItemDescription | Descrizione articolo | text | 130 |
 | ItemId | Tipo dell'articolo | text | 50 |
 | LineNumber | Numero riga | int |  |
-| [LineType](erpdocumentline.md#linetype) | Tipo riga documento | enum |  |
+| [LineType](#linetype) | Tipo riga documento | enum |  |
 | ManufacturerId | Id produttore | text | 50 |
 | ManufacturerItemId | Id articolo produttore | text | 50 |
 | NetCost | Costo netto | dec |  |
@@ -100,7 +99,8 @@ description: Righe dei Documenti da Erp
 | VatRateValue | Valore aliquota | dec |  |
 | WarehouseId | Id del magazzino | text | 50 |
 
-## LineType
+LineType
+---
+0: Item&ltbr&gt;1: ManualItem&ltbr&gt;2: Note&ltbr&gt;3: ModelItem&ltbr&gt;4: VariableItem&ltbr&gt;5: Idrolab
 
-0: Item&lt;br&gt;1: ManualItem&lt;br&gt;2: Note&lt;br&gt;3: ModelItem&lt;br&gt;4: VariableItem&lt;br&gt;5: Idrolab
 
