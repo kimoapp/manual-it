@@ -1,9 +1,13 @@
 # Ruoli
 
-In questa sezione è possibile definire nuovi ruoli e modificare quelli già esistenti.  
-La tipologia di ciascun ruolo \(Agenti, b2b, Admin\) determina le funzionalità disponibili che possono essere abilitate o disabilitate singolarmente.  
-Un Ruolo utilizzato da un utente non può essere cancellato.  
-Un utente può avere associati più ruoli, le funzionalità attive sono quelle che risultano abilitate in almeno uno dei ruoli.
+Un Ruolo è un insieme di autorizzazioni.  
+Il Ruolo può essere di tipologia: Agente, B2b, Admin.  
+La tipologia del Ruolo determina le autorizzazioni di cui esso dispone.  
+Ciascuna delle autorizzazioni di un Ruolo può essere abilitata  o disabilitata.  
+Un utente senza alcun Ruolo associato  può accedere a Kimo Client, ma non ha a disposizione alcuna funzionalità applicativa.  
+Un utente può avere associati due o più Ruoli, in questo caso le autorizzazioni abilitate sono l'unione delle autorizzazioni abilitate nei vari Ruoli.  
+  
+Un Ruolo utilizzato da un utente non può essere cancellato.
 
 ![](../.gitbook/assets/image%20%2811%29.png)
 

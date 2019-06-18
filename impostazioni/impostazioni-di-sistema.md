@@ -6,10 +6,6 @@ Le Impostazioni di Sistema \(Server System Settings\) definiscono alcuni paramet
 
 ![](../.gitbook/assets/image%20%2826%29.png)
 
-
-
-### 
-
 ### Impostazioni mail server
 
 <table>
@@ -32,56 +28,119 @@ Le Impostazioni di Sistema \(Server System Settings\) definiscono alcuni paramet
     <tr>
       <td style="text-align:left">MailServer\Port</td>
       <td style="text-align:left"></td>
+      <td style="text-align:left">int</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">MailServer\EnablSsl</td>
       <td style="text-align:left"></td>
+      <td style="text-align:left">bool</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">MailServer\Username</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">string</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">MailServer\Password</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">string</td>
     </tr>
   </tbody>
-</table>* EnableSsl 
-* Username 
-* Password
-* Web
+</table>### Impo~~s~~tazioni Web
 
-  * BaseUrl: Indirizzo del server
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Chiave</th>
+      <th style="text-align:left">Descrizione</th>
+      <th style="text-align:left">Tipo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p></p>
+        <p>Web\BaseUrl</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <p>Indirizzo del server</p>
+      </td>
+      <td style="text-align:left">string</td>
+    </tr>
+  </tbody>
+</table>### Impo~~s~~tazioni User
 
-* User
+| Chiave | Descrizione | Tipo |
+| :--- | :--- | :--- |
+| User\ActivationMailSubject  | Default-&gt; Attivazione utente Kimo / Kimo user activation | string |
+| User\ActivationMailTitle | Default -&gt; Attivazione utente Kimo / Kimo user activation | string |
+| User\ResetPasswordMailSubject | Default -&gt; Ripristino password Kimo / Kimo password reset | string |
+| User\ResetPasswordMailTitle | Default-&gt; Ripristino password Kimo / Kimo password reset | string |
 
-  * ActivationMailSubject - Default-&gt; Attivazione utente Kimo / Kimo user activation
-  * ActivationMailTitle - Default -&gt; Attivazione utente Kimo / Kimo user activation 
-  * ResetPasswordMailSubject - Default -&gt; Ripristino password Kimo / Kimo password reset
-  * ResetPasswordMailTitle - Default-&gt; Ripristino password Kimo / Kimo password reset
+### Impo~~s~~tazioni Thumbnail
 
-* Thumbnail
+| Chiave | Descrizione | Tipo |
+| :--- | :--- | :--- |
+| Thumbnail\ItemSize | Dimensione in pixel della thumbnail | int |
 
-  * ItemSize
+### Impo~~s~~tazioni Status
 
-* Status
-  * LastImportRequestTimeStamp 
-  * LastImportStartTimeStamp 
-  * LastImportFinishTimeStamp 
-  * LastExportRequestTimeStamp 
-  * LastExportStartTimeStamp 
-  * LastExportFinishTimeStamp
-  * BaseUrl Default -&gt; [https://kimostorage.blob.core.windows.net/kimoversions](https://kimostorage.blob.core.windows.net/kimoversions)
-* Operations
-  * SemaphoreName
-* NotificationCenter
-  * SenderAddress 
-  * SenderName 
-  * InfoRecipients 
-  * ErrorRecipients
-* 
-* ItemsImages
+| Chiave | Descrizione | Tipo |
+| :--- | :--- | :--- |
+| Status\LastImportRequestTimeStamp |  | datetime |
+| Status\LastImportStartTimeStamp  |  | datetime |
+| Status\LastImportFinishTimeStamp |  | datetime |
+| Status\LastExportRequestTimeStamp |  | datetime |
+| Status\LastExportStartTimeStamp |  | datetime |
+| Status\LastExportFinishTimeStamp |  | datetime |
+| Status\BaseUrl | Default -&gt; [https://kimostorage.blob.core.windows.net/kimoversions](https://kimostorage.blob.core.windows.net/kimoversions) | string |
 
-  * MaxSize
+### Impo~~s~~tazioni Operations
 
-* Instance
-  * Id
-* Import
-  * CustomTask
-* Firebase
-  * AdminSdkB2a 
-  * AdminSdkB2b 
-  * ProjectIdB2a 
-  * ProjectIdB2b
-* "FileTypeId"
-  * SourceDirectory
+| Chiave | Descrizione | Tipo |
+| :--- | :--- | :--- |
+| Operations\SemaphoreName |  | string |
+
+### Impo~~s~~tazioni Operations
+
+| Chiave | Descrizione | Tipo |
+| :--- | :--- | :--- |
+| NotificationCenter\SenderAddress |  | string |
+| NotificationCenter\SenderName |  | string |
+| NotificationCenter\InfoRecipients  |  | string |
+| NotificationCenter\ErrorRecipients |  | string |
+
+### Impo~~s~~tazioni **ItemsImage**
+
+| Chiave | Descrizione | Tipo |
+| :--- | :--- | :--- |
+| ItemsImages\MaxSize |  | int |
+
+### Impo~~s~~tazioni **Instance**
+
+| Chiave | Descrizione | Tipo |
+| :--- | :--- | :--- |
+| Instance\Id |  | string |
+
+### Impo~~s~~tazioni **Import**
+
+| Chiave | Descrizione | Tipo |
+| :--- | :--- | :--- |
+| Import\CustomTask | Percorso dello script da eseguire. Per maggiori informazioni [Task personalizzati import/export](../integrazione/task-personalizzati-import-export.md) | string |
+
+### Impo~~s~~tazioni **Firebase**
+
+| Chiave | Descrizione | Tipo |
+| :--- | :--- | :--- |
+| Firebase\AdminSdkB2a |  | string |
+| Firebase\AdminSdkB2b |  | string |
+| Firebase\ProjectIdB2a |  | string |
+| Firebase\ProjectIdB2b |  | string |
+
+### Impo~~s~~tazioni **FileTypeId**
+
+| Chiave | Descrizione | Tipo |
+| :--- | :--- | :--- |
+| FileTypeId\SourceDirectory |  | string |
 

@@ -1,10 +1,6 @@
-# Import / Export
+# Import/Export
 
-## TODO: descrivere come schedulare import ed export
-
-
-
-
+## Come eseguire manualmente Import/Export
 
 Il menù Import/Export è visibile nella parte in alto a destra dello schermo.
 
@@ -41,6 +37,8 @@ Il menù Import/Export è visibile nella parte in alto a destra dello schermo.
 
 
 * Export verso Erp: vengono inviati i dati da KimoIntegrator al sistema informativo.
+
+
 
 ### 
 
