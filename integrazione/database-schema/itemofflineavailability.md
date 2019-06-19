@@ -26,4 +26,3 @@ description: Disponibilità 'offline' degli articoli
 | VariableItemId | Id dell'articolo variante | text | 50 |
 | WarehouseAvailability | Disponibilità Magazzino | dec |  |
 | WarehouseId | Id del magazzino a cui fa riferimento la disponibilità | text | 50 |
-

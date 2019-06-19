@@ -18,4 +18,3 @@ description: Banche di un account
 | BankIban | Codice IBAN | text | 50 |
 | Id | Id | text | 50 |
 | Priority | Indica la priorità di selezione della banca | int |  |
-
