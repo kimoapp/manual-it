@@ -1,7 +1,7 @@
 # Layout
 
 In Kimo uno Use Case Context identifica un modello dati accessibile da una maschera.  
-In Kimo la lista dei Use Case Context è predefinita.  
+In Kimo la lista degli Use Case Context è predefinita.  
 Un Layout è uno schema di visualizzazione di uno Use Case Context.  
 In Kimo per ciascun Use Case Context esiste un Layout di Default che viene utilizzato in assenza di Layout personalizzati.  
 In Kimo per un Use Case Context è possibile definire uno o più Layout personalizzati alternativi a quello di Default.  
@@ -170,12 +170,6 @@ Per rendere l'operazione il più semplice possibile si può usare la seguente pr
 * Copiare il file del Layout Kimo dal computer Apple ad iPad 
 * Entrare nuovamente nel Layout Kimo di interesse, le modifiche apportate al Layout saranno immediatamente visibili 
 * ATTENZIONE: la presenza del file "all.txt" impedirà a Kimo l'utilizzo dei Layout originariamente parametrizzati. Per uscire da questa modalità di sviluppo Layout è necessario cancellare sia i Layout scaricati che il file "all.txt" presenti nella cartella Kimo.
-
-
-
-
-
-
 
 ### Maschera di gestione dei Layout
 

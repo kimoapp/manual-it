@@ -1,4 +1,4 @@
-﻿# Table of contents
+# Table of contents
 
 * [Piacere, sono Kimo](README.md)
 * [Introduzione](introduzione/README.md)
@@ -10,11 +10,16 @@
   * [Installare Kimo SFA su iPad](installazione/installare-kimo-sfa-su-ipad.md)
 * [Impostazioni](impostazioni/README.md)
   * [Utenti](impostazioni/utenti/README.md)
-    * [Creare un nuovo agente](impostazioni/utenti/creare-un-nuovo-utente-di-tipo-agente.md)
-    * [Creare un nuovo utente direzionale](impostazioni/utenti/creare-un-nuovo-utente-direzionale.md)
-    * [Creare un nuovo utente di tipo Cliente](impostazioni/utenti/creare-un-nuovo-utente-di-tipo-cliente.md)
+    * [Creare un utente per SFA](impostazioni/utenti/creare-un-nuovo-utente-di-tipo-agente.md)
+    * [Creare un utente per B2B](impostazioni/utenti/creare-un-nuovo-utente-di-tipo-cliente.md)
     * [Cambiare codice agente per un utente di Kimo](impostazioni/utenti/cambiare-codice-agente-per-un-utente-di-kimo.md)
+    * [Creare un utente Direzionale](impostazioni/utenti/creare-un-nuovo-utente-direzionale.md)
+    * [Attivare un utente](impostazioni/utenti/attivazione-di-un-utente.md)
+    * [Riattivare un utente](impostazioni/utenti/riattivazione-di-un-utente.md)
     * [Password](impostazioni/utenti/untitled.md)
+    * [Reset della password](impostazioni/utenti/reset-della-password.md)
+    * [Cancellare e ripristinare un utente](impostazioni/utenti/archiviazione-e-ripristino.md)
+    * [Impersonificare un utente](impostazioni/utenti/impersonificazione-di-un-utente.md)
   * [Ruoli](impostazioni/ruoli.md)
   * [Business Rules](impostazioni/business-rules/README.md)
     * [Account](impostazioni/business-rules/account.md)
@@ -254,4 +259,5 @@
   * [Documenti di vendita](funzionalita/documenti-di-vendita/README.md)
     * [Tipi Vendita \(TODO\)](funzionalita/documenti-di-vendita/tipi-vendita.md)
   * [Documenti aziendali e personali](funzionalita/pdf-per-companydocuments-e-userdocuments.md)
+* [Contatti](contatti.md)
 
