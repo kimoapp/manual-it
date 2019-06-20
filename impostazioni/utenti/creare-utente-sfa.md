@@ -1,4 +1,4 @@
-# Creare un utente per SFA
+# Creare un utente per SFA \(utente di tipo Agente\)
 
 Per creare un nuovo utente di tipo Agente, accedere alla Console di Amministrazione di Kimo \(es. [https://kimo.mycompany.com/admin](https://kimo.mycompany.com/admin)\), selezionare l'area "Utenti", quindi "Nuovo utente per agente" e compilare tutti i campi nella maschera che sarà visualizzata:
 

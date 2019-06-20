@@ -1,4 +1,4 @@
-# Moduli
+# Moduli e App
 
 Kimo è composto dai seguenti moduli:
 
