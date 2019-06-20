@@ -24,7 +24,7 @@
     * [Cancellare e ripristinare un utente](impostazioni/utenti/archiviazione-e-ripristino.md)
     * [Eliminazione di un profilo utente sulle App](impostazioni/utenti/eliminazione-di-un-profilo-utente-sulle-app.md)
     * [Impersonificare un utente](impostazioni/utenti/impersonificazione-di-un-utente.md)
-  * [Ruoli](impostazioni/ruoli.md)
+  * [Ruoli e autorizzazioni](impostazioni/ruoli.md)
   * [Business Rules](impostazioni/business-rules/README.md)
     * [Account](impostazioni/business-rules/account.md)
     * [Activity](impostazioni/business-rules/activity.md)
