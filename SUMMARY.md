@@ -22,6 +22,7 @@
     * [Password](impostazioni/utenti/untitled.md)
     * [Reset della password](impostazioni/utenti/reset-della-password.md)
     * [Cancellare e ripristinare un utente](impostazioni/utenti/archiviazione-e-ripristino.md)
+    * [Eliminazione di un profilo utente sulle App](impostazioni/utenti/eliminazione-di-un-profilo-utente-sulle-app.md)
     * [Impersonificare un utente](impostazioni/utenti/impersonificazione-di-un-utente.md)
   * [Ruoli](impostazioni/ruoli.md)
   * [Business Rules](impostazioni/business-rules/README.md)
