@@ -19,7 +19,7 @@
     * [Cambiare codice agente per un utente di Kimo](impostazioni/utenti/cambiare-codice-agente-per-un-utente-di-kimo.md)
     * [Attivare un utente](impostazioni/utenti/attivazione-di-un-utente.md)
     * [Riattivare un utente](impostazioni/utenti/riattivazione-di-un-utente.md)
-    * [Password](impostazioni/utenti/untitled.md)
+    * [Criteri di definizione delle password](impostazioni/utenti/untitled.md)
     * [Reset della password](impostazioni/utenti/reset-della-password.md)
     * [Cancellare e ripristinare un utente](impostazioni/utenti/archiviazione-e-ripristino.md)
     * [Eliminazione di un profilo utente sulle App](impostazioni/utenti/eliminazione-di-un-profilo-utente-sulle-app.md)
