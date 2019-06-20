@@ -1,12 +1,39 @@
 # Impostazioni di sistema
 
-Le Impostazioni di Sistema \(Server System Settings\) definiscono alcuni parametri che servono al server  per l'utilizzo di alcune funzioni. È possibile consultarne un elenco più dettagliato nella seguente sezione: 
+Le Impostazioni di Sistema \(Server System Settings\) definiscono alcuni parametri utilizzati dal server di Kimo per determinare il comportamento di alcune funzionalità.
 
 ![](../.gitbook/assets/tempsnip%20%281%29.png)
 
 ![](../.gitbook/assets/image%20%2826%29.png)
 
-### Impostazioni mail server
+ È possibile consultarne un elenco più dettagliato nella seguente sezione: 
+
+### Impo~~s~~tazioni Web
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Chiave</th>
+      <th style="text-align:left">Descrizione</th>
+      <th style="text-align:left">Tipo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p></p>
+        <p>Web\BaseUrl</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <p>Indirizzo base del server (es. https://kimo.mycompany.com), utilizzato
+          ad esempio per inserire dei link riferiti a Kimo nelle mail (es. mail per
+          l&apos;attivazione degli utenti).</p>
+      </td>
+      <td style="text-align:left">string</td>
+    </tr>
+  </tbody>
+</table>### Impostazioni mail server
 
 <table>
   <thead>
@@ -46,7 +73,16 @@ Le Impostazioni di Sistema \(Server System Settings\) definiscono alcuni paramet
       <td style="text-align:left">string</td>
     </tr>
   </tbody>
-</table>### Impo~~s~~tazioni Web
+</table>### Impo~~s~~tazioni NotificationCenter \(invio mail di notifica\)
+
+| Chiave | Descrizione | Tipo |
+| :--- | :--- | :--- |
+| NotificationCenter\SenderAddress |  | string |
+| NotificationCenter\SenderName |  | string |
+| NotificationCenter\InfoRecipients  |  | string |
+| NotificationCenter\ErrorRecipients |  | string |
+
+### Impo~~s~~tazioni User
 
 <table>
   <thead>
@@ -58,64 +94,55 @@ Le Impostazioni di Sistema \(Server System Settings\) definiscono alcuni paramet
   </thead>
   <tbody>
     <tr>
+      <td style="text-align:left">User\ActivationMailSubject</td>
       <td style="text-align:left">
-        <p></p>
-        <p>Web\BaseUrl</p>
+        <p>Oggetto della mail di attivazione degli utenti</p>
+        <p>Valore di default: &quot;Attivazione utente Kimo / Kimo user activation&quot;</p>
       </td>
+      <td style="text-align:left">string</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">User\ActivationMailTitle</td>
       <td style="text-align:left">
-        <p></p>
-        <p>Indirizzo del server</p>
+        <p>Titolo usato all&apos;interno della mail di attivazione degli utenti</p>
+        <p>Valore di default: &quot;Attivazione utente Kimo / Kimo user activation&quot;</p>
+      </td>
+      <td style="text-align:left">string</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">User\ResetPasswordMailSubject</td>
+      <td style="text-align:left">
+        <p>Oggetto della mail di reset della password</p>
+        <p>Valore di default: &quot;Ripristino password Kimo / Kimo password reset&quot;</p>
+      </td>
+      <td style="text-align:left">string</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">User\ResetPasswordMailTitle</td>
+      <td style="text-align:left">
+        <p>Titolo usato all&apos;interno della mail di reset della password</p>
+        <p>Valore di default: &quot;Ripristino password Kimo / Kimo password reset&quot;</p>
       </td>
       <td style="text-align:left">string</td>
     </tr>
   </tbody>
-</table>### Impo~~s~~tazioni User
+</table>### Impo~~s~~tazioni Thumbnail
 
 | Chiave | Descrizione | Tipo |
 | :--- | :--- | :--- |
-| User\ActivationMailSubject  | Default-&gt; Attivazione utente Kimo / Kimo user activation | string |
-| User\ActivationMailTitle | Default -&gt; Attivazione utente Kimo / Kimo user activation | string |
-| User\ResetPasswordMailSubject | Default -&gt; Ripristino password Kimo / Kimo password reset | string |
-| User\ResetPasswordMailTitle | Default-&gt; Ripristino password Kimo / Kimo password reset | string |
-
-### Impo~~s~~tazioni Thumbnail
-
-| Chiave | Descrizione | Tipo |
-| :--- | :--- | :--- |
-| Thumbnail\ItemSize | Dimensione in pixel della thumbnail | int |
-
-### Impo~~s~~tazioni Status
-
-| Chiave | Descrizione | Tipo |
-| :--- | :--- | :--- |
-| Status\LastImportRequestTimeStamp |  | datetime |
-| Status\LastImportStartTimeStamp  |  | datetime |
-| Status\LastImportFinishTimeStamp |  | datetime |
-| Status\LastExportRequestTimeStamp |  | datetime |
-| Status\LastExportStartTimeStamp |  | datetime |
-| Status\LastExportFinishTimeStamp |  | datetime |
-| Status\BaseUrl | Default -&gt; [https://kimostorage.blob.core.windows.net/kimoversions](https://kimostorage.blob.core.windows.net/kimoversions) | string |
-
-### Impo~~s~~tazioni Operations
-
-| Chiave | Descrizione | Tipo |
-| :--- | :--- | :--- |
-| Operations\SemaphoreName |  | string |
-
-### Impo~~s~~tazioni Operations
-
-| Chiave | Descrizione | Tipo |
-| :--- | :--- | :--- |
-| NotificationCenter\SenderAddress |  | string |
-| NotificationCenter\SenderName |  | string |
-| NotificationCenter\InfoRecipients  |  | string |
-| NotificationCenter\ErrorRecipients |  | string |
+| Thumbnail\ItemSize | Dimensione in pixel della thumbnail generata per le immagini degli articoli \(di forma quadrata\). | int |
 
 ### Impo~~s~~tazioni **ItemsImage**
 
 | Chiave | Descrizione | Tipo |
 | :--- | :--- | :--- |
 | ItemsImages\MaxSize |  | int |
+
+### Impostazioni Operations
+
+| Chiave | Descrizione | Tipo |
+| :--- | :--- | :--- |
+| Operations\SemaphoreName |  | string |
 
 ### Impo~~s~~tazioni **Instance**
 
@@ -127,7 +154,7 @@ Le Impostazioni di Sistema \(Server System Settings\) definiscono alcuni paramet
 
 | Chiave | Descrizione | Tipo |
 | :--- | :--- | :--- |
-| Import\CustomTask | Percorso dello script da eseguire. Per maggiori informazioni [Task personalizzati import/export](../integrazione/task-personalizzati-import-export.md) | string |
+| Import\CustomTask | Percorso di un eventuale script "custom" da eseguire. Per maggiori informazioni [Task personalizzati import/export](../integrazione/task-personalizzati-import-export.md) | string |
 
 ### Impo~~s~~tazioni **Firebase**
 
