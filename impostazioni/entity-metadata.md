@@ -1,14 +1,14 @@
-# Entity Metadata
+# Metadati sulle entità
 
-In Kimo esistono Entity di vario tipo
+In Kimo esistono entità di vario tipo:
 
-* Entity ReadOnly: importate da Erp e mai modificate da Kimo client Es. ErpDocument
-* Entity Write: create nativamente da Kimo client Es. Document
-* Entity: create da Erp ma modificate da Kimo client Es. Account 
-* Entity Server Write: create a a livello di Kimo Consolle, readonly per il client e non esportate verso Erp Es. ErpStatus.
+* Entità in "sola lettura": importate dal Sistema Informativo \(Erp, Crm, ...\) e mai modificate in Kimo \(es. Documenti da Erp, anagrafica dei metodi di pagamento, condizioni di vendita, ...\).
+* Entità creabili e/o modificabili nelle App di Kimo \(es. clienti, documenti di vendita, incassi, ...\).
+* Entità di supporto creabili dalla [Console di Amministrazione](../introduzione/moduli/console-admin.md) di Kimo \(es. i tipi di documenti di vendita, i tipi di attività, i tipi di riassortimento, FreeLookup, ...\). Sono entità che gli utenti delle App di Kimo vedono in "sola lettura", non possono apportare modifiche ad esse, e non vengono esportate ai Sistemi Informativi.
 
-I metadati in particolare sono relativi alle Entity Write infatti definiscono per ciascun campo le regole di editing \(inserimento/modifica\).  
-In assenza di Metadati tutti i Campi sono non editabili.
+I metadati in particolare si riferiscono alle entità creabili/modificabili dagli utenti attraverso le App di Kimo: definiscono per ciascun campo delle entità le regole di editing, come ad esempio la lunghezza massima per i campi di testo, l'obbligatorietà dell'inserimento di un determinato campo e così via.  
+  
+Se non vengono definiti i metadati per un'entità, i suoi campi risulteranno in sola lettura nelle App di Kimo.
 
 ### Metadati a livello di entity
 

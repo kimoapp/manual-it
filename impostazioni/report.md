@@ -1,4 +1,4 @@
-# Tipi Report
+# Report
 
 Un Tipo Report è un modello di Report.  
 Ciascun Tipo Report è relativo ad un Contesto.  

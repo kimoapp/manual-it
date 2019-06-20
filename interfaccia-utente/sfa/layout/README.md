@@ -6,7 +6,7 @@ Un Layout è uno schema di visualizzazione di uno Use Case Context.
 In Kimo per ciascun Use Case Context esiste un Layout di Default che viene utilizzato in assenza di Layout personalizzati.  
 In Kimo per un Use Case Context è possibile definire uno o più Layout personalizzati alternativi a quello di Default.  
 In Kimo un Layout può essere utilizzato per visualizzare Use Case Context diversi ma tra loro simili.  
-Un Layout può essere definito in formato XHTML o HTML \(vedi [Motore di template \(Template Engine\)](../../../impostazioni/motore-di-template-template-engine.md)\).  
+Un Layout può essere definito in formato XHTML o HTML \(vedi [Motore di template \(Template Engine\)](../../../impostazioni/template-engine.md)\).  
 Una Configurazione è un elenco di Layout.  
 In Kimo possono essere definite più Configurazioni, ma ciascun utente può vedere solo quella assegnata.  
 Per ottenere dettagli sui Layout Kimo consultare [Layout SFA](list/).
@@ -147,7 +147,7 @@ TODO
 
 #### HTML
 
-Consultare la sezione: [Motore di template \(Template Engine\)](../../../impostazioni/motore-di-template-template-engine.md)
+Consultare la sezione: [Motore di template \(Template Engine\)](../../../impostazioni/template-engine.md)
 
 ### Utilizzo del file 'all.txt'
 
