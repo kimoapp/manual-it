@@ -15,7 +15,7 @@
   * [Utenti](impostazioni/utenti/README.md)
     * [Creare un utente per SFA \(utente di tipo Agente\)](impostazioni/utenti/creare-utente-sfa.md)
     * [Creare un utente per B2B \(utente di tipo Cliente\)](impostazioni/utenti/creare-utente-b2b.md)
-    * [Creare un utente Direzionale](impostazioni/utenti/creare-utente-direzionale.md)
+    * [Creare un utente di tipo Direzionale](impostazioni/utenti/creare-utente-direzionale.md)
     * [Cambiare codice agente per un utente di Kimo](impostazioni/utenti/cambiare-codice-agente-per-un-utente-di-kimo.md)
     * [Attivare un utente](impostazioni/utenti/attivazione-di-un-utente.md)
     * [Riattivare un utente](impostazioni/utenti/riattivazione-di-un-utente.md)
