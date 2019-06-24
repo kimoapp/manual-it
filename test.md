@@ -8,6 +8,22 @@
 4. Microsoft Message Queue feature
 5. MongoDB
 
+Immagine diretta
+
+![](.gitbook/assets/google.png)
+
+![](.gitbook/assets/googlelogo_color_272x92dp.png)
+
+Immagine embeddata
+
+![](https://kimostorage.blob.core.windows.net/kimomanual/Images/Google.png)
+
+![](https://kimostorage.blob.core.windows.net/kimomanual/Images/googlelogo_color_272x92dp.png)
+
+
+
+![](.gitbook/assets/simulator-screen-shot-ipad-6th-generation-2019-06-24-at-14.15.09_framed.png)
+
 
 
 {% embed url="https://youtu.be/RrpRTRBRL6E" %}
