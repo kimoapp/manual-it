@@ -32,6 +32,20 @@ Esempio in un'unica linea:
 #if ($foo) TESTO QUANDO VERO #else TESTO QUANDO FALSO #end
 ```
 
+## Verifica parametri con valore Null
+
+Il modo più semplice per verificare se un parametro ha valore null è di utilizzare la funzione "utils.IsNullOrEmpty" descritta nella sezione delle [funzionalità](../funzionalita/).
+
+Esempio di utilizzo:
+
+```text
+#if (${utils.IsNullOrEmpty($ShipmentSite)}) 
+  Stampa se null o stringa vuota 
+#else 
+  Stampa se valorizzato
+#end
+```
+
 ## Cicli foreach
 
 Esempio:
@@ -107,6 +121,7 @@ I commenti possono essere definiti usando i caratteri '\#\#':
 
 | Funzione | Parametri | Scopo |
 | :--- | :--- | :--- |
+| utils.IsNullOrEmpty | oggetto | Restituisce un boolean che indica se l'oggetto passato come parametro è Null o se è una stringa vuota \(o contenente soli spazi\) |
 | utils.Take | object lista, int count | Data una lista di valori, prende i primi n espressi dal parametro "count" |
 | $newline o ${newline} |  | Interruzione di riga |
 
