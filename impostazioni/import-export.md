@@ -10,7 +10,7 @@ Il menù Import/Export è visibile nella parte in alto a destra dello schermo.
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
-* Importo completo: effettua i 3 step sotto riportati. 
+* Import completo: effettua i 3 step sotto riportati \(Step1, Step2, Step3\). 
 * Step 1: Import da Erp a KimoIntegrator. I dati presenti nell'Erp vengono importati nel database di KimoIntegrator.
 * Step 2: Caricamento da KimoIntegrator. I dati presenti nel database di KimoIntegrator vengono caricati nel database di Kimo.
 * Step 3: Preparazione dati di Sync. I dati presenti nel database di Kimo vengono preparati nel formato adatto ai KimoClient.
