@@ -150,6 +150,8 @@
 
   * [ *\{DocumentLineVariableEditor\}*](documentlinevariableeditorcontext.md)
 
+  * [ *\{SalesConditionForDocumentLineSelector\}*](salesconditionfordocumentlineselectorcontext.md)
+
 * **Elenchi / ricerca**
   * [ *\{DocumentsSearch\}*](documentssearchcontext.md)
 
@@ -157,9 +159,6 @@
   * [ *\{DocumentReport\}*](documentreportcontext.md)
 
   * [ *\{DocumentReportRecipient\}*](documentreportrecipientcontext.md)
-
-* **Selettori**
-  * [ *\{SalesConditionForDocumentLineSelector\}*](salesconditionfordocumentlineselectorcontext.md)
 
 
 ## Partite Aperte / Insoluti
