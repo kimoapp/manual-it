@@ -1,5 +1,5 @@
 ---
-description: null
+description: 
 ---
 
 # DocumentLine
@@ -159,6 +159,7 @@ description: null
 * 2: PromoDaListinoPersonalizzato
 * 3: Activated
 * 4: AutomaticPromotionActivated
+* 5: DirectPromotionActivated
 
 ## SaleTypeMode
 
@@ -167,4 +168,3 @@ description: null
 * 2: TaxableFreeSample
 * 3: DiscountOnGoods
 * 4: Promotion
-

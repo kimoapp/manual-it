@@ -1,4 +1,4 @@
-# Table of contents
+﻿# Table of contents
 
 * [Piacere, sono Kimo](README.md)
 * [Introduzione](introduzione/README.md)
@@ -111,10 +111,12 @@
         * [PromotionEditorLineTableRow](interfaccia-utente/sfa/layout/list/promotioneditorlinetablerowcontext.md)
         * [PromotionInfoHeader](interfaccia-utente/sfa/layout/list/promotioninfoheadercontext.md)
         * [PromotionLineEditor](interfaccia-utente/sfa/layout/list/promotionlineeditorcontext.md)
+        * [PromotionLineSelector](interfaccia-utente/sfa/layout/list/promotionlineselectorcontext.md)
         * [Reassortment](interfaccia-utente/sfa/layout/list/reassortmentcontext.md)
         * [ReceivableBookTableRow](interfaccia-utente/sfa/layout/list/receivablebooktablerowcontext.md)
         * [ReceivableInstallmentEditor](interfaccia-utente/sfa/layout/list/receivableinstallmenteditorcontext.md)
         * [ReceivableInstallmentsMultipleCashEditor](interfaccia-utente/sfa/layout/list/receivableinstallmentsmultiplecasheditorcontext.md)
+        * [SalesConditionForDocumentLineSelector](interfaccia-utente/sfa/layout/list/salesconditionfordocumentlineselectorcontext.md)
         * [ShipmentSiteEditor](interfaccia-utente/sfa/layout/list/shipmentsiteeditorcontext.md)
     * [Scenari](interfaccia-utente/sfa/scenari-e-ordinamenti.md)
     * [Immagine di sfondo su Home Page](interfaccia-utente/sfa/immagine-di-sfondo-su-home-page.md)

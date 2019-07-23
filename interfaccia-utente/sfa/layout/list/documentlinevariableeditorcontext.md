@@ -67,6 +67,7 @@
 | RetailDiscounts |  |
 | RetailNetUnitPrice |  |
 | RetailUnitPrice |  |
+| SalesConditions |  |
 | SalesQty |  |
 | SalesQtyStepperMinus |  |
 | SalesQtyStepperPlus |  |

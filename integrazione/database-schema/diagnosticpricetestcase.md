@@ -33,4 +33,3 @@ description: Test diagnostica prezzi
 | SalesUomId |  | text | 10 |
 | UnitPrice |  | dec |  |
 | UnitsPerPack |  | dec |  |
-

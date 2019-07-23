@@ -1,7 +1,7 @@
-# PromotionActivationLineTableRow
+# PromotionLineSelector
 
-**Context:** PromotionActivationLineTableRowContext  
-**Default Layout:** PromotionActivationLineTableRowLayout
+**Context:** PromotionLineSelectorContext  
+**Default Layout:** PromotionLineSelectorLayout
 
 ## Campi
 

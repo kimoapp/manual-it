@@ -32,4 +32,3 @@
 
 * 0 =&gt; SalesQty
 * 1 =&gt; NumberOfPacks
-

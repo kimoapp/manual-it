@@ -31,4 +31,3 @@ description: Campi delle schede marketing
 * 9: MultiSelectionList
 * 25: NullableBoolean
 * 100: Label
-
