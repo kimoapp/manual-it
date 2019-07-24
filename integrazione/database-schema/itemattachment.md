@@ -16,4 +16,3 @@ description: Allegati articoli
 | Id | Id | text | 50 |
 | ItemId | Id dell'articolo | text | 50 |
 | Priority | Priorità nella visualizzazione dell'allegato | int |  |
-
