@@ -1,9 +1,9 @@
 # Stati Erp
 
-Una lista di Stati Erp è un elenco di coppie di valori: codice, descrizione in cui ciascuna coppia identifica uno stato.  
-Ciascun stato Erp ha un attributo "Tipo Stato" nella forma &lt;Entity&gt;&lt;Index&gt; che identifica l'Entity di riferimento ed il campo rispettivo Es. Item.ErpStatus1.  
-Data un' Entity con uno dei campi ErpStatus&lt;Index&gt; valorizzato, se per ciascun valore del campo ErpStatus&lt;Index&gt;, non è possibile determinare il valore corrispondente in Stati Erp, la fase di Caricamento si interrompe con un errore.  
-Per ciascun stato Erp è possibile inoltre definire: lo stile \(in formato CSS\) e un codice che identifica l'icona da visualizzare \(supporto a Font Awesome\). 
+Una lista di stati erp è un elenco di coppie di valori: codice, descrizione in cui ciascuna coppia identifica uno stato.  
+Ciascun stato erp ha un attributo "Tipo Stato" nella forma &lt;Entity&gt;&lt;Index&gt; che identifica l'Entity di riferimento ed il campo rispettivo Es. Item.ErpStatus1.  
+Data un' entità con uno dei campi ErpStatus&lt;Index&gt; valorizzato, se per ciascun valore del campo ErpStatus&lt;Index&gt;, non è possibile determinare il valore corrispondente in stati erp, la fase di caricamento si interrompe con un errore.  
+Per ciascun stato erp è possibile inoltre definire: lo stile \(in formato CSS\) e un codice che identifica l'icona da visualizzare \(supporto a Font Awesome\). 
 
 Es. Disponibilità Item
 

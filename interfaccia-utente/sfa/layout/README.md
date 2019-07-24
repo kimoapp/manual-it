@@ -1,29 +1,29 @@
 # Layout
 
-In Kimo uno Use Case Context identifica un modello dati accessibile da una maschera.  
-In Kimo la lista degli Use Case Context è predefinita.  
-Un Layout è uno schema di visualizzazione di uno Use Case Context.  
-In Kimo per ciascun Use Case Context esiste un Layout di Default che viene utilizzato in assenza di Layout personalizzati.  
-In Kimo per un Use Case Context è possibile definire uno o più Layout personalizzati alternativi a quello di Default.  
-In Kimo un Layout può essere utilizzato per visualizzare Use Case Context diversi ma tra loro simili.  
-Un Layout può essere definito in formato XHTML o HTML \(vedi [Motore di template \(Template Engine\)](../../../impostazioni/template-engine.md)\).  
-Una Configurazione è un elenco di Layout.  
+In Kimo uno use case context identifica un modello dati accessibile da una maschera.  
+In Kimo esiste una lista di use case context predefinita.  
+Un layout è uno schema di visualizzazione di uno use case context.  
+Per ciascun use case context esiste un layout di default che viene utilizzato in assenza di layout personalizzati.  
+Per uno use case context è possibile definire uno o più layout personalizzati alternativi a quello di default.  
+Un layout può essere utilizzato per visualizzare use case context diversi ma tra loro simili.  
+Un layout può essere definito in formato XHTML o HTML \(vedi [Motore di template \(Template Engine\)](../../../impostazioni/template-engine.md)\).  
+Una configurazione è un elenco di Layout.  
 In Kimo possono essere definite più Configurazioni, ma ciascun utente può vedere solo quella assegnata.  
-Per ottenere dettagli sui Layout Kimo consultare [Layout SFA](list/).
+Per ottenere dettagli sui layout Kimo consultare [Layout SFA](list/).
 
-Per un Layout è possibile definire l'altezza della Form, ciò è particolarmente utile nei casi in cui il Layout renderizza la riga di una lista.
+Per un layout è possibile definire l'altezza della form, ciò è particolarmente utile nei casi in cui il layout renderizza la riga di una lista.
 
-Nella definizione di un Layout è possibile definire sia i Field che le relative Label.  
-Il nome del Field identifica univocamente un campo del Modello Dati dello Use Case Context.  
-La Label è una etichetta utilizzata per descrive il Field e fornisce un significato applicativo al Field.
+Nella definizione di un layout è possibile definire sia i field che le relative Label.  
+Il nome del field identifica univocamente un campo del modello dati dello use case context.  
+La label è una etichetta utilizzata per descrive il field e fornisce un significato applicativo al field.
 
 ### Rule: regole per la formattazione dinamica degli elementi
 
 Ciascun Use Case Context dispone di una serie di Rule predefinite.  
 Una Rule è una condizione logica che può assumere un valore booleano: TRUE o FALSE.  
 Nel corpo del Layout per ciascun elemento è possibile definire una serie di modifiche stilistiche che debbono applicare solo se la combinazione logica in AND della lista di Rule a cui si fa riferimento è TRUE.  
-~~~~Nell'esempio sottostante è riportato un Layout per lo UseCaseContext "AccountSearchContext".  
-Le Rule utilizzate sono: "HasExpiredInstallments" e "HasUnpaidInstallments".  
+~~~~Nell'esempio sottostante è riportato un Layout per lo use case context "AccountSearchContext".  
+Le rule utilizzate sono: "HasExpiredInstallments" e "HasUnpaidInstallments".  
 
 
 ```markup
@@ -48,13 +48,13 @@ Le Rule utilizzate sono: "HasExpiredInstallments" e "HasUnpaidInstallments".
 </form>
 ```
 
-### Contesto: esclusione di elementi in base allo Use Case Context
+### Contesto: esclusione di elementi in base allo use case context
 
-Nel corpo del Layout in corrispondenza a ciascun elemento è possibile specificare il Contesto \(Use Case Context\) in corrispondenza del quale l'elemento deve essere reso visibile.  
-Questo meccanismo rende possibile il riutilizzo di uno stesso Layout per Use Case Context diversi ma simili tra loro.
+Nel corpo del layout in corrispondenza a ciascun elemento è possibile specificare il contesto \(use case context\) in corrispondenza del quale l'elemento deve essere reso visibile.  
+Questo meccanismo rende possibile il riutilizzo di uno stesso layout per use case context diversi ma simili tra loro.
 
-Nell'esempio sottostante è riportato un Layout di esempio.  
-Si noti il Field "Document\_NetUnitPrice", la presenza dell'attributo "contesto" indica che quando il Layout è aperto nel contesto originale il Field è **invisibile**, quando lo stesso Layut è aperto nel contesto "Document.Added" il Field è **visibile**.
+Nell'esempio sottostante è riportato un layout di esempio.  
+Si noti il Field "Document\_NetUnitPrice", la presenza dell'attributo "contesto" indica che quando il layout è aperto nel contesto originale il Field è **invisibile**, quando lo stesso layout è aperto nel contesto "Document.Added" il Field è **visibile**.
 
 ```markup
 <form type='free' height='120'>
@@ -89,10 +89,10 @@ Si noti il Field "Document\_NetUnitPrice", la presenza dell'attributo "contesto"
 </form>
 ```
 
-### Role: esclusione di elementi in base al Ruolo
+### Role: esclusione di elementi in base al ruolo
 
-Nel corpo del Layout in corrispondenza a ciascun elemento è possibile specificare il Ruolo \(Role\) in corrispondenza del quale l'elemento deve essere reso visibile.  
-Questo meccanismo rende possibile la personalizzazione del Layout in base al Ruolo.
+Nel corpo del layout in corrispondenza a ciascun elemento è possibile specificare il ruolo \(Role\) in corrispondenza del quale l'elemento deve essere reso visibile.  
+Questo meccanismo rende possibile la personalizzazione del layout in base al ruolo.
 
 ```markup
 <form type='free' height='230'>
@@ -136,9 +136,9 @@ Questo meccanismo rende possibile la personalizzazione del Layout in base al Ruo
 </form>
 ```
 
-### Sintassi di definizione del corpo del Layout
+### Sintassi di definizione del corpo del layout
 
-Il corpo del Layout può essere definito in due formati diversi XML o HTML.  
+Il corpo del layout può essere definito in due formati diversi XML o HTML.  
 A seguire la guida sulla sintassi da utilizzare.
 
 #### XML
@@ -151,7 +151,7 @@ Consultare la sezione: [Motore di template \(Template Engine\)](../../../imposta
 
 ### Utilizzo del file 'all.txt'
 
-Quando si ha la necessità di modificare un Layout è utile avere un'anteprima del risultato finale.   
+Quando si ha la necessità di modificare un layout è utile avere un'anteprima del risultato finale.   
 Per rendere l'operazione il più semplice possibile si può usare la seguente procedura:
 
 * Usare l'iPAd
@@ -164,12 +164,12 @@ Per rendere l'operazione il più semplice possibile si può usare la seguente pr
 
 * Sul computer Apple creare un file di testo con il nome "all.txt". 
 * Spostare il file "all.txt" trascinandolo sulla finestra di "iFunBox" all'interno dell'icona "Kimo".  La presenza del file "all.txt" determina il salvataggio su disco e l'utilizzo di ciascuno dei layout visualizzati.
-* Avviare Kimo fino a visualizzare il Layout d'interesse. Individuare all'interno della cartella "Kimo" il Layout d'interesse.
-* Copiare il file del Layout Kimo da iPad al computer Apple e modificarlo in base alle necessità
-* Cancellare il file del Layout Kimo su iPad
-* Copiare il file del Layout Kimo dal computer Apple ad iPad 
-* Entrare nuovamente nel Layout Kimo di interesse, le modifiche apportate al Layout saranno immediatamente visibili 
-* ATTENZIONE: la presenza del file "all.txt" impedirà a Kimo l'utilizzo dei Layout originariamente parametrizzati. Per uscire da questa modalità di sviluppo Layout è necessario cancellare sia i Layout scaricati che il file "all.txt" presenti nella cartella Kimo.
+* Avviare Kimo fino a visualizzare il layout d'interesse. Individuare all'interno della cartella "Kimo" il layout d'interesse.
+* Copiare il file del layout Kimo da iPad al computer Apple e modificarlo in base alle necessità
+* Cancellare il file del llayout Kimo su iPad
+* Copiare il file del layout Kimo dal computer Apple ad iPad 
+* Entrare nuovamente nel layout Kimo di interesse, le modifiche apportate al layout saranno immediatamente visibili 
+* ATTENZIONE: la presenza del file "all.txt" impedirà a Kimo l'utilizzo dei layout originariamente parametrizzati. Per uscire da questa modalità di sviluppo layout è necessario cancellare sia i layout scaricati che il file "all.txt" presenti nella cartella Kimo.
 
 ### Maschera di gestione dei Layout
 

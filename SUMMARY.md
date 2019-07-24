@@ -1,4 +1,4 @@
-﻿# Table of contents
+# Table of contents
 
 * [Piacere, sono Kimo](README.md)
 * [Introduzione](introduzione/README.md)
@@ -58,7 +58,7 @@
   * [FreeLookup](impostazioni/freelookup.md)
   * [Stati Erp](impostazioni/stati-erp.md)
   * [Import/Export](impostazioni/import-export.md)
-  * [Report](impostazioni/report.md)
+  * [Tipo Report](impostazioni/report.md)
   * [Motore di template \(Template Engine\)](impostazioni/template-engine.md)
   * [Impostazione chiave Google \(Geocoding\)](impostazioni/geocoding.md)
 * [Interfaccia utente](interfaccia-utente/README.md)

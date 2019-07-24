@@ -10,12 +10,12 @@ Il menù Import/Export è visibile nella parte in alto a destra dello schermo.
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
-* Import completo: effettua i 3 step sotto riportati \(Step1, Step2, Step3\). 
-* Step 1: Import da Erp a KimoIntegrator. I dati presenti nell'Erp vengono importati nel database di KimoIntegrator.
+* Importo completo: effettua i 3 step sotto riportati. 
+* Step 1: Import da Erp a KimoIntegrator. I dati presenti nell'erp vengono importati nel database di KimoIntegrator.
 * Step 2: Caricamento da KimoIntegrator. I dati presenti nel database di KimoIntegrator vengono caricati nel database di Kimo.
-* Step 3: Preparazione dati di Sync. I dati presenti nel database di Kimo vengono preparati nel formato adatto ai KimoClient.
+* Step 3: Preparazione dati di Sync. I dati presenti nel database di Kimo vengono preparati nel formato adatto ai client Kimo.
 * Step 2+3: Caricamento +  Preparazione dati di Sync: esegue gli step 2 e 3.
-* Importazione file immagini articoli: le immagini associate agli articoli vengono importate e copiate nella cartella \public da cui KimoClient le legge.
+* Importazione file immagini articoli: le immagini associate agli articoli vengono importate e copiate nella cartella \public
 * Download immagini da url: i file relativi alle immagini degli articoli vengono scaricati dall'url specificata.
 * Geocodifica Account: se è stato configurato l'utilizzo dell'API di Google per la geocodifica con questa funzionalità vengono recuperate le coordinate geografiche per tutti i Clienti e le Destinazioni merci presenti in Kimo.
 

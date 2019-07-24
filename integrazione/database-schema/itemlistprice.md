@@ -56,3 +56,4 @@ description: Prezzi per articolo
 * 1: UnitPrice
 * 2: Discounts
 * 4: SaleType
+

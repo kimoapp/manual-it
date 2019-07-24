@@ -1,12 +1,12 @@
-# Report
+# Tipo Report
 
 Un Tipo Report è un modello di Report.  
-Ciascun Tipo Report è relativo ad un Contesto.  
-Il Contesto in questo caso definisce il modello dati a cui il Report può fare riferimento, quindi si tratta di un Data Context.   
-Un Tipo Report referenzia un report realizzato con tecnologia Active Report e costituito da un file con estensione RPX.  
+Ciascun Tipo Report è relativo ad un contesto.  
+Il contesto in questo caso definisce il modello dati \(data context\) a cui il report fà riferimento.  
+Ciascun tipo report referenzia un modello realizzato con tecnologia Active Report e costituito da un file con estensione RPX.  
 Questa funzionalità consente di definire report personalizzati che estendono quelli già presenti in Kimo.
 
-I Contesti supportati sono i seguenti:
+I contesti supportati sono i seguenti:
 
 ## Document
 

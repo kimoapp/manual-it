@@ -21,3 +21,4 @@ description: Sconti sui documenti usati nell'Erp Nav Fashion
 | PaymentMethodDiscount3 | Sconto legato al metodo di pagamento | dec |  |
 | PaymentMethodId | Id del metodo di pagamento | text | 50 |
 | TrademarkId | Id del marchio | text | 50 |
+

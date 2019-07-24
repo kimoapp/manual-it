@@ -23,3 +23,4 @@ description: Punti per la vendita di articoli
 | SalesUomId | Id unità di misura di vendita | text | 50 |
 | StartDate | Data inizio validità | date |  |
 | UnitsPerPack | Unità per confezione | dec |  |
+

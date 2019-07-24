@@ -1,5 +1,5 @@
 ---
-description: 
+description: null
 ---
 
 # DocumentLine
@@ -168,3 +168,4 @@ description:
 * 2: TaxableFreeSample
 * 3: DiscountOnGoods
 * 4: Promotion
+
