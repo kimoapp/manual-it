@@ -16,3 +16,4 @@ description: Modalità di Pagamento (Termini e Condizioni)
 | Discount3 | Sconto | dec |  |
 | Id | Id | text | 50 |
 | UseMode |  | text | 50 |
+

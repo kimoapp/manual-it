@@ -66,3 +66,4 @@ I campi EncodingType ed EncodingKey permettono di definire quali sono le entità
 ## QtyDivisibilityRule
 
 * 0: Default
+
