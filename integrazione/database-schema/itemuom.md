@@ -30,4 +30,3 @@ description: Unità di misura degli articoli
 * 0: AllowDivisibility
 * 1: WarnIfDivided
 * 2: DoNotAllowDivisibility
-
