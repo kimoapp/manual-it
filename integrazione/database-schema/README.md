@@ -129,3 +129,4 @@
 | [VatRate](vatrate.md) | Aliquote IVA |
 | [Warehouse](warehouse.md) | Magazzini |
 | [Zone](zone.md) | Zone |
+

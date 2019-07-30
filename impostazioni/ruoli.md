@@ -16,7 +16,7 @@ Un ruolo utilizzato da almeno un utente non può essere cancellato.
 
 ### Definizione di un ruolo per agenti
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 ![](../.gitbook/assets/image%20%289%29.png)
 

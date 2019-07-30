@@ -179,5 +179,5 @@ Per rendere l'operazione il più semplice possibile si può usare la seguente pr
 
 Il tasto ![](../../../.gitbook/assets/image%20%2829%29.png) apre la maschera di dettaglio del layout.
 
-![](../../../.gitbook/assets/image%20%2838%29.png)
+![](../../../.gitbook/assets/image%20%2839%29.png)
 
