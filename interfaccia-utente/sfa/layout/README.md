@@ -166,7 +166,7 @@ Per rendere l'operazione il più semplice possibile si può usare la seguente pr
 * Spostare il file "all.txt" trascinandolo sulla finestra di "iFunBox" all'interno dell'icona "Kimo".  La presenza del file "all.txt" determina il salvataggio su disco e l'utilizzo di ciascuno dei layout visualizzati.
 * Avviare Kimo fino a visualizzare il layout d'interesse. Individuare all'interno della cartella "Kimo" il layout d'interesse.
 * Copiare il file del layout Kimo da iPad al computer Apple e modificarlo in base alle necessità
-* Cancellare il file del llayout Kimo su iPad
+* Cancellare il file del layout Kimo su iPad
 * Copiare il file del layout Kimo dal computer Apple ad iPad 
 * Entrare nuovamente nel layout Kimo di interesse, le modifiche apportate al layout saranno immediatamente visibili 
 * ATTENZIONE: la presenza del file "all.txt" impedirà a Kimo l'utilizzo dei layout originariamente parametrizzati. Per uscire da questa modalità di sviluppo layout è necessario cancellare sia i layout scaricati che il file "all.txt" presenti nella cartella Kimo.
