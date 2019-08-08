@@ -4,7 +4,7 @@ Le Impostazioni di sistema \(Server System Settings\) definiscono alcuni paramet
 
 ![](../.gitbook/assets/tempsnip%20%281%29.png)
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
 
  Di seguito un elenco dettagliato delle impostazioni di sistema. 
 

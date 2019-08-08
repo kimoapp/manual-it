@@ -2,7 +2,7 @@
 
 Un valore di default definisce il valore da assegnare ad un campo di una entità, quando ne viene eseguita la creazione da parte di un utente. Ad esempio, può essere utilizzato per impostare che quando viene creato un cliente, il campo relativo alla valuta assuma il valore 'EURO' \(corrispondente al codice della valuta\).
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 Il valore assunto da ciascun campo può essere personalizzato per utente.
 

@@ -1,11 +1,9 @@
 # Statistiche
 
-
-
-In Kimo i dati statistici vengono gestiti sotto forma di json, questi dati verranno successivamente deserializzati e renderizzati per essere visualizzati sotto forma di layout html negli iPad degli utenti SFA.
+In Kimo i dati statistici vengono gestiti sotto forma di json, questi dati sono successivamente deserializzati e renderizzati per essere visualizzati sotto forma di layout html negli iPad degli utenti SFA.
 
 I dati nel formato json, devono essere inviati a Kimo nelle tabella AccountAccountingInfo o SalesAgent, i campi in cui mappare questi i dati sono i FreeText\(1..2..3..\).   
-I dati presenti nella AccountAccountingInfo saranno resi disponibile a livello di cliente, quindi tutti gli agenti che visualizzano il cliente associato alla statistica visualizzeranno lo stesso dato.  
+I dati presenti nella AccountAccountingInfo sono resi disponibile a livello di cliente, quindi tutti gli agenti che visualizzano il cliente associato alla statistica visualizzano lo stesso dato.  
 I dati presenti nella SalesAgent invece sono resi disponibili a livello di agente, quindi ciascun agente potrà visualizzare solo le statistiche assegnategli.  
 I layout da utilizzare vengono determinati dalla tabella ed il campo utilizzati, in particolare sono:  
 
@@ -31,7 +29,7 @@ Di seguito riportiamo un grafico che  visualizza delle statistiche, calcolate su
 
 ### Input
 
-Il json ricevuto in input, deve rispettare le regole standard di validazione, altrimenti non sarà possibile deserializzarlo e successivamente andarlo a visualizzare.  
+Il json ricevuto in input, deve rispettare le regole standard di validazione, altrimenti non è possibile deserializzarlo e successivamente andarlo a visualizzare.  
 Di seguito riportiamo alcuni esempi di json  nel formato atteso:
 
 {% code-tabs %}

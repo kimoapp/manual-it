@@ -7,7 +7,7 @@ All'interno dell'email è presente un link che reindirizza alla pagina di attiva
 
 ### Reinvio della mail di attivazione
 
-Finché l'utente non viene attivato, nella lista utenti è visibile il pulsante ![](../../.gitbook/assets/image%20%2817%29.png) che  
+Finché l'utente non viene attivato, nella lista utenti è visibile il pulsante ![](../../.gitbook/assets/image%20%2821%29.png) che  
 permette di inviare nuovamente la mail di attivazione.
 
 ### Procedura alternativa di attivazione

@@ -7,7 +7,7 @@ Sia nel processo di Import dei dati dal Sistema Informativo a Kimo, sia in Expor
 È possibile eseguire uno script \(es. un file .bat, .cmd, .exe, ...\) in fase di Import impostando il suo percorso nell'Impostazione Server "Import\CustomTask". 
 
 {% hint style="info" %}
-La caratteristica più importante di uno script eseguito in questa modalità, rispetto ad uno script eseguito attraverso altri meccanismi \(es. un task schedulato nel sistema operativo\) è che lo script verrebbe richiamato dopo che Kimo ha già impegnato il semaforo che regola il flusso di import, quindi si eviterebbero eventuali "conflitti" con scritture da parte del Sistema Informativo.
+La caratteristica più importante di uno script eseguito in questa modalità, rispetto ad uno script eseguito attraverso altri meccanismi \(es. un task schedulato nel sistema operativo\) è che lo script viene richiamato dopo che Kimo ha già impegnato il semaforo che regola il flusso di import, quindi si evitano eventuali "conflitti" con scritture da parte del Sistema Informativo.
 {% endhint %}
 
 ## Task in Export

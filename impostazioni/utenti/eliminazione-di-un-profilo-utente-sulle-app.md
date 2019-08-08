@@ -1,4 +1,4 @@
-# Eliminazione di un profilo utente sulle App
+# Eliminare un profilo utente dall'App SFA
 
 Nell'App SFA è possibile eliminare il profilo di un utente effettuando il login con tale utente e dalla sezione delle Impostazioni richiamare la funzione "Elimina profilo".
 

@@ -2,7 +2,7 @@
 
 Per creare un nuovo utente di tipo Direzionale, accedere alla [Console di Amministrazione](../../introduzione/moduli/console-admin.md), selezionare l'area "Utenti", quindi "Nuovo utente direzionale" e compilare tutti i campi nella maschera che viene visualizzata:
 
-![Maschera di creazione di un utente direzionale](../../.gitbook/assets/image%20%2810%29.png)
+![Maschera di creazione di un utente direzionale](../../.gitbook/assets/image%20%2812%29.png)
 
 **Nota bene**
 
@@ -13,9 +13,9 @@ Il campo "Ruolo" è da selezionare nell'elenco dei ruoli definiti in Kimo, neces
 Una volta premuto il pulsante "Crea" viene creato l'utente ed inviata una mail all'indirizzo inserito nel campo "E-mail" contenente il link tramite cui impostare la password ed attivare l'utente.  
 Fino a quando l'utente non è attivo non è possibile effettuare alcuna operazione.
 
-![Esempio di mail di attivazione di un utente direzionale](../../.gitbook/assets/image%20%2827%29.png)
+![Esempio di mail di attivazione di un utente direzionale](../../.gitbook/assets/image%20%2832%29.png)
 
-Finché l'utente non è attivato nella lista utenti sono visibili i seguenti pulsanti ![](../../.gitbook/assets/image%20%2817%29.png) e ![](../../.gitbook/assets/image%20%2812%29.png) che  
+Finché l'utente non è attivato nella lista utenti sono visibili i seguenti pulsanti ![](../../.gitbook/assets/image%20%2821%29.png) e ![](../../.gitbook/assets/image%20%2814%29.png) che  
 permettono di inviare nuovamente la mail di attivazione oppure di accedere direttamente al link di attivazione \([Attivare un utente](attivazione-di-un-utente.md)\).
 
 L'utente può essere "cancellato" premendo il tasto ![](../../.gitbook/assets/delete.PNG) \([Cancellare e ripristinare un utente](archiviazione-e-ripristino.md)\).

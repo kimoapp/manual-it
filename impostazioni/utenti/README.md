@@ -8,5 +8,7 @@ In Kimo esistono 3 tipologie di utente:
 
 ### Procedura di creazione utenti
 
-La creazione di un utente di tipologia Agente e Direzionale può essere eseguita dalla [Console di Amministrazione](../../introduzione/moduli/console-admin.md) \([Creare un utente di tipo Agente](creare-utente-sfa.md) e [Creare un utente Direzionale](creare-utente-direzionale.md)\) mentre la creazione di un utente di tipologia Cliente per il B2B può essere eseguita dalla [WebApp](../../introduzione/moduli/kimo-sfa.md#webapp-con-funzioni-per-utenti-direzionali) \([Creare un utente di tipo Cliente](creare-utente-b2b.md)\). 
+La creazione di un utente può essere eseguita dalla [Console di Amministrazione](../../introduzione/moduli/console-admin.md) \([Creare un utente di tipo Agente](creare-utente-sfa.md) e [Creare un utente Direzionale](creare-utente-direzionale.md) e [Creare un utente di tipo Cliente](creare-un-utente-per-b2b-utente-di-tipo-cliente.md)\).  
+  
+La creazione di un utente di tipologia Cliente può essere eseguita anche dalla [WebApp](../../introduzione/moduli/kimo-sfa.md#webapp-con-funzioni-per-utenti-direzionali) \([Creare un utente di tipo Cliente](creare-utente-b2b.md)\). 
 

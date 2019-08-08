@@ -14,6 +14,12 @@ Se non vengono definiti i metadati per un'entità, i suoi campi risultano in sol
 
 I metadati di entità definiscono i criteri di applicazione dei metadati di campo.
 
+![](../.gitbook/assets/image%20%2826%29.png)
+
+#### Entità
+
+Entità di riferimento.
+
 #### Contesto
 
 Il contesto specifica uno o più ambiti applicativi in cui il metadato si applica.  
@@ -91,13 +97,19 @@ In questo modo è possibile gestire in modo centralizzato le regole di editing d
 
 #### Utenti/Agenti/Ruoli
 
-Indica che i metadati specificati per l'entità si applicano solo ad una lista di utilizzatori \(nel formato Json array\):   
-es. Utenti \["User\_6", "User\_10",...\], Agenti \["01", "02",...\], Ruoli \["Role\_03", "Role\_02",...\]  
-Se l'attributo non è valorizzato le regole si applicano a tutti gli utilizzatori.
+Indica che i metadati specificati per l'entità si applicano solo ad una lista di utilizzatori.  
+E' possibile specificare per ciascuna tipologia di utilizzatori una lista multipla di elementi.
+
+![](../.gitbook/assets/image%20%281%29.png)
+
+ Se l'attributo non è valorizzato le regole si applicano a tutti gli utilizzatori.
 
 ### Metadati di campo
 
-Un metadato sul campo definisce se un campo può essere sottoposto ad aggiornamento e quali vincoli deve rispettare.   
+Un metadato sul campo definisce se un campo può essere sottoposto ad aggiornamento e quali vincoli deve rispettare. 
+
+![](../.gitbook/assets/metadatocampo.PNG)
+
 Ad un Campo possono essere applicate una o più regole di editing.
 
 | Attributo | Descrizione | Tipo |
@@ -109,5 +121,7 @@ Ad un Campo possono essere applicate una o più regole di editing.
 | Obbligatorietà | Indica se la valorizzazione del campo è obbligatoria.  Può assumere i valori: 0=No 1=Si. | bool |
 | Pattern Regex | Indica un'espressione regolare verificata in fase di salvataggio dell'entità. La sintassi da usare è quella del linguaggio C\#.  es. controllo sul numero di telefono \(^$\)\|\(^\[0-9\]{1,14}$\) | string |
 
- 
+#### **Contesto**
+
+Vedi il paragrafo [Contesto](entity-metadata.md#contesto).
 

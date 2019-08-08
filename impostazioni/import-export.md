@@ -8,7 +8,7 @@ Il menù Import/Export è visibile nella parte in alto a destra dello schermo.
 
 ### Import
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 * Importo completo: effettua i 3 step sotto riportati. 
 * Step 1: Import da Erp a KimoIntegrator. I dati presenti nell'erp vengono importati nel database di KimoIntegrator.
@@ -32,7 +32,7 @@ Il menù Import/Export è visibile nella parte in alto a destra dello schermo.
 
 ### Export
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
 
 

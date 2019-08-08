@@ -4,9 +4,9 @@ Uno Scenario definisce i filtri e gli ordinamenti da applicare ai dati di un con
 Per ciascuna coppia contesto\layout esiste uno scenario di default non personalizzabile.  
 Nel caso in cui vengano definiti scenari personalizzati, lo scenario di default non sarà più visibile.
 
-![](../../.gitbook/assets/image%20%2835%29.png)
+![](../../.gitbook/assets/image%20%2842%29.png)
 
-![](../../.gitbook/assets/image%20%2820%29.png)
+![](../../.gitbook/assets/image%20%2824%29.png)
 
 **Nota bene:**
 

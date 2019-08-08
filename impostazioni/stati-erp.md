@@ -5,16 +5,19 @@ Ciascun stato erp ha un attributo "Tipo Stato" nella forma &lt;Entity&gt;&lt;Ind
 Data un' entità con uno dei campi ErpStatus&lt;Index&gt; valorizzato, se per ciascun valore del campo ErpStatus&lt;Index&gt;, non è possibile determinare il valore corrispondente in stati erp, la fase di caricamento si interrompe con un errore.  
 Per ciascun stato erp è possibile inoltre definire: lo stile \(in formato CSS\) e un codice che identifica l'icona da visualizzare \(supporto a Font Awesome\). 
 
+![](../.gitbook/assets/statoerp.PNG)
+
 Es. Disponibilità Item
 
 <table>
   <thead>
     <tr>
       <th style="text-align:left">Tipo Stato</th>
-      <th style="text-align:left">Codice</th>
+      <th style="text-align:left">Value Id</th>
       <th style="text-align:left">Descrizione</th>
-      <th style="text-align:left">Codice Icona</th>
       <th style="text-align:left">Icona</th>
+      <th style="text-align:left">Anteprima</th>
+      <th style="text-align:left">Stile</th>
     </tr>
   </thead>
   <tbody>
@@ -29,6 +32,7 @@ Es. Disponibilità Item
           <img src="../.gitbook/assets/thumbsdown.PNG" alt/>
         </p>
       </td>
+      <td style="text-align:left">color: #FF0000; font-family: FontAwesomeRegular; font-size: 20;</td>
     </tr>
     <tr>
       <td style="text-align:left">Item1</td>
@@ -38,6 +42,7 @@ Es. Disponibilità Item
       <td style="text-align:left">
         <img src="../.gitbook/assets/clock.PNG" alt/>
       </td>
+      <td style="text-align:left">color: #FFD300; font-family: FontAwesomeRegular; font-size: 20;</td>
     </tr>
     <tr>
       <td style="text-align:left">Item1</td>
@@ -50,6 +55,7 @@ Es. Disponibilità Item
           <img src="../.gitbook/assets/thumbsup.PNG" alt/>
         </p>
       </td>
+      <td style="text-align:left">color: #009933; font-family: FontAwesomeRegular; font-size: 20;</td>
     </tr>
   </tbody>
 </table>

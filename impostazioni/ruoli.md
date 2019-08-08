@@ -12,23 +12,23 @@ Un utente può avere associati uno o più ruoli, in questo caso le autorizzazion
   
 Un ruolo utilizzato da almeno un utente non può essere cancellato.
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 ### Definizione di un ruolo per agenti
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2837%29.png)
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 ### Definizione di un ruolo per **B2B**
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 ### Definizione di un ruolo per **Admin**
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 

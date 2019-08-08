@@ -173,11 +173,11 @@ Per rendere l'operazione il più semplice possibile si può usare la seguente pr
 
 ### Maschera di gestione dei Layout
 
-![](../../../.gitbook/assets/image%20%284%29.png)
+![](../../../.gitbook/assets/image%20%285%29.png)
 
-![](../../../.gitbook/assets/image%20%2813%29.png)
+![](../../../.gitbook/assets/image%20%2815%29.png)
 
-Il tasto ![](../../../.gitbook/assets/image%20%2829%29.png) apre la maschera di dettaglio del layout.
+Il tasto ![](../../../.gitbook/assets/image%20%2834%29.png) apre la maschera di dettaglio del layout.
 
-![](../../../.gitbook/assets/image%20%2839%29.png)
+![](../../../.gitbook/assets/image%20%2846%29.png)
 
