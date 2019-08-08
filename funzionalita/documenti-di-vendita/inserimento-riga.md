@@ -38,7 +38,9 @@ Per rendere visibili questi tasti aggiungere nell'apposito [layout ](../../inter
 
 ### Duplicazione riga / Nuova riga per lo stesso articolo
 
-* Ruoli
-* Spiegare come fare
-* Spiegare i vantaggi sui prezzi indipendenti
+All'interno di un documento è possibile inserire più righe che referenziano lo stesso articolo.  
+Questo consente di applicare condizioni di vendita diverse per lo stesso articolo.  
+Per inserire due volte lo stesso articolo, nell'editor di riga è presente un menù con alcune funzioni, tra queste "Nuova riga" e "Duplica riga".  
+Nuova riga crea una nuova di documento con i dati proposti di default per l'articolo, mentre Duplica riga crea una nuova riga di documento mantenendo nell'editor i dati della riga visualizzata.  
+Se sono presenti più righe che referenziano lo stesso articolo è possibile spostarsi tra le varie righe mediante l'apposito navigatore in alto a sinistra.
 
