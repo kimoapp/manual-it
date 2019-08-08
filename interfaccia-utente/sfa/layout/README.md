@@ -143,7 +143,7 @@ A seguire la guida sulla sintassi da utilizzare.
 
 #### XML
 
-TODO
+Non disponibile.
 
 #### HTML
 

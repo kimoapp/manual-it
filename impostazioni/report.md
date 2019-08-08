@@ -19,5 +19,5 @@ I contesti supportati sono i seguenti:
 | Document.DocumentDate | date | Data documento |
 | Document.PricesReferenceDate | date | Data di riferimento per i prezzi |
 
-TODO Informazioni parziali estratte dalla classe: Document.Data.cs. Essendo presenti delle annotazione le informazioni potrebbero essere estratte in automatico. Capire se spostare nella documentazione interna.
+
 
