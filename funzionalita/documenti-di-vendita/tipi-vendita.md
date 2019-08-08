@@ -1,4 +1,4 @@
-# Tipi Vendita \(TODO\)
+# Tipi Vendita
 
 I questa sezione si possono definire le modalità di vendita articoli utilizzabili in Kimo. Le modalità gestite sono: 
 
