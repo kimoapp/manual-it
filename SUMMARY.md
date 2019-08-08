@@ -264,6 +264,8 @@
   * [Destinazioni Merci](funzionalita/destinazioni-merci.md)
   * [Prospect](funzionalita/prospect.md)
   * [Catalogo](funzionalita/catalogo/README.md)
+    * [Articolo](funzionalita/catalogo/articolo.md)
+    * [Articolo a variante](funzionalita/catalogo/articolo-a-variante.md)
     * [Listini per catalogo](funzionalita/catalogo/listini-per-catalogo.md)
     * [Catalogo da PDF](funzionalita/catalogo/catalogo-da-pdf.md)
   * [Documenti di vendita](funzionalita/documenti-di-vendita/README.md)
