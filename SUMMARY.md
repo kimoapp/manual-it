@@ -265,6 +265,7 @@
     * [Articolo a variante](funzionalita/catalogo/articolo-a-variante.md)
     * [Listini per catalogo](funzionalita/catalogo/listini-per-catalogo.md)
     * [Catalogo da PDF](funzionalita/catalogo/catalogo-da-pdf.md)
+    * [Idrolab](funzionalita/catalogo/idrolab.md)
   * [Documenti di vendita](funzionalita/documenti-di-vendita/README.md)
     * [Riga documento](funzionalita/documenti-di-vendita/inserimento-riga.md)
     * [Tipi Vendita](funzionalita/documenti-di-vendita/tipi-vendita.md)
