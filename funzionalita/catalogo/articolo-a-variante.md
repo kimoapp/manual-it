@@ -8,14 +8,14 @@ Per ciascun articolo modello è possibile gestire varianti di tipo diverso.
   
 **Esempio di due articoli gestiti con varianti di diverso tipo:**
 
-### Item
+### Item \(Modello articolo\)
 
-| ItemId | ItemDescription |
-| :--- | :--- |
-| scp01 | Scarpa |
-| csc01 | Casco |
+| ItemId | ItemDescription | ItemType |
+| :--- | :--- | :--- |
+| scp01 | Scarpa | 3 |
+| csc01 | Casco | 3 |
 
-### ItemVariable
+### ItemVariable \(Articolo con varianti\)
 
 | ModelItemId | VariableItemId | VariableId1 | VariableId2 | VariableValueId1 | VariableValueId2 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -28,7 +28,7 @@ Per ciascun articolo modello è possibile gestire varianti di tipo diverso.
 | csc01 | csc01\_KEVLAR\_M | MATERIALE | SIZE | KEVLAR | M |
 | csc01 | csc01\_KEVLAR\_L | MATERIALE | SIZE | KEVLAR | L |
 
-### Variable
+### Variable \(Tipi di varianti\)
 
 | Id | TypeId | Description |
 | :--- | :--- | :--- |
@@ -37,7 +37,7 @@ Per ciascun articolo modello è possibile gestire varianti di tipo diverso.
 | SIZE | SIZE | Size dell'articolo |
 | MATERIALE | MATERIALI | Materiale dell'articolo |
 
-### VariableValue
+### VariableValue \(Valori gestiti per ogni tipo di variante\)
 
 | VariableId | Description | SortPriority | ValueId |
 | :--- | :--- | :--- | :--- |
