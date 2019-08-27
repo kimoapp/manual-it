@@ -277,5 +277,9 @@
     * [Clienti](funzionalita/account-clienti-prospect-destinazioni-merci/clienti.md)
     * [Prospect](funzionalita/account-clienti-prospect-destinazioni-merci/prospect.md)
     * [Destinazioni Merci](funzionalita/account-clienti-prospect-destinazioni-merci/destinazioni-merci.md)
+  * [CRM](funzionalita/crm/README.md)
+    * [Attività](funzionalita/crm/attivita.md)
+    * [Schede marketing](funzionalita/crm/schede-marketing.md)
+    * [Contatti](funzionalita/crm/contatti.md)
 * [Contatti](contatti.md)
 

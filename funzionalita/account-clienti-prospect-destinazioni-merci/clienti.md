@@ -24,12 +24,12 @@ In Kimo le principali funzionalità legate ai Clienti sono le seguenti:
 * Credito 
 * Attività
 
-Le funzionalità inerenti ai Clienti sono attivabili tramite le seguenti autorizzazioni presenti nei Ruoli di tipo Agente:
+Ulteriori funzionalità sono attivabili tramite le seguenti autorizzazioni presenti nel Ruolo di tipo Agente:
 
-1. Può creare nuovi clienti
-2. Può modificare i clienti
-3. Può scaricare l'estratto conto per i clienti
-4. Può visualizzare gli sconti delle condizioni di vendita
+1. "Può creare nuovi clienti"
+2. "Può modificare i clienti"
+3. "Può scaricare l'estratto conto per i clienti"
+4. "Può visualizzare gli sconti delle condizioni di vendita"
 
 
 
