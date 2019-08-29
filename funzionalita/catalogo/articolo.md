@@ -45,9 +45,7 @@ Aprendo un articolo è possibile visualizzare le seguenti tipologie di schede in
 Esistono due gestioni della disponibilità:  
 
 * [Offline](../../integrazione/database-schema/itemofflineavailability.md): è la disponibilità visualizzata di default da Kimo e fa riferimento all'ultimo dato ricevuto dall' Erp. L' Entità in cui viene memorizzata la disponibilità è [ItemOffLineAvailability](../../integrazione/database-schema/itemofflineavailability.md). La presenza di campi di tipo [ErpStatus](../../impostazioni/stati-erp.md) consente di visualizzare la disponibilità graficamente usando icone FontAwesome. 
-* Online: in Kimo è possibile richiedere all'Erp la disponibilità aggiornata: questa informazione aggiorna il valore della disponibilità offline. Questa funzionalità richiede la connessione attiva.  Per abilitare questa funzionalità è necessaria una configurazione a livello di integrazione Erp \(\). La funzionalità è riservata agli utenti con Ruolo di tipo Agente  e con l'autorizzazione ["Può vedere la disponibilità online"](../../impostazioni/ruoli.md#definizione-di-un-ruolo-per-agenti) attiva.
-
-La disponibilità dell'articolo è consultabile anche per singolo [magazzino](../../integrazione/database-schema/warehouse.md): [ItemWhareHouseAvailability](../../interfaccia-utente/sfa/layout/list/itemwarehouseavailabilitiessearchcontext.md).
+* Online: in Kimo è possibile richiedere all'Erp la disponibilità aggiornata: questa informazione aggiorna il valore della disponibilità offline. Questa funzionalità richiede la connessione attiva.  Per abilitare questa funzionalità è necessaria una configurazione a livello di integrazione Erp. La funzionalità è riservata agli utenti con Ruolo di tipo Agente  e con l'autorizzazione ["Può vedere la disponibilità online"](../../impostazioni/ruoli.md#definizione-di-un-ruolo-per-agenti) attiva.
 
 ## Immagini
 
