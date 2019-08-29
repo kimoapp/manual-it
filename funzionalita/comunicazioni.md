@@ -21,7 +21,7 @@ Nella maschera visualizzata per le comunicazioni pubblicate viene visualizzata u
 
 ### Pubblicazione e notifiche
 
-Durante la pubblicazione di una comunicazione viene richiesto il tipo di notifica da inviare ai destinatari; in assenza di notifiche aggiuntive verranno comunque segnalate delle comunicazioni da leggere all'interno delle app.  
+Durante la pubblicazione di una comunicazione viene richiesto il tipo di notifica da inviare ai destinatari; in assenza di notifiche aggiuntive verranno comunque segnalate le comunicazioni non lette all'interno delle app SFA e B2B.  
 I tipi di notifica aggiuntivi sono:
 
 * Email: viene inviata una mail all'indirizzo associato all'utente Kimo
