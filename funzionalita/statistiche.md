@@ -25,7 +25,7 @@ Le statistiche posso essere visualizzate, oltre che in normali tabelle html, in 
 La visualizzazione dei grafici, renderizzati con Google Chart, è disponibile solo online.   
 Di seguito riportiamo un grafico che  visualizza delle statistiche, calcolate su dati fittizi, evidenziando la differenza tra i fatturati degli ultimi 3 anni.
 
-![](../.gitbook/assets/img_30531da9b9e8-1.jpeg)
+![](../.gitbook/assets/simulator-screen-shot-ipad-6th-generation-2019-09-02-at-09.25.20_framed.png)
 
 ### Input
 
