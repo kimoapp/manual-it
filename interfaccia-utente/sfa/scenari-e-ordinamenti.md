@@ -23,7 +23,7 @@ Campi ordinamento: può essere specificato un elenco di campi separati da virgol
 
 Priorità ordinamento: è un numero da 0 a N che rappresenta l'ordine di apparizione dello scenario rispetto agli altri. Lo scenario con la priorità 0 è il primo da sinistra.
 
-Filtri addizionali: può essere specificata una condizione di filtro espressa in linguaggio SQL usando gli attributi dell'entità referenziata.
+~~Filtri addizionali: può essere specificata una condizione di filtro espressa in linguaggio SQL usando gli attributi della entità.~~
 
 ### Criteri di Ordinamento
 
