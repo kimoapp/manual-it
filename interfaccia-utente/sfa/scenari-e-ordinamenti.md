@@ -1,8 +1,11 @@
 # Scenari
 
 Uno Scenario definisce i filtri e gli ordinamenti da applicare ai dati di un contesto, visualizzati con uno specifico layout.   
-Per ciascuna coppia contesto\layout esiste uno scenario di default non personalizzabile.  
-Nel caso in cui vengano definiti scenari personalizzati, lo scenario di default non sarà più visibile.
+Per ciascuna coppia contesto\layout esiste uno scenario di default non personalizzabile.
+
+{% hint style="danger" %}
+Nel caso in cui vengano definiti scenari personalizzati, lo scenario di default non sarà più visibile. Per mantenere lo scenario di default sarà necessario definirlo esplicitamente ed impostare "Priorità ordinamento": 0.
+{% endhint %}
 
 ![](../../.gitbook/assets/image%20%2842%29.png)
 
@@ -20,7 +23,7 @@ Campi ordinamento: può essere specificato un elenco di campi separati da virgol
 
 Priorità ordinamento: è un numero da 0 a N che rappresenta l'ordine di apparizione dello scenario rispetto agli altri. Lo scenario con la priorità 0 è il primo da sinistra.
 
-Filtri addizionali: può essere specificata una condizione di filtro espressa in linguaggio SQL usando agli attributi delle entità.
+Filtri addizionali: può essere specificata una condizione di filtro espressa in linguaggio SQL usando gli attributi dell'entità referenziata.
 
 ### Criteri di Ordinamento
 
