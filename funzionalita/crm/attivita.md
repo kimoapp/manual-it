@@ -28,3 +28,7 @@ Una volta confermata l'operazione, si verrà reindirizzati alla sezione Attivit�
 
 
 
+Tutte le informazioni relative alle Attività create e/o modificate in Kimo SFA saranno consultabili in sola lettura nell'apposita sezione della Web App.
+
+
+

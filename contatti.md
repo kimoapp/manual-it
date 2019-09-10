@@ -1,4 +1,4 @@
-# Contatti
+# Supporto
 
 Per richieste di supporto o informazioni commerciali è possibile contattarci attraverso i seguenti canali:
 
