@@ -274,6 +274,7 @@
   * [Documenti aziendali e personali](funzionalita/pdf-per-companydocuments-e-userdocuments.md)
   * [Statistiche](funzionalita/statistiche.md)
   * [Comunicazioni](funzionalita/comunicazioni.md)
+  * [Partite aperte](funzionalita/partite-aperte.md)
   * [Account \(Clienti/Prospect/Destinazioni Merci\)](funzionalita/account-clienti-prospect-destinazioni-merci/README.md)
     * [Clienti](funzionalita/account-clienti-prospect-destinazioni-merci/clienti.md)
     * [Prospect](funzionalita/account-clienti-prospect-destinazioni-merci/prospect.md)
