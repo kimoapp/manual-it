@@ -15,7 +15,7 @@ La ricerca testuale avviene accedendo agli attributi testuali:
 5. Mail
 
 {% hint style="warning" %}
-La ricerca per Codice Agente e Id funzione per corrispondenza esatta
+La ricerca per Codice Agente e Id funziona per corrispondenza esatta
 {% endhint %}
 
 Attivando la sezione "Advanced" vengono mostrati i seguenti filtri:
