@@ -24,6 +24,7 @@
 | CupCode |  |
 | Currency |  |
 | CustomerDiscountGroup |  |
+| CustomerGroup |  |
 | CustomerPriceGroup |  |
 | DeliveryDate |  |
 | DeliveryDateType |  |

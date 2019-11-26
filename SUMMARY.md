@@ -1,4 +1,4 @@
-# Table of contents
+﻿# Table of contents
 
 * [Piacere, sono Kimo](README.md)
 * [Introduzione](introduzione/README.md)
@@ -56,6 +56,8 @@
     * [PendingEdits](impostazioni/business-rules/pendingedits.md)
     * [PriceCalculation](impostazioni/business-rules/pricecalculation.md)
     * [ReceivableInstallment](impostazioni/business-rules/receivableinstallment.md)
+    * [SalesControlDocument](impostazioni/business-rules/salescontroldocument.md)
+    * [SalesControlDocumentLine](impostazioni/business-rules/salescontroldocumentline.md)
     * [Vat](impostazioni/business-rules/vat.md)
   * [Impostazioni di sistema](impostazioni/impostazioni-di-sistema.md)
   * [Metadati sulle entità](impostazioni/entity-metadata.md)

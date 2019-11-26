@@ -13,6 +13,7 @@ description: Articoli
 | BaseSalesUomId | Id dell'unità di misura di vendita base | text | 10 |
 | ChannelsEnabled | Indica per quali canali è abilitato l'articolo \(se non specificato vale per tutti i canali\) | enum |  |
 | CollectionId | Id della collezione | text | 50 |
+| CreationDate | Data di creazione | dt |  |
 | Description | Descrizione breve dell'articolo | text | 130 |
 | EndCustomerPrice | Prezzo articolo al cliente finale | dec |  |
 | ErpStatusId1 |  | text | 50 |
@@ -22,6 +23,8 @@ description: Articoli
 | FreeBoolean3 | Campo booleano libero | bool |  |
 | FreeBoolean4 | Campo booleano libero | bool |  |
 | FreeBoolean5 | Campo booleano libero | bool |  |
+| FreeDateTime1 | Campo data libero | dt |  |
+| FreeDateTime2 | Campo data libero | dt |  |
 | FreeDecimal1 | Campo decimale libero | dec |  |
 | FreeDecimal2 | Campo decimale libero | dec |  |
 | FreeDecimal3 | Campo decimale libero | dec |  |
@@ -31,6 +34,8 @@ description: Articoli
 | FreeText1 | Campo testo libero | text | text |
 | FreeText2 | Campo testo libero | text | text |
 | FreeText3 | Campo testo libero | text | text |
+| FreeText4 | Campo testo libero | text | text |
+| FreeText5 | Campo testo libero | text | text |
 | Id | Id | text | 50 |
 | IsVisibleOnItemsSearch | Indica se l'articolo debba essere nascosto in fase di ricerca | bool |  |
 | ItemDiscountGroupId | Id del gruppo sconti articolo | text | 50 |
@@ -60,4 +65,3 @@ description: Articoli
 * 4: VariableItem
 * 5: Idrolab
 * 6: Jolly
-

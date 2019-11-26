@@ -77,6 +77,7 @@
 | Document\_TotalPrice |  |
 | Document\_UnitPrice |  |
 | Document\_UnitsPerSalesUom |  |
+| Document\_ValidityStatusIcon |  |
 | Document\_Variable1ValueId |  |
 | Document\_WarehouseDescription |  |
 | Document\_WarehouseId |  |
@@ -87,6 +88,7 @@
 | FreeText1 \[1..3\] |  |
 | GlobalAvailability |  |
 | ItemDescription |  |
+| ItemDiscountGroupId |  |
 | ItemEncodedId |  |
 | ItemId |  |
 | ItemImage |  |

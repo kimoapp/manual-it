@@ -88,6 +88,7 @@
 | Document\_TotalPrice |  |
 | Document\_UnitPrice |  |
 | Document\_UnitsPerSalesUom |  |
+| Document\_ValidityStatusIcon |  |
 | Document\_Variable1ValueId |  |
 | Document\_WarehouseDescription |  |
 | Document\_WarehouseId |  |
@@ -97,10 +98,11 @@
 | FreeBoolean1 \[1..5\] |  |
 | FreeDecimal1 \[1..3\] |  |
 | FreeLookup1Description \[1..3\] |  |
-| FreeText1 \[1..3\] |  |
+| FreeText1 \[1..5\] |  |
 | GlobalAvailability |  |
 | Id | Id |
 | Image |  |
+| ItemDiscountGroupId | Id del gruppo sconti articolo |
 | ItemGroupLevel1Id | Id gruppo articoli livello 1 |
 | ItemGroupLevel2Id | Id gruppo articoli livello 2 |
 | ItemGroupLevel3Id | Id gruppo articoli livello 3 |

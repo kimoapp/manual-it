@@ -76,6 +76,7 @@
 | TotalPrice |  |
 | UnitPrice |  |
 | UnitsPerSalesUom |  |
+| ValidityStatusIcon |  |
 | Variable1ValueId |  |
 | WarehouseAvailability |  |
 | WarehouseDescription |  |

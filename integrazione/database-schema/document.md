@@ -1,5 +1,5 @@
 ---
-description: null
+description: 
 ---
 
 # Document
@@ -57,6 +57,7 @@ description: null
 | CupCode | Codice Cup | text | 50 |
 | CurrencyId | Id della valuta | text | 50 |
 | CustomerDiscountGroupId | Id del gruppo sconti cliente | text | 50 |
+| CustomerGroupId | Id del gruppo cliente | text | 50 |
 | CustomerPriceGroupId | Id del gruppo prezzo cliente | text | 50 |
 | DeliveryDate | Data consegna | date |  |
 | DeliveryDateTypeId | Tipo data consegna | text | 50 |
@@ -217,4 +218,4 @@ description: null
 * 1: FromSalesQuote
 * 2: Budget
 * 3: FromCart
-
+* 4: FromAppCopriwaterGiusto

@@ -1,5 +1,5 @@
 ---
-description: null
+description: 
 ---
 
 # DocumentLine
@@ -21,6 +21,7 @@ description: null
 | CollectOnSite |  | bool |  |
 | CreationDate | Data di creazione | dt |  |
 | CreatorId | Id dell'agente che ha creato il record | text | 50 |
+| CustomerGroupId | Id del gruppo cliente | text | 50 |
 | DeliveryDate | Data consegna | date |  |
 | DeliveryDateTypeId | Tipo data di consegna | text | 50 |
 | Discount1 | Sconto | dec |  |
@@ -168,4 +169,3 @@ description: null
 * 2: TaxableFreeSample
 * 3: DiscountOnGoods
 * 4: Promotion
-

@@ -22,7 +22,7 @@ description: Campi delle schede marketing
 
 ## FieldType
 
-* 0: NullableText
+* 0: NullableSingleLineText
 * 2: NullableInteger
 * 3: NullableDate
 * 5: SingleSelectionList
@@ -31,4 +31,4 @@ description: Campi delle schede marketing
 * 9: MultiSelectionList
 * 25: NullableBoolean
 * 100: Label
-
+* 200: NullableMultiLineText

@@ -13,6 +13,7 @@
 | AvailabilityFreeDecimal1 \[1..2\] |  |
 | AvailabilityRule |  |
 | AverageNetUnitPrice |  |
+| CustomerGroup |  |
 | DeliveryDate |  |
 | DiscountFromRetailPrice |  |
 | DiscountOnGrossCost |  |
@@ -33,7 +34,7 @@
 | GrossCost |  |
 | Item.ErpStatus1 \[1..2\] |  |
 | Item.FreeDecimal1 \[1..3\] |  |
-| Item.FreeText1 \[1..3\] |  |
+| Item.FreeText1 \[1..5\] |  |
 | ItemDescription |  |
 | ItemId |  |
 | LinearMatrix |  |

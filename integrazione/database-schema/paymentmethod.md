@@ -15,5 +15,5 @@ description: Modalità di Pagamento (Termini e Condizioni)
 | Discount2 | Sconto | dec |  |
 | Discount3 | Sconto | dec |  |
 | Id | Id | text | 50 |
+| PaymentTypeId |  | text | 50 |
 | UseMode |  | text | 50 |
-

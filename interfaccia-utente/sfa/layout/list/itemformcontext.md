@@ -19,7 +19,7 @@
 | FreeLookup1Code \[1..3\] |  |
 | FreeLookup1Description \[1..3\] |  |
 | FreeLookup1Id \[1..3\] |  |
-| FreeText1 \[1..3\] |  |
+| FreeText1 \[1..5\] |  |
 | FreeTextAvailability |  |
 | GlobalAvailability |  |
 | HtmlPath |  |

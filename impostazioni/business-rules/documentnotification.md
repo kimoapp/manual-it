@@ -38,6 +38,7 @@
 * DocumentUrl
 * ShipmentSiteCode
 * ShipmentSiteFreeText
+* ShipmentSiteId
 * ShipmentSiteName
 
 ## OnConfirmedMailRecipients
@@ -62,6 +63,7 @@
 * DocumentUrl
 * ShipmentSiteCode
 * ShipmentSiteFreeText
+* ShipmentSiteId
 * ShipmentSiteName
 
 ## OnConfirmedReportType
@@ -93,4 +95,3 @@
 ## SendOnConfirmed
 
 **Tipo:** Boolean
-

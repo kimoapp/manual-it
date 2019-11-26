@@ -18,4 +18,3 @@ description: Priorità delle condizioni di vendita
 | SalesConditionTypeId | Id del tipo condizione di vendita | text | 1000 |
 | ShouldIncludeStandardDiscountsInPrice | Indica se si richiede l'inclusione nel prezzo degli sconti standard | bool |  |
 | Type |  | int |  |
-

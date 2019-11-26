@@ -61,6 +61,7 @@ description: Promozioni
 * 3: PreserveDiscountsOnImposedUnitPrice
 * 4: TakeGrossUnitPrice
 * 5: TakeNetUnitPrice
+* 6: TakeStandardPrice
 
 ## GiftQtyMode
 
@@ -78,4 +79,3 @@ description: Promozioni
 * 1: Kit
 * 2: NPlusM
 * 3: NPlusM\_MonoReference
-
