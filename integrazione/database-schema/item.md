@@ -15,6 +15,7 @@ description: Articoli
 | CollectionId | Id della collezione | text | 50 |
 | CreationDate | Data di creazione | dt |  |
 | Description | Descrizione breve dell'articolo | text | 130 |
+| DiscountType | Logica da applicare con gli sconti durante il calcolo dei prezzi | text | 50 |
 | EndCustomerPrice | Prezzo articolo al cliente finale | dec |  |
 | ErpStatusId1 |  | text | 50 |
 | ErpStatusId2 |  | text | 50 |

@@ -15,7 +15,6 @@ description:
 | AccountAddressCountrySubdivision | Provincia | text | 20 |
 | AccountAddressLine | Indirizzo | text | 80 |
 | AccountAddressPostCode | CAP | text | 20 |
-| AccountCode | Codice cliente | text | 50 |
 | AccountFiscalCode | Codice fiscale | text | 30 |
 | AccountId | Id del cliente | text | 50 |
 | AccountIpaCode | Codice IPA | text | 20 |
@@ -41,7 +40,6 @@ description:
 | BillingAccountAddressCountrySubdivision | Provincia | text | 20 |
 | BillingAccountAddressLine | Indirizzo | text | 80 |
 | BillingAccountAddressPostCode | CAP | text | 20 |
-| BillingAccountCode | Codice cliente di fatturazione | text | 50 |
 | BillingAccountFiscalCode | Codice fiscale | text | 30 |
 | BillingAccountId | Id cliente di fatturazione | text | 50 |
 | BillingAccountIpaCode | Codice IPA | text | 20 |
@@ -49,7 +47,10 @@ description:
 | BillingAccountName2 | Nome 2 cliente di fatturazione | text | 100 |
 | BillingAccountNickName | Nickname cliente di fatturazione | text | 100 |
 | BillingAccountVatNumber | Partita Iva | text | 30 |
+| BudgetId | Id del budget da cui è stato creato il documento | text | 50 |
+| BudgetLineId | Id della riga del budget da cui è stato creato il documento | text | 50 |
 | CarrierId | Id del vettore | text | 50 |
+| [ChargeForUnpackaged](document.md#chargeforunpackaged) | Addebita fuori confezione \(sfusi\) | enum |  |
 | CigCode | Codice CIG | text | 50 |
 | CollectOnSite |  | bool |  |
 | CreationDate | Data di creazione | dt |  |
@@ -152,7 +153,6 @@ description:
 | ShipmentSiteAddressCountrySubdivision | Provincia | text | 20 |
 | ShipmentSiteAddressLine | Indirizzo | text | 80 |
 | ShipmentSiteAddressPostCode | CAP | text | 20 |
-| ShipmentSiteCode | Codice | text | 50 |
 | ShipmentSiteFax | Fax | text | 50 |
 | ShipmentSiteId | Id | text | 50 |
 | ShipmentSiteMail | Mail | text | 100 |
@@ -181,6 +181,11 @@ description:
 
 * 0: Undefined
 * 1: B2b
+
+## ChargeForUnpackaged
+
+* 0: No
+* 1: Yes
 
 ## DocumentFamilyId
 

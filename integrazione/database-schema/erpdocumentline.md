@@ -19,6 +19,8 @@ description: Righe dei Documenti da Erp
 | Discount3 | Sconto | dec |  |
 | Discount4 | Sconto | dec |  |
 | Discount5 | Sconto | dec |  |
+| Discount6 | Sconto | dec |  |
+| Discount7 | Sconto | dec |  |
 | ErpDocumentId | Id del documento a cui la riga appartiene | text | 50 |
 | ErpStatusId1 |  | text | 50 |
 | ErpStatusId2 |  | text | 50 |
@@ -77,6 +79,8 @@ description: Righe dei Documenti da Erp
 | RetailDiscount3 | Sconto | dec |  |
 | RetailDiscount4 | Sconto | dec |  |
 | RetailDiscount5 | Sconto | dec |  |
+| RetailDiscount6 | Sconto | dec |  |
+| RetailDiscount7 | Sconto | dec |  |
 | RetailFixedDiscount |  | dec |  |
 | RetailNetUnitPrice | Prezzo unitario netto retail | dec |  |
 | RetailPriceListId | Id listino retail | text | 50 |

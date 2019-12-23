@@ -7,7 +7,7 @@ description: Sconti nell'Erp Nav
 **Chiavi**
 
 * _Id_
-* Code, Type, SalesType, SalesCode, StartQuantityRange, EndQuantityRange, UomId, CurrencyId, StartDate, EndDate, VariableItemId
+* Code, Type, SalesType, SalesCode, StartQuantityRange, EndQuantityRange, UomId, CurrencyId, StartDate, EndDate, VariableItemId, VariableId1, VariableValueId1, VariableId2, VariableValueId2
 
 | Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
@@ -30,7 +30,11 @@ description: Sconti nell'Erp Nav
 | StartQuantityRange | Inizio scaglione quantità | dec |  |
 | [Type](navsaleslinediscount.md#type) | Tipo sconto | enum |  |
 | UomId | Unità di misura | text | 50 |
+| VariableId1 | Id variante | text | 50 |
+| VariableId2 | Id variante | text | 50 |
 | VariableItemId | Id dell'articolo variante | text | 50 |
+| VariableValueId1 | Valore variante | text | 50 |
+| VariableValueId2 | Valore variante | text | 50 |
 
 ## FindNext
 

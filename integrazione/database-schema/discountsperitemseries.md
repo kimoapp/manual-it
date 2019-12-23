@@ -19,6 +19,8 @@ description: Sconti per serie articolo
 | Discount3 | Sconto | dec |  |
 | Discount4 | Sconto | dec |  |
 | Discount5 | Sconto | dec |  |
+| Discount6 | Sconto | dec |  |
+| Discount7 | Sconto | dec |  |
 | EndDate | Data fine validità | date |  |
 | FixedDiscount | Sconto importo | dec |  |
 | Id | Id | text | 50 |

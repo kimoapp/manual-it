@@ -15,6 +15,7 @@
 **Valore di default:** ItemGroupLevel1\|ItemGroupLevel2  
 **Valori:**
 
+* Barcode
 * CatalogPriceList
 * ErpStatus
 * FreeBoolean

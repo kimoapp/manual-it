@@ -76,6 +76,7 @@
 | [LogisticArea](logisticarea.md) | Aree logistiche |
 | [LogisticAreaDeliveryDays](logisticareadeliverydays.md) | Giorni di consegna per Area Logistica |
 | [Manufacturer](manufacturer.md) | Produttori |
+| [ManufacturerImage](manufacturerimage.md) | Immagini produttori \(percorsi dei file\) |
 | [ManufacturerTranslation](manufacturertranslation.md) | Traduzioni in lingua dei Produttori |
 | [MaritalStatus](maritalstatus.md) | Stato civile |
 | [MarketingForm](marketingform.md) | Schede Marketing |
@@ -94,6 +95,7 @@
 | [PointsPerSale](pointspersale.md) | Punti per la vendita di articoli |
 | [PointsPerSaleBalance](pointspersalebalance.md) | Saldo punti vendita |
 | [PriceList](pricelist.md) | Listini prezzi |
+| [PricePerQuantityRange](priceperquantityrange.md) | Prezzi per scaglione quantità |
 | [Promotion](promotion.md) | Promozioni |
 | [PromotionFilter](promotionfilter.md) | Filtri promozioni |
 | [PromotionLine](promotionline.md) | Righe promozioni |
@@ -117,6 +119,7 @@
 | [ShipmentParamsPerDocument](shipmentparamsperdocument.md) | Parametri per la spedizione di un documento di vendita |
 | [ShippingCharge](shippingcharge.md) | Spese di spedizione |
 | [StatisticClass](statisticclass.md) | Classi statistiche |
+| [StatisticReport](statisticreport.md) | Report statistici |
 | [Title](title.md) | Titolo di una persona \(es. Dott., Ing., ...\) |
 | [Trademark](trademark.md) | Marchi |
 | [TrademarkPerAccount](trademarkperaccount.md) | Marchi per cliente |

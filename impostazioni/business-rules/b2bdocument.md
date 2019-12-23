@@ -2,8 +2,8 @@
 
 | Valore | Descrizione |
 | :--- | :--- |
-| [**DocumentNumberForConfirmedCart**](b2bdocument.md#documentnumberforconfirmedcart) |  |
-| [**DocumentsFromCartFactory**](b2bdocument.md#documentsfromcartfactory) |  |
+| [**DocumentNumberForConfirmedCart**](b2bdocument.md#documentnumberforconfirmedcart) | Modalità con cui generare il numero del documento creato in seguito alla conferma di un carrello |
+| [**DocumentsFromCartFactory**](b2bdocument.md#documentsfromcartfactory) | Indica il modo in cui devono essere generati i documenti creati in seguito alla conferma di un carrello |
 | [**GetDocumentTypeIdForCart**](b2bdocument.md#getdocumenttypeidforcart) |  |
 
 ## DocumentNumberForConfirmedCart

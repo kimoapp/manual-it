@@ -12,6 +12,7 @@ description: Unità di misura degli articoli
 | Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
 | Barcode | Codice a barre | text | 50 |
+| [ChargeForUnpackaged](itemuom.md#chargeforunpackaged) | Addebita fuori confezione \(sfusi\) | enum |  |
 | Id | Id | text | 50 |
 | ItemId | Id dell'articolo | text | 50 |
 | Label |  | text | 20 |
@@ -24,6 +25,11 @@ description: Unità di misura degli articoli
 | SalesUomId | Unità di misura di vendita | text | 20 |
 | UnitsPerPack | Unità per confezione | dec |  |
 | [UnitsPerPackDivisibilityRule](itemuom.md#unitsperpackdivisibilityrule) | Indica se la quantità totale deve essere divisibile per l'unità per confezione | enum |  |
+
+## ChargeForUnpackaged
+
+* 0: No
+* 1: Yes
 
 ## UnitsPerPackDivisibilityRule
 

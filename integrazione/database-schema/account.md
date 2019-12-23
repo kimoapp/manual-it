@@ -24,6 +24,7 @@ description: Account (clienti, prospect, destinazioni merci)
 | BankIban | Codice IBAN | text | 50 |
 | CarrierId | Id del vettore | text | 50 |
 | CertifiedMail | Mail certificata \(PEC - Posta Elettronica Certificata | text | 100 |
+| [ChargeForUnpackaged](account.md#chargeforunpackaged) | Addebita fuori confezione \(sfusi\) | enum |  |
 | ContactInfo | Info di contatto del cliente | text | text |
 | CreationDate | Data di creazione | dt |  |
 | [CreationReason](account.md#creationreason) | Indica se è un nuovo cliente, se è un cliente modificato o se è stato creato un cliente a partire da un prospect | enum |  |
@@ -37,6 +38,7 @@ description: Account (clienti, prospect, destinazioni merci)
 | Discount1 | Sconto | dec |  |
 | Discount2 | Sconto | dec |  |
 | Discount3 | Sconto | dec |  |
+| DiscountType | Logica da applicare con gli sconti durante il calcolo dei prezzi | text | 50 |
 | EditMode | Edit Mode | text | 50 |
 | [EntityStatus](account.md#entitystatus) | Campo che definisce lo stato del record | enum |  |
 | ErpStatusId1 |  | text | 50 |
@@ -128,6 +130,11 @@ questo campo è un valore sul quale possono essere filtrati i clienti in fase di
 * 1: Customer
 * 2: ShipmentSite
 * 3: Prospect
+
+## ChargeForUnpackaged
+
+* 0: No
+* 1: Yes
 
 ## CreationReason
 

@@ -2,8 +2,8 @@
 
 | Valore | Descrizione |
 | :--- | :--- |
-| [**IsUserSlaveModeEnabled**](b2b.md#isuserslavemodeenabled) |  |
-| [**PromotionsMode**](b2b.md#promotionsmode) |  |
+| [**IsUserSlaveModeEnabled**](b2b.md#isuserslavemodeenabled) | Indica che gli utenti B2B non sono gestiti in Kimo, ma da un sistema esterno, per cui certe operazioni sono disabilitate \(es. l'utente non può resettare la password in Kimo\) |
+| [**PromotionsMode**](b2b.md#promotionsmode) | Indica se le promozioni sono abilitate o meno nel B2B |
 
 ## IsUserSlaveModeEnabled
 

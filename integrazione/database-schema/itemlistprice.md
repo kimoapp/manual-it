@@ -18,6 +18,10 @@ description: Prezzi per articolo
 | Discount3 | Sconto | dec |  |
 | Discount4 | Sconto | dec |  |
 | Discount5 | Sconto | dec |  |
+| Discount6 | Sconto | dec |  |
+| Discount7 | Sconto | dec |  |
+| DiscountColumn | Colonna su cui applicare gli sconti | int |  |
+| DiscountType | Logica da applicare con gli sconti durante il calcolo dei prezzi | text | 50 |
 | EndDate | Data fine validità | date |  |
 | EndQuantityRange | Fine Scaglione quantità | dec |  |
 | FixedDiscount | Sconto importo | dec |  |
@@ -31,17 +35,20 @@ description: Prezzi per articolo
 | FreeText2 | Campo testo libero | text | text |
 | FreeText3 | Campo testo libero | text | text |
 | Id | Id | text | 50 |
-| [IgnoreDiscounts](itemlistprice.md#ignorediscounts) |  | enum |  |
+| [IgnoreDiscounts](itemlistprice.md#ignorediscounts) | Ignora gli sconti | enum |  |
 | ItemId | Id dell'articolo | text | 50 |
 | [LockedFields](itemlistprice.md#lockedfields) | Campi bloccati per l'editing nei documenti | enum |  |
+| NextSalesCondition | Prossima condizione di vendita da ricercare | text | 50 |
 | PriceListId | Id del listino | text | 50 |
 | PriceListInfo | Info listino | text | text |
 | PriceListType | Tipo listino | text | 50 |
+| Priority | Indica se un listino è prioritario rispetto agli altri individuati | int |  |
 | SalesAgentId | Id dell'agente | text | 50 |
 | SalesConditionKey | Chiave della condizione di vendita | text | 300 |
 | SalesUomId | Id unità di misura di vendita | text | 50 |
 | StartDate | Data inizio validità | date |  |
 | StartQuantityRange | Inizio Scaglione quantità | dec |  |
+| Stop | Indica se fermarsi nella ricerca delle condizioni di vendita | int |  |
 | UnitPrice | Prezzo unitario | dec |  |
 | UnitsPerPack | Unità per confezione | dec |  |
 

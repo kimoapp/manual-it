@@ -14,6 +14,7 @@ description:
 | AmountIncludingVat | Totale documento incluso di IVA | dec |  |
 | [AvailabilityMode](documentline.md#availabilitymode) | Modalità disponibilità | enum |  |
 | AvailabilityRuleId | Id della regola di disponibilità | text | 50 |
+| [ChargeForUnpackaged](documentline.md#chargeforunpackaged) | Addebita fuori confezione \(sfusi\) | enum |  |
 | CheckoutAvailabilityAsFreeText | Campo testo libero in cui riportare la disponibilità strutturata come richiesto dal cliente | text | text |
 | CheckoutGlobalAvailability | Disponibilità Globale | dec |  |
 | CheckoutLogisticCenterAvailability | Disponibilità Polo Logistico | dec |  |
@@ -29,6 +30,8 @@ description:
 | Discount3 | Sconto | dec |  |
 | Discount4 | Sconto | dec |  |
 | Discount5 | Sconto | dec |  |
+| Discount6 | Sconto | dec |  |
+| Discount7 | Sconto | dec |  |
 | DiscountOnGrossCost | Sconto sul costo lordo | dec |  |
 | DocumentId | Id del documento | text | 50 |
 | EndQuantityRange | Fine Scaglione quantità | dec |  |
@@ -74,6 +77,8 @@ description:
 | OriginalDiscount3 | Sconto | dec |  |
 | OriginalDiscount4 | Sconto | dec |  |
 | OriginalDiscount5 | Sconto | dec |  |
+| OriginalDiscount6 | Sconto | dec |  |
+| OriginalDiscount7 | Sconto | dec |  |
 | OriginalFixedDiscount |  | dec |  |
 | OriginalNetUnitPrice | Prezzo unitario netto \(originale\) | dec |  |
 | OriginalPriceIncludesVat | Indica se il prezzo è ivato \(originale\) | bool |  |
@@ -102,6 +107,8 @@ description:
 | RetailDiscount3 | Sconto | dec |  |
 | RetailDiscount4 | Sconto | dec |  |
 | RetailDiscount5 | Sconto | dec |  |
+| RetailDiscount6 | Sconto | dec |  |
+| RetailDiscount7 | Sconto | dec |  |
 | RetailFixedDiscount |  | dec |  |
 | RetailNetUnitPrice | Prezzo unitario netto \(retail\) | dec |  |
 | RetailPriceIncludesVat | Indica se il prezzo è ivato \(retail\) | bool |  |
@@ -138,6 +145,11 @@ description:
 
 * 0: Regular
 * 1: Virtual
+
+## ChargeForUnpackaged
+
+* 0: No
+* 1: Yes
 
 ## LineType
 

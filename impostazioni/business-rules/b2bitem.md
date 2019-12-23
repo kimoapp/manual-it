@@ -2,9 +2,37 @@
 
 | Valore | Descrizione |
 | :--- | :--- |
+| [**Facets**](b2bitem.md#facets) | Facets |
+| [**FacetsWithoutOthersAggregation**](b2bitem.md#facetswithoutothersaggregation) | Facets su cui nascondere la voce "Altri" |
 | [**Filters**](b2bitem.md#filters) | Filtri |
+| [**FuzzinessPrefixLength**](b2bitem.md#fuzzinessprefixlength) | Numero di caratteri iniziali da non considerare come errori di digitazione |
 | [**KeywordSearchFields**](b2bitem.md#keywordsearchfields) | Campi per la ricerca testuale |
+| [**KeywordSearchFieldsWithWeight**](b2bitem.md#keywordsearchfieldswithweight) | Campi per la ricerca testuale pesata |
+| [**SearchOperator**](b2bitem.md#searchoperator) | Operatore per la ricerca sul catalogo |
+| [**SearchType**](b2bitem.md#searchtype) | Tipo di ricerca sul catalogo |
 | [**SortFields**](b2bitem.md#sortfields) | Campi per l'ordinamento |
+
+## Facets
+
+**Tipo:** Valori separati da pipe  
+**Valori:**
+
+* ErpStatus
+* FreeLookup
+* ItemGroups
+* Manufactuerer
+* Trademark
+
+## FacetsWithoutOthersAggregation
+
+**Tipo:** Valori separati da pipe  
+**Valori:**
+
+* ErpStatus
+* FreeLookup
+* ItemGroups
+* Manufactuerer
+* Trademark
 
 ## Filters
 
@@ -13,10 +41,38 @@
 
 * ItemGroupLevel
 
+## FuzzinessPrefixLength
+
+**Tipo:** Int32  
+**Valore di default:** 0
+
 ## KeywordSearchFields
 
 **Tipo:** Valori separati da pipe  
 **Valore di default:** Id\|Description
+
+## KeywordSearchFieldsWithWeight
+
+**Tipo:** Valori separati da pipe  
+**Valore di default:** {'Id': 1.0, 'Description': 1.0}
+
+## SearchOperator
+
+**Tipo:** Enum  
+**Valore di default:** 0  
+**Valori:**
+
+* 0 =&gt; Or
+* 1 =&gt; And
+
+## SearchType
+
+**Tipo:** Enum  
+**Valore di default:** 0  
+**Valori:**
+
+* 0 =&gt; Ricerca standard
+* 1 =&gt; Ricerca tramite ElasticSearch
 
 ## SortFields
 

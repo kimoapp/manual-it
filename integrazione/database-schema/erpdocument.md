@@ -43,6 +43,8 @@ description: Documenti da Erp
 | BillingAccountName2 | Ragione sociale 2 del cliente di fatturazione | text | 100 |
 | BillingAccountNickName | Nickname cliente di fatturazione | text | 100 |
 | BillingAccountVatNumber | Partita Iva | text | 30 |
+| BudgetId | Id del budget da cui è stato creato il documento | text | 50 |
+| BudgetLineId | Id della riga del budget da cui è stato creato il documento | text | 50 |
 | CarrierId | Id del vettore | text | 50 |
 | CigCode | Codice CIG | text | 50 |
 | CupCode | Codice Cup | text | 50 |
@@ -119,6 +121,8 @@ description: Documenti da Erp
 | ShipmentSiteName2 | Nome 2 | text | 100 |
 | ShipmentSitePhone | Telefono | text | 100 |
 | ShipmentSiteShouldRegisterOnErp | Indica se la destinazione merci va registra nell'Erp | bool |  |
+| SourceReference | Documento di origine | text | 50 |
+| [SourceReferenceType](erpdocument.md#sourcereferencetype) |  | enum |  |
 | StartShipmentDate | Data d'inizio della consegna | date |  |
 | TrademarkId | Id del marchio | text | 50 |
 | TransportModeId | Id del mezzo di trasporto | text | 50 |
@@ -127,3 +131,11 @@ description: Documenti da Erp
 | VatRateIsExemption | Indica se l'IVA è calcolata o no | bool |  |
 | VatRateValue | Valore aliquota | dec |  |
 | WarehouseId | Id del magazzino | text | 50 |
+
+## SourceReferenceType
+
+* 0: Undefined
+* 1: FromSalesQuote
+* 2: Budget
+* 3: FromCart
+* 4: FromAppCopriwaterGiusto
