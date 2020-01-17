@@ -7,6 +7,7 @@ description: Report statistici
 **Chiavi**
 
 * _Id_
+* StatisticReportTypeId, EntityType, EntityId
 
 | Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |

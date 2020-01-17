@@ -30,7 +30,7 @@ description: Prezzi per scaglione quantità
 | [QuantityRange1\_MultipleQuantity](priceperquantityrange.md#quantityrange1_multiplequantity) | Quantità multipla | dec |  |
 | QuantityRange1\_PriceListInfo | Info listino | text | text |
 | QuantityRange1\_Quantity | Quantità inizio scaglione | dec |  |
-| QuantityRange1\_UnitPrice | Prezzo unitario | dec |  |
+| QuantityRange1\_UnitPrice | Prezzo unitario / importo | dec |  |
 | QuantityRange2\_Discount1 | Sconto | dec |  |
 | QuantityRange2\_Discount2 | Sconto | dec |  |
 | QuantityRange2\_Discount3 | Sconto | dec |  |
@@ -38,7 +38,7 @@ description: Prezzi per scaglione quantità
 | [QuantityRange2\_MultipleQuantity](priceperquantityrange.md#quantityrange2_multiplequantity) | Quantità multipla | dec |  |
 | QuantityRange2\_PriceListInfo | Info listino | text | text |
 | QuantityRange2\_Quantity | Quantità inizio scaglione | dec |  |
-| QuantityRange2\_UnitPrice | Prezzo unitario | dec |  |
+| QuantityRange2\_UnitPrice | Prezzo unitario / importo | dec |  |
 | QuantityRange3\_Discount1 | Sconto | dec |  |
 | QuantityRange3\_Discount2 | Sconto | dec |  |
 | QuantityRange3\_Discount3 | Sconto | dec |  |
@@ -46,7 +46,7 @@ description: Prezzi per scaglione quantità
 | [QuantityRange3\_MultipleQuantity](priceperquantityrange.md#quantityrange3_multiplequantity) | Quantità multipla | dec |  |
 | QuantityRange3\_PriceListInfo | Info listino | text | text |
 | QuantityRange3\_Quantity | Quantità inizio scaglione | dec |  |
-| QuantityRange3\_UnitPrice | Prezzo unitario | dec |  |
+| QuantityRange3\_UnitPrice | Prezzo unitario / importo | dec |  |
 | QuantityRange4\_Discount1 | Sconto | dec |  |
 | QuantityRange4\_Discount2 | Sconto | dec |  |
 | QuantityRange4\_Discount3 | Sconto | dec |  |
@@ -54,7 +54,7 @@ description: Prezzi per scaglione quantità
 | [QuantityRange4\_MultipleQuantity](priceperquantityrange.md#quantityrange4_multiplequantity) | Quantità multipla | dec |  |
 | QuantityRange4\_PriceListInfo | Info listino | text | text |
 | QuantityRange4\_Quantity | Quantità inizio scaglione | dec |  |
-| QuantityRange4\_UnitPrice | Prezzo unitario | dec |  |
+| QuantityRange4\_UnitPrice | Prezzo unitario / importo | dec |  |
 | SalesAgentId | Id dell'agente | text | 50 |
 | SalesConditionKey | Chiave della condizione di vendita | text | 300 |
 | SalesUomId | Id unità di misura di vendita | text | 50 |
