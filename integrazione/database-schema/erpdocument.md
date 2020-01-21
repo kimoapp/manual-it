@@ -112,7 +112,6 @@ description: Documenti da Erp
 | ShipmentSiteAddressCountrySubdivision | Provincia | text | 20 |
 | ShipmentSiteAddressLine | Indirizzo | text | 80 |
 | ShipmentSiteAddressPostCode | CAP | text | 20 |
-| ShipmentSiteCode | Codice | text | 50 |
 | ShipmentSiteFax | Fax | text | 50 |
 | ShipmentSiteId | Id | text | 50 |
 | ShipmentSiteMail | Mail | text | 100 |
