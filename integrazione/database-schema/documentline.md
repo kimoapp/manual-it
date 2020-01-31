@@ -68,6 +68,7 @@ description:
 | [LineType](documentline.md#linetype) | Tipo riga | enum |  |
 | ManufacturerId | Id del produttore | text | 50 |
 | ManufacturerItemId | Id dell'articolo produttore | text | 50 |
+| [MultipleQuantity](documentline.md#multiplequantity) | Quantità multipla | dec |  |
 | NetCost | Costo netto | dec |  |
 | NetUnitPrice | Prezzo unitario netto | dec |  |
 | Notes | Note | text | text |
@@ -159,6 +160,10 @@ description:
 * 3: ModelItem
 * 4: VariableItem
 * 5: Idrolab
+
+## MultipleQuantity
+
+Se la quantità è 50 e la quantità multipla è 10, lo scaglione può essere applicato solo a quantità come 50, 60, 70, ... e non a quantità come 51, 52, ...
 
 ## PriceRecalculationStatus
 

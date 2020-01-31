@@ -49,6 +49,9 @@ description: Documenti da Erp
 | CigCode | Codice CIG | text | 50 |
 | CupCode | Codice Cup | text | 50 |
 | CurrencyId | Id della valuta | text | 50 |
+| CustomerDiscountGroupId | Id del gruppo sconti cliente | text | 50 |
+| CustomerGroupId | Id del gruppo cliente | text | 50 |
+| CustomerPriceGroupId | Id del gruppo prezzo cliente | text | 50 |
 | DeliveryDate | Data di consegna | date |  |
 | DeliveryDateTypeId | Id del tipo consegna | text | 50 |
 | Discount1 | Sconto | dec |  |
@@ -123,6 +126,7 @@ description: Documenti da Erp
 | SourceReference | Documento di origine | text | 50 |
 | [SourceReferenceType](erpdocument.md#sourcereferencetype) |  | enum |  |
 | StartShipmentDate | Data d'inizio della consegna | date |  |
+| StatisticClassId | Id della classe statistica | text | 50 |
 | TrademarkId | Id del marchio | text | 50 |
 | TransportModeId | Id del mezzo di trasporto | text | 50 |
 | VatAmount | Importo IVA | dec |  |
@@ -130,6 +134,7 @@ description: Documenti da Erp
 | VatRateIsExemption | Indica se l'IVA è calcolata o no | bool |  |
 | VatRateValue | Valore aliquota | dec |  |
 | WarehouseId | Id del magazzino | text | 50 |
+| ZoneId | Id della zona | text | 50 |
 
 ## SourceReferenceType
 

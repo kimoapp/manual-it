@@ -10,6 +10,7 @@
 | Description |  |
 | Discounts |  |
 | EndQuantityRange |  |
+| MultipleQuantity |  |
 | NetUnitPrice |  |
 | Promotion\_Description |  |
 | Promotion\_EndDate |  |

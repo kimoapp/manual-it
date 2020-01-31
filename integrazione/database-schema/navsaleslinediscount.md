@@ -19,15 +19,16 @@ description: Sconti nell'Erp Nav
 | Discount4 | Sconto | dec |  |
 | Discount5 | Sconto | dec |  |
 | EndDate | Data fine validità | date |  |
-| EndQuantityRange | Fine scaglione quantità | dec |  |
+| EndQuantityRange | Fine Scaglione quantità | dec |  |
 | [FindNext](navsaleslinediscount.md#findnext) | Usato in Dynamics AX | enum |  |
 | Id | Id | text | 50 |
+| [MultipleQuantity](navsaleslinediscount.md#multiplequantity) | Quantità multipla | dec |  |
 | RecId | Usato in Dynamics AX | text | 50 |
 | SalesCode | Codice vendita | text | 50 |
 | [SalesType](navsaleslinediscount.md#salestype) | Tipo vendita | enum |  |
 | SpecialPriceListId | Listino speciale | text | 50 |
 | StartDate | Data inizio validità | date |  |
-| StartQuantityRange | Inizio scaglione quantità | dec |  |
+| StartQuantityRange | Inizio Scaglione quantità | dec |  |
 | [Type](navsaleslinediscount.md#type) | Tipo sconto | enum |  |
 | UomId | Unità di misura | text | 50 |
 | VariableId1 | Id variante | text | 50 |
@@ -40,6 +41,10 @@ description: Sconti nell'Erp Nav
 
 * 0: No
 * 1: Yes
+
+## MultipleQuantity
+
+Se la quantità è 50 e la quantità multipla è 10, lo scaglione può essere applicato solo a quantità come 50, 60, 70, ... e non a quantità come 51, 52, ...
 
 ## SalesType
 

@@ -48,17 +48,27 @@ description: Righe dei Documenti da Erp
 | FreeDecimal9 | Campo decimale libero | dec |  |
 | FreeLookup1 | Id per dati tabellati | text | 50 |
 | FreeLookup2 | Id per dati tabellati | text | 50 |
+| FreeLookup3 | Id per dati tabellati | text | 50 |
+| FreeLookup4 | Id per dati tabellati | text | 50 |
+| FreeLookup5 | Id per dati tabellati | text | 50 |
 | FreeText1 | Campo testo libero | text | text |
 | FreeText2 | Campo testo libero | text | text |
 | FreeText3 | Campo testo libero | text | text |
+| FreeText4 | Campo testo libero | text | text |
+| FreeText5 | Campo testo libero | text | text |
 | GrossCost | Costo lordo | dec |  |
 | Id | Id della riga documento | text | 50 |
 | IsDiscountEdited | Indica se lo sconto è stato modificato | bool |  |
 | IsUnitPriceEdited | Identifica se il prezzo unitario è stato modificato | bool |  |
 | ItemChargesAmount | Valore delle spese per l'articolo \(RAEE, ...\) | dec |  |
 | ItemChargesTypeDescription | Descrizione delle spese per l'articolo applicate \(RAEE, ...\) | text | text |
+| ItemCollectionId | Id della collezione | text | 50 |
 | ItemDescription | Descrizione articolo | text | 130 |
+| ItemDiscountGroupId | Id del gruppo sconti articolo | text | 50 |
+| ItemGenderId | Id genere | text | 50 |
 | ItemId | Tipo dell'articolo | text | 50 |
+| ItemLineId | Id della linea | text | 50 |
+| ItemSeriesId | Id serie articolo | text | 50 |
 | LineNumber | Numero riga | int |  |
 | [LineType](erpdocumentline.md#linetype) | Tipo riga documento | enum |  |
 | ManufacturerId | Id produttore | text | 50 |
@@ -88,8 +98,10 @@ description: Righe dei Documenti da Erp
 | SalesQty | Quantità di vendita | dec |  |
 | SalesUomId | Unità di misura di vendita | text | 10 |
 | SaleTypeId | Tipo vendita | text | 50 |
+| SeasonId | Id della stagione | text | 50 |
 | SourceReference | Numero del documento di riferimento | text | 50 |
 | SourceReferenceType | Tipo del documento di riferimento | enum |  |
+| TrademarkId | Id del marchio | text | 50 |
 | UnitPrice | Prezzo unitario | dec |  |
 | UnitsPerPack | Unità per confezione | dec |  |
 | VariableId1 | Id variante | text | 50 |

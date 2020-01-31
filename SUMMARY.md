@@ -205,6 +205,7 @@
     * [ItemCollection](integrazione/database-schema/itemcollection.md)
     * [ItemCost](integrazione/database-schema/itemcost.md)
     * [ItemDiscountGroup](integrazione/database-schema/itemdiscountgroup.md)
+    * [ItemGender](integrazione/database-schema/itemgender.md)
     * [ItemGroup](integrazione/database-schema/itemgroup.md)
     * [ItemGroupTranslation](integrazione/database-schema/itemgrouptranslation.md)
     * [ItemImage](integrazione/database-schema/itemimage.md)

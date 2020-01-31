@@ -27,6 +27,7 @@ description: Controlli commerciali sulle righe dei documenti di vendita
 | MaxDiscount4 | Sconti massimi | dec |  |
 | MaxDiscount5 | Sconti massimi | dec |  |
 | [MessageVerbosityLevel](salescontroldocumentline.md#messageverbositylevel) | Livello di verbosità dei messaggi per le validazioni fallite | enum |  |
+| [MultipleQuantity](salescontroldocumentline.md#multiplequantity) | Quantità multipla | dec |  |
 | PromotionId | Id della promozione | text | 50 |
 | SalesAgentId | Id dell'agente | text | 50 |
 | [SalesControlType](salescontroldocumentline.md#salescontroltype) | Tipo di controllo | enum |  |
@@ -58,6 +59,10 @@ description: Controlli commerciali sulle righe dei documenti di vendita
 
 * 0: Default
 * 1: DoNotShowValue
+
+## MultipleQuantity
+
+Se la quantità è 50 e la quantità multipla è 10, lo scaglione può essere applicato solo a quantità come 50, 60, 70, ... e non a quantità come 51, 52, ...
 
 ## SalesControlType
 

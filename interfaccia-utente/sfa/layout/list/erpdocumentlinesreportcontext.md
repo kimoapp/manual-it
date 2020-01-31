@@ -30,8 +30,8 @@
 | Line.Discounts |  |
 | Line.FreeDateTime1 \[1..3\] |  |
 | Line.FreeDecimal1 \[1..10\] |  |
-| Line.FreeLookup1Description \[1..2\] |  |
-| Line.FreeText1 \[1..3\] |  |
+| Line.FreeLookup1Description \[1..5\] |  |
+| Line.FreeText1 \[1..5\] |  |
 | Line.ItemDescription |  |
 | Line.ItemId |  |
 | Line.ManufacturerId |  |

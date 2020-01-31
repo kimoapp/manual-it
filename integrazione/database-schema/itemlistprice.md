@@ -38,6 +38,7 @@ description: Prezzi per articolo
 | [IgnoreDiscounts](itemlistprice.md#ignorediscounts) | Ignora gli sconti | enum |  |
 | ItemId | Id dell'articolo | text | 50 |
 | [LockedFields](itemlistprice.md#lockedfields) | Campi bloccati per l'editing nei documenti | enum |  |
+| [MultipleQuantity](itemlistprice.md#multiplequantity) | Quantità multipla | dec |  |
 | NextSalesCondition | Prossima condizione di vendita da ricercare | text | 50 |
 | PriceListId | Id del listino | text | 50 |
 | PriceListInfo | Info listino | text | text |
@@ -63,3 +64,7 @@ description: Prezzi per articolo
 * 1: UnitPrice
 * 2: Discounts
 * 4: SaleType
+
+## MultipleQuantity
+
+Se la quantità è 50 e la quantità multipla è 10, lo scaglione può essere applicato solo a quantità come 50, 60, 70, ... e non a quantità come 51, 52, ...

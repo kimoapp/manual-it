@@ -12,7 +12,7 @@
 | ErpStatus1 \[1..3\] |  |
 | FreeDateTime1 \[1..3\] |  |
 | FreeDecimal1 \[1..10\] |  |
-| FreeText1 \[1..3\] |  |
+| FreeText1 \[1..5\] |  |
 | GrossCost |  |
 | Image |  |
 | ItemCode |  |

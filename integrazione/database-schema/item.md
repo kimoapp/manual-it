@@ -37,6 +37,7 @@ description: Articoli
 | FreeText3 | Campo testo libero | text | text |
 | FreeText4 | Campo testo libero | text | text |
 | FreeText5 | Campo testo libero | text | text |
+| GenderId | Id genere | text | 50 |
 | Id | Id | text | 50 |
 | IsVisibleOnItemsSearch | Indica se l'articolo debba essere nascosto in fase di ricerca | bool |  |
 | ItemDiscountGroupId | Id del gruppo sconti articolo | text | 50 |

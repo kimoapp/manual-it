@@ -75,7 +75,8 @@ description: Promozioni
 
 ## PromotionType
 
-* 0: Classic
+* 0: Classiche
 * 1: Kit
-* 2: NPlusM
-* 3: NPlusM\_MonoReference
+* 2: N+M
+* 3: N+M mono-referenza \(solo un articolo\)
+* 4: Riservate per il Calcolo Prezzi

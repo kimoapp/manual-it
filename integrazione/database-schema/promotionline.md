@@ -10,13 +10,17 @@ description: Righe promozioni
 
 | Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
+| [ActivationMode](promotionline.md#activationmode) | Modalità di attivazione | enum |  |
 | Description | Descrizione | text | text |
 | Discount1 | Sconto | dec |  |
 | Discount2 | Sconto | dec |  |
 | Discount3 | Sconto | dec |  |
+| DiscountColumn | Colonna su cui applicare gli sconti | int |  |
+| DiscountType | Logica da applicare con gli sconti durante il calcolo dei prezzi | text | 50 |
 | [EncodingKey](promotionline.md#encodingkey) | Chiave | text | 50 |
 | [EncodingType](promotionline.md#encodingtype) | Prefisso | text | 50 |
 | EndDate | Data fine validità | date |  |
+| FixedDiscount | Sconto importo | dec |  |
 | GiftFreeQty | Quantità in omaggio nelle promo N+M | dec |  |
 | GiftItemId | Indica il codice dell'articolo da dare in omaggio nelle promo N+M \(se vuoto indica lo stesso articolo\) | text | 50 |
 | GiftPaidQty | Quantità di vendita nelle promo N+M | dec |  |
@@ -30,6 +34,8 @@ description: Righe promozioni
 | MaxGiftAmount |  | dec |  |
 | MaxQty | Quantità massima | dec |  |
 | MinQty | Quantità minima | dec |  |
+| [MultipleQty](promotionline.md#multipleqty) | Quantità multipla | dec |  |
+| NextSalesCondition | Prossima condizione di vendita da ricercare | text | 50 |
 | Notes | Note | text | text |
 | PromotionId | Id della promozione | text | 50 |
 | [QtyDivisibilityRule](promotionline.md#qtydivisibilityrule) | Indica se la quantità totale deve essere divisibile per l'unità per confezione | enum |  |
@@ -47,8 +53,14 @@ description: Righe promozioni
 | QuantityRange4\_Quantity | Quantità | dec |  |
 | SaleTypeId | Tipo vendita | text | 50 |
 | StartDate | Data inizio validità | date |  |
+| Stop | Indica se fermarsi nella ricerca delle condizioni di vendita | int |  |
 | SuggestedQty | Quantità suggerita | dec |  |
 | VatRateId | Id dell'aliquota IVA | text | 50 |
+
+## ActivationMode
+
+* 0: Default
+* 1: Automatic
 
 ## EncodingKey
 
@@ -62,6 +74,10 @@ I campi EncodingType ed EncodingKey permettono di definire quali sono le entità
 
 * 0: Quantità gratuita 'inclusa' in quella a pagamento
 * 1: Quantità gratuita NON 'inclusa' in quella a pagamento
+
+## MultipleQty
+
+Se la quantità è 50 e la quantità multipla è 10, lo scaglione può essere applicato solo a quantità come 50, 60, 70, ... e non a quantità come 51, 52, ...
 
 ## QtyDivisibilityRule
 

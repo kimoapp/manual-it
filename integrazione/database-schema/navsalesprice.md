@@ -16,10 +16,11 @@ description: Prezzi di vendita nell'Erp Nav
 | ConstantVariableId | Id variante costante | text | 50 |
 | CurrencyId | Id della valuta | text | 50 |
 | EndDate | Data fine validità | date |  |
-| EndQuantityRange | Fine scaglione quantità | dec |  |
+| EndQuantityRange | Fine Scaglione quantità | dec |  |
 | [FindNext](navsalesprice.md#findnext) | Usato in Dynamics AX | enum |  |
 | Id | Id | text | 50 |
 | ItemId | Id dell'articolo | text | 50 |
+| [MultipleQuantity](navsalesprice.md#multiplequantity) | Quantità multipla | dec |  |
 | PriceIncludesVat | Indica se il prezzo è compreso di IVA | bool |  |
 | PriceListInfo | Info listino | text | text |
 | PricePerQtyMultiplier | Moltiplicatore prezzi per quantità | dec |  |
@@ -30,7 +31,7 @@ description: Prezzi di vendita nell'Erp Nav
 | [SalesType](navsalesprice.md#salestype) | Tipo vendita | enum |  |
 | SeasonId | Id della stagione | text | 50 |
 | StartDate | Data inizio validità | date |  |
-| StartQuantityRange | Inizio scaglione quantità | dec |  |
+| StartQuantityRange | Inizio Scaglione quantità | dec |  |
 | [Type](navsalesprice.md#type) | Tipo | enum |  |
 | UnitPrice | Prezzo unitario | dec |  |
 | UomId | Unità di misura | text | 50 |
@@ -44,6 +45,10 @@ description: Prezzi di vendita nell'Erp Nav
 
 * 0: No
 * 1: Yes
+
+## MultipleQuantity
+
+Se la quantità è 50 e la quantità multipla è 10, lo scaglione può essere applicato solo a quantità come 50, 60, 70, ... e non a quantità come 51, 52, ...
 
 ## SalesDocumentType
 

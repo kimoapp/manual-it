@@ -58,6 +58,7 @@
 | [ItemCollection](itemcollection.md) | Collezione articoli |
 | [ItemCost](itemcost.md) | Costo articoli \(netto, lordo, ...\) |
 | [ItemDiscountGroup](itemdiscountgroup.md) | Gruppi sconti articoli |
+| [ItemGender](itemgender.md) | Genere articoli |
 | [ItemGroup](itemgroup.md) | Gruppi merceologici |
 | [ItemGroupTranslation](itemgrouptranslation.md) | Traduzioni in lingua dei gruppi merceologici |
 | [ItemImage](itemimage.md) | Immagini articoli \(percorsi dei file\) |
