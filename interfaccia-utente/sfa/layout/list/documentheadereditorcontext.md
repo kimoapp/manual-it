@@ -79,6 +79,7 @@
 | ShipmentMethod |  |
 | ShipmentParams |  |
 | ShipmentSite |  |
+| ShipmentSite2 |  |
 | ShipmentSiteShouldRegisterOnErp |  |
 | StartShipmentDate |  |
 | TotalAverageDiscount |  |

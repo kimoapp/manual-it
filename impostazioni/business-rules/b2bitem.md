@@ -20,6 +20,7 @@
 * ErpStatus
 * FreeLookup
 * ItemGroups
+* ItemSpecificationGroups
 * Manufactuerer
 * Trademark
 
@@ -31,6 +32,7 @@
 * ErpStatus
 * FreeLookup
 * ItemGroups
+* ItemSpecificationGroups
 * Manufactuerer
 * Trademark
 

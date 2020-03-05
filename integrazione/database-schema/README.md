@@ -67,7 +67,11 @@
 | [ItemLotOfflineAvailability](itemlotofflineavailability.md) | Disponibilità 'offline' dei lotti |
 | [ItemOfflineAvailability](itemofflineavailability.md) | Disponibilità 'offline' degli articoli |
 | [ItemSeries](itemseries.md) | Serie articolo |
-| [ItemSpecification](itemspecification.md) | Specifiche tecniche degli articoli |
+| [ItemSpecificationField](itemspecificationfield.md) | Specifiche tecniche |
+| [ItemSpecificationFieldPerGroup](itemspecificationfieldpergroup.md) | Associazione Classificazioni - Specifiche |
+| [ItemSpecificationFieldValue](itemspecificationfieldvalue.md) | Valori predefiniti per le specifiche tecniche degli articoli |
+| [ItemSpecificationGroup](itemspecificationgroup.md) | Classificazioni |
+| [ItemSpecificationGroupTranslation](itemspecificationgrouptranslation.md) | Traduzioni in lingua delle classificazioni |
 | [ItemSpecificationValue](itemspecificationvalue.md) | Valori delle specifiche tecniche degli articoli |
 | [ItemTranslation](itemtranslation.md) | Traduzioni in lingua dei FreeLookup |
 | [ItemUom](itemuom.md) | Unità di misura degli articoli |

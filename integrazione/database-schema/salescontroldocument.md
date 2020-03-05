@@ -7,7 +7,7 @@ description: Controlli commerciali sui documenti di vendita
 **Chiavi**
 
 * _Id_
-* SalesControlType, ChannelsEnabled, AccountEncodingType, AccountEncodingKey, SalesAgentId, DocumentTypeId, CurrencyId, PromotionId, SeasonId, TrademarkId, StartDate, EndDate, StartAmountRange, EndAmountRange
+* SalesControlType, ChannelsEnabled, AccountEncodingType, AccountEncodingKey, SalesAgentId, DocumentTypeId, CurrencyId, PromotionId, SeasonId, TrademarkId, StartDate, EndDate, StartAmountRange, EndAmountRange, StartQuantityRange, EndQuantityRange, UomType, UomId
 
 | Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
@@ -18,8 +18,18 @@ description: Controlli commerciali sui documenti di vendita
 | DocumentTypeId | Id del tipo documento | text | 50 |
 | EndAmountRange | Fine Scaglione importo | dec |  |
 | EndDate | Data fine validità | date |  |
+| EndQuantityRange | Fine Scaglione quantità | dec |  |
 | Id | Id | text | 50 |
+| MaxDiscount1 | Sconti massimi per la testata | dec |  |
+| MaxDiscount2 | Sconti massimi per la testata | dec |  |
+| MaxDiscount3 | Sconti massimi per la testata | dec |  |
+| MaxLineDiscount1 | Sconti massimi per le righe | dec |  |
+| MaxLineDiscount2 | Sconti massimi per le righe | dec |  |
+| MaxLineDiscount3 | Sconti massimi per le righe | dec |  |
+| MaxLineDiscount4 | Sconti massimi per le righe | dec |  |
+| MaxLineDiscount5 | Sconti massimi per le righe | dec |  |
 | [MessageVerbosityLevel](salescontroldocument.md#messageverbositylevel) | Livello di verbosità dei messaggi per le validazioni fallite | enum |  |
+| [MultipleQuantity](salescontroldocument.md#multiplequantity) | Quantità multipla | dec |  |
 | PromotionId | Id della promozione | text | 50 |
 | SalesAgentId | Id dell'agente | text | 50 |
 | [SalesControlType](salescontroldocument.md#salescontroltype) | Tipo di controllo | enum |  |
@@ -27,7 +37,10 @@ description: Controlli commerciali sui documenti di vendita
 | [SeverityLevel](salescontroldocument.md#severitylevel) | Livello di serietà | enum |  |
 | StartAmountRange | Inizio Scaglione importo | dec |  |
 | StartDate | Data inizio validità | date |  |
+| StartQuantityRange | Inizio Scaglione quantità | dec |  |
 | TrademarkId | Id del trademark | text | 50 |
+| UomId | Id dell'unità di misura \(di vendita o di imballo\) | text | 20 |
+| [UomType](salescontroldocument.md#uomtype) | Tipo dell'unità di misura \(di vendita o di imballo\) | enum |  |
 | Value | Valore \(vedi documentazione dei Controlli Commerciali\) | dec |  |
 
 ## AccountEncodingType
@@ -40,6 +53,10 @@ description: Controlli commerciali sui documenti di vendita
 * 0: Default
 * 1: DoNotShowValue
 
+## MultipleQuantity
+
+Se la quantità è 50 e la quantità multipla è 10, lo scaglione può essere applicato solo a quantità come 50, 60, 70, ... e non a quantità come 51, 52, ...
+
 ## SalesControlType
 
 * 0: None
@@ -51,3 +68,8 @@ description: Controlli commerciali sui documenti di vendita
 
 * 0: Error
 * 1: Warning
+
+## UomType
+
+* 0: SalesUom
+* 1: PackUom
