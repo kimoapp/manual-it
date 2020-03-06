@@ -7,11 +7,17 @@ description: Saldo punti vendita
 **Chiavi**
 
 * _Id_
-* AccountId, SalesAgentId
+* AccountEncodingType, AccountEncodingKey, SalesAgentId
 
 | Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
-| AccountId | Id del cliente | text | 50 |
+| AccountEncodingKey | Chiave identificativa per i clienti \(codice, gruppo, ...\) | text | 50 |
+| [AccountEncodingType](pointspersalebalance.md#accountencodingtype) | Tipo della chiave identificativa per i clienti | enum |  |
 | Id | Id | text | 50 |
 | Points | Punti | dec |  |
 | SalesAgentId | Id dell'agente | text | 50 |
+
+## AccountEncodingType
+
+* 0: Account
+* 1: CustomerDiscountGroup

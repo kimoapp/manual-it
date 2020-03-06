@@ -45,6 +45,10 @@ description: Promozioni
 | QuantityRange4\_Discount | Sconto | dec |  |
 | QuantityRange4\_ImposedUnitPrice | Prezzo unitario imposto | dec |  |
 | QuantityRange4\_Quantity | Quantità | dec |  |
+| SalesControlsForDocumentContributeTo | Lista dei controlli commerciali a cui contribuisce la promozione | text | 100 |
+| SalesControlsForDocumentLineContributeTo | Lista dei controlli commerciali a cui contribuisce la promozione | text | 100 |
+| SalesControlsForDocumentLineSubjectTo | Lista dei controlli commerciali a cui la promozione è soggetta | text | 100 |
+| SalesControlsForDocumentSubjectTo | Lista dei controlli commerciali a cui la promozione è soggetta | text | 100 |
 | SaleTypeId | Tipo vendita | text | 50 |
 | StartDate | Data inizio validità | date |  |
 
