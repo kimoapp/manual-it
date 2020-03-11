@@ -63,6 +63,8 @@ Se la quantità è 50 e la quantità multipla è 10, lo scaglione può essere ap
 * 1: Importo minimo
 * 2: Sconto medio totale massimo
 * 3: Importo massimo omaggiabile per promozione
+* 4: Sconto massimo di riga per quantità totale in documento
+* 5: Punti disponibili nel borsellino
 
 ## SeverityLevel
 

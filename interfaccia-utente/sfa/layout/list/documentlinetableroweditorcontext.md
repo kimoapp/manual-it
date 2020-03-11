@@ -52,6 +52,7 @@
 | OriginalPriceListInfo |  |
 | OriginalUnitPrice |  |
 | PackUnitQtyWithUom |  |
+| PointsPerSale |  |
 | PriceListInfo |  |
 | PromotionId |  |
 | PromotionStatusIcon |  |

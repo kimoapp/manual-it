@@ -7,7 +7,7 @@ description: Punti per la vendita di articoli
 **Chiavi**
 
 * _Id_
-* ItemEncodingType, ItemEncodingKey, AccountEncodingType, AccountEncodingKey, SalesUomId, UnitsPerPack, CurrencyId, StartDate, EndDate
+* ItemEncodingType, ItemEncodingKey, AccountEncodingType, AccountEncodingKey, UomType, UomId, CurrencyId, StartDate, EndDate
 
 | Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
@@ -24,9 +24,9 @@ description: Punti per la vendita di articoli
 | PointsPerPromotionSaleRule | Regola per calcolare i punti per vendita 'in promozione' | text | 100 |
 | PointsPerRegularSale | Punti per vendita 'normale' | dec |  |
 | PointsPerRegularSaleRule | Regola per calcolare i punti per vendita 'normale' | text | 100 |
-| SalesUomId | Id unità di misura di vendita | text | 50 |
 | StartDate | Data inizio validità | date |  |
-| UnitsPerPack | Unità per confezione | dec |  |
+| UomId | Id dell'unità di misura \(di vendita o di imballo\) | text | 50 |
+| [UomType](pointspersale.md#uomtype) | Tipo dell'unità di misura \(di vendita o di imballo\) | enum |  |
 
 ## AccountEncodingType
 
@@ -36,3 +36,8 @@ description: Punti per la vendita di articoli
 ## ItemEncodingType
 
 * 0: Item
+
+## UomType
+
+* 0: SalesUom
+* 1: PackUom

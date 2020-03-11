@@ -65,6 +65,8 @@
     * [MarketingForm](impostazioni/business-rules/marketingform.md)
     * [Password](impostazioni/business-rules/password.md)
     * [PendingEdits](impostazioni/business-rules/pendingedits.md)
+    * [PointsPerSaleBalance](impostazioni/business-rules/pointspersalebalance.md)
+    * [PointsPerSale](impostazioni/business-rules/pointspersale.md)
     * [PowerBI](impostazioni/business-rules/powerbi.md)
     * [PriceCalculation](impostazioni/business-rules/pricecalculation.md)
     * [Promotion](impostazioni/business-rules/promotion.md)

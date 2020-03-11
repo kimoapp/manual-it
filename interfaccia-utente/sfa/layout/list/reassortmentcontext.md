@@ -54,6 +54,7 @@
 | Document\_OriginalPriceListInfo |  |
 | Document\_OriginalUnitPrice |  |
 | Document\_PackUnitQtyWithUom |  |
+| Document\_PointsPerSale |  |
 | Document\_PriceListInfo |  |
 | Document\_PromotionId |  |
 | Document\_PromotionStatusIcon |  |
