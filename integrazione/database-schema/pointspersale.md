@@ -39,5 +39,6 @@ description: Punti per la vendita di articoli
 
 ## UomType
 
-* 0: SalesUom
+* 0: Undefined
 * 1: PackUom
+* 2: SalesUom

@@ -40,7 +40,6 @@ description: Righe dei controlli commerciali sui documenti di vendita
 | StartQuantityRange | Inizio Scaglione quantità | dec |  |
 | TrademarkId | Id del trademark | text | 50 |
 | UomId | Id dell'unità di misura \(di vendita o di imballo\) | text | 20 |
-| [UomType](salescontrolline.md#uomtype) | Tipo dell'unità di misura \(di vendita o di imballo\) | enum |  |
 | Value | Valore \(vedi documentazione dei Controlli Commerciali\) | dec |  |
 | VariableId1 | Id variante | text | 50 |
 | VariableId2 | Id variante | text | 50 |
@@ -61,8 +60,3 @@ description: Righe dei controlli commerciali sui documenti di vendita
 ## MultipleQuantity
 
 Se la quantità è 50 e la quantità multipla è 10, lo scaglione può essere applicato solo a quantità come 50, 60, 70, ... e non a quantità come 51, 52, ...
-
-## UomType
-
-* 0: SalesUom
-* 1: PackUom

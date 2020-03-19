@@ -7,7 +7,7 @@ description: Controlli commerciali sui documenti di vendita
 **Chiavi**
 
 * _Id_
-* SalesControlType, ChannelsEnabled, Target, SaleTypeTargetContributeTo, SaleTypeTargetSubjectTo, StartDate, EndDate
+* SalesControlType, ChannelsEnabled, Target, UomType, SaleTypeTargetContributeTo, SaleTypeTargetSubjectTo, StartDate, EndDate
 
 | Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
@@ -21,6 +21,7 @@ description: Controlli commerciali sui documenti di vendita
 | [SeverityLevel](salescontrol.md#severitylevel) | Livello di serietà | enum |  |
 | StartDate | Data inizio validità | date |  |
 | [Target](salescontrol.md#target) | Target del controllo commerciale | enum |  |
+| [UomType](salescontrol.md#uomtype) | Tipo dell'unità di misura \(di vendita o di imballo\) | enum |  |
 
 ## MessageVerbosityLevel
 
@@ -71,3 +72,11 @@ description: Controlli commerciali sui documenti di vendita
 * 1: Document
 * 2: DocumentLine
 * 3: Item
+* 4: PackUom
+* 5: SalesUom
+
+## UomType
+
+* 0: Undefined
+* 1: PackUom
+* 2: SalesUom

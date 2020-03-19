@@ -17,6 +17,7 @@ description: Filtri promozioni
 | Id | Id | text | 50 |
 | Included | Indica se l'entità specificata dai campi EncodingType ed EncodingKey è inclusa tra quelle a cui va applicata la promozione o esclusa | bool |  |
 | MaxGiftAmount |  | dec |  |
+| MinGiftAmount |  | dec |  |
 | PromotionId | Id della promozione | text | 50 |
 | StartDate | Data inizio validità | date |  |
 | WarehouseId1 | Id del magazzino | text | 50 |
