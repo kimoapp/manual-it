@@ -1,0 +1,4 @@
+# SalesControl
+
+| Valore | Descrizione |
+| :--- | :--- |

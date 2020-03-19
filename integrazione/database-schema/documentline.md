@@ -19,7 +19,8 @@ description:
 | CheckoutGlobalAvailability | Disponibilità Globale | dec |  |
 | CheckoutLogisticCenterAvailability | Disponibilità Polo Logistico | dec |  |
 | CheckoutWarehouseAvailability | Disponibilità Magazzino | dec |  |
-| CollectOnSite |  | bool |  |
+| CollectOnSite | Ritiro in sede \(al banco\) della merce | bool |  |
+| CollectOnSiteDateTime | Data/ora del ritiro della merce | date |  |
 | CreationDate | Data di creazione | dt |  |
 | CreatorId | Id dell'agente che ha creato il record | text | 50 |
 | CustomerGroupId | Id del gruppo cliente | text | 50 |

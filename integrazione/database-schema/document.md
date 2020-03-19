@@ -52,7 +52,8 @@ description:
 | CarrierId | Id del vettore | text | 50 |
 | [ChargeForUnpackaged](document.md#chargeforunpackaged) | Addebita fuori confezione \(sfusi\) | enum |  |
 | CigCode | Codice CIG | text | 50 |
-| CollectOnSite |  | bool |  |
+| CollectOnSite | Ritiro in sede \(al banco\) della merce | bool |  |
+| CollectOnSiteDateTime | Data/ora del ritiro della merce | date |  |
 | CreationDate | Data di creazione | dt |  |
 | CreatorId | Id dell'agente che ha creato il record | text | 50 |
 | CupCode | Codice Cup | text | 50 |

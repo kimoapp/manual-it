@@ -9,7 +9,7 @@
 ## AdvancedSearchFields
 
 **Tipo:** Valori separati da pipe  
-**Valore di default:** ItemGroupLevel1\|ItemGroupLevel2
+**Valore di default:** ShipmentSiteFilterMode\|ItemGroupLevel1\|ItemGroupLevel2
 
 ## KeywordSearchFields
 

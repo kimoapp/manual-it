@@ -113,8 +113,8 @@
 | [SalesAgent](salesagent.md) | Agenti |
 | [SalesAgentPerAccount](salesagentperaccount.md) | Associazione account - agenti |
 | [SalesConditionPriority](salesconditionpriority.md) | Priorità delle condizioni di vendita |
-| [SalesControlDocument](salescontroldocument.md) | Controlli commerciali sui documenti di vendita |
-| [SalesControlDocumentLine](salescontroldocumentline.md) | Controlli commerciali sulle righe dei documenti di vendita |
+| [SalesControl](salescontrol.md) | Controlli commerciali sui documenti di vendita |
+| [SalesControlLine](salescontrolline.md) | Righe dei controlli commerciali sui documenti di vendita |
 | [SalesDiscountCategory](salesdiscountcategory.md) | Categoria sconto vendita |
 | [SaleTypePerItem](saletypeperitem.md) | Tipi di vendita per articolo |
 | [Season](season.md) | Stagioni di vendita |

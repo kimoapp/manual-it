@@ -31,8 +31,9 @@ description: Righe promozioni
 | LineNumber | Numero riga | int |  |
 | Mandatory |  | bool |  |
 | MaxDiscount | Sconto massimo | dec |  |
-| MaxGiftAmount |  | dec |  |
+| MaxGiftAmount | Importo massimo omaggiabile | dec |  |
 | MaxQty | Quantità massima | dec |  |
+| MinGiftAmount | Importo minimo omaggiabile | dec |  |
 | MinQty | Quantità minima | dec |  |
 | [MultipleQty](promotionline.md#multipleqty) | Quantità multipla | dec |  |
 | NextSalesCondition | Prossima condizione di vendita da ricercare | text | 50 |
