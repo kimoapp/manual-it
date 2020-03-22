@@ -110,6 +110,20 @@ description: Documenti da Erp
 | RetailPriceListId | Id del listino retail | text | 50 |
 | SeasonId | Id della stagione | text | 50 |
 | ShipmentMethodId | Id che identifica il metodo di pagamento | text | 50 |
+| ShipmentSite2AddressCity | Città | text | 40 |
+| ShipmentSite2AddressCountry | Paese | text | 20 |
+| ShipmentSite2AddressCountrySubdivision | Provincia | text | 20 |
+| ShipmentSite2AddressLine | Indirizzo | text | 80 |
+| ShipmentSite2AddressPostCode | CAP | text | 20 |
+| ShipmentSite2Fax | Fax | text | 50 |
+| ShipmentSite2Id | Id | text | 50 |
+| ShipmentSite2Mail | Mail | text | 100 |
+| ShipmentSite2MobilePhone | Telefono mobile | text | 50 |
+| ShipmentSite2Name | Nome | text | 100 |
+| ShipmentSite2Name2 | Nome 2 | text | 100 |
+| ShipmentSite2Phone | Telefono | text | 100 |
+| ShipmentSite2ShouldRegisterOnErp | Indica se la destinazione merci va registra nell'Erp | bool |  |
+| [ShipmentSite2Type](erpdocument.md#shipmentsite2type) | Tipo | enum |  |
 | ShipmentSiteAddressCity | Città | text | 40 |
 | ShipmentSiteAddressCountry | Paese | text | 20 |
 | ShipmentSiteAddressCountrySubdivision | Provincia | text | 20 |
@@ -123,6 +137,7 @@ description: Documenti da Erp
 | ShipmentSiteName2 | Nome 2 | text | 100 |
 | ShipmentSitePhone | Telefono | text | 100 |
 | ShipmentSiteShouldRegisterOnErp | Indica se la destinazione merci va registra nell'Erp | bool |  |
+| [ShipmentSiteType](erpdocument.md#shipmentsitetype) | Tipo | enum |  |
 | SourceReference | Documento di origine | text | 50 |
 | [SourceReferenceType](erpdocument.md#sourcereferencetype) |  | enum |  |
 | StartShipmentDate | Data d'inizio della consegna | date |  |
@@ -135,6 +150,16 @@ description: Documenti da Erp
 | VatRateValue | Valore aliquota | dec |  |
 | WarehouseId | Id del magazzino | text | 50 |
 | ZoneId | Id della zona | text | 50 |
+
+## ShipmentSite2Type
+
+* 0: Account
+* 1: Warehouse
+
+## ShipmentSiteType
+
+* 0: Account
+* 1: Warehouse
 
 ## SourceReferenceType
 

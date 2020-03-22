@@ -2,6 +2,7 @@
 
 | Valore | Descrizione |
 | :--- | :--- |
+| [**FacetElementsSorting**](b2bitem.md#facetelementssorting) | Tipo di ordinamento dei valori dei facets |
 | [**Facets**](b2bitem.md#facets) | Facets |
 | [**FacetsWithoutOthersAggregation**](b2bitem.md#facetswithoutothersaggregation) | Facets su cui nascondere la voce "Altri" |
 | [**Filters**](b2bitem.md#filters) | Filtri |
@@ -11,6 +12,15 @@
 | [**SearchOperator**](b2bitem.md#searchoperator) | Operatore per la ricerca sul catalogo |
 | [**SearchType**](b2bitem.md#searchtype) | Tipo di ricerca sul catalogo |
 | [**SortFields**](b2bitem.md#sortfields) | Campi per l'ordinamento |
+
+## FacetElementsSorting
+
+**Tipo:** Enum  
+**Valore di default:** 0  
+**Valori:**
+
+* 0 =&gt; Alphabetical
+* 1 =&gt; Numeric
 
 ## Facets
 

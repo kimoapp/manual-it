@@ -72,8 +72,7 @@ description: Controlli commerciali sui documenti di vendita
 * 1: Document
 * 2: DocumentLine
 * 3: Item
-* 4: PackUom
-* 5: SalesUom
+* 4: Uom
 
 ## UomType
 

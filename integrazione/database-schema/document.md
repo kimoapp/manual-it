@@ -162,6 +162,7 @@ description:
 | ShipmentSite2Name2 | Nome 2 | text | 100 |
 | ShipmentSite2Phone | Telefono | text | 100 |
 | ShipmentSite2ShouldRegisterOnErp | Indica se la destinazione merci va registra nell'Erp | bool |  |
+| [ShipmentSite2Type](document.md#shipmentsite2type) | Tipo | enum |  |
 | ShipmentSiteAddressCity | Città | text | 40 |
 | ShipmentSiteAddressCountry | Paese | text | 20 |
 | ShipmentSiteAddressCountrySubdivision | Provincia | text | 20 |
@@ -175,6 +176,7 @@ description:
 | ShipmentSiteName2 | Nome 2 | text | 100 |
 | ShipmentSitePhone | Telefono | text | 100 |
 | ShipmentSiteShouldRegisterOnErp | Indica se la destinazione merci va registra nell'Erp | bool |  |
+| [ShipmentSiteType](document.md#shipmentsitetype) | Tipo | enum |  |
 | ShippingChargesAmount | Spese di spedizione | dec |  |
 | ShippingChargesVatRateId | Aliquota IVA per le spese di spedizione | text | 50 |
 | SourceReference | Documento di origine | text | 50 |
@@ -230,6 +232,16 @@ description:
 * 7: Editing
 * 8: UploadedToServer
 * 10: EditingPending
+
+## ShipmentSite2Type
+
+* 0: Account
+* 1: Warehouse
+
+## ShipmentSiteType
+
+* 0: Account
+* 1: Warehouse
 
 ## SourceReferenceType
 

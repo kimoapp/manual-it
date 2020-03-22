@@ -7,7 +7,7 @@ description: Righe dei controlli commerciali sui documenti di vendita
 **Chiavi**
 
 * _Id_
-* SalesControlId, AccountEncodingType, AccountEncodingKey, ItemEncodingType, ItemEncodingKey, VariableItemId, VariableId1, VariableValueId1, VariableId2, VariableValueId2, UomType, UomId, SalesAgentId, DocumentTypeId, SeasonId, TrademarkId, CurrencyId, PromotionId, StartDate, EndDate, StartQuantityRange, EndQuantityRange, StartAmountRange, EndAmountRange
+* SalesControlId, AccountEncodingType, AccountEncodingKey, ItemEncodingType, ItemEncodingKey, VariableItemId, VariableId1, VariableValueId1, VariableId2, VariableValueId2, UomId, SalesAgentId, DocumentTypeId, SeasonId, TrademarkId, CurrencyId, PromotionId, StartDate, EndDate, StartQuantityRange, EndQuantityRange, StartAmountRange, EndAmountRange
 
 | Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
