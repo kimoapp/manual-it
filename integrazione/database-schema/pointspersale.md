@@ -32,6 +32,7 @@ description: Punti per la vendita di articoli
 
 * 0: Account
 * 4: PriceList
+* 5: Composed
 
 ## ItemEncodingType
 

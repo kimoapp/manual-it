@@ -25,3 +25,4 @@ description: Articoli alternativi, sostitutivi o collegati
 * 1: Related
 * 2: Substitutive
 * 3: Alternative
+* 4: Grouped

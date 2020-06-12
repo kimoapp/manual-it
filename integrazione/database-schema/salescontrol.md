@@ -48,24 +48,27 @@ description: Controlli commerciali sui documenti di vendita
 
 * 0: Default
 * 1: RegularSale
-* 2: RegularSale\_WithUneditedPriceAndDiscount
-* 4: FreeGiftSale
+* 2: RegularSale\_WithEditedPriceAndDiscount
+* 4: FreeGiftSale\_NotInPromotion
 * 8: PromotionSale
-* 16: PromotionSale\_WithUneditedPriceAndDiscount
+* 16: PromotionSale\_NotFreeGift
+* 32: PromotionSale\_FreeGift
 
 ## SaleTypeTargetSubjectTo
 
 * 0: Default
 * 1: RegularSale
-* 2: RegularSale\_WithUneditedPriceAndDiscount
-* 4: FreeGiftSale
+* 2: RegularSale\_WithEditedPriceAndDiscount
+* 4: FreeGiftSale\_NotInPromotion
 * 8: PromotionSale
-* 16: PromotionSale\_WithUneditedPriceAndDiscount
+* 16: PromotionSale\_NotFreeGift
+* 32: PromotionSale\_FreeGift
 
 ## SeverityLevel
 
 * 0: Error
 * 1: Warning
+* 2: ApprovalRequired
 
 ## Target
 
@@ -73,6 +76,7 @@ description: Controlli commerciali sui documenti di vendita
 * 2: DocumentLine
 * 3: Item
 * 4: Uom
+* 5: ItemOrItemVariable
 
 ## UomType
 

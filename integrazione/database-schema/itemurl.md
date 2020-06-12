@@ -23,3 +23,6 @@ description: Risorse 'online' degli articoli (schede tecniche online, immagini, 
 * 0: Undefined
 * 1: Image
 * 2: OnlineForm
+* 3: Video
+* 4: Document
+* 5: Other

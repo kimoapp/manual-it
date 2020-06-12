@@ -16,6 +16,7 @@
 * [Partite Aperte / Insoluti](./#partite-aperte-insoluti)
 * [Promozioni](./#promozioni)
 * [Riassortimenti](./#riassortimenti)
+* [Statistiche](./#statistiche)
 
 ## Account (Clienti, Prospect, Destinazioni Merci)
 
@@ -201,5 +202,11 @@
 
 * **Informazioni**
   * [ *\{Reassortment\}*](reassortmentcontext.md)
+
+
+## Statistiche
+
+* **Drill-down**
+  * [ *\{StatisticsDrillDownTableRow\}*](statisticsdrilldowntablerowcontext.md)
 
 

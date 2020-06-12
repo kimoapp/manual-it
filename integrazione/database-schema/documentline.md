@@ -66,6 +66,7 @@ description:
 | LineMarkup | Ricarico | dec |  |
 | LineMarkupOnNetCost | Margine | dec |  |
 | LineNumber | Riga documento | int |  |
+| [LineStatus](documentline.md#linestatus) | Stato della riga | enum |  |
 | [LineType](documentline.md#linetype) | Tipo riga | enum |  |
 | ManufacturerId | Id del produttore | text | 50 |
 | ManufacturerItemId | Id dell'articolo produttore | text | 50 |
@@ -152,6 +153,11 @@ description:
 
 * 0: No
 * 1: Yes
+
+## LineStatus
+
+* 0: Regular
+* 1: ApprovalRequired
 
 ## LineType
 

@@ -62,6 +62,7 @@
 | NumberOfPacksStepperPlus |  |
 | OriginalDiscounts |  |
 | OriginalNetUnitPrice |  |
+| OriginalNetUnitPriceVsNetUnitPricePercentage |  |
 | OriginalUnitPrice |  |
 | PackUnitQty |  |
 | PackUnitUom |  |

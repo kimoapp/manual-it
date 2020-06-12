@@ -146,6 +146,7 @@
         * [ReceivableInstallmentsMultipleCashEditor](interfaccia-utente/sfa/layout/list/receivableinstallmentsmultiplecasheditorcontext.md)
         * [SalesConditionForDocumentLineSelector](interfaccia-utente/sfa/layout/list/salesconditionfordocumentlineselectorcontext.md)
         * [ShipmentSiteEditor](interfaccia-utente/sfa/layout/list/shipmentsiteeditorcontext.md)
+        * [StatisticsDrillDownTableRow](interfaccia-utente/sfa/layout/list/statisticsdrilldowntablerowcontext.md)
     * [Scenari](interfaccia-utente/sfa/scenari-e-ordinamenti.md)
     * [Immagine di sfondo su Home Page](interfaccia-utente/sfa/immagine-di-sfondo-su-home-page.md)
     * [Immagine personalizzata per login](interfaccia-utente/sfa/immagine-personalizzata-per-login.md)

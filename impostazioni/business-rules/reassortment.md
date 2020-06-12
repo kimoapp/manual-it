@@ -5,6 +5,7 @@
 | [**AdvancedSearchFields**](reassortment.md#advancedsearchfields) | Campi per la ricerca avanzata |
 | [**KeywordSearchFields**](reassortment.md#keywordsearchfields) | Campi per la ricerca testuale |
 | [**ShipmentSiteFilterMode**](reassortment.md#shipmentsitefiltermode) | Indica se i riassortimenti devono essere filtrati o meno per la destinazione merci |
+| [**ShowItemInDocumentMode**](reassortment.md#showitemindocumentmode) | Indica la modalità con cui mostrare se un articolo è già stato inserito nei documenti di vendita |
 
 ## AdvancedSearchFields
 
@@ -36,3 +37,12 @@
 
 * 0 =&gt; DoNotFilterByShipmentSite
 * 1 =&gt; FilterByShipmentSite
+
+## ShowItemInDocumentMode
+
+**Tipo:** Enum  
+**Valore di default:** 0  
+**Valori:**
+
+* 0 =&gt; ByItem
+* 1 =&gt; ByReassortmentLine

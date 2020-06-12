@@ -145,6 +145,9 @@ description:
 | RetailAmount | Totale documento | dec |  |
 | RetailAmountIncludingVat | Totale documento incluso di IVA | dec |  |
 | RetailPriceListId | Id del listino retail | text | 50 |
+| ReviewerId | Id dell'utente che ha effettuato la review \(documento approvato/rifiutato\) | text | 50 |
+| ReviewTimeStamp | Data/ora della review | dt |  |
+| SalesAgentId | Id dell'agente' | text | 50 |
 | SeasonGroupId | Id del gruppo stagioni | text | 50 |
 | SeasonId | Id della stagione | text | 50 |
 | ShipmentDescription | Descrizione spedizione | text | text |
@@ -219,6 +222,7 @@ description:
 * 1: Confirmed
 * 2: SalesQuoteTransformedToOrder
 * 3: Archived
+* 4: ApprovalRequired
 
 ## EntityStatus
 

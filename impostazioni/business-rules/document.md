@@ -4,6 +4,7 @@
 | :--- | :--- |
 | [**CanSkipSalesControlsValidationsUsingUnlockCode**](document.md#canskipsalescontrolsvalidationsusingunlockcode) |  |
 | [**CigCodeMandatoryIfIsFatturaPA**](document.md#cigcodemandatoryifisfatturapa) | Il Codice Identificativo Gara è obbligatorio se il tipo di documento è FatturaPA |
+| [**CollectOnSiteIsMandatoryToChangeWarehouse**](document.md#collectonsiteismandatorytochangewarehouse) | Può essere modificato il magazzino solo se si utilizza il ritiro al banco |
 | [**CupCodeMandatoryIfIsFatturaPA**](document.md#cupcodemandatoryifisfatturapa) | Il Codice Unico di Progetto è obbligatorio se il tipo di documento è FatturaPA |
 | [**DatesPolicy**](document.md#datespolicy) | Policy di inizializzazione e gestione delle date del documento |
 | [**DaysToAddToDocumentDateForDeliveryDate**](document.md#daystoaddtodocumentdatefordeliverydate) | Giorni da aggiungere alla data del documento per calcolare la data di consegna |
@@ -16,6 +17,7 @@
 | [**ShipmentSiteIsMandatoryIfCustomerHasAtLeastOne**](document.md#shipmentsiteismandatoryifcustomerhasatleastone) | La destinazioni merci deve essere selezionata se il cliente ne ha almeno una |
 | [**ShouldApplyShipmentParamsOnDocumentLine**](document.md#shouldapplyshipmentparamsondocumentline) | Indica se i parametri di spedizione devono essere applicati alle linee del documento |
 | [**ShouldAskArchivingReason**](document.md#shouldaskarchivingreason) | Indica se deve essere richiesta la causale di archiviazione |
+| [**ShouldUpdateDeliveryDateAccordingToFulfillmentDate**](document.md#shouldupdatedeliverydateaccordingtofulfillmentdate) | Ricalcola la data di consegna in base alla data di evadibilità della merce |
 | [**TakeShipmentSiteAsDefaultIfHasOnlyOne**](document.md#takeshipmentsiteasdefaultifhasonlyone) | Se è presente una sola destinazione merci per un cliente, viene selezionata di default all'interno dei documenti |
 | [**VisibleDiscounts**](document.md#visiblediscounts) | Indica gli sconti da visualizzare all'interno dell'editor documento |
 | [**VisibleLineDiscounts**](document.md#visiblelinediscounts) | Indica gli sconti da visualizzare all'interno dell'editor delle linee di un documento |
@@ -27,6 +29,10 @@
 **Tipo:** Boolean
 
 ## CigCodeMandatoryIfIsFatturaPA
+
+**Tipo:** Boolean
+
+## CollectOnSiteIsMandatoryToChangeWarehouse
 
 **Tipo:** Boolean
 
@@ -77,6 +83,10 @@
 **Tipo:** Boolean
 
 ## ShouldAskArchivingReason
+
+**Tipo:** Boolean
+
+## ShouldUpdateDeliveryDateAccordingToFulfillmentDate
 
 **Tipo:** Boolean
 

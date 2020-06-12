@@ -7,6 +7,7 @@
 | [**FacetsWithoutOthersAggregation**](b2bitem.md#facetswithoutothersaggregation) | Facets su cui nascondere la voce "Altri" |
 | [**Filters**](b2bitem.md#filters) | Filtri |
 | [**FuzzinessPrefixLength**](b2bitem.md#fuzzinessprefixlength) | Numero di caratteri iniziali da non considerare come errori di digitazione |
+| [**GroupByAssociatedItems**](b2bitem.md#groupbyassociateditems) | Indica se nei risultati della ricerca gli articoli debbono essere mostrati raggruppati |
 | [**KeywordSearchFields**](b2bitem.md#keywordsearchfields) | Campi per la ricerca testuale |
 | [**KeywordSearchFieldsWithWeight**](b2bitem.md#keywordsearchfieldswithweight) | Campi per la ricerca testuale pesata |
 | [**SearchOperator**](b2bitem.md#searchoperator) | Operatore per la ricerca sul catalogo |
@@ -57,6 +58,10 @@
 
 **Tipo:** Int32  
 **Valore di default:** 0
+
+## GroupByAssociatedItems
+
+**Tipo:** Boolean
 
 ## KeywordSearchFields
 

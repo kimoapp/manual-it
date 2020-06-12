@@ -3,6 +3,12 @@
 **Context:** DocumentsSearchContext  
 **Default Layout:** DocumentsSearchLayout
 
+## Contesti
+
+| Id | Descrizione |
+| :--- | :--- |
+| ApprovalWorkflow |  |
+
 ## Campi
 
 | Id | Descrizione |
@@ -29,6 +35,8 @@
 | FreeText1 \[1..5\] |  |
 | HasRelatedActivitiesSymbol |  |
 | Number |  |
+| SalesAgentDescription |  |
+| SalesAgentId |  |
 | Season |  |
 | ShipmentSiteAddress |  |
 | ShipmentSiteCity |  |
