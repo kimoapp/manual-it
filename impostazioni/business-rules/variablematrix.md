@@ -11,15 +11,11 @@
 | [**Document\_RowHeaderTemplate**](variablematrix.md#document_rowheadertemplate) | Template del testo visualizzato nell'intestazione delle righe |
 | [**EnableVirtualAvailability**](variablematrix.md#enablevirtualavailability) | Abilita la disponibilità virtuale |
 | [**IndicatorHeight**](variablematrix.md#indicatorheight) | Altezza degli indicatori situati nella casella delle quantità \(es. per mostrare la disponibilità\) |
-| [**IndicatorWidth**](variablematrix.md#indicatorwidth) | Larghezza degli indicatori situati nella casella delle quantità \(es. per mostrare la disponibilità\) |
+| [**IndicatorsDisposition**](variablematrix.md#indicatorsdisposition) | Disposizione degli indicatori \(es. per mostrare la disponibilità\) |
 | [**InfoPaneHeight**](variablematrix.md#infopaneheight) | Altezza del pannello informativo |
 | [**RowHeaderCellWidth**](variablematrix.md#rowheadercellwidth) | Larghezza dell'intestazione delle colonne |
 | [**ValueCellHeight**](variablematrix.md#valuecellheight) | Altezza dalle caselle contenenti la quantità |
 | [**ValueCellWidth**](variablematrix.md#valuecellwidth) | Larghezza dalle caselle contenenti la quantità |
-| [**ZoneLeftBottomValueType**](variablematrix.md#zoneleftbottomvaluetype) | Tipo di dato visualizzato in basso a sinistra nella casella delle quantità \(es. per mostrare la disponibilità\) |
-| [**ZoneLeftTopValueType**](variablematrix.md#zonelefttopvaluetype) | Tipo di dato visualizzato in alto a sinistra nella casella delle quantità \(es. per mostrare la disponibilità\) |
-| [**ZoneRightBottomValueType**](variablematrix.md#zonerightbottomvaluetype) | Tipo di dato visualizzato in basso a destra nella casella delle quantità \(es. per mostrare la disponibilità\) |
-| [**ZoneRightTopValueType**](variablematrix.md#zonerighttopvaluetype) | Tipo di dato visualizzato in alto a destra nella casella delle quantità \(es. per mostrare la disponibilità\) |
 
 ## BackgroundStyle
 
@@ -64,9 +60,9 @@
 
 **Tipo:** Int32
 
-## IndicatorWidth
+## IndicatorsDisposition
 
-**Tipo:** Int32
+**Tipo:** String
 
 ## InfoPaneHeight
 
@@ -83,67 +79,3 @@
 ## ValueCellWidth
 
 **Tipo:** Int32
-
-## ZoneLeftBottomValueType
-
-**Tipo:** Enum  
-**Valori:**
-
-* 0 =&gt; None
-* 1 =&gt; Availability\_Warehouse
-* 2 =&gt; Availability\_Global
-* 3 =&gt; Availability\_Calculated
-* 4 =&gt; Availability\_ErpStatus1
-* 5 =&gt; Availability\_ErpStatus2
-* 6 =&gt; Availability\_ErpStatus3
-* 7 =&gt; ItemVariable\_FreeText1
-* 8 =&gt; ItemVariable\_FreeText2
-* 9 =&gt; Availability\_FreeText
-
-## ZoneLeftTopValueType
-
-**Tipo:** Enum  
-**Valori:**
-
-* 0 =&gt; None
-* 1 =&gt; Availability\_Warehouse
-* 2 =&gt; Availability\_Global
-* 3 =&gt; Availability\_Calculated
-* 4 =&gt; Availability\_ErpStatus1
-* 5 =&gt; Availability\_ErpStatus2
-* 6 =&gt; Availability\_ErpStatus3
-* 7 =&gt; ItemVariable\_FreeText1
-* 8 =&gt; ItemVariable\_FreeText2
-* 9 =&gt; Availability\_FreeText
-
-## ZoneRightBottomValueType
-
-**Tipo:** Enum  
-**Valori:**
-
-* 0 =&gt; None
-* 1 =&gt; Availability\_Warehouse
-* 2 =&gt; Availability\_Global
-* 3 =&gt; Availability\_Calculated
-* 4 =&gt; Availability\_ErpStatus1
-* 5 =&gt; Availability\_ErpStatus2
-* 6 =&gt; Availability\_ErpStatus3
-* 7 =&gt; ItemVariable\_FreeText1
-* 8 =&gt; ItemVariable\_FreeText2
-* 9 =&gt; Availability\_FreeText
-
-## ZoneRightTopValueType
-
-**Tipo:** Enum  
-**Valori:**
-
-* 0 =&gt; None
-* 1 =&gt; Availability\_Warehouse
-* 2 =&gt; Availability\_Global
-* 3 =&gt; Availability\_Calculated
-* 4 =&gt; Availability\_ErpStatus1
-* 5 =&gt; Availability\_ErpStatus2
-* 6 =&gt; Availability\_ErpStatus3
-* 7 =&gt; ItemVariable\_FreeText1
-* 8 =&gt; ItemVariable\_FreeText2
-* 9 =&gt; Availability\_FreeText

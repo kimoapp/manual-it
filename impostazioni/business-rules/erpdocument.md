@@ -16,6 +16,7 @@
 * ErpDocumentType
 * ErpLineFreeLookup
 * ErpStatus
+* FreeLookup
 * Item
 * SearchType
 

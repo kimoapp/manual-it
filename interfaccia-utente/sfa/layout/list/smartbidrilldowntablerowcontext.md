@@ -1,7 +1,7 @@
-# StatisticsDrillDownTableRow
+# SmartBIDrillDownTableRow
 
-**Context:** StatisticsDrillDownTableRowContext  
-**Default Layout:** StatisticsDrillDownTableRowLayout, StatisticsDrillDown\_SalesAgent, StatisticsDrillDown\_CustomerGroup, StatisticsDrillDown\_Account, StatisticsDrillDown\_Item
+**Context:** SmartBIDrillDownTableRowContext  
+**Default Layout:** SmartBIDrillDownTableRowLayout
 
 ## Campi
 
@@ -15,17 +15,18 @@
 | CustomerDiscountGroupId |  |
 | CustomerGroupDescription |  |
 | CustomerGroupId |  |
-| Description |  |
 | ItemDescription |  |
 | ItemId |  |
 | LinesAmount |  |
-| LinesAmountPerYear\_Delta1 \[1..4\] |  |
-| LinesAmountPerYear\_DeltaPercentual1 \[1..4\] |  |
-| LinesAmountPerYear1 \[1..4\] |  |
+| LinesAmountPerYear\_Delta1 \[1..5\] |  |
+| LinesAmountPerYear\_DeltaPercentual1 \[1..5\] |  |
+| LinesAmountPerYear1 \[1..5\] |  |
 | LinesErpStatus1 \[1..3\] |  |
 | LinesFreeDecimal1 \[1..10\] |  |
-| LinesProgress |  |
-| LinesSalesQty |  |
+| LinesNumbersOfPacks |  |
+| LinesNumbersOfPacksPerYear1 \[1..5\] |  |
+| LinesSalesQtys |  |
+| LinesSalesQtysPerYear1 \[1..5\] |  |
 | ManufacturerId |  |
 | ManufacturerItemId |  |
 | Month |  |

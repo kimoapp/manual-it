@@ -16,7 +16,7 @@
 * [Partite Aperte / Insoluti](./#partite-aperte-insoluti)
 * [Promozioni](./#promozioni)
 * [Riassortimenti](./#riassortimenti)
-* [Statistiche](./#statistiche)
+* [Smart BI](./#smart-bi)
 
 ## Account (Clienti, Prospect, Destinazioni Merci)
 
@@ -204,9 +204,9 @@
   * [ *\{Reassortment\}*](reassortmentcontext.md)
 
 
-## Statistiche
+## Smart BI
 
 * **Drill-down**
-  * [ *\{StatisticsDrillDownTableRow\}*](statisticsdrilldowntablerowcontext.md)
+  * [ *\{SmartBIDrillDownTableRow\}*](smartbidrilldowntablerowcontext.md)
 
 
