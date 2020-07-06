@@ -33,7 +33,9 @@ Le Impostazioni di sistema \(Server System Settings\) definiscono alcuni paramet
       <td style="text-align:left">string</td>
     </tr>
   </tbody>
-</table>### Impostazioni mail server
+</table>
+
+### Impostazioni mail server
 
 | Chiave | Descrizione | Tipo |
 | :--- | :--- | :--- |
@@ -96,7 +98,9 @@ Le Impostazioni di sistema \(Server System Settings\) definiscono alcuni paramet
       <td style="text-align:left">string</td>
     </tr>
   </tbody>
-</table>### Impo~~s~~tazioni Thumbnail
+</table>
+
+### Impo~~s~~tazioni Thumbnail
 
 | Chiave | Descrizione | Tipo |
 | :--- | :--- | :--- |
@@ -167,3 +171,4 @@ Le Impostazioni di sistema \(Server System Settings\) definiscono alcuni paramet
     </tr>
   </tbody>
 </table>
+

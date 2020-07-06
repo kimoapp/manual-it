@@ -7,3 +7,4 @@
 ## GoogleMapKeys
 
 **Tipo:** Valori separati da pipe
+

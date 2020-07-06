@@ -26,3 +26,4 @@
 
 **Tipo:** Valori separati da pipe  
 **Valore di default:** Number\|AccountName\|AccountName2
+

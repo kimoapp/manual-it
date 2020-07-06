@@ -25,7 +25,7 @@ Altre entità relazionate all'Articolo sono:
 | [ItemLotOfflineAvailability](../../integrazione/database-schema/itemlotofflineavailability.md) | Disponibilità 'offline' dei lotti |
 | [ItemOfflineAvailability](../../integrazione/database-schema/itemofflineavailability.md) | Disponibilità 'offline' degli articoli |
 | [ItemSeries](../../integrazione/database-schema/itemseries.md) | Serie articolo |
-| [ItemSpecification](../../integrazione/database-schema/itemspecification.md) | Specifiche tecniche degli articoli |
+| [ItemSpecification]() | Specifiche tecniche degli articoli |
 | [ItemSpecificationValue](../../integrazione/database-schema/itemspecificationvalue.md) | Valori delle specifiche tecniche degli articoli |
 | [ItemTranslation](../../integrazione/database-schema/itemtranslation.md) | Traduzioni in lingua dei FreeLookup |
 | [ItemUom](../../integrazione/database-schema/itemuom.md) | Unità di misura degli articoli |

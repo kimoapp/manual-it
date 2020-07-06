@@ -76,7 +76,9 @@ Contesto =  \["Family=2", "Type=INITIAL"\] indica che il metadato si applica all
       </td>
     </tr>
   </tbody>
-</table>#### Origine
+</table>
+
+#### Origine
 
 L'attributo definisce l'applicazione del metadato in base all'origine del dato.  
 Il parametro può assumere i seguenti valori: 

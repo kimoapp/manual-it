@@ -72,7 +72,9 @@ Parametri supportati:
       <td style="text-align:left">No</td>
     </tr>
   </tbody>
-</table>{% hint style="warning" %}
+</table>
+
+{% hint style="warning" %}
 Se il codice articolo contiene caratteri "particolari" \(es. spazi, punti, ...\) va codificato secondo lo standard di codifica degi url [https://www.w3schools.com/tags/ref\_urlencode.asp](https://www.w3schools.com/tags/ref_urlencode.asp)  
 Ad esempio il codice articolo "ARTICOLO A" diventa "ARTICOLO%20A".
 {% endhint %}

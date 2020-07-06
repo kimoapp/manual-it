@@ -32,8 +32,7 @@ Di seguito riportiamo un grafico che  visualizza delle statistiche, calcolate su
 Il json ricevuto in input, deve rispettare le regole standard di validazione, altrimenti non è possibile deserializzarlo e successivamente andarlo a visualizzare.  
 Di seguito riportiamo alcuni esempi di json  nel formato atteso:
 
-{% code-tabs %}
-{% code-tabs-item title="Json con singolo array di oggetti" %}
+{% code title="Json con singolo array di oggetti" %}
 ```javascript
 {
   "Statistiche": [
@@ -60,11 +59,9 @@ Di seguito riportiamo alcuni esempi di json  nel formato atteso:
   ]
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
-{% code-tabs %}
-{% code-tabs-item title="Json con più array" %}
+{% code title="Json con più array" %}
 ```javascript
 {
   "ReportCustomersTot": [
@@ -113,11 +110,9 @@ Di seguito riportiamo alcuni esempi di json  nel formato atteso:
   ]
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
-{% code-tabs %}
-{% code-tabs-item title="Json alla base dell\'esempio proposto" %}
+{% code title="Json alla base dell\'esempio proposto" %}
 ```javascript
 {
   "anno0": 2018,
@@ -231,6 +226,5 @@ Di seguito riportiamo alcuni esempi di json  nel formato atteso:
   ]
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
