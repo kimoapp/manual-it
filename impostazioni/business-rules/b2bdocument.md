@@ -13,7 +13,7 @@
 **Valori:**
 
 * 0 =&gt; Usa l'Id del carrello come numero del documento
-* 1 =&gt; Genera un numero sequenziale il base al tipo di documento
+* 1 =&gt; Genera un numero sequenziale in base al tipo di documento
 
 ## DocumentsFromCartFactory
 
@@ -21,6 +21,7 @@
 **Valore di default:** Standard  
 **Valori:**
 
+* Febos
 * SplitByTrademarkAndSeason
 * Standard
 * Wald
@@ -28,4 +29,3 @@
 ## GetDocumentTypeIdForCart
 
 **Tipo:** String
-

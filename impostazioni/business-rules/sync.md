@@ -12,4 +12,3 @@
 ## WarningHoursWithoutSync
 
 **Tipo:** Int32
-

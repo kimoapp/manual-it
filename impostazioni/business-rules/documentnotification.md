@@ -107,4 +107,3 @@
 ## SendOnConfirmed
 
 **Tipo:** Boolean
-

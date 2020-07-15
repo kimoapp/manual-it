@@ -29,10 +29,14 @@
 **Valori:**
 
 * ErpStatus
+* FreeBoolean
 * FreeLookup
+* ItemCollection
 * ItemGroups
+* ItemLine
 * ItemSpecificationGroups
-* Manufactuerer
+* Manufacturer
+* Season
 * Trademark
 
 ## FacetsWithoutOthersAggregation
@@ -41,10 +45,14 @@
 **Valori:**
 
 * ErpStatus
+* FreeBoolean
 * FreeLookup
+* ItemCollection
 * ItemGroups
+* ItemLine
 * ItemSpecificationGroups
-* Manufactuerer
+* Manufacturer
+* Season
 * Trademark
 
 ## Filters
@@ -98,4 +106,3 @@
 
 * Item.Description
 * Item.Id
-

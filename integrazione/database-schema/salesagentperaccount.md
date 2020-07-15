@@ -14,4 +14,3 @@ description: Associazione account - agenti
 | AccountId | Id del cliente | text | 50 |
 | Id | Id | text | 50 |
 | SalesAgentId | Id dell'agente | text | 50 |
-

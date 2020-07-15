@@ -15,4 +15,3 @@ description: Agenzia bancaria
 | Cab | Codice CAB | text | 5 |
 | Id | Id | text | 50 |
 | Name | Nome Banca | text | 100 |
-
