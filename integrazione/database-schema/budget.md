@@ -33,6 +33,9 @@ description: Budget
 | FreeText3 | Campo testo libero | text | text |
 | Id | Id | text | 50 |
 | IsDeleted | Indica se il record è stato cancellato | bool |  |
+| ItemCollectionId | Id della collezione articolo | text | 50 |
+| ItemLineId | Id della line articolo | text | 50 |
+| ItemSeriesId | Id della serie articolo | text | 50 |
 | LastModifiedTimeStamp | Data dell'ultima modifica | dt |  |
 | LastModifiedUserId | Id dell'agente che ha effettuato l'ultima modifica | text | 50 |
 | Quantity | Quantità | dec |  |

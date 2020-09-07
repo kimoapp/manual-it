@@ -21,14 +21,18 @@ description: Account (clienti, prospect, destinazioni merci)
 | BankCab | Codice CAB | text | 5 |
 | BankCc | Codice CC | text | 20 |
 | BankCin | Codice CIN | text | 1 |
+| BankCountryCode | Codice del paese | text | 5 |
 | BankIban | Codice IBAN | text | 50 |
+| BankIbanCheckDigits | Check digits dell'IBAN | text | 5 |
 | CarrierId | Id del vettore | text | 50 |
 | CertifiedMail | Mail certificata \(PEC - Posta Elettronica Certificata | text | 100 |
 | [ChargeForUnpackaged](account.md#chargeforunpackaged) | Addebita fuori confezione \(sfusi\) | enum |  |
+| CigCode | Codice CIG | text | 50 |
 | ContactInfo | Info di contatto del cliente | text | text |
 | CreationDate | Data di creazione | dt |  |
 | [CreationReason](account.md#creationreason) | Indica se è un nuovo cliente, se è un cliente modificato o se è stato creato un cliente a partire da un prospect | enum |  |
 | CreatorId | Id dell'agente che ha creato il record | text | 50 |
+| CupCode | Codice Cup | text | 50 |
 | CurrencyId | Id della valuta | text | 50 |
 | CustomerDiscountGroupId | Id del gruppo sconti cliente | text | 50 |
 | CustomerGroupId | Id del gruppo cliente | text | 50 |
@@ -108,6 +112,7 @@ description: Account (clienti, prospect, destinazioni merci)
 | RegistrationDocumentTypeId | Id del tipo di documento di registrazione | text | 50 |
 | ResponsibleForTransportId | Id per il responsabile del trasporto | text | 50 |
 | RetailPriceListId | Id del listino retail associato al cliente | text | 50 |
+| SalesAgentId | Id dell'agente di riferimento | text | 50 |
 | ShipmentMethodId | Id del metodo di consegna \(porto\) | text | 50 |
 | StatisticClassId | Id della classe statistica | text | 50 |
 | SyncReference | Riferimento | text | 50 |

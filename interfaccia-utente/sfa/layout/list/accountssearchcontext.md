@@ -70,5 +70,7 @@ description: Ricerca account
 | OpeningDays | Giorni di apertura |
 | Payments |  |
 | Phone | Telefono |
+| SalesAgentDescription |  |
+| SalesAgentId | Id dell'agente di riferimento |
 | UnpaidInstallmentsAmount | Indica l'importo degli insoluti del cliente |
 

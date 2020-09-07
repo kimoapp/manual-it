@@ -29,7 +29,9 @@ description: Documenti da Erp
 | BankCab | Codice CAB | text | 5 |
 | BankCc | Codice CC | text | 20 |
 | BankCin | Codice CIN | text | 1 |
+| BankCountryCode | Codice del paese | text | 5 |
 | BankIban | Codice IBAN | text | 50 |
+| BankIbanCheckDigits | Check digits dell'IBAN | text | 5 |
 | BankShouldRegisterOnErp | Indica se il conto corrente va registro nell'Erp | bool |  |
 | BillingAccountAddressCity | Città | text | 40 |
 | BillingAccountAddressCountry | Paese | text | 20 |
@@ -108,6 +110,7 @@ description: Documenti da Erp
 | RegistrationDocumentTypeId | Id del tipo di documento di registrazione | text | 50 |
 | ResponsibleForTransportId | Id del responsabile di trasporto | text | 50 |
 | RetailPriceListId | Id del listino retail | text | 50 |
+| SalesAgentId | Id dell'agente | text | 50 |
 | SeasonId | Id della stagione | text | 50 |
 | ShipmentMethodId | Id che identifica il metodo di pagamento | text | 50 |
 | ShipmentSite2AddressCity | Città | text | 40 |

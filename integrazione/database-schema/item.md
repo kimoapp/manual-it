@@ -46,7 +46,6 @@ description: Articoli
 | ItemGroupLevel3Id | Id gruppo articoli livello 3 | text | 50 |
 | ItemGroupLevel4Id | Id gruppo articoli livello 4 | text | 50 |
 | ItemSeriesId | Id serie articolo | text | 50 |
-| ItemSpecificationGroupId | Id della classificazione delle specifiche | text | 50 |
 | [ItemType](item.md#itemtype) | Tipo articolo | enum |  |
 | LeadTime | Tempo di approvvigionamento | int |  |
 | LineId | Id della linea | text | 50 |

@@ -7,7 +7,7 @@ description: Risorse 'online' degli articoli (schede tecniche online, immagini, 
 **Chiavi**
 
 * _Id_
-* ItemId, UrlTypeId, Url
+* ItemId, VariableId1, VariableValueId1, UrlTypeId, Url
 
 | Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
@@ -17,6 +17,8 @@ description: Risorse 'online' degli articoli (schede tecniche online, immagini, 
 | Priority |  | int |  |
 | Url | Url collegato all'articolo | text | 500 |
 | [UrlTypeId](itemurl.md#urltypeid) |  | enum |  |
+| VariableId1 | Id Variante 1 | text | 50 |
+| VariableValueId1 | Valore Variante 1 | text | 50 |
 
 ## UrlTypeId
 

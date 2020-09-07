@@ -15,6 +15,8 @@ description: Banche di un account
 | BankCab | Codice CAB | text | 5 |
 | BankCc | Codice CC | text | 20 |
 | BankCin | Codice CIN | text | 1 |
+| BankCountryCode | Codice del paese | text | 5 |
 | BankIban | Codice IBAN | text | 50 |
+| BankIbanCheckDigits | Check digits dell'IBAN | text | 5 |
 | Id | Id | text | 50 |
 | Priority | Indica la priorità di selezione della banca | int |  |

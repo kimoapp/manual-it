@@ -6,6 +6,7 @@
 | [AccountAccountingInfo](accountaccountinginfo.md) | Scheda contabile di un account |
 | [AccountBank](accountbank.md) | Banche di un account |
 | [AccountFilter](accountfilter.md) | \[OBSOLETO - usare i FreeLookup\] Filtro 'generico' per un cliente |
+| [AccountPerPromotionCustomerGroup](accountperpromotioncustomergroup.md) | Associazione Account - PromotionCustomerGroup |
 | [Activity](activity.md) | Attività |
 | [ActivityAssignee](activityassignee.md) | Utenti a cui è stata assegnata l'attività |
 | [ActivityType](activitytype.md) | Tipi di attività |
@@ -72,6 +73,7 @@
 | [ItemSpecificationFieldValue](itemspecificationfieldvalue.md) | Valori predefiniti per le specifiche tecniche degli articoli |
 | [ItemSpecificationGroup](itemspecificationgroup.md) | Classificazioni |
 | [ItemSpecificationGroupTranslation](itemspecificationgrouptranslation.md) | Traduzioni in lingua delle classificazioni |
+| [ItemSpecificationItemPerGroup](itemspecificationitempergroup.md) | Associazione Classificazioni - Articoli |
 | [ItemSpecificationValue](itemspecificationvalue.md) | Valori delle specifiche tecniche degli articoli |
 | [ItemTranslation](itemtranslation.md) | Traduzioni in lingua dei FreeLookup |
 | [ItemUom](itemuom.md) | Unità di misura degli articoli |
@@ -102,6 +104,7 @@
 | [PriceList](pricelist.md) | Listini prezzi |
 | [PricePerQuantityRange](priceperquantityrange.md) | Prezzi per scaglione quantità |
 | [Promotion](promotion.md) | Promozioni |
+| [PromotionCustomerGroup](promotioncustomergroup.md) | Gruppi promozione clienti |
 | [PromotionFilter](promotionfilter.md) | Filtri promozioni |
 | [PromotionLine](promotionline.md) | Righe promozioni |
 | [Reassortment](reassortment.md) | Riassortimenti |
@@ -123,6 +126,8 @@
 | [ShipmentMethod](shipmentmethod.md) | Porto \(metodo di spedizione\) |
 | [ShipmentParamsPerDocument](shipmentparamsperdocument.md) | Parametri per la spedizione di un documento di vendita |
 | [ShippingCharge](shippingcharge.md) | Spese di spedizione |
+| [SirioItemSalesClassification](sirioitemsalesclassification.md) | Classificazioni di vendita nell'Erp Sirio |
+| [SirioSalesCondition](siriosalescondition.md) | Condizioni di vendita nell'Erp Sirio |
 | [StatisticClass](statisticclass.md) | Classi statistiche |
 | [StatisticReport](statisticreport.md) | Report statistici |
 | [Title](title.md) | Titolo di una persona \(es. Dott., Ing., ...\) |

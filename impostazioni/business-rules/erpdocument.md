@@ -18,6 +18,7 @@
 * ErpStatus
 * FreeLookup
 * Item
+* SalesAgent
 * SearchType
 
 ## FilterPerUser

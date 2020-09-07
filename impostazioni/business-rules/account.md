@@ -26,6 +26,7 @@
 * PlaceFreeText
 * PlaceType
 * ProspectStatus =&gt; Tipo di account \(prospect, cliente, ...\)
+* SalesAgent
 * StatisticClass
 * Zone
 

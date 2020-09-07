@@ -66,6 +66,10 @@ description: Scheda con le informazioni di un account
 | DeliveryDateTypeDescription |  |
 | DeliveryDateTypeId |  |
 | Discounts |  |
+| ErpStatus1 \[1..3\] |  |
+| ErpStatus1Code \[1..3\] |  |
+| ErpStatus1Description \[1..3\] |  |
+| ErpStatus1Id \[1..3\] |  |
 | ExpiredInstallmentsAmount |  |
 | Fax |  |
 | FiscalCode |  |
@@ -126,6 +130,9 @@ description: Scheda con le informazioni di un account
 | ResponsibleForTransport |  |
 | ResponsibleForTransportDescription |  |
 | ResponsibleForTransportId |  |
+| SalesAgent |  |
+| SalesAgentDescription |  |
+| SalesAgentId |  |
 | ShipmentMethod |  |
 | ShipmentMethodDescription |  |
 | ShipmentMethodId |  |

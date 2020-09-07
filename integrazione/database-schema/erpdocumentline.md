@@ -101,6 +101,7 @@ description: Righe dei Documenti da Erp
 | SeasonId | Id della stagione | text | 50 |
 | SourceReference | Numero del documento di riferimento | text | 50 |
 | SourceReferenceType | Tipo del documento di riferimento | enum |  |
+| StatisticReferenceDate | Data di riferimento per le statistiche tramite smart BI | date |  |
 | TrademarkId | Id del marchio | text | 50 |
 | UnitPrice | Prezzo unitario | dec |  |
 | UnitsPerPack | Unità per confezione | dec |  |

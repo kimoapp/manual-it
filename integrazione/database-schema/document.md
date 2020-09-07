@@ -25,7 +25,7 @@ description:
 | AgreedAmount | Importo concordato | dec |  |
 | Amount | Totale documento | dec |  |
 | AmountIncludingVat | Totale documento incluso di IVA | dec |  |
-| [AppOrigin](document.md#apporigin) | Codice CIG | enum |  |
+| [AppOrigin](document.md#apporigin) | App da cui è stato generato il documento | enum |  |
 | ArchivingNotes | Note per il motivo di archiviazione | text | text |
 | ArchivingReasonId | Id della causale di archiviazione | text | 50 |
 | AvailabilityRuleId | Id della regola di disponibilità | text | 50 |
@@ -33,7 +33,9 @@ description:
 | BankCab | Codice CAB | text | 5 |
 | BankCc | Codice CC | text | 20 |
 | BankCin | Codice CIN | text | 1 |
+| BankCountryCode | Codice del paese | text | 5 |
 | BankIban | Codice IBAN | text | 50 |
+| BankIbanCheckDigits | Check digits dell'IBAN | text | 5 |
 | BankShouldRegisterOnErp | Indica se il conto corrente va registro nell'Erp | bool |  |
 | BillingAccountAddressCity | Città | text | 40 |
 | BillingAccountAddressCountry | Paese | text | 20 |
@@ -104,6 +106,8 @@ description:
 | FreeText3 | Campo testo libero | text | text |
 | FreeText4 | Campo testo libero | text | text |
 | FreeText5 | Campo testo libero | text | text |
+| FulfillmentDate | Data evadibilità | date |  |
+| FulfillmentStatus | Stato evadibilità | enum |  |
 | GoodsAspectId | Id aspetto beni | text | 50 |
 | Id | Id | text | 50 |
 | InvoiceDiscountId | Id sconto fattura | text | 50 |
@@ -112,6 +116,7 @@ description:
 | IsFatturaPA | Indica se il documento è una FatturaPA | bool |  |
 | LastModifiedTimeStamp | Data dell'ultima modifica | dt |  |
 | LastModifiedUserId | Id dell'agente che ha effettuato l'ultima modifica | text | 50 |
+| LegalNoticeAcceptance | Accettazione 'clausole vessatorie' | bool |  |
 | LineDiscount1 | Sconto per riga | dec |  |
 | LineDiscount2 | Sconto per riga | dec |  |
 | LineDiscount3 | Sconto per riga | dec |  |
@@ -126,6 +131,7 @@ description:
 | LogisticPhone1 |  | text | 50 |
 | LogisticPhone2 |  | text | 50 |
 | LogisticTailLiftService |  | bool |  |
+| LoseRemaining | Perdita residuo | bool |  |
 | Markup | Ricarico | dec |  |
 | Notes | Note | text | text |
 | Number | Numero documento | text | 50 |
@@ -148,6 +154,7 @@ description:
 | ReviewerId | Id dell'utente che ha effettuato la review \(documento approvato/rifiutato\) | text | 50 |
 | ReviewTimeStamp | Data/ora della review | dt |  |
 | SalesAgentId | Id dell'agente' | text | 50 |
+| SalesTermsAcceptance | Accettazione 'condizioni generali di vendita' | bool |  |
 | SeasonGroupId | Id del gruppo stagioni | text | 50 |
 | SeasonId | Id della stagione | text | 50 |
 | ShipmentDescription | Descrizione spedizione | text | text |
@@ -187,6 +194,7 @@ description:
 | StartShipmentDate | Data inizio spedizione | date |  |
 | SyncReference | Riferimento | text | 50 |
 | TotalAverageDiscount | Sconto medio totale | dec |  |
+| TotalFulfillment | Evasione integrale | bool |  |
 | TrademarkId | Id del marchio | text | 50 |
 | TransportModeId | Id del mezzo di trasporto | text | 50 |
 | UploadToServerTimeStamp |  | dt |  |

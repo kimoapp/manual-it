@@ -53,6 +53,8 @@ description:
 | FreeText1 | Campo testo libero | text | text |
 | FreeText2 | Campo testo libero | text | text |
 | FreeText3 | Campo testo libero | text | text |
+| FulfillmentDate | Data evadibilità | date |  |
+| FulfillmentStatus | Stato evadibilità | enum |  |
 | GrossCost | Costo lordo | dec |  |
 | Id | Id | text | 50 |
 | IsDeleted | Indica se il record è stato cancellato | bool |  |
@@ -68,6 +70,7 @@ description:
 | LineNumber | Riga documento | int |  |
 | [LineStatus](documentline.md#linestatus) | Stato della riga | enum |  |
 | [LineType](documentline.md#linetype) | Tipo riga | enum |  |
+| LoseRemaining | Perdita residuo | bool |  |
 | ManufacturerId | Id del produttore | text | 50 |
 | ManufacturerItemId | Id dell'articolo produttore | text | 50 |
 | [MultipleQuantity](documentline.md#multiplequantity) | Quantità multipla | dec |  |
@@ -129,6 +132,7 @@ description:
 | StartQuantityRange | Inizio Scaglione quantità | dec |  |
 | StartShipmentDate | Data inizio spedizione | date |  |
 | SyncReference | Riferimento | text | 50 |
+| Tag | Tag | text | 100 |
 | TotalDiscount | Totale sconto | dec |  |
 | UnitPrice | prezzo unitario | dec |  |
 | UnitsPerPack | Unità per confezione | dec |  |

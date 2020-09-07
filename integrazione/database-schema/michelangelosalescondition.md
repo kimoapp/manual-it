@@ -94,7 +94,7 @@ description: Condizioni di vendita nell'Erp Michelangelo
 | ReferenceCostTypeId | Id del costo di riferimento | text | 50 |
 | SalesAgentId | Id dell'agente | text | 50 |
 | SalesConditionKey | Chiave della condizione di vendita | text | 30 |
-| SalesConditionTypeId | Id del tipo di condizione | text | 2 |
+| SalesConditionTypeId | Id del tipo di condizione | text | 30 |
 | SalesUomId | Id unità di misura di vendita | text | 50 |
 | StartDate | Data inizio validità | date |  |
 | Status | Stato | text | 1 |

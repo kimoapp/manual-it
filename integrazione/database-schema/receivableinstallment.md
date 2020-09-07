@@ -18,7 +18,9 @@ description: Scadenzario
 | BankCab | Codice CAB | text | 5 |
 | BankCc | Codice CC | text | 20 |
 | BankCin | Codice CIN | text | 1 |
+| BankCountryCode | Codice del paese | text | 5 |
 | BankIban | Codice IBAN | text | 40 |
+| BankIbanCheckDigits | Check digits dell'IBAN | text | 5 |
 | CashingId |  | text | 50 |
 | CreationDate | Data di creazione | dt |  |
 | CreatorId | Id dell'agente che ha creato il record | text | 50 |
