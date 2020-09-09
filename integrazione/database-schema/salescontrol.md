@@ -43,6 +43,7 @@ description: Controlli commerciali sui documenti di vendita
 * 11: Punti disponibili nel borsellino
 * 12: Importo massimo omaggiabile per promozione
 * 13: Ripristino condizioni di vendita per quantità non conforme al confezionamento
+* 14: Importo minimo \(esclusi documenti con solo merce in omaggio\)
 
 ## SaleTypeTargetContributeTo
 

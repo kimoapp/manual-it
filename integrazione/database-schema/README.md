@@ -70,6 +70,7 @@
 | [ItemSeries](itemseries.md) | Serie articolo |
 | [ItemSpecificationField](itemspecificationfield.md) | Specifiche tecniche |
 | [ItemSpecificationFieldPerGroup](itemspecificationfieldpergroup.md) | Associazione Classificazioni - Specifiche |
+| [ItemSpecificationFieldTranslation](itemspecificationfieldtranslation.md) | Traduzioni in lingua dei campi delle classificazioni |
 | [ItemSpecificationFieldValue](itemspecificationfieldvalue.md) | Valori predefiniti per le specifiche tecniche degli articoli |
 | [ItemSpecificationGroup](itemspecificationgroup.md) | Classificazioni |
 | [ItemSpecificationGroupTranslation](itemspecificationgrouptranslation.md) | Traduzioni in lingua delle classificazioni |

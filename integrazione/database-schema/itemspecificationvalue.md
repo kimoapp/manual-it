@@ -7,7 +7,7 @@ description: Valori delle specifiche tecniche degli articoli
 **Chiavi**
 
 * _Id_
-* ItemSpecificationItemPerGroupId, ItemSpecificationFieldId
+* ItemId, ItemSpecificationFieldId
 
 | Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |

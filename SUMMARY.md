@@ -224,6 +224,7 @@
     * [ItemSeries](integrazione/database-schema/itemseries.md)
     * [ItemSpecificationField](integrazione/database-schema/itemspecificationfield.md)
     * [ItemSpecificationFieldPerGroup](integrazione/database-schema/itemspecificationfieldpergroup.md)
+    * [ItemSpecificationFieldTranslation](integrazione/database-schema/itemspecificationfieldtranslation.md)
     * [ItemSpecificationFieldValue](integrazione/database-schema/itemspecificationfieldvalue.md)
     * [ItemSpecificationGroup](integrazione/database-schema/itemspecificationgroup.md)
     * [ItemSpecificationGroupTranslation](integrazione/database-schema/itemspecificationgrouptranslation.md)

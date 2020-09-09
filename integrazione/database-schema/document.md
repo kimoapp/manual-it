@@ -114,6 +114,7 @@ description:
 | InvoiceDiscountValue | Importo sconto fattura | dec |  |
 | IsDeleted | Indica se il record è stato cancellato | bool |  |
 | IsFatturaPA | Indica se il documento è una FatturaPA | bool |  |
+| ItemCollectionId | Id della collezione | text | 50 |
 | LastModifiedTimeStamp | Data dell'ultima modifica | dt |  |
 | LastModifiedUserId | Id dell'agente che ha effettuato l'ultima modifica | text | 50 |
 | LegalNoticeAcceptance | Accettazione 'clausole vessatorie' | bool |  |
@@ -153,7 +154,6 @@ description:
 | RetailPriceListId | Id del listino retail | text | 50 |
 | ReviewerId | Id dell'utente che ha effettuato la review \(documento approvato/rifiutato\) | text | 50 |
 | ReviewTimeStamp | Data/ora della review | dt |  |
-| SalesAgentId | Id dell'agente' | text | 50 |
 | SalesTermsAcceptance | Accettazione 'condizioni generali di vendita' | bool |  |
 | SeasonGroupId | Id del gruppo stagioni | text | 50 |
 | SeasonId | Id della stagione | text | 50 |
