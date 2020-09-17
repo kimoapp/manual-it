@@ -15,6 +15,7 @@
 * [Documenti di vendita](./#documenti-di-vendita)
 * [Partite Aperte / Insoluti](./#partite-aperte-insoluti)
 * [Promozioni](./#promozioni)
+* [Registro incassi](./#registro-incassi)
 * [Riassortimenti](./#riassortimenti)
 * [Smart BI](./#smart-bi)
 
@@ -196,6 +197,14 @@
 
 * **Selettori**
   * [ *\{PromotionLineSelector\}*](promotionlineselectorcontext.md)
+
+
+## Registro incassi
+
+* **Report**
+  * [ *\{ReceivablesBookReport\}*](receivablesbookreportcontext.md)
+
+  * [ *\{ReceivablesBookReportRecipient\}*](receivablesbookreportrecipientcontext.md)
 
 
 ## Riassortimenti

@@ -4,7 +4,7 @@
 | :--- | :--- |
 | [**MailBody**](documentmail.md#mailbody) | Template del corpo della mail relativa al documento |
 | [**MailSubject**](documentmail.md#mailsubject) | Soggetto della mail relativa al documento |
-| [**ReportFileName**](documentmail.md#reportfilename) | Nome del file relativo al report del documento |
+| [**ReportFileName**](documentmail.md#reportfilename) | Nome del file allegato al documento \(senza estensione\) |
 
 ## MailBody
 

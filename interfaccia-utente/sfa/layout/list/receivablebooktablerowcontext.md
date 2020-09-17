@@ -7,12 +7,17 @@
 
 | Id | Descrizione |
 | :--- | :--- |
+| ActualPaymentAmount |  |
+| ActualPaymentDate |  |
+| ActualPaymentReference |  |
+| ActualPaymentTypeId |  |
 | BankAbi |  |
 | BankCab |  |
 | BankCc |  |
 | BankCin |  |
 | BankIban |  |
 | CustomerCode |  |
+| CustomerFullName |  |
 | CustomerId |  |
 | CustomerName |  |
 | CustomerName2 |  |

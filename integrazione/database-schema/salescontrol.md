@@ -7,7 +7,6 @@ description: Controlli commerciali sui documenti di vendita
 **Chiavi**
 
 * _Id_
-* SalesControlType, ChannelsEnabled, Target, UomType, SaleTypeTargetContributeTo, SaleTypeTargetSubjectTo, StartDate, EndDate
 
 | Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
