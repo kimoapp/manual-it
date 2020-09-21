@@ -1,37 +1,39 @@
-# Risorse grafiche per la pubblicazione sugli Store
+# Risorse grafiche per Kimo B2B
 
-## Risorse per Kimo B2B App
-
-Le risorse grafiche per Kimo B2B App \(icona, splashscreen, loghi, ...\) sono diversificate fra le piattaforme iOS e Android e per le diverse risoluzioni: la generazione delle risorse necessarie è un servizio in carico al nostro team a partire dalle seguenti immagini fornite dal cliente:
+## Risorse per la pubblicazione sugli store \(App Store, Play Store\)
 
 **1.Icona \(icon.png\)**
 
-Risoluzione minima 1024x1024  
-Estensione .png
+Risoluzione 1024x1024 px  
+Immagine PNG senza trasparenza
 
-iOS e Android implementano gestioni diversi per l'icona: iOS non ha il supporto alle trasparenze \(che devono essere evitate\) e l'immagine deve essere quadrata, senza angoli stondati; Android ha il supporto alle trasparenze e l'icona può avere la forma desiderata \(es. rotonda\). Nel caso si vogliano implementare icone differenti per iOS e Android, fornire due file \(es. "icon iOS.png" e "icon Android.png"\).
+Nel caso si vogliano implementare icone differenti per iOS e Android, fornire due file \(es. "icon iOS.png" e "icon Android.png"\).
 
 Evitare dettagli che potrebbero perdere di qualità con l'abbassarsi della risoluzione. 
 
-**2. Splashscreen / Launchscreen \(launchscreen.png\)** 
+## Risorse per Kimo B2B
 
-Risoluzione minima 2436x2436  
-Estensione .png
+Le risorse grafiche per Kimo B2B \(loghi, vetrina...\) sono le seguenti:
 
-L'immagine dovrebbe essere quadrata, senza trasparenze né gradienti, senza scritte \(che non sarebbero tradotte\). Il contenuto utile dovrebbe essere posizionato al centro e occupare circa la metà dell'altezza e della larghezza \(affinché non sia tagliato in caso di crop\).
+**1. Logo \(logo.png\)**
 
-**3. Logo \(logo.png\)**
+Risoluzione minima 1000x500 px  
+Immagine PNG con trasparenza
 
-Risoluzione minima 1000x500   
-Estensione .png
+Logo usato nella maschera di login: immagine .png con risoluzione di almeno 1000x500, con proporzioni 2:1 \(larghezza il doppio dell'altezza\).
 
-logo da usare nella maschera di login: immagine .png con risoluzione di almeno 1000x500, con proporzioni 2:1 \(larghezza il doppio dell'altezza\).
+**2. Logo Visual \(logo\_visual.png\)**
 
-**4. Login \(login.png\)** _- opzionale_
+Risoluzione minima 100x100 px   
+Immagine PNG con trasparenza
 
-Risoluzione minima 1000x1000  
-Estensione .png
+Logo usato all'interno del menu laterale su schermi di grandezza media o grande.
 
-immagine secondaria \(facoltativa\), quadrata, da visualizzare nella maschera di login sotto i campi per inserire le credenziali di accesso. Generalmente si visualizza l'icona dell'applicazione o si lascia un'immagine trasparente \(per non visualizzare nulla\).  
+**3. Immagini vetrine**
 
+Risoluzione minima 690x300 px   
+Mantenere aspect ratio di 2,3:1  
+Immagine PNG con trasparenza
+
+Immagini usate per le card presenti nella schermata Home.
 

@@ -12,3 +12,4 @@
 ## ForceEditsHandlingOnArchiveFromImport
 
 **Tipo:** Boolean
+

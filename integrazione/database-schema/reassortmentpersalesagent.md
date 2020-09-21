@@ -14,3 +14,4 @@ description: Filtri dei riassortimenti per agente
 | Id | Id | text | 50 |
 | ReassortmentId |  | text | 50 |
 | SalesAgentId |  | text | 50 |
+

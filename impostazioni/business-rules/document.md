@@ -68,7 +68,7 @@
 
 ## MaxDaysWithExpiredDocuments
 
-**Tipo:** Nullable`1
+**Tipo:** Nullable\`1
 
 ## QuantitiesSummaryTemplate
 
@@ -108,4 +108,5 @@
 
 ## WarningDaysWithExpiredDocuments
 
-**Tipo:** Nullable`1
+**Tipo:** Nullable\`1
+

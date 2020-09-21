@@ -1,5 +1,5 @@
 ---
-description: Articoli alternativi, sostitutivi o collegati
+description: 'Articoli alternativi, sostitutivi o collegati'
 ---
 
 # ItemAssociated
@@ -26,3 +26,4 @@ description: Articoli alternativi, sostitutivi o collegati
 * 2: Substitutive
 * 3: Alternative
 * 4: Grouped
+

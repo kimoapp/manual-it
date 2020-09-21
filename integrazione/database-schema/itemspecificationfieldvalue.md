@@ -13,3 +13,4 @@ description: Valori predefiniti per le specifiche tecniche degli articoli
 | Id | Id | text | 50 |
 | ItemSpecificationFieldId | Id specifica | text | 50 |
 | Value | Valore | text | text |
+
