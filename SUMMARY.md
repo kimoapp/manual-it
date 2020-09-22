@@ -155,7 +155,7 @@
     * [Immagine di sfondo su Home Page](interfaccia-utente/sfa/immagine-di-sfondo-su-home-page.md)
     * [Immagine personalizzata per login](interfaccia-utente/sfa/immagine-personalizzata-per-login.md)
   * [B2B](interfaccia-utente/b2b/README.md)
-    * [Risorse grafiche per Kimo B2B](interfaccia-utente/b2b/risorse-grafiche-per-la-pubblicazione-sugli-store.md)
+    * [Risorse grafiche per Kimo B2B](interfaccia-utente/b2b/risorse-grafiche-per-kimo-b2b.md)
 * [Integrazione](integrazione/README.md)
   * [Kimo integrator](integrazione/kimo-integrator.md)
   * [Database schema](integrazione/database-schema/README.md)
