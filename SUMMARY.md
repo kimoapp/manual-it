@@ -1,4 +1,4 @@
-# Table of contents
+﻿# Table of contents
 
 * [Piacere, sono Kimo](README.md)
 * [Introduzione](introduzione/README.md)
@@ -61,7 +61,7 @@
     * [ItemAvailability](impostazioni/business-rules/itemavailability.md)
     * [Item](impostazioni/business-rules/item.md)
     * [ItemUom](impostazioni/business-rules/itemuom.md)
-    * [ItemUom](impostazioni/business-rules/itemuom-1.md)
+    * [ItemUom](impostazioni/business-rules/itemuom.md)
     * [MapAccounts](impostazioni/business-rules/mapaccounts.md)
     * [MarketingForm](impostazioni/business-rules/marketingform.md)
     * [Password](impostazioni/business-rules/password.md)

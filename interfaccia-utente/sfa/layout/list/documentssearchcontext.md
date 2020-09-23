@@ -47,4 +47,5 @@
 | ShipmentSiteName2 |  |
 | ShipmentSiteNickName |  |
 | Trademark |  |
+| ValidityStatusIcon |  |
 

@@ -17,4 +17,3 @@
 
 * ReceivableId
 * ReceivableNumber
-
