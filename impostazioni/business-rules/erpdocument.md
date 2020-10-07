@@ -10,7 +10,7 @@
 ## AdvancedSearchFields
 
 **Tipo:** Valori separati da pipe  
-**Valore di default:** ErpDocumentType  
+**Valore di default:** ErpDocumentType\|TimeFrame  
 **Valori:**
 
 * ErpDocumentType
@@ -20,6 +20,7 @@
 * Item
 * SalesAgent
 * SearchType
+* TimeFrame
 
 ## FilterPerUser
 

@@ -30,6 +30,7 @@
 
 * ErpStatus
 * FreeBoolean
+* FreeBooleanSwitch
 * FreeLookup
 * ItemCollection
 * ItemGroups
@@ -46,6 +47,7 @@
 
 * ErpStatus
 * FreeBoolean
+* FreeBooleanSwitch
 * FreeLookup
 * ItemCollection
 * ItemGroups

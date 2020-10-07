@@ -220,7 +220,7 @@ description:
 * 2: SalesQuotes
 * 3: SalesInvoices
 * 4: NoteCredito
-* 5: DDT
+* 5: DeliveryNotes
 * 6: Inventories
 * 7: WorkSessions
 

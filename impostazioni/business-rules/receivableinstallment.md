@@ -2,8 +2,17 @@
 
 | Valore | Descrizione |
 | :--- | :--- |
+| [**AdvancedSearchFields**](receivableinstallment.md#advancedsearchfields) | Campi per la ricerca avanzata |
 | [**AllowMultiplePaymentsForInstallment**](receivableinstallment.md#allowmultiplepaymentsforinstallment) | Consente di registrare più pagamenti per una stessa partita |
 | [**KeywordSearchFields**](receivableinstallment.md#keywordsearchfields) | Campi per la ricerca testuale |
+
+## AdvancedSearchFields
+
+**Tipo:** Valori separati da pipe  
+**Valore di default:** TimeFrame  
+**Valori:**
+
+* TimeFrame
 
 ## AllowMultiplePaymentsForInstallment
 
