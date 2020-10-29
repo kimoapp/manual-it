@@ -21,3 +21,4 @@ description: Saldo punti vendita
 
 * 0: Account
 * 1: CustomerDiscountGroup
+

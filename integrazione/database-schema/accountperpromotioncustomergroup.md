@@ -14,3 +14,4 @@ description: Associazione Account - PromotionCustomerGroup
 | AccountId | Id del cliente | text | 50 |
 | Id | Id | text | 50 |
 | PromotionCustomerGroupId | Id del gruppo promozioni cliente | text | 50 |
+

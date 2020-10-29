@@ -21,3 +21,4 @@ description: Specifiche tecniche
 * 2: Decimal
 * 3: Boolean
 * 4: Range
+

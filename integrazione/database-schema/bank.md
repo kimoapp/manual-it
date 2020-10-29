@@ -14,3 +14,4 @@ description: Banca
 | Abi | Codice ABI | text | 5 |
 | Id | Id | text | 50 |
 | Name | Nome banca | text | 100 |
+
