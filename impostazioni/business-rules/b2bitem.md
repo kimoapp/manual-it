@@ -100,6 +100,7 @@
 
 * 0 =&gt; Ricerca standard
 * 1 =&gt; Ricerca tramite ElasticSearch
+* 2 =&gt; Ricerca basata sul client
 
 ## SortFields
 
@@ -108,4 +109,3 @@
 
 * Item.Description
 * Item.Id
-

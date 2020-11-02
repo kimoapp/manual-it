@@ -6,6 +6,7 @@
 | [**FilterPerUser**](erpdocument.md#filterperuser) | Modalità di filtro dei documenti in base all'utente |
 | [**ItemLiveSearch**](erpdocument.md#itemlivesearch) | Abilita la ricerca 'live' degli articoli |
 | [**KeywordSearchFields**](erpdocument.md#keywordsearchfields) | Campi per la ricerca testuale |
+| [**Timeframes**](erpdocument.md#timeframes) | Periodi |
 
 ## AdvancedSearchFields
 
@@ -46,3 +47,7 @@
 * AccountName
 * Number
 
+## Timeframes
+
+**Tipo:** Valori separati da pipe  
+**Valore di default:** LastDayFromToday30\|CurrentWeek\|LastCalendarWeek\|CurrentMonth\|LastCalendarMonth\|YearToToday\|LastMonthFromToday12

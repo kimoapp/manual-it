@@ -29,4 +29,3 @@
 ## GetDocumentTypeIdForCart
 
 **Tipo:** String
-

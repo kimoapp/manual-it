@@ -16,4 +16,3 @@ description: Traduzioni in lingua dei FreeLookup
 | ItemId |  | text | 50 |
 | LanguageId |  | text | 50 |
 | LongDescription | Descrizione estesa in lingua | text | 255 |
-

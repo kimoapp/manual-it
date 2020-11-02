@@ -29,9 +29,14 @@
 | LinesSalesQtysPerYear1 \[1..5\] |  |
 | ManufacturerId |  |
 | ManufacturerItemId |  |
+| ManufacturerName |  |
 | Month |  |
 | SalesAgentDescription |  |
 | SalesAgentId |  |
+| SeasonDescription |  |
+| SeasonId |  |
 | Title |  |
+| TrademarkDescription |  |
+| TrademarkId |  |
 | Year |  |
 

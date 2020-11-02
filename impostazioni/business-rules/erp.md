@@ -7,4 +7,3 @@
 ## Type
 
 **Tipo:** String
-

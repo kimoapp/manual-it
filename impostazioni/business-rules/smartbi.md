@@ -3,6 +3,7 @@
 | Valore | Descrizione |
 | :--- | :--- |
 | [**AdvancedSearchFields**](smartbi.md#advancedsearchfields) | Campi per la ricerca avanzata |
+| [**Timeframes**](smartbi.md#timeframes) | Periodi |
 
 ## AdvancedSearchFields
 
@@ -18,5 +19,15 @@
 * ErpDocumentTypes
 * Item
 * Items
+* Manufacturer
+* Manufacturers
+* Season
+* Seasons
 * Timeframe
+* Trademark
+* Trademarks
 
+## Timeframes
+
+**Tipo:** Valori separati da pipe  
+**Valore di default:** LastCalendarMonth\|CurrentMonth\|YearToYesterday\|YearToEndOfCurrentMonth\|CurrentYear
