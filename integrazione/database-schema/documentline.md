@@ -37,6 +37,7 @@ description:
 | DocumentId | Id del documento | text | 50 |
 | EndQuantityRange | Fine Scaglione quantità | dec |  |
 | EndShipmentDate | Fine data spedizione | date |  |
+| ExpiryDate |  | date |  |
 | FixedDiscount |  | dec |  |
 | FreeBoolean1 | Campo booleano libero | bool |  |
 | FreeBoolean2 | Campo booleano libero | bool |  |
@@ -71,6 +72,8 @@ description:
 | [LineStatus](documentline.md#linestatus) | Stato della riga | enum |  |
 | [LineType](documentline.md#linetype) | Tipo riga | enum |  |
 | LoseRemaining | Perdita residuo | bool |  |
+| Lot | Lotto | text | 50 |
+| LotDate |  | date |  |
 | ManufacturerId | Id del produttore | text | 50 |
 | ManufacturerItemId | Id dell'articolo produttore | text | 50 |
 | [MultipleQuantity](documentline.md#multiplequantity) | Quantità multipla | dec |  |
@@ -102,6 +105,7 @@ description:
 | PriceListInfo | Info listino | text | text |
 | PricePerQtyMultiplier |  | dec |  |
 | [PriceRecalculationStatus](documentline.md#pricerecalculationstatus) | Stato del ricalcolo dei prezzi | enum |  |
+| ProductionDate |  | date |  |
 | PromotionActivationGroupId | Id della promozione | text | 50 |
 | PromotionId | Id della promozione | text | 50 |
 | PromotionLineId | Id della riga promozione | text | 50 |

@@ -43,6 +43,7 @@ description: Controlli commerciali sui documenti di vendita
 * 12: Importo massimo omaggiabile per promozione
 * 13: Ripristino condizioni di vendita per quantità non conforme al confezionamento
 * 14: Importo minimo \(esclusi documenti con solo merce in omaggio\)
+* 15: Quantità non a zero
 
 ## SaleTypeTargetContributeTo
 

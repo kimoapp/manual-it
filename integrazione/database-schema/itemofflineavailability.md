@@ -23,6 +23,7 @@ description: Disponibilità 'offline' degli articoli
 | LastUpdateDate |  | dt |  |
 | LogisticCenterAvailability | Disponibilità Polo Logistico | dec |  |
 | StartAvailabilityDate |  | date |  |
+| UomId | Id dell'unità di misura in cui è espressa la disponibilità | text | 20 |
 | VariableItemId | Id dell'articolo variante | text | 50 |
 | WarehouseAvailability | Disponibilità Magazzino | dec |  |
 | WarehouseId | Id del magazzino a cui fa riferimento la disponibilità | text | 50 |

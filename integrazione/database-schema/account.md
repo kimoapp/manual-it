@@ -94,6 +94,7 @@ description: Account (clienti, prospect, destinazioni merci)
 | LogisticPhone1 |  | text | 50 |
 | LogisticPhone2 |  | text | 50 |
 | LogisticTailLiftService |  | bool |  |
+| LoseRemaining | Perdita residuo | bool |  |
 | Mail | Mail | text | 100 |
 | Markup | Ricarico | dec |  |
 | MobilePhone | Telefono mobile | text | 50 |
@@ -116,6 +117,7 @@ description: Account (clienti, prospect, destinazioni merci)
 | ShipmentMethodId | Id del metodo di consegna \(porto\) | text | 50 |
 | StatisticClassId | Id della classe statistica | text | 50 |
 | SyncReference | Riferimento | text | 50 |
+| TotalFulfillment | Evasione integrale | bool |  |
 | TransportModeId | Id del mezzo di trasporto | text | 50 |
 | UniqueOfficeCode | Codice Univoco Ufficio | text | 50 |
 | UploadToServerTimeStamp |  | dt |  |

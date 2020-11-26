@@ -25,6 +25,7 @@ description: Righe dei Documenti da Erp
 | ErpStatusId1 |  | text | 50 |
 | ErpStatusId2 |  | text | 50 |
 | ErpStatusId3 |  | text | 50 |
+| ExpiryDate |  | date |  |
 | FixedDiscount |  | dec |  |
 | FreeBoolean1 | Campo booleano libero | bool |  |
 | FreeBoolean2 | Campo booleano libero | bool |  |
@@ -56,6 +57,8 @@ description: Righe dei Documenti da Erp
 | FreeText3 | Campo testo libero | text | text |
 | FreeText4 | Campo testo libero | text | text |
 | FreeText5 | Campo testo libero | text | text |
+| FulfillmentDate | Data disponibilità merce | date |  |
+| [FulfillmentStatus](erpdocumentline.md#fulfillmentstatus) | Stato evasione riga documento | enum |  |
 | GrossCost | Costo lordo | dec |  |
 | Id | Id della riga documento | text | 50 |
 | IsDiscountEdited | Indica se lo sconto è stato modificato | bool |  |
@@ -71,12 +74,15 @@ description: Righe dei Documenti da Erp
 | ItemSeriesId | Id serie articolo | text | 50 |
 | LineNumber | Numero riga | int |  |
 | [LineType](erpdocumentline.md#linetype) | Tipo riga documento | enum |  |
+| Lot | Lotto | text | 50 |
+| LotDate |  | date |  |
 | ManufacturerId | Id produttore | text | 50 |
 | ManufacturerItemId | Id articolo produttore | text | 50 |
 | NetCost | Costo netto | dec |  |
 | NetUnitPrice | Prezzo unitario netto | dec |  |
 | Notes | Note | text | text |
 | NumberOfPacks | Numero confezioni | dec |  |
+| OutstandingQty | Quantità rimanente | dec |  |
 | PackUnitQty | Quantità totale espressa nell'unità di misura unitaria di imballo | dec |  |
 | PackUnitUomId | Unità di misura unitaria di imballo | text | 20 |
 | PackUnitUomToSalesUomQtyRatio | Rapporto di conversione tra unità di misura unitaria di imballo e unità di misura di vendita | dec |  |
@@ -84,6 +90,7 @@ description: Righe dei Documenti da Erp
 | ParentLineId | Riferimento alla riga padre | text | 50 |
 | PriceListId | Id del listino | text | 50 |
 | PriceListInfo | Info sul listino | text | text |
+| ProductionDate |  | date |  |
 | RetailDiscount1 | Sconto | dec |  |
 | RetailDiscount2 | Sconto | dec |  |
 | RetailDiscount3 | Sconto | dec |  |
@@ -99,6 +106,7 @@ description: Righe dei Documenti da Erp
 | SalesUomId | Unità di misura di vendita | text | 10 |
 | SaleTypeId | Tipo vendita | text | 50 |
 | SeasonId | Id della stagione | text | 50 |
+| ShippedQty | Quantità consegnata | dec |  |
 | SourceReference | Numero del documento di riferimento | text | 50 |
 | SourceReferenceType | Tipo del documento di riferimento | enum |  |
 | StatisticReferenceDate | Data di riferimento per le statistiche tramite smart BI | date |  |
@@ -115,6 +123,14 @@ description: Righe dei Documenti da Erp
 | VatRateIsExemption | Indica se l'IVA è calcolata o no | bool |  |
 | VatRateValue | Valore aliquota | dec |  |
 | WarehouseId | Id del magazzino | text | 50 |
+
+## FulfillmentStatus
+
+* 0: Undefined
+* 1: NotStarted
+* 2: Partial
+* 3: Completed
+* 4: ForcedComplete
 
 ## LineType
 

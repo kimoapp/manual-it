@@ -19,6 +19,8 @@
 | CigCode |  |
 | CupCode |  |
 | Currency |  |
+| CustomerGroup |  |
+| CustomerPriceGroup |  |
 | DeliveryDate |  |
 | DeliveryDateType |  |
 | Discounts |  |
@@ -26,14 +28,17 @@
 | DocumentReference |  |
 | EndShipmentDate |  |
 | ErpStatus1 \[1..3\] |  |
+| ExpectedClosingDate |  |
 | FreeDateTime1 \[1..3\] |  |
 | FreeText1 \[1..5\] |  |
+| FulfillmentStatus |  |
 | GoodsAspect |  |
 | Notes |  |
 | Number |  |
 | OpenExtendedView |  |
 | PaymentMethod |  |
 | PaymentMethodDiscounts |  |
+| PricesReferenceDate |  |
 | PrivateNotes |  |
 | RegistrationDocumentType |  |
 | ResponsibleForTransport |  |

@@ -9,10 +9,10 @@
 ## AdvancedSearchFields
 
 **Tipo:** Valori separati da pipe  
-**Valore di default:** TimeFrame  
+**Valore di default:** Timeframe  
 **Valori:**
 
-* TimeFrame
+* Timeframe
 
 ## AllowMultiplePaymentsForInstallment
 

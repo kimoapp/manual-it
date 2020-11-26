@@ -1,8 +1,8 @@
 ---
-description: Articoli
+description: Articoli non a stock
 ---
 
-# Item
+# NonStockItem
 
 **Chiavi**
 
@@ -46,11 +46,11 @@ description: Articoli
 | ItemGroupLevel3Id | Id gruppo articoli livello 3 | text | 50 |
 | ItemGroupLevel4Id | Id gruppo articoli livello 4 | text | 50 |
 | ItemSeriesId | Id serie articolo | text | 50 |
-| [ItemType](item.md#itemtype) | Tipo articolo | enum |  |
+| [ItemType](nonstockitem.md#itemtype) | Tipo articolo | enum |  |
 | LeadTime | Tempo di approvvigionamento | int |  |
 | LineId | Id della linea | text | 50 |
 | LongDescription | Descrizione lunga dell'articolo | text | text |
-| [LotManagementType](item.md#lotmanagementtype) | Tipo di gestione dei lotti | enum |  |
+| [LotManagementType](nonstockitem.md#lotmanagementtype) | Tipo di gestione dei lotti | enum |  |
 | ManufacturerId | Id del produttore | text | 50 |
 | ManufacturerItemId | Id dell'articolo produttore | text | 50 |
 | Notes | Note | text | text |

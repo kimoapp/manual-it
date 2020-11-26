@@ -137,6 +137,8 @@ description:
 | Notes | Note | text | text |
 | Number | Numero documento | text | 50 |
 | NumbersRegistryId | Id del numero registrazione | text | 50 |
+| PaidAmount | Importo incassato | dec |  |
+| PaymentForcedlyClosed | Pagamento chiuso forzatamente | bool |  |
 | PaymentMethodDiscount1 | Sconto legato al metodo di pagamento | dec |  |
 | PaymentMethodDiscount2 | Sconto legato al metodo di pagamento | dec |  |
 | PaymentMethodDiscount3 | Sconto legato al metodo di pagamento | dec |  |

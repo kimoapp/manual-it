@@ -98,6 +98,8 @@
 | [NavFashionDocumentDiscounts](navfashiondocumentdiscounts.md) | Sconti sui documenti usati nell'Erp Nav Fashion |
 | [NavSalesLineDiscount](navsaleslinediscount.md) | Sconti nell'Erp Nav |
 | [NavSalesPrice](navsalesprice.md) | Prezzi di vendita nell'Erp Nav |
+| [NonStockItem](nonstockitem.md) | Articoli non a stock |
+| [NonStockItemUom](nonstockitemuom.md) | Unità di misura degli articoli non a stock |
 | [PaymentMethod](paymentmethod.md) | Modalità di Pagamento \(Termini e Condizioni\) |
 | [PaymentType](paymenttype.md) | Tipo di pagamento \(tipo effetto\) |
 | [PointsPerSale](pointspersale.md) | Punti per la vendita di articoli |
@@ -133,6 +135,7 @@
 | [StatisticReport](statisticreport.md) | Report statistici |
 | [Title](title.md) | Titolo di una persona \(es. Dott., Ing., ...\) |
 | [Trademark](trademark.md) | Marchi |
+| [TrademarkImage](trademarkimage.md) | Immagini marchi \(percorsi dei file\) |
 | [TrademarkPerAccount](trademarkperaccount.md) | Marchi per cliente |
 | [TrademarkPerUser](trademarkperuser.md) | Marchi per agente |
 | [TrademarkTranslation](trademarktranslation.md) | Traduzioni in lingua dei marchi |
@@ -142,4 +145,5 @@
 | [VariableValue](variablevalue.md) | Valori per le varianti |
 | [VatRate](vatrate.md) | Aliquote IVA |
 | [Warehouse](warehouse.md) | Magazzini |
+| [WarehousePerSalesAgent](warehousepersalesagent.md) | Magazzini per agente |
 | [Zone](zone.md) | Zone |

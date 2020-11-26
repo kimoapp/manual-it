@@ -11,17 +11,18 @@
 ## AdvancedSearchFields
 
 **Tipo:** Valori separati da pipe  
-**Valore di default:** ErpDocumentType\|TimeFrame  
+**Valore di default:** ErpDocumentType\|Timeframe  
 **Valori:**
 
 * ErpDocumentType
 * ErpLineFreeLookup
 * ErpStatus
 * FreeLookup
+* FulfillmentStatus
 * Item
 * SalesAgent
 * SearchType
-* TimeFrame
+* Timeframe
 
 ## FilterPerUser
 

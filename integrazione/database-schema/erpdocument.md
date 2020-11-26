@@ -45,8 +45,8 @@ description: Documenti da Erp
 | BillingAccountName2 | Ragione sociale 2 del cliente di fatturazione | text | 100 |
 | BillingAccountNickName | Nickname cliente di fatturazione | text | 100 |
 | BillingAccountVatNumber | Partita Iva | text | 30 |
-| BudgetId | Id del budget da cui è stato creato il documento | text | 50 |
-| BudgetLineId | Id della riga del budget da cui è stato creato il documento | text | 50 |
+| BudgetId | Id del budget da cui � stato creato il documento | text | 50 |
+| BudgetLineId | Id della riga del budget da cui � stato creato il documento | text | 50 |
 | CarrierId | Id del vettore | text | 50 |
 | CigCode | Codice CIG | text | 50 |
 | CupCode | Codice Cup | text | 50 |
@@ -93,6 +93,8 @@ description: Documenti da Erp
 | FreeText3 | Campo testo libero | text | text |
 | FreeText4 | Campo testo libero | text | text |
 | FreeText5 | Campo testo libero | text | text |
+| FulfillmentDate | Data disponibilit� merce | date |  |
+| [FulfillmentStatus](erpdocument.md#fulfillmentstatus) | Stato evasione documento | enum |  |
 | GoodsAspectId | Id aspetto beni | text | 50 |
 | Id | Id del documento | text | 50 |
 | InvoiceDiscountId | Id sconto fattura | text | 50 |
@@ -105,6 +107,7 @@ description: Documenti da Erp
 | PaymentMethodDiscount3 | Sconto di pagamento legato al metodo di pagamento | dec |  |
 | PaymentMethodId | Id del metodo di pagamento | text | 50 |
 | PriceListId | Id del listino | text | 50 |
+| PricesReferenceDate | Data di riferimento dei prezzi | date |  |
 | PrivateNotes | Note private | text | text |
 | RecipientMail | Indirizzo Mail | text | n.d. |
 | RegistrationDocumentTypeId | Id del tipo di documento di registrazione | text | 50 |
@@ -153,6 +156,14 @@ description: Documenti da Erp
 | VatRateValue | Valore aliquota | dec |  |
 | WarehouseId | Id del magazzino | text | 50 |
 | ZoneId | Id della zona | text | 50 |
+
+## FulfillmentStatus
+
+* 0: Undefined
+* 1: NotStarted
+* 2: Partial
+* 3: Completed
+* 4: ForcedComplete
 
 ## ShipmentSite2Type
 

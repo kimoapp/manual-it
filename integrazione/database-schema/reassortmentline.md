@@ -13,6 +13,7 @@ description: Righe dei riassortimenti
 | [ActiveStatus](reassortmentline.md#activestatus) |  | enum |  |
 | Availability | Disponibilità | dec |  |
 | AverageDiscount | Sconto | dec |  |
+| AverageNetUnitPrice | Prezzo netto medio | dec |  |
 | AverageUnitPrice | Prezzo unitario | dec |  |
 | CurrencyId | Id della valuta | text | 50 |
 | CurrentDiscount1 | Sconto | dec |  |
@@ -20,7 +21,10 @@ description: Righe dei riassortimenti
 | CurrentDiscount3 | Sconto | dec |  |
 | CurrentDiscount4 | Sconto | dec |  |
 | CurrentDiscount5 | Sconto | dec |  |
+| CurrentDiscount6 | Sconto | dec |  |
+| CurrentDiscount7 | Sconto | dec |  |
 | CurrentInPromotion | In promozione | bool |  |
+| CurrentNetUnitPrice | Prezzo unitario netto | dec |  |
 | CurrentSaleTypeId | Tipo vendita | text | 50 |
 | CurrentUnitPrice | Prezzo unitario | dec |  |
 | ErpStatusId1 |  | text | 50 |
@@ -54,7 +58,10 @@ description: Righe dei riassortimenti
 | LastSaleDiscount3 | Sconto | dec |  |
 | LastSaleDiscount4 | Sconto | dec |  |
 | LastSaleDiscount5 | Sconto | dec |  |
+| LastSaleDiscount6 | Sconto | dec |  |
+| LastSaleDiscount7 | Sconto | dec |  |
 | LastSaleInPromotion | In promozione | bool |  |
+| LastSaleNetUnitPrice | Prezzo unitario netto | dec |  |
 | LastSaleNumberOfPacks | Numero confezioni | dec |  |
 | LastSalePackUnitQty | Quantità totale espressa nell'unità di misura unitaria di imballo | dec |  |
 | LastSaleSalesQty | Quantità totale espressa nell'unità di misura di vendita | dec |  |

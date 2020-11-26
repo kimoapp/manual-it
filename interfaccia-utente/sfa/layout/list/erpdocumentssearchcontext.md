@@ -26,6 +26,7 @@
 | ErpStatus1 \[1..3\] |  |
 | FreeLookup1Description \[1..5\] |  |
 | FreeText1 \[1..5\] |  |
+| FulfillmentStatus |  |
 | HasRelatedActivitiesSymbol |  |
 | Number |  |
 | SalesAgentDescription |  |
