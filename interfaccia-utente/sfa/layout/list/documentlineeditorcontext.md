@@ -44,6 +44,7 @@
 | Item.FreeDecimal1 \[1..3\] |  |
 | Item.FreeText1 \[1..5\] |  |
 | ItemDescription |  |
+| ItemDiscountGroup |  |
 | ItemId |  |
 | LinearMatrix |  |
 | LineMarkup |  |

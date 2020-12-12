@@ -7,7 +7,7 @@ description: Sconti nell'Erp Nav
 **Chiavi**
 
 * _Id_
-* Code, Type, SalesType, SalesCode, StartQuantityRange, EndQuantityRange, UomId, CurrencyId, StartDate, EndDate, VariableItemId, VariableId1, VariableValueId1, VariableId2, VariableValueId2
+* Code, Type, SalesType, SalesCode, StartQuantityRange, EndQuantityRange, UomId, CurrencyId, StartDate, EndDate, VariableItemId, VariableId1, VariableValueId1, VariableId2, VariableValueId2, SalesAgentId
 
 | Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
@@ -24,6 +24,7 @@ description: Sconti nell'Erp Nav
 | Id | Id | text | 50 |
 | [MultipleQuantity](navsaleslinediscount.md#multiplequantity) | Quantità multipla | dec |  |
 | RecId | Usato in Dynamics AX | text | 50 |
+| SalesAgentId | Id dell'agente | text | 50 |
 | SalesCode | Codice vendita | text | 50 |
 | [SalesType](navsaleslinediscount.md#salestype) | Tipo vendita | enum |  |
 | SpecialPriceListId | Listino speciale | text | 50 |

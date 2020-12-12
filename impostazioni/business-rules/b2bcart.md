@@ -3,6 +3,7 @@
 | Valore | Descrizione |
 | :--- | :--- |
 | [**CartNameTemplate**](b2bcart.md#cartnametemplate) | Template per il nome del carrello |
+| [**CheckoutActionPriority**](b2bcart.md#checkoutactionpriority) | Ordine azioni di checkout |
 | [**ConstraintFields**](b2bcart.md#constraintfields) | Campi che costituiscono un vincolo obbligatorio |
 | [**CreditLimitCheck**](b2bcart.md#creditlimitcheck) | Tipo di controllo sul fido al checkout |
 | [**ShipmentSiteIsMandatory**](b2bcart.md#shipmentsiteismandatory) | Destinazione merci obbligatoria |
@@ -15,17 +16,24 @@
 **Valori:**
 
 * CreationDate
+* ItemCollection.Description
+* ItemCollection.Id
 * ReassortmentType.Description
 * Season.Description
 * Season.Id
 * Trademark.Description
 * Trademark.Id
 
+## CheckoutActionPriority
+
+**Tipo:** Valori separati da pipe
+
 ## ConstraintFields
 
 **Tipo:** Valori separati da pipe  
 **Valori:**
 
+* ItemCollection
 * ReassortmentType
 * Season
 * Trademark

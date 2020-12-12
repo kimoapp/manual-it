@@ -12,3 +12,5 @@ description: Gruppi prezzi clienti
 | :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
+| Priority |  | int |  |
+| UseMode |  | text | 50 |

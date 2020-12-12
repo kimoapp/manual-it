@@ -13,5 +13,10 @@
 | CreationDate |  |
 | DeliveryDate |  |
 | ResponsibleForTransport |  |
+| SentToSalesAgentDescription |  |
+| SentToSalesAgentId |  |
+| SentToSalesAgentInfo |  |
+| SentToSalesAgentTimeStamp |  |
 | ShipmentSite |  |
+| StatusIcon |  |
 

@@ -15,9 +15,17 @@
 | CartId |  |
 | ConfirmationDate |  |
 | CreationDate |  |
+| DeliveryDate |  |
+| DocumentReference |  |
 | FreeBoolean1 \[1..7\] |  |
 | LinesNumber |  |
 | Name |  |
+| SentToSalesAgentDescription |  |
+| SentToSalesAgentId |  |
+| SentToSalesAgentInfo |  |
+| SentToSalesAgentTimeStamp |  |
+| ShipmentSiteFullName |  |
+| StatusIcon |  |
 | UserFullName |  |
 | UserId |  |
 

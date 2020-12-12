@@ -52,7 +52,7 @@ description: Righe dei riassortimenti
 | Id | Id della riga del riassortimento | text | 50 |
 | ItemDescription | Descrizione articolo | text | 130 |
 | ItemId | Id articolo | text | 50 |
-| LastSaleDate | Data | date |  |
+| LastSaleDate | Data ultima vendita | date |  |
 | LastSaleDiscount1 | Sconto | dec |  |
 | LastSaleDiscount2 | Sconto | dec |  |
 | LastSaleDiscount3 | Sconto | dec |  |
@@ -60,12 +60,12 @@ description: Righe dei riassortimenti
 | LastSaleDiscount5 | Sconto | dec |  |
 | LastSaleDiscount6 | Sconto | dec |  |
 | LastSaleDiscount7 | Sconto | dec |  |
-| LastSaleInPromotion | In promozione | bool |  |
+| LastSaleInPromotion | Flag indicante se l'ultima vendita era in promozione | bool |  |
 | LastSaleNetUnitPrice | Prezzo unitario netto | dec |  |
-| LastSaleNumberOfPacks | Numero confezioni | dec |  |
-| LastSalePackUnitQty | Quantità totale espressa nell'unità di misura unitaria di imballo | dec |  |
-| LastSaleSalesQty | Quantità totale espressa nell'unità di misura di vendita | dec |  |
-| LastSaleSaleTypeId | Tipo vendita | text | 50 |
+| LastSaleNumberOfPacks | Numero confezioni ultima vendita | dec |  |
+| LastSalePackUnitQty | Quantità ultima vendita espressa nell'unità di misura unitaria di imballo | dec |  |
+| LastSaleSalesQty | Quantità ultima vendita espressa nell'unità di misura di vendita | dec |  |
+| LastSaleSaleTypeId | Tipo vendita dell'ultima vendita | text | 50 |
 | LastSaleUnitPrice | Prezzo unitario | dec |  |
 | LineNumber | Numero riga | int |  |
 | [LineType](reassortmentline.md#linetype) | Tipo riga | enum |  |
@@ -78,6 +78,13 @@ description: Righe dei riassortimenti
 | ReassortmentId | Id del riassortimento | text | 50 |
 | SalesUomId | Id dell'unità di misura di vendita | text | 20 |
 | SeasonId | Id della stagione | text | 50 |
+| TotalAmount | Importo totale | dec |  |
+| TotalNumberOfPacks | Numero confezioni totale | dec |  |
+| TotalNumberOfPurchases | Numero di acquisti totale | dec |  |
+| TotalOutstandingQty | Quantità totale rimanente | dec |  |
+| TotalPackUnitQty | Quantità totale espressa nell'unità di misura unitaria di imballo | dec |  |
+| TotalSalesQty | Quantità totale espressa nell'unità di misura di vendita | dec |  |
+| TotalShippedQty | Quantità totale consegnata | dec |  |
 | TrademarkId | Id del marchio | text | 50 |
 | UnitsPerPack | Quantità per confezione | dec |  |
 | VariableId1 | Id della variante | text | 50 |

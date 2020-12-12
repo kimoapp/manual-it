@@ -20,8 +20,10 @@
 | AvailabilityErpStatus1 \[1..3\] |  |
 | AvailabilityFreeDecimal1 \[1..2\] |  |
 | AverageDiscount |  |
+| AverageNetUnitPrice |  |
 | AverageUnitPrice |  |
 | CurrentDiscount |  |
+| CurrentNetUnitPrice |  |
 | CurrentUnitPrice |  |
 | Document\_AverageNetUnitPrice |  |
 | Document\_DeliveryDate |  |
@@ -36,6 +38,7 @@
 | Document\_Item.ErpStatus1 \[1..2\] |  |
 | Document\_ItemCode |  |
 | Document\_ItemDescription |  |
+| Document\_ItemDiscountGroupId |  |
 | Document\_ItemEncodedId |  |
 | Document\_ItemImage |  |
 | Document\_ManufacturerId |  |
@@ -95,6 +98,7 @@
 | ItemImage |  |
 | LastSaleDate |  |
 | LastSaleDiscount |  |
+| LastSaleNetUnitPrice |  |
 | LastSaleNumberOfPacks |  |
 | LastSalePackUnitQty |  |
 | LastSaleSalesQty |  |

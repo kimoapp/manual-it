@@ -32,6 +32,7 @@
 | Item.ErpStatus1 \[1..2\] |  |
 | ItemCode |  |
 | ItemDescription |  |
+| ItemDiscountGroupId |  |
 | ItemEncodedId |  |
 | ItemImage |  |
 | LogisticCenterAvailability |  |

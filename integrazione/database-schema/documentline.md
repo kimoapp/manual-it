@@ -64,6 +64,7 @@ description:
 | ItemChargesAmount | Valore delle spese per l'articolo \(RAEE, ...\) | dec |  |
 | ItemChargesTypeDescription | Descrizione delle spese per l'articolo applicate \(RAEE, ...\) | text | text |
 | ItemDescription | Descrizione articolo | text | 130 |
+| ItemDiscountGroupId | Id del gruppo sconti articolo | text | 50 |
 | ItemId | Id dell'articolo | text | 50 |
 | LastModifiedUserId | Id dell'agente che ha effettuato l'ultima modifica | text | 50 |
 | LineMarkup | Ricarico | dec |  |

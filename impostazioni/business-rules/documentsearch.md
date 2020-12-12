@@ -21,7 +21,7 @@
 ## FooterTemplate
 
 **Tipo:** String  
-**Valore di default:** ${NumberLabel}: ${Number} - ${AmountLabel}: ${Amount}
+**Valore di default:** ${AmountLabel}  ${Amount}
 
 ## KeywordSearchFields
 

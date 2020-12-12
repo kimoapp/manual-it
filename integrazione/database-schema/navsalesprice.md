@@ -7,7 +7,7 @@ description: Prezzi di vendita nell'Erp Nav
 **Chiavi**
 
 * _Id_
-* ItemId, SeasonId, ConstantVariableId, VariableId1, VariableValueId1, VariableId2, VariableValueId2, SalesType, SalesCode, UomId, CurrencyId, StartDate, EndDate, StartQuantityRange, EndQuantityRange, SalesDocumentType, SalesDocumentCode
+* ItemId, SeasonId, ConstantVariableId, VariableId1, VariableValueId1, VariableId2, VariableValueId2, SalesType, SalesCode, UomId, CurrencyId, StartDate, EndDate, StartQuantityRange, EndQuantityRange, SalesDocumentType, SalesDocumentCode, SalesAgentId
 
 | Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
@@ -25,6 +25,7 @@ description: Prezzi di vendita nell'Erp Nav
 | PriceListInfo | Info listino | text | text |
 | PricePerQtyMultiplier | Moltiplicatore prezzi per quantità | dec |  |
 | RecId | Usato in Dynamics AX | text | 50 |
+| SalesAgentId | Id dell'agente | text | 50 |
 | SalesCode | Codice vendita | text | 50 |
 | SalesDocumentCode | Codice categoria documento | text | 50 |
 | [SalesDocumentType](navsalesprice.md#salesdocumenttype) | Tipo categoria documento | enum |  |

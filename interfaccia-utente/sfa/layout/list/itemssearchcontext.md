@@ -47,6 +47,7 @@
 | Document\_Item.ErpStatus1 \[1..2\] |  |
 | Document\_ItemCode |  |
 | Document\_ItemDescription |  |
+| Document\_ItemDiscountGroupId |  |
 | Document\_ItemEncodedId |  |
 | Document\_ItemImage |  |
 | Document\_ManufacturerId |  |

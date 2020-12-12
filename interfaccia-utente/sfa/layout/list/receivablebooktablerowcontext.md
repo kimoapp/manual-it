@@ -29,6 +29,7 @@
 | LastReminderDate |  |
 | LastReminderType |  |
 | LineNumber |  |
+| Notes |  |
 | OriginalDueAmount |  |
 | PaidAmount |  |
 | PaidDate |  |

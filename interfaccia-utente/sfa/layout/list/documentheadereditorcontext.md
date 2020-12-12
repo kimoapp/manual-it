@@ -47,6 +47,7 @@
 | FulfillmentStatus |  |
 | GoodsAspect |  |
 | IsFatturaPA |  |
+| ItemCollection |  |
 | LineDiscounts |  |
 | LogisticCallRequest |  |
 | LogisticClosingDays |  |
