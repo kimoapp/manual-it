@@ -7,6 +7,7 @@
 | [**ItemFormUrlTemplate**](item.md#itemformurltemplate) | Template per comporre l'url della scheda articolo online |
 | [**KeywordSearchFields**](item.md#keywordsearchfields) | Campi per la ricerca testuale |
 | [**LiveSearch**](item.md#livesearch) | Abilita la ricerca 'live' degli articoli |
+| [**ScanBarcodesViaCamera**](item.md#scanbarcodesviacamera) | Abilita la ricerca dei barcode attraverso la fotocamera del dispositivo |
 | [**SortFields**](item.md#sortfields) |  |
 
 ## AdvancedSearchFields
@@ -58,6 +59,10 @@
 * Id
 
 ## LiveSearch
+
+**Tipo:** Boolean
+
+## ScanBarcodesViaCamera
 
 **Tipo:** Boolean
 

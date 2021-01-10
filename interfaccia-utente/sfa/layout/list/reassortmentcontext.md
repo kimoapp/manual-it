@@ -113,6 +113,13 @@
 | PackUom |  |
 | PromotionStatusIcon |  |
 | SalesUomId |  |
+| TotalAmount |  |
+| TotalNumberOfPacks |  |
+| TotalNumberOfPurchases |  |
+| TotalOutstandingQty |  |
+| TotalPackUnitQtyLabel |  |
+| TotalSalesQty |  |
+| TotalShippedQty |  |
 | UnitsPerPack |  |
 | WarehouseAvailability |  |
 

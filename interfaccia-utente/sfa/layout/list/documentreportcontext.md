@@ -8,6 +8,8 @@
 | Id | Descrizione |
 | :--- | :--- |
 | Address |  |
+| AddressLabel |  |
+| Print |  |
 | RecipientsTable |  |
 | ReportType |  |
 | Send |  |

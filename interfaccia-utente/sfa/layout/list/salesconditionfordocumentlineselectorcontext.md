@@ -12,6 +12,7 @@
 | EndQuantityRange |  |
 | MultipleQuantity |  |
 | NetUnitPrice |  |
+| PriceListInfo |  |
 | Promotion\_Description |  |
 | Promotion\_EndDate |  |
 | Promotion\_MinAmount |  |

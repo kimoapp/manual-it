@@ -62,6 +62,7 @@
 | Notes |  |
 | Number |  |
 | OpenExtendedView |  |
+| PaidAmount |  |
 | PaymentMethod |  |
 | PaymentMethodDiscounts |  |
 | PointsPerSaleCurrentBalance |  |

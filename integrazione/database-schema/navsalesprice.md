@@ -75,3 +75,8 @@ Se la quantità è 50 e la quantità multipla è 10, lo scaglione può essere ap
 * 106: ItemGroupLevel3
 * 107: ItemGroupLevel4
 * 108: Trademark
+* 109: ItemSeries
+* 110: ItemCollection
+* 111: ItemLine
+* 112: ItemSeries\_And\_ItemLine
+* 113: ItemCollection\_And\_ItemLine

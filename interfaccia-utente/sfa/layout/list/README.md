@@ -18,6 +18,7 @@
 * [Registro incassi](./#registro-incassi)
 * [Riassortimenti](./#riassortimenti)
 * [Smart BI](./#smart-bi)
+* [Tentata Vendita](./#tentata-vendita)
 
 ## Account (Clienti, Prospect, Destinazioni Merci)
 
@@ -217,5 +218,11 @@
 
 * **Drill-down**
   * [ *\{SmartBIDrillDownTableRow\}*](smartbidrilldowntablerowcontext.md)
+
+
+## Tentata Vendita
+
+* **Elenchi / ricerca**
+  * [ *\{MobileWarehouseAvailabilitiesSearch\}*](mobilewarehouseavailabilitiessearchcontext.md)
 
 
