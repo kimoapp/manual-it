@@ -142,6 +142,7 @@ I commenti possono essere definiti usando i caratteri '\#\#':
 | utils.IsNullOrEmpty | oggetto | Restituisce un boolean che indica se l'oggetto passato come parametro è Null o se è una stringa vuota \(o contenente soli spazi\) |
 | utils.Take | object lista, int count | Data una lista di valori, prende i primi n espressi dal parametro "count" |
 | $newline o ${newline} |  | Interruzione di riga |
+| Now |  | Restuisce la data in cui è stato renderizzato il template, nel formato "d MMM yyy HH.mm" \(es. "12 gen 2021 15.46"\)  |
 
 ## Chiamate a funzioni
 
