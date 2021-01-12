@@ -20,3 +20,4 @@ description: Banche di un account
 | BankIbanCheckDigits | Check digits dell'IBAN | text | 5 |
 | Id | Id | text | 50 |
 | Priority | Indica la priorità di selezione della banca | int |  |
+

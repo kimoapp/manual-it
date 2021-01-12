@@ -9,10 +9,28 @@ Data una variabile di tipo semplice chiamata "Item", è possibile renderizzarla 
 1. $Item
 2. ${Item}
 
+{% hint style="danger" %}
+Se la variabile ha valore NULL, utilizzare l'operatore '!' descritto di seguito per evitare che venga renderizzata con il nome stesso della variabile invece che come stringa vuota.
+{% endhint %}
+
 Data una variabile di tipo oggetto, contente delle proprietà, è possibile renderizzarla utilizzando il '.' per indicare le proprietà. Ad esempio per referenziare la proprietà "Description" della variabile "Item" si potranno utilizzare le sintassi
 
 1. $Item.Description
 2. ${Item.Description}
+
+{% hint style="danger" %}
+Se la variabile ha valore NULL, utilizzare l'operatore '!' descritto di seguito per evitare che venga renderizzata con il nome stesso della variabile invece che come stringa vuota.
+{% endhint %}
+
+## Operatore '!'
+
+Quando una variabile ha valore NULL, di default non viene mostrata come una stringa vuota, ma viene mostrato il nome stesso della variabile: ad esempio, se la variabile nel template è indicata come "Item.Description", ma ha valore null, la stringa verrà renderizzata proprio come "$Item.Description" invece di stringa vuota.
+
+Per evitare questo comportamento, va utilizzato l'operatore '!' \(chiamato 'Quiet Reference Notation' in letteratura\).  
+Quindi la variabile andrà indicata nel template in uno dei seguenti modi:
+
+1. $!Item.Description
+2. $!{Item.Description}
 
 ## If / Else / End
 

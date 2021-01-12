@@ -8,9 +8,10 @@
 ## AdvancedSearchFields
 
 **Tipo:** Valori separati da pipe  
-**Valore di default:** 
+**Valore di default:**
 
 ## KeywordSearchFields
 
 **Tipo:** Valori separati da pipe  
 **Valore di default:** MobileWarehouseAvailability.ItemId\|Item.Description
+
