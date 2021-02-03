@@ -29,6 +29,9 @@ Esempi:
 ```http
 kimo://add-item?item=01405
 kimo://add-item?item=01405&salesQty=10&freeGiftSalesQty=2&priceList=Listino1
+kimo://add-item?manufacturerId=BTI&manufacturerItemId=5001
+kimo://add-item?manufacturerId=BTI&manufacturerItemId=5001&salesQty=10
+kimo://add-item?externalManufacturerId=BTC&manufacturerItemId=5001&salesQty=10
 ```
 
 Parametri supportati:
@@ -38,22 +41,51 @@ Parametri supportati:
     <tr>
       <th style="text-align:left">Parametro</th>
       <th style="text-align:left">Descrizione</th>
+      <th style="text-align:left">Parametri riconosciuti</th>
       <th style="text-align:left">Tipo</th>
-      <th style="text-align:left">Obbligatorio</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left">item</td>
       <td style="text-align:left">Articolo (codice)</td>
+      <td style="text-align:left">itemId, item, cod</td>
       <td style="text-align:left">string</td>
-      <td style="text-align:left">S&#xEC;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">manufacturerId</td>
+      <td style="text-align:left">Codice produttore in Kimo</td>
+      <td style="text-align:left">manufacturer, manufacturerid, manufacturerId, ManufacturerId</td>
+      <td style="text-align:left">string</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">externalManufacturerId</td>
+      <td style="text-align:left">Codice produttore esterno a Kimo (Es. Codice produttore presente su ilDataPool)</td>
+      <td
+      style="text-align:left">
+        <p>externalmanufacturerId,
+          <br />externalManufacturerId,</p>
+        <p>ExternalManufacturerId</p>
+        </td>
+        <td style="text-align:left">string</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">manufacturerItemId</td>
+      <td style="text-align:left">Codice articolo produttore</td>
+      <td style="text-align:left">
+        <p>manufactureritemid,</p>
+        <p>manufacturerItemId</p>
+        <p>ManufacturerItemId,</p>
+        <p>CodiceArticoloProduttore,</p>
+        <p>artProd</p>
+      </td>
+      <td style="text-align:left">string</td>
     </tr>
     <tr>
       <td style="text-align:left">salesQty</td>
       <td style="text-align:left">Quantit&#xE0; di vendita</td>
+      <td style="text-align:left">salesQty</td>
       <td style="text-align:left">decimal</td>
-      <td style="text-align:left">No</td>
     </tr>
     <tr>
       <td style="text-align:left">freeGiftSalesQty</td>
@@ -62,24 +94,30 @@ Parametri supportati:
           <br />(usabile solo valorizzando anche il parametro &apos;salesQty&apos;)</p>
         <p></p>
       </td>
+      <td style="text-align:left">freeGiftSalesQty</td>
       <td style="text-align:left">decimal</td>
-      <td style="text-align:left">No</td>
     </tr>
     <tr>
       <td style="text-align:left">priceList</td>
       <td style="text-align:left">Listino prezzi (codice)</td>
+      <td style="text-align:left">priceList</td>
       <td style="text-align:left">string</td>
-      <td style="text-align:left">No</td>
     </tr>
   </tbody>
 </table>
 
 {% hint style="warning" %}
-Se il codice articolo contiene caratteri "particolari" \(es. spazi, punti, ...\) va codificato secondo lo standard di codifica degi url [https://www.w3schools.com/tags/ref\_urlencode.asp](https://www.w3schools.com/tags/ref_urlencode.asp)  
+Se i codici \(articolo, produttore, articolo-produttore\) contengono caratteri "particolari" \(es. spazi, punti, ...\) vanno codificati secondo lo standard di codifica degi url [https://www.w3schools.com/tags/ref\_urlencode.asp](https://www.w3schools.com/tags/ref_urlencode.asp)  
 Ad esempio il codice articolo "ARTICOLO A" diventa "ARTICOLO%20A".
 {% endhint %}
 
+{% hint style="warning" %}
+Per essere valido il link deve contenere almeno 1 di queste tre informazioni essenziali:
 
+* item
+* manufacturerId + manufacturerItemId
+* externalManufacturerId + manufacturerItemId
+{% endhint %}
 
 ### Configurazione per ricercare articoli specifici nel catalogo di Kimo
 
