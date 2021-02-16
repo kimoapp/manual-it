@@ -147,4 +147,3 @@
 | [Warehouse](warehouse.md) | Magazzini |
 | [WarehousePerSalesAgent](warehousepersalesagent.md) | Magazzini per agente |
 | [Zone](zone.md) | Zone |
-

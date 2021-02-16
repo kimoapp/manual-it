@@ -64,8 +64,8 @@ description: Prezzi per articolo
 * 1: UnitPrice
 * 2: Discounts
 * 4: SaleType
+* 8: PriceList
 
 ## MultipleQuantity
 
 Se la quantità è 50 e la quantità multipla è 10, lo scaglione può essere applicato solo a quantità come 50, 60, 70, ... e non a quantità come 51, 52, ...
-

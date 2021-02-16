@@ -16,4 +16,3 @@ description: Immagini marchi (percorsi dei file)
 | Id | Id | text | 50 |
 | Priority | Priorità nella visualizzazione dell'immagine | int |  |
 | TrademarkId | Id del marchio | text | 50 |
-

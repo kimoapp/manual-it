@@ -23,10 +23,10 @@
 
 * Febos
 * SplitByTrademarkAndSeason
+* SplitByWarehouse
 * Standard
 * Wald
 
 ## GetDocumentTypeIdForCart
 
 **Tipo:** String
-

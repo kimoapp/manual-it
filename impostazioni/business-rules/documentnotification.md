@@ -52,6 +52,10 @@
 * ShipmentSiteFreeText
 * ShipmentSiteId
 * ShipmentSiteName
+* UserFullname
+* UserMail
+* WarehouseDescription
+* WarehouseId
 
 ## OnConfirmedMailRecipients
 
@@ -77,6 +81,10 @@
 * ShipmentSiteFreeText
 * ShipmentSiteId
 * ShipmentSiteName
+* UserFullname
+* UserMail
+* WarehouseDescription
+* WarehouseId
 
 ## OnConfirmedReportType
 
@@ -107,4 +115,3 @@
 ## SendOnConfirmed
 
 **Tipo:** Boolean
-
