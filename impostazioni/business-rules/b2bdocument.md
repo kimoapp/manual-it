@@ -23,7 +23,6 @@
 
 * Febos
 * SplitByTrademarkAndSeason
-* SplitByWarehouse
 * Standard
 * Wald
 

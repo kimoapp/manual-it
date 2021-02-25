@@ -81,7 +81,7 @@ Cliccando in ogni singolo elemento dell'elenco verrà visualizzato il relativo f
 
 | Tipologia | Icona | Descrizione |
 | :--- | :--- | :--- |
-| Correlati |  ![](../../.gitbook/assets/relateditems-2x%20%281%29%20%281%29.png)  | Articoli che potrebbero essere venduti insieme Es. Bundle. |
+| Correlati |  ![](../../.gitbook/assets/relateditems-2x%20%281%29.png)  | Articoli che potrebbero essere venduti insieme Es. Bundle. |
 | Alternativi | ![](../../.gitbook/assets/alternativeitems-2x.png) | Articoli con le stesse caratteristiche dell'articolo di riferimento |
 | Sostitutivi |  ![](../../.gitbook/assets/substitutiveitems-2x.png)  |   Articoli che andranno a sostituire il modello precedente |
 
