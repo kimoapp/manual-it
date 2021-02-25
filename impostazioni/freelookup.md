@@ -1,6 +1,6 @@
 # FreeLookup
 
-I FreeLookup è una lista di coppie di valori: codice, descrizione.  
+Una FreeLookup è una lista di coppie di valori: codice, descrizione.  
 Tipicamente una Freelookup svolge la funzione di tabella di decodifica valori.  
 Ciascuna FreeLookup è associata ad un campo di tipo freelookup di una Entity, di cui è specificato l'indice 
 
@@ -10,7 +10,7 @@ Es.
 | :--- | :--- | :--- |
 | Account | 1 | Account.Freelookup1 |
 
-I valori di ciascuna FreeLookup possono essere importati dall'Erp o inseriti direttamente da Console Kimo.  
+I valori di ciascuna FreeLookup possono essere importati dall'Erp o inseriti direttamente da Console di Amministrazione di Kimo.  
 Una FreeLookup importata dall'Erp è readonly per Kimo.
 
 Es.
