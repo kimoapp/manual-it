@@ -10,6 +10,7 @@
   * [Architettura](introduzione/architettura.md)
 * [Installazione](installazione/README.md)
   * [Requisiti di sistema](installazione/requisiti-di-sistema.md)
+  * [Check-list per il deploy](installazione/check-list-per-il-deploy.md)
   * [Installare Kimo SFA su iPad](installazione/installare-kimo-sfa-su-ipad.md)
   * [Installare Kimo B2B su device](installazione/installare-kimo-b2b-su-device.md)
 * [Impostazioni](impostazioni/README.md)

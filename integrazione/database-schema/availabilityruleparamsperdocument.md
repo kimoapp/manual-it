@@ -20,3 +20,4 @@ description: Criteri per l'applicazione delle regole di disponibilità ai docume
 | ShipmentEndDate | Data fine validità | date |  |
 | ShipmentStartDate | Data inizio validità | date |  |
 | TrademarkId | Id del Marchio | text | 50 |
+

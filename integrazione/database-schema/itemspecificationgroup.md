@@ -15,3 +15,4 @@ description: Classificazioni
 | LevelNumber |  | byte |  |
 | ParentGroupId |  | text | 50 |
 | Path |  | text | 4000 |
+

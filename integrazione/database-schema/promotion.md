@@ -46,8 +46,8 @@ description: Promozioni
 | QuantityRange4\_Discount | Sconto | dec |  |
 | QuantityRange4\_ImposedUnitPrice | Prezzo unitario imposto | dec |  |
 | QuantityRange4\_Quantity | Quantità | dec |  |
-| SalesControlsExcludedContributeTo | Lista dei controlli commerciali a cui NON contribuisce la promozione \(* per tutti\) | text | text |
-| SalesControlsExcludedSubjectTo | Lista dei controlli commerciali a cui NON è soggetta la promozione \(* per tutti\) | text | text |
+| SalesControlsExcludedContributeTo | Lista dei controlli commerciali a cui NON contribuisce la promozione \(\* per tutti\) | text | text |
+| SalesControlsExcludedSubjectTo | Lista dei controlli commerciali a cui NON è soggetta la promozione \(\* per tutti\) | text | text |
 | SaleTypeId | Tipo vendita | text | 50 |
 | StartDate | Data inizio validità | date |  |
 
@@ -83,3 +83,4 @@ description: Promozioni
 * 2: N+M
 * 3: N+M mono-referenza \(solo un articolo\)
 * 4: Riservate per il Calcolo Prezzi
+

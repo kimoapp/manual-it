@@ -14,3 +14,4 @@ description: Associazione Classificazioni - Articoli
 | Id | Id | text | 50 |
 | ItemId | Id articolo | text | 50 |
 | ItemSpecificationGroupId | Id della classificazione | text | 50 |
+
