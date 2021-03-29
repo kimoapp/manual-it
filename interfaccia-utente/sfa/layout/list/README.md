@@ -1,11 +1,11 @@
-# Layout per l'app SFA
+# Elenco
 
 ## Sezioni
 
-* [Account (Clienti, Prospect, Destinazioni Merci)](./#account-clienti-prospect-destinazioni-merci)
-* [Articoli (Catalogo)](./#articoli-catalogo)
+* [Account \(Clienti, Prospect, Destinazioni Merci\)](./#account-clienti-prospect-destinazioni-merci)
+* [Articoli \(Catalogo\)](./#articoli-catalogo)
 * [Attività](./#attivita)
-* [Banca (Coordinate bancarie, ...)](./#banca-coordinate-bancarie)
+* [Banca \(Coordinate bancarie, ...\)](./#banca-coordinate-bancarie)
 * [Budget](./#budget)
 * [Carrelli](./#carrelli)
 * [Comunicazioni](./#comunicazioni)
@@ -20,209 +20,152 @@
 * [Smart BI](./#smart-bi)
 * [Tentata Vendita](./#tentata-vendita)
 
-## Account (Clienti, Prospect, Destinazioni Merci)
+## Account \(Clienti, Prospect, Destinazioni Merci\)
 
 * **Editor**
-  * [Editor per creazione e modifica di clienti e prospect *\{CustomerEditor\}*](customereditorcontext.md)
+  * [Editor per creazione e modifica di clienti e prospect _{CustomerEditor}_](customereditorcontext.md)
+  * [Editor destinazioni merci \(es. per definirne una nuova nei documenti di vendita\) _{ShipmentSiteEditor}_](shipmentsiteeditorcontext.md)
+* **Elenchi / ricerca**
+  * [Ricerca account _{AccountsSearch}_](accountssearchcontext.md)
+* **Informazioni**
+  * [Scheda con le informazioni di un account _{CustomerForm}_](customerformcontext.md)
 
-  * [Editor destinazioni merci \(es. per definirne una nuova nei documenti di vendita\) *\{ShipmentSiteEditor\}*](shipmentsiteeditorcontext.md)
+## Articoli \(Catalogo\)
 
 * **Elenchi / ricerca**
-  * [Ricerca account *\{AccountsSearch\}*](accountssearchcontext.md)
-
+  * [ _{ItemsSearch}_](itemssearchcontext.md)
 * **Informazioni**
-  * [Scheda con le informazioni di un account *\{CustomerForm\}*](customerformcontext.md)
-
-
-## Articoli (Catalogo)
-
-* **Elenchi / ricerca**
-  * [ *\{ItemsSearch\}*](itemssearchcontext.md)
-
-* **Informazioni**
-  * [ *\{ItemForm\}*](itemformcontext.md)
-
+  * [ _{ItemForm}_](itemformcontext.md)
 
 ## Attività
 
 * **Editor**
-  * [ *\{ActivityEditor\}*](activityeditorcontext.md)
-
+  * [ _{ActivityEditor}_](activityeditorcontext.md)
 * **Elenchi / ricerca**
-  * [ *\{AccountActivitiesTableRow\}*](accountactivitiestablerowcontext.md)
-
-  * [ *\{ActivitiesSearch\}*](activitiessearchcontext.md)
-
+  * [ _{AccountActivitiesTableRow}_](accountactivitiestablerowcontext.md)
+  * [ _{ActivitiesSearch}_](activitiessearchcontext.md)
 * **Informazioni**
-  * [ *\{ActivityToPlan\}*](activitytoplancontext.md)
+  * [ _{ActivityToPlan}_](activitytoplancontext.md)
 
-
-## Banca (Coordinate bancarie, ...)
+## Banca \(Coordinate bancarie, ...\)
 
 * **Editor**
-  * [ *\{BankAccountEditor\}*](bankaccounteditorcontext.md)
-
+  * [ _{BankAccountEditor}_](bankaccounteditorcontext.md)
 * **Elenchi / ricerca**
-  * [ *\{BankAccountsSearch\}*](bankaccountssearchcontext.md)
-
+  * [ _{BankAccountsSearch}_](bankaccountssearchcontext.md)
 
 ## Budget
 
 * **Drill-down**
-  * [ *\{BudgetsDrillDownTableRow\}*](budgetsdrilldowntablerowcontext.md)
-
+  * [ _{BudgetsDrillDownTableRow}_](budgetsdrilldowntablerowcontext.md)
 * **Editor**
-  * [ *\{BudgetLineEditor\}*](budgetlineeditorcontext.md)
-
+  * [ _{BudgetLineEditor}_](budgetlineeditorcontext.md)
 * **Informazioni**
-  * [ *\{BudgetLineTableRow\}*](budgetlinetablerowcontext.md)
-
-  * [ *\{BudgetLinesForAccount\}*](budgetlinesforaccountcontext.md)
-
+  * [ _{BudgetLineTableRow}_](budgetlinetablerowcontext.md)
+  * [ _{BudgetLinesForAccount}_](budgetlinesforaccountcontext.md)
 
 ## Carrelli
 
 * **Editor**
-  * [ *\{CartEditor\}*](carteditorcontext.md)
-
-* **Editor > Elenco righe**
-  * [ *\{CartLineTableRowEditor\}*](cartlinetableroweditorcontext.md)
-
+  * [ _{CartEditor}_](carteditorcontext.md)
+* **Editor &gt; Elenco righe**
+  * [ _{CartLineTableRowEditor}_](cartlinetableroweditorcontext.md)
 * **Elenchi / ricerca**
-  * [ *\{CartsSearch\}*](cartssearchcontext.md)
-
+  * [ _{CartsSearch}_](cartssearchcontext.md)
 
 ## Comunicazioni
 
 * **Elenchi / ricerca**
-  * [ *\{CommunicationsSearch\}*](communicationssearchcontext.md)
-
+  * [ _{CommunicationsSearch}_](communicationssearchcontext.md)
 
 ## Contatti
 
 * **Editor**
-  * [ *\{ContactEditor\}*](contacteditorcontext.md)
-
+  * [ _{ContactEditor}_](contacteditorcontext.md)
 * **Elenchi / ricerca**
-  * [ *\{ContactsSearch\}*](contactssearchcontext.md)
-
+  * [ _{ContactsSearch}_](contactssearchcontext.md)
 * **Informazioni**
-  * [ *\{ContactForm\}*](contactformcontext.md)
-
+  * [ _{ContactForm}_](contactformcontext.md)
 
 ## Disponibilità articoli
 
 * **Informazioni**
-  * [ *\{ItemLotAvailabilitiesSearch\}*](itemlotavailabilitiessearchcontext.md)
-
-  * [ *\{ItemWarehouseAvailabilitiesSearch\}*](itemwarehouseavailabilitiessearchcontext.md)
-
+  * [ _{ItemLotAvailabilitiesSearch}_](itemlotavailabilitiessearchcontext.md)
+  * [ _{ItemWarehouseAvailabilitiesSearch}_](itemwarehouseavailabilitiessearchcontext.md)
 
 ## Documenti da Erp
 
 * **Editor**
-  * [ *\{ErpDocumentHeaderEditor\}*](erpdocumentheadereditorcontext.md)
-
-* **Editor > Elenco righe**
-  * [ *\{ErpDocumentLineTableRowEditor\}*](erpdocumentlinetableroweditorcontext.md)
-
-* **Editor > Riga**
-  * [ *\{ErpDocumentLineEditor\}*](erpdocumentlineeditorcontext.md)
-
-  * [ *\{ErpDocumentLineVariableEditor\}*](erpdocumentlinevariableeditorcontext.md)
-
+  * [ _{ErpDocumentHeaderEditor}_](erpdocumentheadereditorcontext.md)
+* **Editor &gt; Elenco righe**
+  * [ _{ErpDocumentLineTableRowEditor}_](erpdocumentlinetableroweditorcontext.md)
+* **Editor &gt; Riga**
+  * [ _{ErpDocumentLineEditor}_](erpdocumentlineeditorcontext.md)
+  * [ _{ErpDocumentLineVariableEditor}_](erpdocumentlinevariableeditorcontext.md)
 * **Elenchi / ricerca**
-  * [ *\{ErpDocumentsSearch\}*](erpdocumentssearchcontext.md)
-
+  * [ _{ErpDocumentsSearch}_](erpdocumentssearchcontext.md)
 * **Report**
-  * [ *\{ErpDocumentLinesReport\}*](erpdocumentlinesreportcontext.md)
-
+  * [ _{ErpDocumentLinesReport}_](erpdocumentlinesreportcontext.md)
 
 ## Documenti di vendita
 
 * **Editor**
-  * [ *\{DocumentArchiving\}*](documentarchivingcontext.md)
-
-  * [ *\{DocumentHeaderEditor\}*](documentheadereditorcontext.md)
-
-* **Editor > Elenco righe**
-  * [ *\{DocumentLineTableRowEditor\}*](documentlinetableroweditorcontext.md)
-
-* **Editor > Riga**
-  * [ *\{DocumentLineEditor\}*](documentlineeditorcontext.md)
-
-  * [ *\{DocumentLineVariableEditor\}*](documentlinevariableeditorcontext.md)
-
-  * [ *\{SalesConditionForDocumentLineSelector\}*](salesconditionfordocumentlineselectorcontext.md)
-
+  * [ _{DocumentArchiving}_](documentarchivingcontext.md)
+  * [ _{DocumentHeaderEditor}_](documentheadereditorcontext.md)
+* **Editor &gt; Elenco righe**
+  * [ _{DocumentLineTableRowEditor}_](documentlinetableroweditorcontext.md)
+* **Editor &gt; Riga**
+  * [ _{DocumentLineEditor}_](documentlineeditorcontext.md)
+  * [ _{DocumentLineVariableEditor}_](documentlinevariableeditorcontext.md)
+  * [ _{SalesConditionForDocumentLineSelector}_](salesconditionfordocumentlineselectorcontext.md)
 * **Elenchi / ricerca**
-  * [ *\{DocumentsSearch\}*](documentssearchcontext.md)
-
+  * [ _{DocumentsSearch}_](documentssearchcontext.md)
 * **Report**
-  * [ *\{DocumentReport\}*](documentreportcontext.md)
-
-  * [ *\{DocumentReportRecipient\}*](documentreportrecipientcontext.md)
-
+  * [ _{DocumentReport}_](documentreportcontext.md)
+  * [ _{DocumentReportRecipient}_](documentreportrecipientcontext.md)
 
 ## Partite Aperte / Insoluti
 
 * **Editor**
-  * [ *\{ReceivableInstallmentEditor\}*](receivableinstallmenteditorcontext.md)
-
-  * [ *\{ReceivableInstallmentsMultipleCashEditor\}*](receivableinstallmentsmultiplecasheditorcontext.md)
-
+  * [ _{ReceivableInstallmentEditor}_](receivableinstallmenteditorcontext.md)
+  * [ _{ReceivableInstallmentsMultipleCashEditor}_](receivableinstallmentsmultiplecasheditorcontext.md)
 * **Informazioni**
-  * [ *\{CustomerScheduledPaymentsTableRow\}*](customerscheduledpaymentstablerowcontext.md)
-
-  * [ *\{ReceivableBookTableRow\}*](receivablebooktablerowcontext.md)
-
+  * [ _{CustomerScheduledPaymentsTableRow}_](customerscheduledpaymentstablerowcontext.md)
+  * [ _{ReceivableBookTableRow}_](receivablebooktablerowcontext.md)
 
 ## Promozioni
 
-* **Editor > Elenco righe**
-  * [ *\{PromotionEditorLineTableRow\}*](promotioneditorlinetablerowcontext.md)
-
-* **Editor > Riga**
-  * [ *\{PromotionLineEditor\}*](promotionlineeditorcontext.md)
-
+* **Editor &gt; Elenco righe**
+  * [ _{PromotionEditorLineTableRow}_](promotioneditorlinetablerowcontext.md)
+* **Editor &gt; Riga**
+  * [ _{PromotionLineEditor}_](promotionlineeditorcontext.md)
 * **Informazioni**
-  * [ *\{PromotionActivationByItemHeader\}*](promotionactivationbyitemheadercontext.md)
-
-  * [ *\{PromotionActivationLineTableRow\}*](promotionactivationlinetablerowcontext.md)
-
-  * [ *\{PromotionActivationTableRow\}*](promotionactivationtablerowcontext.md)
-
-  * [ *\{PromotionDirectActivationHeader\}*](promotiondirectactivationheadercontext.md)
-
-  * [ *\{PromotionInfoHeader\}*](promotioninfoheadercontext.md)
-
+  * [ _{PromotionActivationByItemHeader}_](promotionactivationbyitemheadercontext.md)
+  * [ _{PromotionActivationLineTableRow}_](promotionactivationlinetablerowcontext.md)
+  * [ _{PromotionActivationTableRow}_](promotionactivationtablerowcontext.md)
+  * [ _{PromotionDirectActivationHeader}_](promotiondirectactivationheadercontext.md)
+  * [ _{PromotionInfoHeader}_](promotioninfoheadercontext.md)
 * **Selettori**
-  * [ *\{PromotionLineSelector\}*](promotionlineselectorcontext.md)
-
+  * [ _{PromotionLineSelector}_](promotionlineselectorcontext.md)
 
 ## Registro incassi
 
 * **Report**
-  * [ *\{ReceivablesBookReport\}*](receivablesbookreportcontext.md)
-
-  * [ *\{ReceivablesBookReportRecipient\}*](receivablesbookreportrecipientcontext.md)
-
+  * [ _{ReceivablesBookReport}_](receivablesbookreportcontext.md)
+  * [ _{ReceivablesBookReportRecipient}_](receivablesbookreportrecipientcontext.md)
 
 ## Riassortimenti
 
 * **Informazioni**
-  * [ *\{Reassortment\}*](reassortmentcontext.md)
-
+  * [ _{Reassortment}_](reassortmentcontext.md)
 
 ## Smart BI
 
 * **Drill-down**
-  * [ *\{SmartBIDrillDownTableRow\}*](smartbidrilldowntablerowcontext.md)
-
+  * [ _{SmartBIDrillDownTableRow}_](smartbidrilldowntablerowcontext.md)
 
 ## Tentata Vendita
 
 * **Elenchi / ricerca**
-  * [ *\{MobileWarehouseAvailabilitiesSearch\}*](mobilewarehouseavailabilitiessearchcontext.md)
-
+  * [ _{MobileWarehouseAvailabilitiesSearch}_](mobilewarehouseavailabilitiessearchcontext.md)
 

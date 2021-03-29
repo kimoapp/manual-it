@@ -8,7 +8,6 @@
 | [**CreditLimitCheck**](b2bcart.md#creditlimitcheck) | Tipo di controllo sul fido al checkout |
 | [**ShipmentSiteIsMandatory**](b2bcart.md#shipmentsiteismandatory) | Destinazione merci obbligatoria |
 | [**ValidatePricesObsolescence**](b2bcart.md#validatepricesobsolescence) | Abilita la validazione dei prezzi al checkout |
-| [**WarehousesForCollectOnSite**](b2bcart.md#warehousesforcollectonsite) | Magazzini per il ritiro al banco |
 
 ## CartNameTemplate
 
@@ -57,11 +56,3 @@
 **Tipo:** Boolean  
 **Valore di default:** True
 
-## WarehousesForCollectOnSite
-
-**Tipo:** Enum  
-**Valore di default:** 0  
-**Valori:**
-
-* 0 =&gt; Solo con disponibilità
-* 1 =&gt; Tutti

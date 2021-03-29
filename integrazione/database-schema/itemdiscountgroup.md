@@ -15,3 +15,4 @@ description: Gruppi sconti articoli
 | Id | Id | text | 50 |
 | Priority |  | int |  |
 | UseMode |  | text | 50 |
+

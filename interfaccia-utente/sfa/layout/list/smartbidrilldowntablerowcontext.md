@@ -11,12 +11,10 @@
 | AccountFullName |  |
 | AccountName |  |
 | AccountName2 |  |
-| AveragePricePerYear1 \[1..5\] |  |
 | CustomerDiscountGroupDescription |  |
 | CustomerDiscountGroupId |  |
 | CustomerGroupDescription |  |
 | CustomerGroupId |  |
-| DocumentsNumberPerYear1 \[1..5\] |  |
 | ItemDescription |  |
 | ItemId |  |
 | LinesAmount |  |

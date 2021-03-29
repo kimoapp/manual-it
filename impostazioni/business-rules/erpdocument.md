@@ -7,7 +7,6 @@
 | [**ItemLiveSearch**](erpdocument.md#itemlivesearch) | Abilita la ricerca 'live' degli articoli |
 | [**KeywordSearchFields**](erpdocument.md#keywordsearchfields) | Campi per la ricerca testuale |
 | [**Timeframes**](erpdocument.md#timeframes) | Periodi |
-| [**TotalAmountType**](erpdocument.md#totalamounttype) | Tipo di totale da visualizzare nel footer |
 
 ## AdvancedSearchFields
 
@@ -54,10 +53,3 @@
 **Tipo:** Valori separati da pipe  
 **Valore di default:** LastDayFromToday30\|CurrentWeek\|LastCalendarWeek\|CurrentMonth\|LastCalendarMonth\|YearToToday\|LastMonthFromToday12
 
-## TotalAmountType
-
-**Tipo:** Enum  
-**Valori:**
-
-* 0 =&gt; Amount
-* 1 =&gt; AmountIncludingVat

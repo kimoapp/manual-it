@@ -44,7 +44,6 @@ description: Controlli commerciali sui documenti di vendita
 * 13: Ripristino condizioni di vendita per quantità non conforme al confezionamento
 * 14: Importo minimo \(esclusi documenti con solo merce in omaggio\)
 * 15: Quantità non a zero
-* 16: Vendita per quantità disponibile nel magazzino viaggiante
 
 ## SaleTypeTargetContributeTo
 
@@ -85,3 +84,4 @@ description: Controlli commerciali sui documenti di vendita
 * 0: Undefined
 * 1: PackUom
 * 2: SalesUom
+

@@ -32,7 +32,6 @@
 | FreeText1 \[1..3\] |  |
 | GlobalAvailability |  |
 | GrossCost |  |
-| Item.EndCustomerPrice |  |
 | Item.ErpStatus1 \[1..2\] |  |
 | Item.FreeDecimal1 \[1..3\] |  |
 | Item.FreeText1 \[1..5\] |  |

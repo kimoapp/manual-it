@@ -318,6 +318,7 @@
   * [Catalogo](funzionalita/catalogo/README.md)
     * [Articolo](funzionalita/catalogo/articolo.md)
     * [Articolo a variante](funzionalita/catalogo/articolo-a-variante.md)
+    * [Articoli associati](funzionalita/catalogo/articoli-associati.md)
     * [Listini per catalogo](funzionalita/catalogo/listini-per-catalogo.md)
     * [Catalogo da PDF](funzionalita/catalogo/catalogo-da-pdf.md)
     * [Idrolab](funzionalita/catalogo/idrolab.md)
