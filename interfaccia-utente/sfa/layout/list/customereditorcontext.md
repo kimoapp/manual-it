@@ -31,6 +31,7 @@ description: Editor per creazione e modifica di clienti e prospect
 | CustomerPriceGroup |  |
 | CustomerType |  |
 | DeliveryDateType |  |
+| Discount1 \[1..3\] |  |
 | Fax |  |
 | FiscalCode |  |
 | FreeBoolean1 \[1..7\] |  |

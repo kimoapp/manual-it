@@ -113,4 +113,4 @@ description: Righe dei riassortimenti
 * 1: UnitPrice
 * 2: Discounts
 * 4: SaleType
-
+* 8: PriceList

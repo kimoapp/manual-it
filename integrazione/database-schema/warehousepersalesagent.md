@@ -14,4 +14,3 @@ description: Magazzini per agente
 | Id | Id | text | 50 |
 | SalesAgentId |  | text | 50 |
 | WarehouseId |  | text | 50 |
-

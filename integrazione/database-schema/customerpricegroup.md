@@ -14,4 +14,3 @@ description: Gruppi prezzi clienti
 | Id | Id | text | 50 |
 | Priority |  | int |  |
 | UseMode |  | text | 50 |
-
