@@ -32,6 +32,7 @@
 | ItemId |  |
 | ItemImage |  |
 | LogisticCenterAvailability |  |
+| MandatoryIcon |  |
 | ManufacturerId |  |
 | ManufacturerItemId |  |
 | MaxQty |  |

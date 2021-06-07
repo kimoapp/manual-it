@@ -51,11 +51,15 @@ description: Righe dei controlli commerciali sui documenti di vendita
 
 * 0: Account
 * 1: CustomerDiscountGroup
+* 2: CustomerPriceGroup
+* 3: CustomerGroup
+* 6: StatisticClass
 
 ## ItemEncodingType
 
 * 0: Item
 * 1: ItemDiscountGroup
+* 2: ItemSeries
 
 ## MultipleQuantity
 

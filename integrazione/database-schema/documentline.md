@@ -194,6 +194,7 @@ Se la quantità è 50 e la quantità multipla è 10, lo scaglione può essere ap
 * 3: Activated
 * 4: AutomaticPromotionActivated
 * 5: DirectPromotionActivated
+* 6: ActivatedButConstraintsNotSatisfied
 
 ## SaleTypeMode
 

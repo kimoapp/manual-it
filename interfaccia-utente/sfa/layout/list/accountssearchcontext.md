@@ -50,6 +50,8 @@ description: Ricerca account
 | City | Città |
 | ClosingDays | Giorni di chiusura |
 | Code |  |
+| CustomerPriceGroupDescription |  |
+| CustomerPriceGroupId | Id del gruppo prezzi cliente |
 | ErpStatus1 \[1..3\] |  |
 | ExpiredInstallmentsAmount | Importo delle partite aperte scadute |
 | Fax | Fax |

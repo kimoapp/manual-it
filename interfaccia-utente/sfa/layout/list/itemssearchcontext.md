@@ -135,6 +135,7 @@
 | Promotion\_ItemEncodedId |  |
 | Promotion\_ItemId |  |
 | Promotion\_ItemImage |  |
+| Promotion\_MandatoryIcon |  |
 | Promotion\_ManufacturerId |  |
 | Promotion\_ManufacturerItemId |  |
 | Promotion\_MaxQty |  |

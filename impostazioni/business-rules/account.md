@@ -20,6 +20,7 @@
 * AddressCountrySubdivision
 * AddressPostCode
 * CustomerGroup
+* CustomerPriceGroup
 * ErpStatus
 * FreeLookup
 * GeoDistance

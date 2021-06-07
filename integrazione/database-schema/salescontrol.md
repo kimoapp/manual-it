@@ -45,6 +45,10 @@ description: Controlli commerciali sui documenti di vendita
 * 14: Importo minimo \(esclusi documenti con solo merce in omaggio\)
 * 15: Quantità non a zero
 * 16: Vendita per quantità disponibile nel magazzino viaggiante
+* 17: Articolo non più presente nel catalogo
+* 18: Vendibilità
+* 19: Documento con promozione che non rispetta i vincoli
+* 20: Possono essere inviati solo documenti in approvazione
 
 ## SaleTypeTargetContributeTo
 

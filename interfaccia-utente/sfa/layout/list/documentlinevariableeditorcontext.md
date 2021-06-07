@@ -12,6 +12,7 @@
 | AvailabilityErpStatus1 \[1..3\] |  |
 | AvailabilityFreeDecimal1 \[1..2\] |  |
 | AvailabilityRule |  |
+| AverageDiscount |  |
 | AverageNetUnitPrice |  |
 | CustomerGroup |  |
 | DeliveryDate |  |
