@@ -43,7 +43,7 @@ Formato: immagine PNG con trasparenza_
 
 **4. Immagini sezioni \(metà altezza\)**
 
-Viene usato nella sezione "---" della home.  
+Viene usato nella home.  
 _Dimensione: 690x150 px  
 Risoluzione: 72 DPI  
 Aspect ratio: 4.6:1  
