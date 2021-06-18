@@ -65,3 +65,4 @@
 
 * 0 =&gt; Solo con disponibilità
 * 1 =&gt; Tutti
+

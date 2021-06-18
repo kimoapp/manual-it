@@ -89,3 +89,4 @@ Se la quantità è 50 e la quantità multipla è 10, lo scaglione può essere ap
 ## QuantityRange4\_MultipleQuantity
 
 Se la quantità è 50 e la quantità multipla è 10, lo scaglione può essere applicato solo a quantità come 50, 60, 70, ... e non a quantità come 51, 52, ...
+

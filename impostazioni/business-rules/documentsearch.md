@@ -21,7 +21,7 @@
 ## FooterTemplate
 
 **Tipo:** String  
-**Valore di default:** ${AmountLabel}  ${Amount}
+**Valore di default:** ${AmountLabel} ${Amount}
 
 ## KeywordSearchFields
 
@@ -32,3 +32,4 @@
 
 **Tipo:** Valori separati da pipe  
 **Valore di default:** LastDayFromToday30\|CurrentWeek\|LastCalendarWeek\|CurrentMonth\|LastCalendarMonth\|YearToToday\|LastMonthFromToday12
+

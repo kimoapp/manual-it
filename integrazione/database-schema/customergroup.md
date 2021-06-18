@@ -14,3 +14,4 @@ description: Gruppi clienti
 | Id | Id | text | 50 |
 | Priority |  | int |  |
 | UseMode |  | text | 50 |
+

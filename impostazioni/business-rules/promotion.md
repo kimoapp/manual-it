@@ -27,7 +27,7 @@
 
 ## PriceDiscountsRuleForGiftLine
 
-**Tipo:** Nullable`1
+**Tipo:** Nullable\`1
 
 ## SaleTypeIdForGiftItems
 
@@ -46,3 +46,4 @@
 ## VisibleLineDiscounts
 
 **Tipo:** Valori separati da pipe
+

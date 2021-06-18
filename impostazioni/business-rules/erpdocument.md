@@ -61,3 +61,4 @@
 
 * 0 =&gt; Amount
 * 1 =&gt; AmountIncludingVat
+

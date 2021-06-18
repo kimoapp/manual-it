@@ -74,3 +74,4 @@
 * 0 =&gt; Mathematical
 * 1 =&gt; RoundUp
 * 2 =&gt; RoundDown
+

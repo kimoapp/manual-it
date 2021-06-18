@@ -52,7 +52,7 @@ Es. Disponibilità Item
       <td style="text-align:left">
         <p></p>
         <p>
-          <img src="../.gitbook/assets/thumbsup (1).PNG" alt/>
+          <img src="../.gitbook/assets/thumbsup (1) (1).PNG" alt/>
         </p>
       </td>
       <td style="text-align:left">color: #009933; font-family: FontAwesomeRegular; font-size: 20;</td>

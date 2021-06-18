@@ -1,5 +1,5 @@
 ---
-description: 
+description: null
 ---
 
 # DocumentLine
@@ -203,3 +203,4 @@ Se la quantità è 50 e la quantità multipla è 10, lo scaglione può essere ap
 * 2: TaxableFreeSample
 * 3: DiscountOnGoods
 * 4: Promotion
+
