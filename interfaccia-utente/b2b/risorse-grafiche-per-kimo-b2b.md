@@ -53,13 +53,13 @@ Formato: immagine PNG con trasparenza_
 
 Viene usato nella sezione "carosello" della home
 
-![](../../.gitbook/assets/b2b_carousel_img.png)
+![](../../.gitbook/assets/risorsa-graficacarousel.png)
 
 ### Risoluzione "large"
 
-_Dimensione: 2200x580 px  
+_Dimensione: 2320x580 px  
 Risoluzione: 150 DPI  
-Aspect ratio 3.8:1  
+Aspect ratio 4:1  
 Formato: immagine PNG **senza** trasparenza_
 
 ### Risoluzione "medium"
