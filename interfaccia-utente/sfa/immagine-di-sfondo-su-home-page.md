@@ -12,8 +12,6 @@ Le immagini di sfondo dovranno essere create per le risoluzioni standard dell’
 
 {% file src="../../.gitbook/assets/template\_kimobgipad.eps" caption="TemplateBgLayout.eps" %}
 
-
-
 1. creare 6 immagini con le seguenti risoluzioni e nomi:
 
    1. 1366x1024 - CompanyBgLandscape-iPad.png
