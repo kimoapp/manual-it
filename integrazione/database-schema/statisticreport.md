@@ -16,4 +16,3 @@ description: Report statistici
 | EntityType | Tipo di entità | text | 100 |
 | Id | Id | text | 50 |
 | StatisticReportTypeId | Id del tipo di report statistico | text | 100 |
-

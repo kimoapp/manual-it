@@ -114,4 +114,6 @@ description: Righe dei riassortimenti
 * 2: Discounts
 * 4: SaleType
 * 8: PriceList
-
+* 16: QuantitiesAndUom
+* 32: Delete
+* 64: LineDuplication

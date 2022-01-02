@@ -50,4 +50,3 @@
 
 **Tipo:** Int32  
 **Valore di default:** 1
-

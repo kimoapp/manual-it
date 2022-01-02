@@ -2,7 +2,8 @@
 
 | Valore | Descrizione |
 | :--- | :--- |
-| [**OnConfirmedCartSendMailToSalesAgents**](documentnotification.md#onconfirmedcartsendmailtosalesagents) | Se abilitato, alla conferma del documento viene automaticamente inviata la mail all'indirizzo degli agenti associati al cliente |
+| [**OnConfirmedCartSendMailToReferenceSalesAgent**](documentnotification.md#onconfirmedcartsendmailtoreferencesalesagent) | Se abilitato, alla conferma del carrello viene automaticamente inviata la mail all'indirizzo degll'agente di riferimento del cliente |
+| [**OnConfirmedCartSendMailToSalesAgents**](documentnotification.md#onconfirmedcartsendmailtosalesagents) | Se abilitato, alla conferma del carrello viene automaticamente inviata la mail all'indirizzo degli agenti associati al cliente |
 | [**OnConfirmedDocumentTypes**](documentnotification.md#onconfirmeddocumenttypes) | Tipi di documento per cui deve essere notificata la conferma |
 | [**OnConfirmedMailBccRecipients**](documentnotification.md#onconfirmedmailbccrecipients) | Indirizzi a cui inviare in Bcc la mail di conferma ordine ogni volta che un utente conferma un documento |
 | [**OnConfirmedMailBodyTemplate**](documentnotification.md#onconfirmedmailbodytemplate) | Template del corpo della mail di conferma documento |
@@ -12,6 +13,17 @@
 | [**OnConfirmedSendMailToCreator**](documentnotification.md#onconfirmedsendmailtocreator) | Se abilitato, alla conferma del documento viene automaticamente inviata la mail all'indirizzo dell'utente che ha creato il documento |
 | [**OnConfirmedSendMailToCreatorRecipientMails**](documentnotification.md#onconfirmedsendmailtocreatorrecipientmails) | Se abilitato, le mail di conferma documento vengono inviate agli indirizzi aggiuntivi specificati per l'utente |
 | [**SendOnConfirmed**](documentnotification.md#sendonconfirmed) | Indica se notificare la conferma di un documento |
+
+## OnConfirmedCartSendMailToReferenceSalesAgent
+
+**Tipo:** Enum  
+**Valore di default:** 0  
+**Valori:**
+
+* 0 =&gt; None
+* 1 =&gt; To
+* 2 =&gt; Cc
+* 3 =&gt; Bcc
 
 ## OnConfirmedCartSendMailToSalesAgents
 
@@ -115,4 +127,3 @@
 ## SendOnConfirmed
 
 **Tipo:** Boolean
-

@@ -71,4 +71,3 @@ Se la quantità è 50 e la quantità multipla è 10, lo scaglione può essere ap
 * 111: ItemLine
 * 112: ItemSeries\_And\_ItemLine
 * 113: ItemCollection\_And\_ItemLine
-

@@ -3,6 +3,7 @@
 | Valore | Descrizione |
 | :--- | :--- |
 | [**AdvancedSearchFields**](item.md#advancedsearchfields) | Campi per la ricerca avanzata |
+| [**CatalogViewMode**](item.md#catalogviewmode) | Modalità di codifica dei codici articoli |
 | [**IdEncodingType**](item.md#idencodingtype) | Modalità di codifica dei codici articoli |
 | [**ItemFormUrlTemplate**](item.md#itemformurltemplate) | Template per comporre l'url della scheda articolo online |
 | [**KeywordSearchFields**](item.md#keywordsearchfields) | Campi per la ricerca testuale |
@@ -30,6 +31,15 @@
 * Season
 * SeasonGroup
 * Trademark
+
+## CatalogViewMode
+
+**Tipo:** Enum  
+**Valore di default:** 0  
+**Valori:**
+
+* 0 =&gt; Default
+* 1 =&gt; Wizard
 
 ## IdEncodingType
 
@@ -74,4 +84,3 @@
 
 * Description
 * Id
-

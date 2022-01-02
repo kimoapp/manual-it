@@ -28,10 +28,12 @@
 | FreeText1 \[1..5\] |  |
 | FulfillmentStatus |  |
 | HasRelatedActivitiesSymbol |  |
+| Notes |  |
 | Number |  |
 | SalesAgentDescription |  |
 | SalesAgentId |  |
 | Season |  |
+| SeasonDescription |  |
 | ShipmentSiteAddress |  |
 | ShipmentSiteCity |  |
 | ShipmentSiteCode |  |
@@ -41,4 +43,5 @@
 | ShipmentSiteName2 |  |
 | ShipmentSiteNickName |  |
 | Trademark |  |
+| TrademarkDescription |  |
 

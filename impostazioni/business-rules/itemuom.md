@@ -2,7 +2,7 @@
 
 | Valore | Descrizione |
 | :--- | :--- |
-| [**Template**]() |  |
+| [**Template**](itemuom.md#template) |  |
 
 ## Template
 
@@ -17,4 +17,3 @@
 * SalesUomId
 * UnitsPerPack
 * UnitsPerPackInSalesUom
-

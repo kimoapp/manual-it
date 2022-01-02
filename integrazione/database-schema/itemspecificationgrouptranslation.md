@@ -15,4 +15,3 @@ description: Traduzioni in lingua delle classificazioni
 | Id | Id | text | 50 |
 | ItemSpecificationGroupId | Id della classificazione | text | 50 |
 | LanguageId |  | text | 50 |
-

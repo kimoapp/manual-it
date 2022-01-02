@@ -9,6 +9,7 @@
 | [**DatesPolicy**](document.md#datespolicy) | Policy di inizializzazione e gestione delle date del documento |
 | [**DaysToAddToDocumentDateForDeliveryDate**](document.md#daystoaddtodocumentdatefordeliverydate) | Giorni da aggiungere alla data del documento per calcolare la data di consegna |
 | [**DocumentNumberGlobalTemplate**](document.md#documentnumberglobaltemplate) | Template da utilizzare per generare i numeri dei documenti |
+| [**DocumentTypesThatRequireApprovalByAccount**](document.md#documenttypesthatrequireapprovalbyaccount) | Tipi di documenti che richiedono l'approvazione da parte del cliente |
 | [**ExpectedClosingDatePostponeDays**](document.md#expectedclosingdatepostponedays) | Numero di giorni proposti durante la posticipazione dei documenti, rispetto alla data di scadenza |
 | [**HighlightShipmentSiteExistence**](document.md#highlightshipmentsiteexistence) | Indica se il controllo per la selezione delle destinazioni merci deve mettere in evidenza l'esistenza di destinazioni merci |
 | [**InfoToShowOnOpen**](document.md#infotoshowonopen) | Informazioni da mostrare all'apertura dell'editor del documento |
@@ -53,6 +54,10 @@
 
 **Tipo:** String
 
+## DocumentTypesThatRequireApprovalByAccount
+
+**Tipo:** Valori separati da pipe
+
 ## ExpectedClosingDatePostponeDays
 
 **Tipo:** Valori separati da pipe  
@@ -68,7 +73,7 @@
 
 ## MaxDaysWithExpiredDocuments
 
-**Tipo:** Nullable\`1
+**Tipo:** Nullable`1
 
 ## QuantitiesSummaryTemplate
 
@@ -108,5 +113,4 @@
 
 ## WarningDaysWithExpiredDocuments
 
-**Tipo:** Nullable\`1
-
+**Tipo:** Nullable`1

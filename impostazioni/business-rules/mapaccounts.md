@@ -22,4 +22,3 @@
 ## PinColorSourcesForBudget
 
 **Tipo:** Valori separati da pipe
-

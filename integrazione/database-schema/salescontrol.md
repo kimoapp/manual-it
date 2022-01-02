@@ -49,6 +49,8 @@ description: Controlli commerciali sui documenti di vendita
 * 18: Vendibilità
 * 19: Documento con promozione che non rispetta i vincoli
 * 20: Possono essere inviati solo documenti in approvazione
+* 21: Non vendibilità
+* 22: Articoli obbligatori
 
 ## SaleTypeTargetContributeTo
 
@@ -83,10 +85,10 @@ description: Controlli commerciali sui documenti di vendita
 * 3: Item
 * 4: Uom
 * 5: ItemOrItemVariable
+* 6: Encoding
 
 ## UomType
 
 * 0: Undefined
 * 1: PackUom
 * 2: SalesUom
-

@@ -73,6 +73,9 @@ description: Prezzi per scaglione quantità
 * 2: Discounts
 * 4: SaleType
 * 8: PriceList
+* 16: QuantitiesAndUom
+* 32: Delete
+* 64: LineDuplication
 
 ## QuantityRange1\_MultipleQuantity
 
@@ -89,4 +92,3 @@ Se la quantità è 50 e la quantità multipla è 10, lo scaglione può essere ap
 ## QuantityRange4\_MultipleQuantity
 
 Se la quantità è 50 e la quantità multipla è 10, lo scaglione può essere applicato solo a quantità come 50, 60, 70, ... e non a quantità come 51, 52, ...
-

@@ -2,8 +2,9 @@
 
 | Valore | Descrizione |
 | :--- | :--- |
-| [**ActivationFrequency**](promotion.md#activationfrequency) | Indica se è possibile attivare più volte la stessa promozione all'interno di un documento |
-| [**ActivationWorkflow**](promotion.md#activationworkflow) | Modalità di attivazione delle promozioni |
+| [**ActivationFrequency**](promotion.md#activationfrequency) | Indica se � possibile attivare pi� volte la stessa promozione all'interno di un documento |
+| [**ActivationWorkflow**](promotion.md#activationworkflow) | Modalit� di attivazione delle promozioni |
+| [**LivePriceCalculation**](promotion.md#livepricecalculation) | Abilita il calcolo dei prezzi 'live' nell'editor delle promozioni |
 | [**PriceDiscountsRuleForGiftLine**](promotion.md#pricediscountsruleforgiftline) | Regola di calcolo del prezzo per le righe con articoli in omaggio |
 | [**SaleTypeIdForGiftItems**](promotion.md#saletypeidforgiftitems) | Id interno del tipo vendita da usare per gli articoli in omaggio nelle promozioni di tipo N+M |
 | [**SortFields**](promotion.md#sortfields) | Campi per l'ordinamento |
@@ -25,9 +26,13 @@
 * 0 =&gt; ShowDetailsAndRequireConfirmation
 * 1 =&gt; QuickActivation
 
+## LivePriceCalculation
+
+**Tipo:** Boolean
+
 ## PriceDiscountsRuleForGiftLine
 
-**Tipo:** Nullable\`1
+**Tipo:** Nullable`1
 
 ## SaleTypeIdForGiftItems
 
@@ -46,4 +51,3 @@
 ## VisibleLineDiscounts
 
 **Tipo:** Valori separati da pipe
-

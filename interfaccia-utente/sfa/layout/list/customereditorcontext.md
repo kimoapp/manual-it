@@ -23,8 +23,10 @@ description: Editor per creazione e modifica di clienti e prospect
 | BankIban |  |
 | Carrier |  |
 | CertifiedMail |  |
+| CigCode |  |
 | ClosingDays |  |
 | ContactInfo |  |
+| CupCode |  |
 | Currency |  |
 | CustomerDiscountGroup |  |
 | CustomerGroup |  |

@@ -7,6 +7,8 @@
 
 | Id | Descrizione |
 | :--- | :--- |
+| ActivationStatusDescription |  |
+| ActivationStatusIcon |  |
 | Description |  |
 | EndDate |  |
 | MinAmount |  |

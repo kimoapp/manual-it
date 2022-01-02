@@ -5,6 +5,7 @@
 | [**Algorithm**](pricecalculation.md#algorithm) | Algoritmo per il calcolo dei prezzi |
 | [**MinimumNumberOfQuantityRangesToActivateNotification**](pricecalculation.md#minimumnumberofquantityrangestoactivatenotification) | Numero minimo di scaglioni quantità necessari per attivare la gestione degli scaglioni \(e non considerarli semplicemente come articoli di cui è richiesta una quantità minima\) |
 | [**PricePerQtyMultiplierMode**](pricecalculation.md#priceperqtymultipliermode) | Modalità di applicazione del moltiplicatore prezzi |
+| [**PriceRoundingThresholds**](pricecalculation.md#priceroundingthresholds) |  |
 | [**PromotionDiscountsPositionMode**](pricecalculation.md#promotiondiscountspositionmode) | Posizione degli sconti provenienti dalle promozioni \(testata o righe\) |
 | [**RetailPriceDecimalDigitsRounding**](pricecalculation.md#retailpricedecimaldigitsrounding) | Numero di cifre decimali nei prezzi retail |
 | [**RetailPricesIncludeVat**](pricecalculation.md#retailpricesincludevat) | I prezzi retail includono l'IVA |
@@ -29,6 +30,10 @@
 
 * 0 =&gt; Applicato sul totale del documento
 * 1 =&gt; Applicato sul prezzo unitario
+
+## PriceRoundingThresholds
+
+**Tipo:** Valori separati da pipe
 
 ## PromotionDiscountsPositionMode
 
@@ -74,4 +79,3 @@
 * 0 =&gt; Mathematical
 * 1 =&gt; RoundUp
 * 2 =&gt; RoundDown
-

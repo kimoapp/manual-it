@@ -1,5 +1,5 @@
 ---
-description: null
+description: 
 ---
 
 # Document
@@ -232,7 +232,9 @@ description: null
 * 1: Confirmed
 * 2: SalesQuoteTransformedToOrder
 * 3: Archived
-* 4: ApprovalRequired
+* 4: ApprovalByManagerRequired
+* 5: ApprovalByAccountRequired
+* 6: RejectedByAccount
 
 ## EntityStatus
 
@@ -245,6 +247,7 @@ description: null
 * 6: ToExportToErp
 * 7: Editing
 * 8: UploadedToServer
+* 9: StartedUploadToServer
 * 10: EditingPending
 
 ## ShipmentSite2Type
@@ -264,4 +267,3 @@ description: null
 * 2: Budget
 * 3: FromCart
 * 4: FromAppCopriwaterGiusto
-

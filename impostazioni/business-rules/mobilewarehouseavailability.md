@@ -10,7 +10,7 @@
 ## AdvancedSearchFields
 
 **Tipo:** Valori separati da pipe  
-**Valore di default:**
+**Valore di default:** 
 
 ## AllowToMoveNotAvailableQuantities
 
@@ -24,4 +24,3 @@
 
 **Tipo:** Valori separati da pipe  
 **Valore di default:** MobileWarehouseAvailability.ItemId\|Item.Description
-

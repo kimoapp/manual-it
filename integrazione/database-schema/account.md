@@ -1,5 +1,5 @@
 ---
-description: 'Account (clienti, prospect, destinazioni merci)'
+description: Account (clienti, prospect, destinazioni merci)
 ---
 
 # Account
@@ -167,12 +167,12 @@ questo campo è un valore sul quale possono essere filtrati i clienti in fase di
 * 6: ToExportToErp
 * 7: Editing
 * 8: UploadedToServer
+* 9: StartedUploadToServer
 * 10: EditingPending
 
 ## Level
 
 Non va più usato per identificare un account come prospect \(usare a tale scopo il campo 'AccountTypeId'\)..
-
 * 0: Standard
 * 1: SHOULD\_USE\_JUST\_FOR\_COMPATIBILITY\_Prospect
 * 3: Bronze
@@ -182,4 +182,3 @@ Non va più usato per identificare un account come prospect \(usare a tale scopo
 ## NickName
 
 Nome usato 'comunemente' per indicare l'account, può essere differente dalla ragione sociale \(es. nome con cui è conosciuto un bar\)
-

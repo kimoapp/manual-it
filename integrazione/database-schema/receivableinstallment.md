@@ -87,6 +87,7 @@ description: Scadenzario
 * 6: ToExportToErp
 * 7: Editing
 * 8: UploadedToServer
+* 9: StartedUploadToServer
 * 10: EditingPending
 
 ## PaymentStatus
@@ -95,4 +96,3 @@ description: Scadenzario
 * 1: Paid
 * 2: Unpaid
 * 3: PaidOnKimo
-

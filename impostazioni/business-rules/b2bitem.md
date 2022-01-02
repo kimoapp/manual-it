@@ -37,6 +37,7 @@
 * ItemLine
 * ItemSpecificationGroups
 * Manufacturer
+* OnlyItemsInPromotion
 * Season
 * Trademark
 
@@ -54,6 +55,7 @@
 * ItemLine
 * ItemSpecificationGroups
 * Manufacturer
+* OnlyItemsInPromotion
 * Season
 * Trademark
 
@@ -109,4 +111,3 @@
 
 * Item.Description
 * Item.Id
-

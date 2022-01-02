@@ -70,5 +70,5 @@ description: Contatti
 * 6: ToExportToErp
 * 7: Editing
 * 8: UploadedToServer
+* 9: StartedUploadToServer
 * 10: EditingPending
-

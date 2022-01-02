@@ -18,7 +18,11 @@
 * ErpDocumentType
 * ErpDocumentTypes
 * Item
+* ItemCollection
+* ItemCollections
 * Items
+* ItemSeries
+* ItemSerieses
 * Manufacturer
 * Manufacturers
 * Season
@@ -31,4 +35,3 @@
 
 **Tipo:** Valori separati da pipe  
 **Valore di default:** LastCalendarMonth\|CurrentMonth\|YearToYesterday\|YearToEndOfCurrentMonth\|CurrentYear
-

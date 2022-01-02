@@ -47,9 +47,11 @@ description: Scheda con le informazioni di un account
 | CarrierDescription |  |
 | CarrierId |  |
 | CertifiedMail |  |
+| CigCode |  |
 | ClosingDays |  |
 | Code |  |
 | ContactInfo |  |
+| CupCode |  |
 | Currency |  |
 | CurrencyDescription |  |
 | CurrencyId |  |

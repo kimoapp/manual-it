@@ -20,10 +20,12 @@
 | FreeBoolean1 \[1..7\] |  |
 | LinesNumber |  |
 | Name |  |
+| Notes |  |
 | SentToSalesAgentDescription |  |
 | SentToSalesAgentId |  |
 | SentToSalesAgentInfo |  |
 | SentToSalesAgentTimeStamp |  |
+| ShipmentSiteAddress |  |
 | ShipmentSiteFullName |  |
 | StatusIcon |  |
 | UserFullName |  |

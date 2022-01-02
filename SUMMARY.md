@@ -1,4 +1,4 @@
-# Table of contents
+﻿# Table of contents
 
 * [Piacere, sono Kimo](README.md)
 * [Introduzione](introduzione/README.md)
@@ -41,6 +41,7 @@
     * [B2b\Document](impostazioni/business-rules/b2bdocument.md)
     * [B2b\Item](impostazioni/business-rules/b2bitem.md)
     * [B2b\Password](impostazioni/business-rules/b2bpassword.md)
+    * [B2b\Price](impostazioni/business-rules/b2bprice.md)
     * [B2b\Promotion](impostazioni/business-rules/b2bpromotion.md)
     * [Barcode](impostazioni/business-rules/barcode.md)
     * [Cart](impostazioni/business-rules/cart.md)
@@ -63,13 +64,14 @@
     * [ilDataPool](impostazioni/business-rules/ildatapool.md)
     * [ItemAvailability](impostazioni/business-rules/itemavailability.md)
     * [Item](impostazioni/business-rules/item.md)
+    * [ItemImage](impostazioni/business-rules/itemimage.md)
     * [ItemUom](impostazioni/business-rules/itemuom.md)
-    * [ItemUom](impostazioni/business-rules/itemuom-1.md)
     * [MapAccounts](impostazioni/business-rules/mapaccounts.md)
     * [MarketingForm](impostazioni/business-rules/marketingform.md)
     * [MobileWarehouseAvailability](impostazioni/business-rules/mobilewarehouseavailability.md)
     * [Password](impostazioni/business-rules/password.md)
     * [PendingEdits](impostazioni/business-rules/pendingedits.md)
+    * [Pinaxo](impostazioni/business-rules/pinaxo.md)
     * [PointsPerSaleBalance](impostazioni/business-rules/pointspersalebalance.md)
     * [PointsPerSale](impostazioni/business-rules/pointspersale.md)
     * [PowerBI](impostazioni/business-rules/powerbi.md)
@@ -141,6 +143,7 @@
         * [ErpDocumentsSearch](interfaccia-utente/sfa/layout/list/erpdocumentssearchcontext.md)
         * [ItemForm](interfaccia-utente/sfa/layout/list/itemformcontext.md)
         * [ItemLotAvailabilitiesSearch](interfaccia-utente/sfa/layout/list/itemlotavailabilitiessearchcontext.md)
+        * [ItemsDrillDownTableRow](interfaccia-utente/sfa/layout/list/itemsdrilldowntablerowcontext.md)
         * [ItemsSearch](interfaccia-utente/sfa/layout/list/itemssearchcontext.md)
         * [ItemWarehouseAvailabilitiesSearch](interfaccia-utente/sfa/layout/list/itemwarehouseavailabilitiessearchcontext.md)
         * [MobileWarehouseAvailabilitiesSearch](interfaccia-utente/sfa/layout/list/mobilewarehouseavailabilitiessearchcontext.md)

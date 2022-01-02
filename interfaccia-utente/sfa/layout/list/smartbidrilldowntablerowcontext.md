@@ -17,8 +17,12 @@
 | CustomerGroupDescription |  |
 | CustomerGroupId |  |
 | DocumentsNumberPerYear1 \[1..5\] |  |
+| ItemCollectionDescription |  |
+| ItemCollectionId |  |
 | ItemDescription |  |
 | ItemId |  |
+| ItemSeriesDescription |  |
+| ItemSeriesId |  |
 | LinesAmount |  |
 | LinesAmountPerYear\_Delta1 \[1..5\] |  |
 | LinesAmountPerYear\_DeltaPercentual1 \[1..5\] |  |

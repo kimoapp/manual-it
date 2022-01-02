@@ -25,6 +25,7 @@
 | AmountIncludingVat |  |
 | ArchivingReasonDescription |  |
 | CreatorFullName |  |
+| CreatorSalesAgentDescription |  |
 | CreatorSalesAgentId |  |
 | DeliveryDate |  |
 | DocumentDate |  |
@@ -36,8 +37,10 @@
 | FreeLookup1Description \[1..5\] |  |
 | FreeText1 \[1..5\] |  |
 | HasRelatedActivitiesSymbol |  |
+| Notes |  |
 | Number |  |
 | Season |  |
+| SeasonDescription |  |
 | ShipmentSiteAddress |  |
 | ShipmentSiteCity |  |
 | ShipmentSiteCode |  |
@@ -47,5 +50,6 @@
 | ShipmentSiteName2 |  |
 | ShipmentSiteNickName |  |
 | Trademark |  |
+| TrademarkDescription |  |
 | ValidityStatusIcon |  |
 
