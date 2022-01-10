@@ -1,6 +1,6 @@
 # Risorse grafiche per Kimo B2B
 
-## In questa pagina
+## In questa pagina:
 
 1. [Risorse per la pubblicazione sugli store (App Store, Play Store)](risorse-grafiche-per-kimo-b2b.md#risorse-per-la-pubblicazione-sugli-store-app-store-play-store)
 2. [Risorse per Kimo B2B (loghi, sezioni e vetrina home, ...)](risorse-grafiche-per-kimo-b2b.md#risorse-per-kimo-b2b)
