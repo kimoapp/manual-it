@@ -15,14 +15,17 @@ Ad esempio, l'url utilizzato per l'apertura di una scheda articolo sarà:\
 
 ## Apertura della scheda di un articolo
 
-
-
 Esempi:
 
 ```http
 https://kimo.mycompany.com/#/items/000004
 https://kimo.mycompany.com/#/items/articolo%20a
 ```
+
+{% hint style="warning" %}
+Se i codici (articolo, produttore, articolo-produttore) contengono caratteri "particolari" (es. spazi, punti, ...) vanno codificati secondo lo standard di codifica degi url [https://www.w3schools.com/tags/ref\_urlencode.asp](https://www.w3schools.com/tags/ref\_urlencode.asp)\
+Ad esempio il codice articolo "ARTICOLO A" diventa "ARTICOLO%20A".
+{% endhint %}
 
 ## Aggiunta di un articolo al carrello corrente
 
