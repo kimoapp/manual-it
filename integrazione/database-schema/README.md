@@ -76,7 +76,7 @@
 | [ItemSpecificationGroupTranslation](itemspecificationgrouptranslation.md) | Traduzioni in lingua delle classificazioni |
 | [ItemSpecificationItemPerGroup](itemspecificationitempergroup.md) | Associazione Classificazioni - Articoli |
 | [ItemSpecificationValue](itemspecificationvalue.md) | Valori delle specifiche tecniche degli articoli |
-| [ItemTranslation](itemtranslation.md) | Traduzioni in lingua dei FreeLookup |
+| [ItemTranslation](itemtranslation.md) | Traduzioni in lingua degli articoli |
 | [ItemUom](itemuom.md) | Unità di misura degli articoli |
 | [ItemUrl](itemurl.md) | Risorse 'online' degli articoli \(schede tecniche online, immagini, ...\) |
 | [ItemVariable](itemvariable.md) | Varianti articolo |

@@ -8,6 +8,7 @@
 | [**CupCodeMandatoryIfIsFatturaPA**](document.md#cupcodemandatoryifisfatturapa) | Il Codice Unico di Progetto è obbligatorio se il tipo di documento è FatturaPA |
 | [**DatesPolicy**](document.md#datespolicy) | Policy di inizializzazione e gestione delle date del documento |
 | [**DaysToAddToDocumentDateForDeliveryDate**](document.md#daystoaddtodocumentdatefordeliverydate) | Giorni da aggiungere alla data del documento per calcolare la data di consegna |
+| [**DefaultSeason**](document.md#defaultseason) | Stagione di default con cui inizializzare il documento |
 | [**DocumentNumberGlobalTemplate**](document.md#documentnumberglobaltemplate) | Template da utilizzare per generare i numeri dei documenti |
 | [**DocumentTypesThatRequireApprovalByAccount**](document.md#documenttypesthatrequireapprovalbyaccount) | Tipi di documenti che richiedono l'approvazione da parte del cliente |
 | [**ExpectedClosingDatePostponeDays**](document.md#expectedclosingdatepostponedays) | Numero di giorni proposti durante la posticipazione dei documenti, rispetto alla data di scadenza |
@@ -49,6 +50,10 @@
 ## DaysToAddToDocumentDateForDeliveryDate
 
 **Tipo:** Int32
+
+## DefaultSeason
+
+**Tipo:** String
 
 ## DocumentNumberGlobalTemplate
 

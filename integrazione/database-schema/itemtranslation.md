@@ -1,5 +1,5 @@
 ---
-description: Traduzioni in lingua dei FreeLookup
+description: Traduzioni in lingua degli articoli
 ---
 
 # ItemTranslation
