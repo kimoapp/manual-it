@@ -1,4 +1,4 @@
-﻿# Table of contents
+# Table of contents
 
 * [Piacere, sono Kimo](README.md)
 * [Introduzione](introduzione/README.md)
@@ -332,6 +332,7 @@
     * [Tipi Vendita](funzionalita/documenti-di-vendita/tipi-vendita.md)
     * [Controlli commerciali](funzionalita/documenti-di-vendita/controlli-comemrciali.md)
     * [Report](funzionalita/documenti-di-vendita/report.md)
+  * [Promozioni](funzionalita/promozioni.md)
   * [Documenti aziendali e personali](funzionalita/pdf-per-companydocuments-e-userdocuments.md)
   * [Statistiche](funzionalita/statistiche.md)
   * [Comunicazioni](funzionalita/comunicazioni.md)

@@ -24,7 +24,7 @@ Un ruolo utilizzato da almeno un utente non può essere cancellato.
 
 ![](<../.gitbook/assets/image (17).png>)
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2).png>)
 
 ### Definizione di un ruolo per **Admin**
 

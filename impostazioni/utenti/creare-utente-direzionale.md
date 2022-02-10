@@ -20,6 +20,6 @@ permettono di inviare nuovamente la mail di attivazione oppure di accedere diret
 
 L'utente può essere "cancellato" premendo il tasto ![](../../.gitbook/assets/delete.PNG) ([Cancellare e ripristinare un utente](archiviazione-e-ripristino.md)).
 
-Successivamente alla creazione del nuovo utente, accedere alla maschera di dettaglio (tramite il pulsante![](<../../.gitbook/assets/image (2).png>)presente nella lista degli utenti) per impostare le ulteriori informazioni (es. configurazione per i layout, serie numeratore, ...) come da maschera seguente:
+Successivamente alla creazione del nuovo utente, accedere alla maschera di dettaglio (tramite il pulsante![](../../.gitbook/assets/image.png)presente nella lista degli utenti) per impostare le ulteriori informazioni (es. configurazione per i layout, serie numeratore, ...) come da maschera seguente:
 
 ![](../../.gitbook/assets/screenshot-2019-06-18-at-15.33.47.png)
