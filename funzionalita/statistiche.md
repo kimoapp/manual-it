@@ -2,34 +2,34 @@
 
 In Kimo i dati statistici vengono gestiti sotto forma di json, questi dati sono successivamente deserializzati e renderizzati per essere visualizzati sotto forma di layout html negli iPad degli utenti SFA.
 
-I dati nel formato json, devono essere inviati a Kimo nelle tabella AccountAccountingInfo o SalesAgent, i campi in cui mappare questi i dati sono i FreeText\(1..2..3..\).   
-I dati presenti nella AccountAccountingInfo sono resi disponibile a livello di cliente, quindi tutti gli agenti che visualizzano il cliente associato alla statistica visualizzano lo stesso dato.  
-I dati presenti nella SalesAgent invece sono resi disponibili a livello di agente, quindi ciascun agente potrà visualizzare solo le statistiche assegnategli.  
-I layout da utilizzare vengono determinati dalla tabella ed il campo utilizzati, in particolare sono:  
+I dati nel formato json, devono essere inviati a Kimo nelle tabella AccountAccountingInfo o SalesAgent, i campi in cui mappare questi i dati sono i FreeText(1..2..3..). \
+I dati presenti nella AccountAccountingInfo sono resi disponibile a livello di cliente, quindi tutti gli agenti che visualizzano il cliente associato alla statistica visualizzano lo stesso dato.\
+I dati presenti nella SalesAgent invece sono resi disponibili a livello di agente, quindi ciascun agente potrà visualizzare solo le statistiche assegnategli.\
+I layout da utilizzare vengono determinati dalla tabella ed il campo utilizzati, in particolare sono: &#x20;
 
-*  AccountAccountinfInfoExtendedInfo\(1..2..3\)Layout 
-* SalesAgentExtendedInfo\(1..2..3\)Layout
+* &#x20;AccountAccountinfInfoExtendedInfo(1..2..3)Layout&#x20;
+* SalesAgentExtendedInfo(1..2..3)Layout
 
-  
-Il contesti da inserire quando si crea il layout per la visualizzazione vengono determinati allo stesso modo inserendo la parola Context al posto di Layout:  
+\
+Il contesti da inserire quando si crea il layout per la visualizzazione vengono determinati allo stesso modo inserendo la parola Context al posto di Layout: &#x20;
 
-* AccountAccountinfInfoExtendedInfo\(1..2..3\)Context
-* SalesAgentExtendedInfo\(1..2..3\)Context
+* AccountAccountinfInfoExtendedInfo(1..2..3)Context
+* SalesAgentExtendedInfo(1..2..3)Context
 
-**Es**.  
+**Es**.\
 Utilizzando la tabella SalesAgent e il campo FreeText2 si andrà ad utilizzare il layout SalesAgentExtendedInfo2Layout con contesto SalesAgentExtendedInfo2Context.
 
 ### Visualizzazione
 
-Le statistiche posso essere visualizzate, oltre che in normali tabelle html, in grafici Google Chart.  
-La visualizzazione dei grafici, renderizzati con Google Chart, è disponibile solo online.   
+Le statistiche posso essere visualizzate, oltre che in normali tabelle html, in grafici Google Chart.\
+La visualizzazione dei grafici, renderizzati con Google Chart, è disponibile solo online. \
 Di seguito riportiamo un grafico che  visualizza delle statistiche, calcolate su dati fittizi, evidenziando la differenza tra i fatturati degli ultimi 3 anni.
 
-![](../.gitbook/assets/simulator-screen-shot-ipad-6th-generation-2019-09-02-at-09.25.20_framed.png)
+![](../.gitbook/assets/simulator-screen-shot-ipad-6th-generation-2019-09-02-at-09.25.20\_framed.png)
 
 ### Input
 
-Il json ricevuto in input, deve rispettare le regole standard di validazione, altrimenti non è possibile deserializzarlo e successivamente andarlo a visualizzare.  
+Il json ricevuto in input, deve rispettare le regole standard di validazione, altrimenti non è possibile deserializzarlo e successivamente andarlo a visualizzare.\
 Di seguito riportiamo alcuni esempi di json  nel formato atteso:
 
 {% code title="Json con singolo array di oggetti" %}
@@ -112,7 +112,7 @@ Di seguito riportiamo alcuni esempi di json  nel formato atteso:
 ```
 {% endcode %}
 
-{% code title="Json alla base dell\'esempio proposto" %}
+{% code title="Json alla base dell'esempio proposto" %}
 ```javascript
 {
   "anno0": 2018,
@@ -227,4 +227,3 @@ Di seguito riportiamo alcuni esempi di json  nel formato atteso:
 }
 ```
 {% endcode %}
-

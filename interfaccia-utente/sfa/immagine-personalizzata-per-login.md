@@ -6,9 +6,9 @@ L'immagine non è personalizzabile per ogni utente, ma a livello di azienda. In 
 
 ## Configurazione
 
-1. Creare due immagini con le seguenti risoluzioni \(in pixel\) e nomi:
+1. Creare due immagini con le seguenti risoluzioni (in pixel) e nomi:
    1. 120x120 - UserProfile.png
-   2. 240x240 - UserProfile@2x.png 
+   2. 240x240 - UserProfile@2x.png\
+
 2. Salvare le immagini nella cartella "{Istanza Kimo}\Public\Files\Resources".
 3. Alla sincronizzazione dell'utente, le immagini saranno aggiornate sul dispositivo.
-

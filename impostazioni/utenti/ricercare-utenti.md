@@ -1,12 +1,12 @@
 # Ricercare utenti
 
-La funzionalità Utenti visualizza l'elenco di tutti gli utenti Kimo.  
+La funzionalità Utenti visualizza l'elenco di tutti gli utenti Kimo.\
 La lista può essere filtrata applicando una ricerca testuale oppure utilizzando filtri avanzati di ricerca.
 
-![](../../.gitbook/assets/image%20%2818%29.png)
+![](<../../.gitbook/assets/image (18).png>)
 
-  
-La ricerca testuale avviene accedendo agli attributi testuali: 
+\
+La ricerca testuale avviene accedendo agli attributi testuali:&#x20;
 
 1. Id
 2. Username
@@ -28,4 +28,3 @@ Attivando la sezione "Advanced" vengono mostrati i seguenti filtri:
 6. Marchio: se valorizzato visualizza gli utenti con il marchio selezionato.
 7. Tipo documento: se valorizzato visualizza gli utenti abilitati al Tipo Documento selezionato.
 8. Tipo Report: se valorizzato visualizza gli utenti abilitati al Tipo Report selezionato.
-

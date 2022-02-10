@@ -4,78 +4,58 @@ description: Utente di tipo Cliente
 
 # API: Creare un utente per B2B
 
-{% api-method method="post" host="http://kimo.thormax.it/api/UserPublic/CreateAndActivateB2bUser" path="" %}
-{% api-method-summary %}
-CreateAndActivateB2bUser
-{% endapi-method-summary %}
-
-{% api-method-description %}
+{% swagger baseUrl="http://kimo.thormax.it/api/UserPublic/CreateAndActivateB2bUser" path="" method="post" summary="CreateAndActivateB2bUser" %}
+{% swagger-description %}
 API per la creazione e attivazione di un Utente di tipo Cliente con accesso all'app B2B
-{% endapi-method-description %}
+{% endswagger-description %}
 
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-headers %}
-{% api-method-parameter name="Authentication" type="string" required=true %}
+{% swagger-parameter in="header" name="Authentication" type="string" %}
 Inserire le credenziali di un Utente di tipo Direzionale
-{% endapi-method-parameter %}
-{% endapi-method-headers %}
+{% endswagger-parameter %}
 
-{% api-method-body-parameters %}
-{% api-method-parameter name="mail" type="string" required=true %}
+{% swagger-parameter in="body" name="mail" type="string" %}
 Indirizzo mail dell'utente
-{% endapi-method-parameter %}
+{% endswagger-parameter %}
 
-{% api-method-parameter name="warehouseId" type="string" required=false %}
+{% swagger-parameter in="body" name="warehouseId" type="string" %}
 Id del magazzino da associare all'utente B2B
-{% endapi-method-parameter %}
+{% endswagger-parameter %}
 
-{% api-method-parameter name="role" type="string" required=true %}
+{% swagger-parameter in="body" name="role" type="string" %}
 Id del ruolo per utenti B2B da utilizzare in Kimo
-{% endapi-method-parameter %}
+{% endswagger-parameter %}
 
-{% api-method-parameter name="lastName" type="string" required=false %}
+{% swagger-parameter in="body" name="lastName" type="string" %}
 Cognome dell'utente
-{% endapi-method-parameter %}
+{% endswagger-parameter %}
 
-{% api-method-parameter name="firstName" type="string" required=true %}
+{% swagger-parameter in="body" name="firstName" type="string" %}
 Nome dell'utente
-{% endapi-method-parameter %}
+{% endswagger-parameter %}
 
-{% api-method-parameter name="password" type="string" required=true %}
+{% swagger-parameter in="body" name="password" type="string" %}
 password da utilizzare come credenziale di accesso all'app
-{% endapi-method-parameter %}
+{% endswagger-parameter %}
 
-{% api-method-parameter name="username" type="string" required=true %}
+{% swagger-parameter in="body" name="username" type="string" %}
 Nome utente da utilizzare per l'accesso all'app
-{% endapi-method-parameter %}
+{% endswagger-parameter %}
 
-{% api-method-parameter name="shipmentSiteIds" type="array" required=false %}
+{% swagger-parameter in="body" name="shipmentSiteIds" type="array" %}
 Array di stringhe contenente le Destinazioni Merci da associare all'Utente B2B
-{% endapi-method-parameter %}
+{% endswagger-parameter %}
 
-{% api-method-parameter name="accountId" type="string" required=true %}
+{% swagger-parameter in="body" name="accountId" type="string" %}
 Codice del Cliente da associare all'utente B2B
-{% endapi-method-parameter %}
-{% endapi-method-body-parameters %}
-{% endapi-method-request %}
+{% endswagger-parameter %}
 
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-
-{% endapi-method-response-example-description %}
-
+{% swagger-response status="200" description="" %}
 ```
 L'utente è stato creato e attivato con successo
 ```
-{% endapi-method-response-example %}
+{% endswagger-response %}
 
-{% api-method-response-example httpCode=500 %}
-{% api-method-response-example-description %}
-
-{% endapi-method-response-example-description %}
-
+{% swagger-response status="500" description="" %}
 ```
 È necessario specificare un coice cliente
 Il codice cliente inserito non è stato trovato
@@ -83,10 +63,6 @@ Destinazione Merci non associa al Cliente
 Il codice inserito non corrisponde ad una Destinazione Merci
 Destinazione Merci non trovata
 ```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
-
-
+{% endswagger-response %}
+{% endswagger %}
 
