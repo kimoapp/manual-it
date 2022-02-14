@@ -319,7 +319,7 @@
     * [Zone](integrazione/database-schema/zone.md)
   * [Come schedulare Import/Export](integrazione/come-schedulare-import-export.md)
   * [Task personalizzati import/export](integrazione/task-personalizzati-import-export.md)
-* [Funzionalità](funzionalita/README.md)
+* [Funzionalità e ruoli](funzionalita/README.md)
   * [Catalogo](funzionalita/catalogo/README.md)
     * [Articolo](funzionalita/catalogo/articolo.md)
     * [Articolo a variante](funzionalita/catalogo/articolo-a-variante.md)

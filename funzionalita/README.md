@@ -1,8 +1,8 @@
-# Funzionalità
+# Funzionalità e ruoli
 
-In Kimo è possibile, per ogni utente, attivare funzionalità specifiche.
+Le funzionalità di Kimo possono essere attivate in modo semplice...e per ogni specifico utente, sia SFA che B2B.
 
-Per fare ciò, andremo ad usare i ruoli. In Kimo sono gestite tre ripologie di ruoli:
+Ogni utente può essere assegnato a diversi ruoli. In Kimo sono gestite tre ripologie di ruoli:
 
 1. venditore (SFA)
 2. cliente (B2B)
