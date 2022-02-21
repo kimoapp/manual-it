@@ -31,6 +31,10 @@ _Risoluzione: 72 DPI_\
 _Aspect ratio: 2:1_\
 _Formato: immagine PNG con trasparenza_
 
+_(Nota bene: le immagini **NON** devono prevedere arrotondamenti)_
+
+__
+
 **2. Logo Visual (logo\_visual.png)**
 
 Viene usato nel menù laterale dell'app, per le risoluzioni "large" o "medium"\
@@ -38,6 +42,10 @@ _Dimensione: 100x100 px_\
 _Risoluzione: 72 DPI_\
 _Aspect ratio: 1:1_\
 _Formato: immagine PNG con trasparenza_
+
+_(Nota bene: le immagini **NON** devono prevedere arrotondamenti)_
+
+__
 
 **3. Immagini sezioni**
 
@@ -47,6 +55,10 @@ _Risoluzione: 72 DPI_\
 _Aspect ratio: 2.3:1_\
 _Formato: immagine PNG con trasparenza_
 
+_(Nota bene: le immagini **NON** devono prevedere arrotondamenti e margini trasparenti)_
+
+__
+
 **4. Immagini sezioni (metà altezza)**
 
 Viene usato nella home.\
@@ -54,6 +66,10 @@ _Dimensione: 690x150 px_\
 _Risoluzione: 72 DPI_\
 _Aspect ratio: 4.6:1_\
 _Formato: immagine PNG con trasparenza_
+
+_(Nota bene: le immagini **NON** devono prevedere arrotondamenti e margini trasparenti)_
+
+__
 
 **5. Immagini carousel home**
 
@@ -68,6 +84,10 @@ _Risoluzione: 150 DPI_\
 _Aspect ratio 4:1_\
 _Formato: immagine PNG **senza** trasparenza_
 
+_(Nota bene: le immagini **NON** devono prevedere arrotondamenti e margini trasparenti)_
+
+__
+
 ### Risoluzione "medium"
 
 _Dimensione: 1740x580 px_\
@@ -75,12 +95,20 @@ _Risoluzione: 150 DPI_\
 _Aspect ratio: 3:1_\
 _Formato: immagine PNG **senza** trasparenza_
 
+_(Nota bene: le immagini **NON** devono prevedere arrotondamenti e margini trasparenti)_
+
+__
+
 ### Risoluzione "small"
 
 _Dimensione: 1160x580 px_\
 _Risoluzione: 150 DPI_\
 _Aspect ratio: 2:1_\
 _Formato: immagine PNG **senza** trasparenza_
+
+_(Nota bene: le immagini **NON** devono prevedere arrotondamenti e margini trasparenti)_
+
+__
 
 
 
