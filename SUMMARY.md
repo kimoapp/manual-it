@@ -348,6 +348,7 @@
   * [B2B](funzionalita/b2b/README.md)
     * [Funzioni attivabili da link](funzionalita/b2b/funzioni-attivabili-da-link.md)
   * [Modalità evasione](funzionalita/modalita-evasione.md)
+  * [Disponibilità Online](funzionalita/disponibilita-online.md)
   * [CRM](funzionalita/crm/README.md)
     * [Attività](funzionalita/crm/attivita.md)
     * [Schede marketing](funzionalita/crm/schede-marketing.md)
