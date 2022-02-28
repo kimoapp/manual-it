@@ -4,7 +4,7 @@
 
 #### Autorizzazioni
 
-Per il ruolo interessato abilitare l'autorizzazione "Può vedere le disponibilità online della sezione Articoli". Quest'autorizzazione abiliterà la visualizzazione del pulsante per il download della disponibilità online all'interno del documento.
+Per il ruolo interessato abilitare l'autorizzazione "Può vedere le disponibilità online" della sezione Articoli. Quest'autorizzazione abiliterà la visualizzazione del pulsante per il download della disponibilità online all'interno del documento.
 
 #### Integrazione
 
