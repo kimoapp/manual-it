@@ -346,7 +346,7 @@
     * [Prospect](funzionalita/account-clienti-prospect-destinazioni-merci/prospect.md)
     * [Destinazioni Merci](funzionalita/account-clienti-prospect-destinazioni-merci/destinazioni-merci.md)
   * [B2B](funzionalita/b2b/README.md)
-    * [Promozioni a card](funzionalita/b2b/promozioni-a-card.md)
+    * [Promozioni - layout a card](funzionalita/b2b/promozioni-layout-a-card.md)
     * [Untitled](funzionalita/b2b/untitled.md)
     * [Funzioni attivabili da link](funzionalita/b2b/funzioni-attivabili-da-link.md)
   * [Modalità evasione](funzionalita/modalita-evasione.md)
