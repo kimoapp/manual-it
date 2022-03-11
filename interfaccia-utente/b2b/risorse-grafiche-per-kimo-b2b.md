@@ -49,7 +49,7 @@ __
 
 **3. Immagini sezioni**
 
-Viene usato nella sezione "categorie" della home e nel wizard del catalogo\
+Viene usato nella sezione "categorie" della home, nel wizard del catalogo e per le promozioni.\
 _Dimensione: 690x300 px_\
 _Risoluzione: 72 DPI_\
 _Aspect ratio: 2.3:1_\
