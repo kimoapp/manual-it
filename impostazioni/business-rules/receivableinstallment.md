@@ -4,6 +4,7 @@
 | :--- | :--- |
 | [**AdvancedSearchFields**](receivableinstallment.md#advancedsearchfields) | Campi per la ricerca avanzata |
 | [**AllowMultiplePaymentsForInstallment**](receivableinstallment.md#allowmultiplepaymentsforinstallment) | Consente di registrare più pagamenti per una stessa partita |
+| [**AllowPaidAmountGreaterThanExpected**](receivableinstallment.md#allowpaidamountgreaterthanexpected) | Permette all'agente di incassare un importo maggiore di quello previsto dalla partita |
 | [**KeywordSearchFields**](receivableinstallment.md#keywordsearchfields) | Campi per la ricerca testuale |
 
 ## AdvancedSearchFields
@@ -15,6 +16,10 @@
 * Timeframe
 
 ## AllowMultiplePaymentsForInstallment
+
+**Tipo:** Boolean
+
+## AllowPaidAmountGreaterThanExpected
 
 **Tipo:** Boolean
 

@@ -41,6 +41,7 @@
 | ItemsImageGallery |  |
 | ItemsImageGalleryWithCaption |  |
 | ItemSpecifications |  |
+| ItemsVideoGallery |  |
 | ItemUoms |  |
 | LogisticCenterAvailability |  |
 | LongDescription |  |

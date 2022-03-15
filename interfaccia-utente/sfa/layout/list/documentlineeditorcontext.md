@@ -10,6 +10,7 @@
 | FromReassortment |  |
 | HasErrors |  |
 | HasWarnings |  |
+| IsManualDocumentLine |  |
 
 ## Campi
 
@@ -52,7 +53,9 @@
 | LineMarkup |  |
 | LineMarkupOnNetCost |  |
 | LogisticCenterAvailability |  |
+| LoseRemaining |  |
 | LotAvailability |  |
+| Manufacturer |  |
 | ManufacturerId |  |
 | ManufacturerItemId |  |
 | ManufacturerName |  |

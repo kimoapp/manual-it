@@ -51,6 +51,7 @@ description: Controlli commerciali sui documenti di vendita
 * 20: Possono essere inviati solo documenti in approvazione
 * 21: Non vendibilità
 * 22: Articoli obbligatori
+* 23: Il documento può contenere solo righe di una singola promozione
 
 ## SaleTypeTargetContributeTo
 
