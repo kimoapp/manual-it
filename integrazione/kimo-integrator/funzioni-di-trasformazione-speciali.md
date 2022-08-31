@@ -1,6 +1,10 @@
 # Funzioni di trasformazione "speciali"
 
+In alcune situazioni è necessario fare delle particolari trasformazioni nei dati importati o esportati da Kimo. Ad esempio, può essere utile impostare un valore fisso su un certo campo esportato all'ERP.
 
+Kimo permette di definire queste trasformazioni attraverso i campi "ImportTransformations" e "ExportTransformations" della tabella IntegratorMapping, indicando la funzione da applicare attraverso il suo nome.
+
+Alcune funzioni prevedono dei parametri, in tal caso andranno specificati usando il carattere ':'. Ad esempio, per indicare di impostare il valore 'KIMO' attraverso la funzione "FixedValueAsString", si definità come impostazione "FixedValueAsString:KIMO" nel campo "ExportTransformations".
 
 ### Import
 
