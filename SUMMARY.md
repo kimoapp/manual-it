@@ -1,4 +1,4 @@
-﻿# Table of contents
+# Table of contents
 
 * [Piacere, sono Kimo](README.md)
 * [Introduzione](introduzione/README.md)
@@ -175,6 +175,7 @@
 * [Integrazione](integrazione/README.md)
   * [Kimo integrator](integrazione/kimo-integrator.md)
     * [Integrator System Settings](integrazione/kimo-integrator/integrator-system-settings.md)
+    * [Funzioni di trasformazione "speciali"](integrazione/kimo-integrator/funzioni-di-trasformazione-speciali.md)
   * [Database schema](integrazione/database-schema/README.md)
     * [Account](integrazione/database-schema/account.md)
     * [AccountAccountingInfo](integrazione/database-schema/accountaccountinginfo.md)
