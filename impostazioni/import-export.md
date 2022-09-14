@@ -25,7 +25,7 @@ Il menù Import/Export è visibile nella parte in alto a destra dello schermo.
 
 * Preparazione dati di Sync delle sole impostazioni: viene eseguita la preparazione di dati dei soli dati relativi alle impostazioni
 * Import completo (entità specifiche): viene eseguita l'importazione completa delle sole entità specificate nella maschera proposta\
-  &#x20;![](../.gitbook/assets/import-da-entita-specifica.PNG)&#x20;
+  &#x20;<img src="../.gitbook/assets/import-da-entita-specifica.PNG" alt="" data-size="original">&#x20;
 * Step 1: Import da Erp a KimoIntegrator (entità specifiche): viene eseguita l'importazione delle sole entità specificate nella maschera proposta
 * Step 2: Caricamento da KimoIntegrator (entità specifiche): viene eseguito il caricamento delle sole entità specificate nella maschera proposta
 * Step 3: Preparazione dati di Sync (entità specifiche): viene eseguita la preparazione dei dati di Sync delle sole entità specificate nella maschera proposta

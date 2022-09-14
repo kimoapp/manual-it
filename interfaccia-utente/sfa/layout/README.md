@@ -155,12 +155,12 @@ Quando si ha la necessità di modificare un layout è utile avere un'anteprima d
 Per rendere l'operazione il più semplice possibile si può usare la seguente procedura:
 
 * Usare l'iPAd
-* Installare su computer Apple il programma "iFunBox" scaricandolo dall'indirizzo [http://dl.i-funbox.com/](http://dl.i-funbox.com)
+* Installare su computer Apple il programma "iFunBox" scaricandolo dall'indirizzo [http://dl.i-funbox.com/](http://dl.i-funbox.com/)
 * Collegare al computer Apple l'iPad
 * Avviare il programma "iFunBox"
 * Nella sezione "App File Sharing" selezionare la cartella "Kimo"&#x20;
 
-![](../../../.gitbook/assets/screenshot-2019-06-17-at-18.47.03.png)
+<img src="../../../.gitbook/assets/screenshot-2019-06-17-at-18.47.03.png" alt="" data-size="original">
 
 * Sul computer Apple creare un file di testo con il nome "all.txt".&#x20;
 * Spostare il file "all.txt" trascinandolo sulla finestra di "iFunBox" all'interno dell'icona "Kimo". \
@@ -178,6 +178,6 @@ Per rendere l'operazione il più semplice possibile si può usare la seguente pr
 
 ![](<../../../.gitbook/assets/image (15).png>)
 
-Il tasto ![](<../../../.gitbook/assets/image (34).png>) apre la maschera di dettaglio del layout.
+Il tasto <img src="../../../.gitbook/assets/image (34).png" alt="" data-size="original"> apre la maschera di dettaglio del layout.
 
 ![](<../../../.gitbook/assets/image (46).png>)

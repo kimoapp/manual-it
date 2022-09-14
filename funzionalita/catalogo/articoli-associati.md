@@ -8,7 +8,7 @@ Le tre autorizzazioni sono presenti sia per ruoli B2b che per ruoli Agente.
 
 Gli articoli alternativi sono prodotti con caratteristiche comuni. \
 Quest'associazione serve a facilitare la ricerca di articoli simili, permettendo una veloce navigazione del catalogo tra articoli che sono alternativi.\
-La presenza di articoli alternativi è segnalata dalla seguente icona ![](../../.gitbook/assets/alternativi\_random-light.png). \
+La presenza di articoli alternativi è segnalata dalla seguente icona <img src="../../.gitbook/assets/alternativi_random-light.png" alt="" data-size="line">. \
 Le proprietà che estendono le associazioni già definite nella tabella sono la transitività (Se A è alternativo a B e alternativo a C automaticamente B è alternativo a C ) e la bidirezionalità (Se A è alternativo a B di conseguenza B è alternativo ad A).\
 \
 Nell'esempio riportato di seguito l'Articolo A è alternativo all'Articolo B e all'Articolo C; in tutti e 3 gli articoli verrà mostrata l'icona che rimanda agli altri due (A -> B e C, B -> A e C, C-> A e B).
@@ -21,7 +21,7 @@ Nell'esempio riportato di seguito l'Articolo A è alternativo all'Articolo B e a
 ### Articoli Sostitutivi
 
 Gli articoli sostitutivi sono solitamente utilizzati per segnalare un nuovo modello o un articolo che, per variabili motivi, non è più disponibile ed è quindi stato sostituito da un articolo simile.\
-La presenza di articoli sostitutivi è segnalata dalla seguente icona ![](../../.gitbook/assets/sostitutivi\_clone-light.png) . Questa icona verrà visualizzata nell'articolo obsoleto e permetterà di accedere velocemente al/agli articolo/i che ne hanno preso il posto. Il formato dei dati inseriti prevede che l'articolo sorgente sia quello non più disponibile.\
+La presenza di articoli sostitutivi è segnalata dalla seguente icona <img src="../../.gitbook/assets/sostitutivi_clone-light.png" alt="" data-size="line"> . Questa icona verrà visualizzata nell'articolo obsoleto e permetterà di accedere velocemente al/agli articolo/i che ne hanno preso il posto. Il formato dei dati inseriti prevede che l'articolo sorgente sia quello non più disponibile.\
 \
 Nell'esempio di dati riportato di seguito gli articoli ArticoloTerzaGenerazioneA ed ArticoloTerzaGenerazioneB hanno sostituito l'articolo ArticoloSecondaGenerazione; in quest'ultimo verrà raffigurata l'icona che rimanda ai due articoli ArticoloTerzaGenerazioneA ed ArticoloTerzaGenerazioneB.
 
@@ -34,7 +34,7 @@ Nell'esempio di dati riportato di seguito gli articoli ArticoloTerzaGenerazioneA
 
 Gli articoli legati da questo tipo di associazione vengono spesso acquistati insieme: un esempio di articoli collegati può essere un prodotto con i suoi accessori.\
 A differenza degli articoli alternativi il collegamento è unidirezionale: gli accessori sono collegati al prodotto, ma il prodotto non è collegato ai suoi accessori.\
-L'icona che indica la presenza di articoli collegati è la seguente ![](../../.gitbook/assets/collegati\_project-diagram-light.png) . \
+L'icona che indica la presenza di articoli collegati è la seguente <img src="../../.gitbook/assets/collegati_project-diagram-light.png" alt="" data-size="line"> . \
 L'articolo in cui viene mostrata l'icona è quello principale. Prendendo come esempio un trapano con le sue punte, nel trapano sarà mostra l'icona e nelle punte no.\
 \
 Nell'esempio di dati riportato di seguito l'Articolo A risulta collegato agli accessori Accessorio1 ed Accessoio2; nel catalogo sarà quindi raffigurata l'icona che dal trapano rimanda ai due accessori.

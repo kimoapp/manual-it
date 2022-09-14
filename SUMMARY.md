@@ -350,6 +350,7 @@
   * [B2B](funzionalita/b2b/README.md)
     * [Promozioni - layout a card](funzionalita/b2b/promozioni-layout-a-card.md)
     * [Funzioni attivabili da link](funzionalita/b2b/funzioni-attivabili-da-link.md)
+    * [Caricamento carrello da file Excel](funzionalita/b2b/caricamento-carrello-da-file-excel.md)
   * [Modalità evasione](funzionalita/modalita-evasione.md)
   * [Disponibilità Online](funzionalita/disponibilita-online.md)
   * [CRM](funzionalita/crm/README.md)

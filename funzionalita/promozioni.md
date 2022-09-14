@@ -85,7 +85,7 @@ L'attivazione di una promozione può essere eseguita nei seguenti modi:
 
 ![](<../.gitbook/assets/Simulator Screen Shot - iPad Pro (9.7-inch) - 2019-10-14 at 15.48.28\_framed.png>)
 
-* Tappando la stellina: Per gli articoli in cui è presente almeno una promozione c'è la possibilità di configurare il layout facendo si che venga visualizzata la stellina delle promozioni ![](<../.gitbook/assets/Screenshot 2019-10-14 at 14.28.04.png>) . Tappando su questa stellina si potrà accedere direttamente all'interno dell'editor della riga promozione.\
+* Tappando la stellina: Per gli articoli in cui è presente almeno una promozione c'è la possibilità di configurare il layout facendo si che venga visualizzata la stellina delle promozioni <img src="../.gitbook/assets/Screenshot 2019-10-14 at 14.28.04.png" alt="" data-size="original"> . Tappando su questa stellina si potrà accedere direttamente all'interno dell'editor della riga promozione.\
 
 * Cambiando condizione di vendita nell'editor della riga documento:
   *   Per poter eseguire questa operazione deve essere stato appositamente

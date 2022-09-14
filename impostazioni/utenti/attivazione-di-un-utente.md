@@ -7,10 +7,10 @@ All'interno dell'email è presente un link che reindirizza alla pagina di attiva
 
 ### Reinvio della mail di attivazione
 
-Finché l'utente non viene attivato, nella lista utenti è visibile il pulsante ![](<../../.gitbook/assets/image (21).png>) che\
+Finché l'utente non viene attivato, nella lista utenti è visibile il pulsante <img src="../../.gitbook/assets/image (21).png" alt="" data-size="original"> che\
 permette di inviare nuovamente la mail di attivazione.
 
 ### Procedura alternativa di attivazione
 
-In caso di necessità (es. mancata ricezione da parte dell'utente dell'e-mail di attivazione) è possibile accedere al link di attivazione dell'utente premendo il tasto ![](../../.gitbook/assets/tasto-di-attivazione.PNG)presente nell'elenco Utenti.\
+In caso di necessità (es. mancata ricezione da parte dell'utente dell'e-mail di attivazione) è possibile accedere al link di attivazione dell'utente premendo il tasto <img src="../../.gitbook/assets/tasto-di-attivazione.PNG" alt="" data-size="original">presente nell'elenco Utenti.\
 Si sottolinea che questa funzionalità va usata solo in caso di problemi con l'email di attivazione perché l'impostazione della password è una procedura di esclusiva pertinenza dell'Utente.\

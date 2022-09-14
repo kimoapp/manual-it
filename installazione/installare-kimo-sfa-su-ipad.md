@@ -21,7 +21,7 @@ Per installare Kimo SFA su iPad:
 
 ![](<../.gitbook/assets/image (7).png>)
 
-7\.  Tornare nel menù iniziale di iOS e avviare l'app di Kimo: si presenterà la maschera iniziale, nella quale inserire le credenziali (nome utente e password) e l'indirizzo del server (es. [https://kimo.acme.com](https://demo.kimoapp.com)  - cambiare il link in base alla propria installazione)
+7\.  Tornare nel menù iniziale di iOS e avviare l'app di Kimo: si presenterà la maschera iniziale, nella quale inserire le credenziali (nome utente e password) e l'indirizzo del server (es. [https://kimo.acme.com](https://demo.kimoapp.com/)  - cambiare il link in base alla propria installazione)
 
 ![](<../.gitbook/assets/image (35).png>)
 

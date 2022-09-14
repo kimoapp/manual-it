@@ -9,5 +9,5 @@ Per limitare il tempo in cui l'App continua a funzionare, consigliamo di imposta
 
 La cancellazione avviene solo a livello logico, impostando l'utente come "archiviato", ma senza cancellarne effettivamente le informazioni. Questo offre il vantaggio di poter, all'occorrenza, ripristinare l'utente archiviato, rendendolo nuovamente operativo.\
 \
-Un utente "cancellato" può essere ripristinato premendo il tasto "disarchivia utente" ![](../../.gitbook/assets/disarchivia.PNG) : questo tasto viene visualizzato solo per gli utenti archiviati che normalmente non sono visibili. \
+Un utente "cancellato" può essere ripristinato premendo il tasto "disarchivia utente" <img src="../../.gitbook/assets/disarchivia.PNG" alt="" data-size="original"> : questo tasto viene visualizzato solo per gli utenti archiviati che normalmente non sono visibili. \
 Per rendere visibili questi Utenti utilizzare il filtro di ricerca avanzata "Mostra anche gli utenti archiviati".&#x20;

@@ -63,7 +63,7 @@ In questo modo è possibile gestire in modo centralizzato le regole di editing d
 Indica che i metadati specificati per l'entità si applicano solo ad una lista di utilizzatori.\
 E' possibile specificare per ciascuna tipologia di utilizzatori una lista multipla di elementi.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (41).png>)
 
 &#x20;Se l'attributo non è valorizzato le regole si applicano a tutti gli utilizzatori.
 
