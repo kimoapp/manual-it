@@ -141,7 +141,11 @@
 
 ## TotalAmountDiscountsPriority
 
-**Tipo:** Valori separati da pipe
+**Tipo:** Valori separati da pipe  
+**Valori:**
+
+* 1 =&gt; DocumentDiscounts
+* 2 =&gt; DocumentPaymentDiscounts
 
 ## ValuesToTakeFromShipmentSite
 

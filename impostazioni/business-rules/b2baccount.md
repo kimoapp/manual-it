@@ -7,4 +7,8 @@
 ## DenialsForLocked
 
 **Tipo:** Valori separati da pipe  
-**Valore di default:** 0
+**Valore di default:** 0  
+**Valori:**
+
+* 0 =&gt; Login
+* 1 =&gt; CartConfirmation

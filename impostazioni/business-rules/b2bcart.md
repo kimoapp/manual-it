@@ -28,7 +28,11 @@
 
 ## CheckoutActionPriority
 
-**Tipo:** Valori separati da pipe
+**Tipo:** Valori separati da pipe  
+**Valori:**
+
+* 0 =&gt; Conferma carrello
+* 1 =&gt; Invia carrello all'agente
 
 ## ConstraintFields
 
@@ -51,7 +55,17 @@
 
 ## MenuItems
 
-**Tipo:** Valori separati da pipe
+**Tipo:** Valori separati da pipe  
+**Valori:**
+
+* 1 =&gt; Dettagli carrello
+* 2 =&gt; Nuovo carrello
+* 3 =&gt; Elimina carrello
+* 4 =&gt; Stampa carrello
+* 5 =&gt; Duplica carrello
+* 6 =&gt; Carica da Excel
+* 7 =&gt; Carrelli in gestione
+* 8 =&gt; Storico carrelli
 
 ## ShipmentSiteIsMandatory
 
