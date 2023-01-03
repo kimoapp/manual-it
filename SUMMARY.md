@@ -45,6 +45,7 @@
     * [B2b\Password](impostazioni/business-rules/b2bpassword.md)
     * [B2b\Price](impostazioni/business-rules/b2bprice.md)
     * [B2b\Promotion](impostazioni/business-rules/b2bpromotion.md)
+    * [B2b\UserProfile](impostazioni/business-rules/b2buserprofile.md)
     * [Barcode](impostazioni/business-rules/barcode.md)
     * [Budgets](impostazioni/business-rules/budgets.md)
     * [Cart](impostazioni/business-rules/cart.md)
