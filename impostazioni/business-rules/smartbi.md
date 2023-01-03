@@ -20,6 +20,8 @@
 * Item
 * ItemCollection
 * ItemCollections
+* ItemLine
+* ItemLines
 * Items
 * ItemSeries
 * ItemSerieses

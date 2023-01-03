@@ -63,3 +63,4 @@ description: Riga di un budget
 * 8: UploadedToServer
 * 9: StartedUploadToServer
 * 10: EditingPending
+* -1: Undefined

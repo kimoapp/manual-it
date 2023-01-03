@@ -38,3 +38,4 @@ description: Schede Marketing
 * 8: UploadedToServer
 * 9: StartedUploadToServer
 * 10: EditingPending
+* -1: Undefined

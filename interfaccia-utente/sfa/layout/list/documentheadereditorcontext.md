@@ -85,6 +85,7 @@
 | ShipmentParams |  |
 | ShipmentSite |  |
 | ShipmentSite2 |  |
+| ShipmentSiteMail |  |
 | ShipmentSiteShouldRegisterOnErp |  |
 | ShippingChargesAmount |  |
 | StartShipmentDate |  |

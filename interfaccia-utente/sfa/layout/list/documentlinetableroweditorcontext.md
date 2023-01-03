@@ -30,6 +30,8 @@
 | GlobalAvailability |  |
 | GrossCost |  |
 | Item.ErpStatus1 \[1..2\] |  |
+| ItemChargesAmount |  |
+| ItemChargesTypeDescription |  |
 | ItemCode |  |
 | ItemDescription |  |
 | ItemDiscountGroupId |  |

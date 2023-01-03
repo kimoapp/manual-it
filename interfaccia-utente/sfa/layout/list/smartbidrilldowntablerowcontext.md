@@ -16,11 +16,17 @@
 | CustomerDiscountGroupId |  |
 | CustomerGroupDescription |  |
 | CustomerGroupId |  |
+| DocumentMonth |  |
+| DocumentMonthDescription |  |
+| DocumentQuarter |  |
 | DocumentsNumberPerYear1 \[1..5\] |  |
+| DocumentWeek |  |
 | ItemCollectionDescription |  |
 | ItemCollectionId |  |
 | ItemDescription |  |
 | ItemId |  |
+| ItemLineDescription |  |
+| ItemLineId |  |
 | ItemSeriesDescription |  |
 | ItemSeriesId |  |
 | LinesAmount |  |

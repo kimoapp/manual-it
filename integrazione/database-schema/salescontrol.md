@@ -52,6 +52,11 @@ description: Controlli commerciali sui documenti di vendita
 * 21: Non vendibilità
 * 22: Articoli obbligatori
 * 23: Il documento può contenere solo righe di una singola promozione
+* 24: Prezzi del documento aggiornati rispetto a quelli di listino
+* 25: Promozione ancora attiva per il documento
+* 26: Quantità massima pari a quella presente nella relativa ReassortmentLine
+* 27: Importo minimo reso
+* 28: Importo minimo documento calcolato con moltiplicatore sull'importo reso
 
 ## SaleTypeTargetContributeTo
 
@@ -62,6 +67,7 @@ description: Controlli commerciali sui documenti di vendita
 * 8: PromotionSale
 * 16: PromotionSale\_NotFreeGift
 * 32: PromotionSale\_FreeGift
+* 64: ReturnMerchandiseAuthorization
 
 ## SaleTypeTargetSubjectTo
 
@@ -72,6 +78,7 @@ description: Controlli commerciali sui documenti di vendita
 * 8: PromotionSale
 * 16: PromotionSale\_NotFreeGift
 * 32: PromotionSale\_FreeGift
+* 64: ReturnMerchandiseAuthorization
 
 ## SeverityLevel
 

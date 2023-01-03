@@ -10,7 +10,15 @@
 ## AdvancedSearchFields
 
 **Tipo:** Valori separati da pipe  
-**Valore di default:** ShipmentSiteFilterMode\|ItemGroupLevel1\|ItemGroupLevel2
+**Valore di default:** ShipmentSiteFilterMode\|ItemGroupLevel1\|ItemGroupLevel2  
+**Valori:**
+
+* ItemErpStatus
+* ItemFreeBoolean
+* ItemGroupLevel
+* Manufacturer
+* ShipmentSiteFilterMode
+* Trademark
 
 ## KeywordSearchFields
 
@@ -18,17 +26,8 @@
 **Valore di default:** ReassortmentLine.ItemId\|ReassortmentLine.ItemDescription  
 **Valori:**
 
-* CatalogPriceList
-* ErpStatus
-* FreeBoolean
-* ItemCollection
-* ItemLine
-* ItemSeries
-* Manufacturer
-* Prebuy
-* Season
-* SeasonGroup
-* Trademark
+* ReassortmentLine.ItemDescription
+* ReassortmentLine.ItemId
 
 ## ShipmentSiteFilterMode
 

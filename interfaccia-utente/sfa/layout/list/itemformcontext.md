@@ -10,6 +10,8 @@
 | AvailabilityAsFreeText |  |
 | AvailabilityLastUpdateDate |  |
 | BaseSalesUomId |  |
+| BitwiseFreeBoolean |  |
+| BitwiseFreeBooleans |  |
 | Description |  |
 | EncodedId |  |
 | EndCustomerPrice |  |
@@ -68,5 +70,6 @@
 | VatRate |  |
 | VatRateDescription |  |
 | VatRateId |  |
+| VideoVisibilityStyle |  |
 | WarehouseAvailability |  |
 

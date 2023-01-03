@@ -235,6 +235,7 @@ description:
 * 4: ApprovalByManagerRequired
 * 5: ApprovalByAccountRequired
 * 6: RejectedByAccount
+* -1: Undefined
 
 ## EntityStatus
 
@@ -249,6 +250,7 @@ description:
 * 8: UploadedToServer
 * 9: StartedUploadToServer
 * 10: EditingPending
+* -1: Undefined
 
 ## ShipmentSite2Type
 

@@ -9,8 +9,10 @@
 | :--- | :--- |
 | ActivationStatusDescription |  |
 | ActivationStatusIcon |  |
+| Attachments |  |
 | Description |  |
 | EndDate |  |
+| Image |  |
 | MinAmount |  |
 | MinItems |  |
 | MinQty |  |

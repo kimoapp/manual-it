@@ -23,6 +23,8 @@
 | AvailabilityRule |  |
 | AverageDiscount |  |
 | AverageNetUnitPrice |  |
+| CollectOnSite |  |
+| CollectOnSiteDateTime |  |
 | CustomerGroup |  |
 | DeliveryDate |  |
 | DiscountFromRetailPrice |  |
@@ -46,6 +48,8 @@
 | Item.ErpStatus1 \[1..2\] |  |
 | Item.FreeDecimal1 \[1..3\] |  |
 | Item.FreeText1 \[1..5\] |  |
+| ItemChargesAmount |  |
+| ItemChargesTypeDescription |  |
 | ItemDescription |  |
 | ItemDiscountGroup |  |
 | ItemId |  |

@@ -36,4 +36,5 @@
 | StartDate |  |
 | StartTime |  |
 | Status |  |
+| Subject |  |
 

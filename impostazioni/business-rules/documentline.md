@@ -8,9 +8,12 @@
 | [**IsEnabledInlineFreeGift**](documentline.md#isenabledinlinefreegift) | Abilita la possibilita di inserire quantità omaggio nella stessa linea documento contenente la quantità a pagamento |
 | [**RecalculatePriceOnUomChange**](documentline.md#recalculatepriceonuomchange) |  |
 | [**ReferenceQtyOnUomChange**](documentline.md#referenceqtyonuomchange) |  |
+| [**ShouldApplyVatOnItemChargesAmount**](documentline.md#shouldapplyvatonitemchargesamount) | Indica se l'IVA deve essere applicata anche ai costi aggiuntivi dell'articolo |
+| [**ShouldIncludeItemChargeAmountOnRetailTotalAmount**](documentline.md#shouldincludeitemchargeamountonretailtotalamount) | Indica se l'importo Retail della riga deve considerare anche i costi aggiuntivi dell'articolo |
 | [**ShouldInitUnitPriceFromIdrolab**](documentline.md#shouldinitunitpricefromidrolab) | Indica se il prezzo va inizializzato da Idrolab |
 | [**ShouldLockDiscountsOnUnitPriceEditing**](documentline.md#shouldlockdiscountsonunitpriceediting) | Indica se bloccare gli sconti quando viene modificato il prezzo unitario |
 | [**ShouldResetDiscountsOnUnitPriceEditing**](documentline.md#shouldresetdiscountsonunitpriceediting) | Indica se azzerare gli sconti quando viene modificato il prezzo unitario |
+| [**SqlesQtyStepperBehavior**](documentline.md#sqlesqtystepperbehavior) |  |
 | [**UnitsPerPackDivisibilityRule\_Field**](documentline.md#unitsperpackdivisibilityrule_field) |  |
 | [**ViewMode**](documentline.md#viewmode) | Modalità di visualizzaione delle linee di un documento |
 | [**VisibleDiscounts**](documentline.md#visiblediscounts) | Sconti visualizzati all'interno dell'editor |
@@ -43,6 +46,14 @@
 * 0 =&gt; NumberOfPacks
 * 1 =&gt; SalesQty
 
+## ShouldApplyVatOnItemChargesAmount
+
+**Tipo:** Boolean
+
+## ShouldIncludeItemChargeAmountOnRetailTotalAmount
+
+**Tipo:** Boolean
+
 ## ShouldInitUnitPriceFromIdrolab
 
 **Tipo:** Boolean
@@ -54,6 +65,14 @@
 ## ShouldResetDiscountsOnUnitPriceEditing
 
 **Tipo:** Boolean
+
+## SqlesQtyStepperBehavior
+
+**Tipo:** Enum  
+**Valori:**
+
+* 0 =&gt; LikeB2B
+* 1 =&gt; SalesQty
 
 ## UnitsPerPackDivisibilityRule\_Field
 

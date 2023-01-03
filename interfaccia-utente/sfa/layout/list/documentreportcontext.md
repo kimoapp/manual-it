@@ -13,4 +13,5 @@
 | RecipientsTable |  |
 | ReportType |  |
 | Send |  |
+| Sign |  |
 

@@ -52,5 +52,6 @@
 | Season |  |
 | StartDate |  |
 | Status |  |
+| Subject |  |
 | Trademark |  |
 

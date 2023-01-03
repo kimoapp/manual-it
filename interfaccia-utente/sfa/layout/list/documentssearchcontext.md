@@ -52,4 +52,6 @@
 | Trademark |  |
 | TrademarkDescription |  |
 | ValidityStatusIcon |  |
+| WarehouseDescription |  |
+| WarehouseId |  |
 

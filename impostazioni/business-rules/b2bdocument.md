@@ -25,6 +25,7 @@
 * Febos
 * SplitByTrademarkAndSeason
 * SplitByWarehouse
+* SplitByWarehouseAndCollectOnSite
 * Standard
 * Wald
 

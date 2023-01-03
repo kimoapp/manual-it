@@ -1,4 +1,4 @@
-# Table of contents
+﻿# Table of contents
 
 * [Piacere, sono Kimo](README.md)
 * [Introduzione](introduzione/README.md)
@@ -46,6 +46,7 @@
     * [B2b\Price](impostazioni/business-rules/b2bprice.md)
     * [B2b\Promotion](impostazioni/business-rules/b2bpromotion.md)
     * [Barcode](impostazioni/business-rules/barcode.md)
+    * [Budgets](impostazioni/business-rules/budgets.md)
     * [Cart](impostazioni/business-rules/cart.md)
     * [Communication](impostazioni/business-rules/communication.md)
     * [CompanyNews](impostazioni/business-rules/companynews.md)
@@ -60,6 +61,7 @@
     * [Erp](impostazioni/business-rules/erp.md)
     * [ErpDocument](impostazioni/business-rules/erpdocument.md)
     * [ErpDocumentLinesReport](impostazioni/business-rules/erpdocumentlinesreport.md)
+    * [ErpDocumentMail](impostazioni/business-rules/erpdocumentmail.md)
     * [ErpDocumentType](impostazioni/business-rules/erpdocumenttype.md)
     * [FreeField](impostazioni/business-rules/freefield.md)
     * [Idrolab](impostazioni/business-rules/idrolab.md)
@@ -79,6 +81,7 @@
     * [PointsPerSale](impostazioni/business-rules/pointspersale.md)
     * [PowerBI](impostazioni/business-rules/powerbi.md)
     * [PriceCalculation](impostazioni/business-rules/pricecalculation.md)
+    * [PricePerCustomerCsvMail](impostazioni/business-rules/pricepercustomercsvmail.md)
     * [Promotion](impostazioni/business-rules/promotion.md)
     * [PromotionLine](impostazioni/business-rules/promotionline.md)
     * [Reassortment](impostazioni/business-rules/reassortment.md)
@@ -166,6 +169,7 @@
         * [ReceivablesBookReportRecipient](interfaccia-utente/sfa/layout/list/receivablesbookreportrecipientcontext.md)
         * [SalesConditionForDocumentLineSelector](interfaccia-utente/sfa/layout/list/salesconditionfordocumentlineselectorcontext.md)
         * [ShipmentSiteEditor](interfaccia-utente/sfa/layout/list/shipmentsiteeditorcontext.md)
+        * [Signature](interfaccia-utente/sfa/layout/list/signature.md)
         * [SmartBIDrillDownTableRow](interfaccia-utente/sfa/layout/list/smartbidrilldowntablerowcontext.md)
     * [Scenari](interfaccia-utente/sfa/scenari-e-ordinamenti.md)
     * [Immagine di sfondo su Home Page](interfaccia-utente/sfa/immagine-di-sfondo-su-home-page.md)

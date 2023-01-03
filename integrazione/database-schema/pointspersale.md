@@ -37,6 +37,8 @@ description: Punti per la vendita di articoli
 ## ItemEncodingType
 
 * 0: Item
+* 5: ItemPromotionIdAndSaleType
+* 6: ItemAndPromotionId
 
 ## UomType
 

@@ -27,9 +27,11 @@
 | Id | Descrizione |
 | :--- | :--- |
 | AlternativeItems |  |
+| Attachments |  |
 | AvailabilityAsFreeText |  |
 | AvailabilityErpStatus1 \[1..3\] |  |
 | AvailabilityFreeDecimal1 \[1..2\] |  |
+| BitwiseFreeBooleans |  |
 | Code |  |
 | CollectionId | Id della collezione |
 | Description | Descrizione breve dell'articolo |
@@ -45,6 +47,8 @@
 | Document\_FulfillmentStatus |  |
 | Document\_GrossCost |  |
 | Document\_Item.ErpStatus1 \[1..2\] |  |
+| Document\_ItemChargesAmount |  |
+| Document\_ItemChargesTypeDescription |  |
 | Document\_ItemCode |  |
 | Document\_ItemDescription |  |
 | Document\_ItemDiscountGroupId |  |

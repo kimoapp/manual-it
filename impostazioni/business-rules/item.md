@@ -3,6 +3,8 @@
 | Valore | Descrizione |
 | :--- | :--- |
 | [**AdvancedSearchFields**](item.md#advancedsearchfields) | Campi per la ricerca avanzata |
+| [**BitwiseFreeBooleanField**](item.md#bitwisefreebooleanfield) | Campo da utilizzare per la gestione dei BitwiseFreeBoolean |
+| [**BitwiseFreeBooleanFieldTranlsations**](item.md#bitwisefreebooleanfieldtranlsations) |  |
 | [**CatalogViewMode**](item.md#catalogviewmode) | Modalità di codifica dei codici articoli |
 | [**IdEncodingType**](item.md#idencodingtype) | Modalità di codifica dei codici articoli |
 | [**ItemFormUrlTemplate**](item.md#itemformurltemplate) | Template per comporre l'url della scheda articolo online |
@@ -18,6 +20,7 @@
 **Valori:**
 
 * Barcode
+* BitwiseFreeBoolean
 * CatalogPriceList
 * ErpStatus
 * FreeBoolean
@@ -31,6 +34,14 @@
 * Season
 * SeasonGroup
 * Trademark
+
+## BitwiseFreeBooleanField
+
+**Tipo:** String
+
+## BitwiseFreeBooleanFieldTranlsations
+
+**Tipo:** Valori separati da pipe
 
 ## CatalogViewMode
 

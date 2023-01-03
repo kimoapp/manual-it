@@ -17,6 +17,7 @@
 * [Promozioni](./#promozioni)
 * [Registro incassi](./#registro-incassi)
 * [Riassortimenti](./#riassortimenti)
+* [Signature](./#signature)
 * [Smart BI](./#smart-bi)
 * [Tentata Vendita](./#tentata-vendita)
 
@@ -215,6 +216,12 @@
 
 * **Informazioni**
   * [ *\{Reassortment\}*](reassortmentcontext.md)
+
+
+## Signature
+
+* **Firma**
+  * [ *\{Signature\}*](signature.md)
 
 
 ## Smart BI

@@ -5,6 +5,7 @@
 | [**AdvancedSearchFields**](account.md#advancedsearchfields) | Campi per la ricerca avanzata |
 | [**FiscalCodeMandatoryIfIsPerson**](account.md#fiscalcodemandatoryifisperson) | Il Codice Fiscale è obbligatorio se il cliente è una persona fisica |
 | [**KeywordSearchFields**](account.md#keywordsearchfields) | Campi per la ricerca testuale |
+| [**PageSize**](account.md#pagesize) | Numero di elementi visualizzati nella ricerca clienti |
 | [**SalesConditionDiscountsSearchTypes**](account.md#salesconditiondiscountssearchtypes) | Tipi di condizioni di vendita da mostrare nella funzione 'Sconti per condizioni di vendita' |
 | [**VatNumberMandatoryIfIsOrganization**](account.md#vatnumbermandatoryifisorganization) | La Partita IVA è obbligatoria se il cliente è un'organizzazione |
 
@@ -45,6 +46,11 @@
 * FreeText
 * Id
 * Name
+
+## PageSize
+
+**Tipo:** Int32  
+**Valore di default:** 300
 
 ## SalesConditionDiscountsSearchTypes
 
