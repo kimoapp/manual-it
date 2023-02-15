@@ -45,3 +45,4 @@
 
 * 0 =&gt; ByItem
 * 1 =&gt; ByReassortmentLine
+.

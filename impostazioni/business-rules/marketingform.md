@@ -46,3 +46,4 @@
 ## ShouldAutomaticallyAddNewFieldsToExistingForm
 
 **Tipo:** Boolean
+.

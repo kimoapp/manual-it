@@ -12,3 +12,4 @@
 ## DaysItemStartAvailabilityCalculation
 
 **Tipo:** Int32
+.

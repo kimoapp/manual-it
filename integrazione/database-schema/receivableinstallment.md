@@ -97,3 +97,4 @@ description: Scadenzario
 * 1: Paid
 * 2: Unpaid
 * 3: PaidOnKimo
+.

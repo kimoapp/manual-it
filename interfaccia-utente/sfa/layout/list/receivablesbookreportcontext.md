@@ -12,3 +12,4 @@
 | ReportType |  |
 | Send |  |
 
+.

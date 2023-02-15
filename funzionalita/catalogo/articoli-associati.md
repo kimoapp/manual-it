@@ -62,3 +62,4 @@ Gruppo2 -> Articolo C, Articolo D, Articolo E
 | Gruppo2      | Articolo C       |
 | Gruppo2      | Articolo D       |
 | Gruppo2      | Articolo E       |
+.

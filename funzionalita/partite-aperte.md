@@ -39,3 +39,4 @@ Nel registro incassi è possibile visualizzare tutti i pagamenti registrati.\
 Nel registro vengono visualizzati contemporaneamente le informazioni dei pagamenti registrati indipendentemente dal cliente di riferimento.\
 L'unico filtro applicabile è la data, di default sarà utilizzata quella odierna.\
 \
+.

@@ -31,3 +31,4 @@ Ulteriori funzionalità sono attivabili tramite le seguenti autorizzazioni prese
 3. "Può scaricare l'estratto conto per i clienti"
 4. "Può visualizzare gli sconti delle condizioni di vendita"
 
+.

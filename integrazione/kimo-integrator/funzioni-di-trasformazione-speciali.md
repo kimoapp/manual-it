@@ -23,3 +23,4 @@ Alcune funzioni prevedono dei parametri, in tal caso andranno specificati usando
 | RemovePrefix       | Rimuove un eventuale prefisso indicato come parametro, se presente all'inizio del valore esportato.                    | <p>Es. <br>RemovePrefix:Account_<br><em></em>Se il valore da esportare è 'Account_123', verrà esportato come '123'</p> |
 | StringToInteger    | Esporta all'ERP un campo che in Kimo è definito di tipo stringa come intero, per evitare errori nelle query di INSERT. |                                                                                                                        |
 
+.

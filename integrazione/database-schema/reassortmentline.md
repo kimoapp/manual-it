@@ -117,3 +117,4 @@ description: Righe dei riassortimenti
 * 16: QuantitiesAndUom
 * 32: Delete
 * 64: LineDuplication
+.

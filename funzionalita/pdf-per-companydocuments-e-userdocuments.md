@@ -20,3 +20,4 @@ I principali formati di file supportati da Kimo sono ".pdf", ".doc" e ".xls", ol
 2. Abilitare i permessi che gestiscono questa funzionalità
    1. Per gli agenti, tali permessi si trovano nella sezione "File / Documenti" dei ruoli.
 3. Una volta abilitata tale funzionalità, appariranno nel menu principale le funzioni per accedere ai documenti aziendali e personali.\
+.

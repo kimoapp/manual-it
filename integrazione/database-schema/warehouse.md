@@ -34,3 +34,4 @@ description: Magazzini
 | OpeningTimes | Orari di apertura | text | 200 |
 | Phone | Telefono | text | 100 |
 | Phone2 | Telefono | text | 50 |
+.

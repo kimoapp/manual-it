@@ -16,3 +16,4 @@ description: Valori delle specifiche tecniche degli articoli
 | ItemSpecificationFieldId | Id specifica | text | 50 |
 | ItemSpecificationItemPerGroupId | Id classificazione | text | 50 |
 | Value | Valore | text | text |
+.

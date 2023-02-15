@@ -15,3 +15,4 @@ description: Traduzioni in lingua dei gruppi merceologici
 | Id | Id | text | 50 |
 | ItemGroupId | Id gruppo merceologico | text | 50 |
 | LanguageId |  | text | 50 |
+.

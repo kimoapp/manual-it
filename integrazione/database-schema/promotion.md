@@ -83,3 +83,4 @@ description: Promozioni
 * 2: N+M
 * 3: N+M mono-referenza \(solo un articolo\)
 * 4: Riservate per il Calcolo Prezzi
+.

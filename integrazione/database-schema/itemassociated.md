@@ -26,3 +26,4 @@ description: Articoli alternativi, sostitutivi o collegati
 * 2: Substitutive
 * 3: Alternative
 * 4: Grouped
+.

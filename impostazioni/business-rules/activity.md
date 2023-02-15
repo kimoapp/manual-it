@@ -83,3 +83,4 @@
 ## ShouldFilterByUserTrademarks
 
 **Tipo:** Boolean
+.

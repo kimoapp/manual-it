@@ -1,2 +1,3 @@
 # Finalità di Kimo
 
+.

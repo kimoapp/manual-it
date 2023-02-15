@@ -10,3 +10,4 @@ Kimo ti dà il benvenuto!
 
 Qui troverai maggiori informazioni sulle opzioni a tua disposizione.
 
+.

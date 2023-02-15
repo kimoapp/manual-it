@@ -6,3 +6,4 @@
 Sull'App è necessario fare attenzione affinché l'utente non abbia dati sia relativi al "vecchio" agente che al "nuovo".\
 Occorre eliminare dal device il profilo per il "vecchio" agente e poi configurare un nuovo profilo per l'utente. Per eliminare il profilo del vecchio utente nell'App seguire le istruzioni riportate in [questa pagina](eliminazione-di-un-profilo-utente-sulle-app.md).
 {% endhint %}
+.

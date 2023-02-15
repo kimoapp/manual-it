@@ -45,3 +45,4 @@ description: Punti per la vendita di articoli
 * 0: Undefined
 * 1: PackUom
 * 2: SalesUom
+.

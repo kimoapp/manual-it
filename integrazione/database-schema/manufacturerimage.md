@@ -16,3 +16,4 @@ description: Immagini produttori (percorsi dei file)
 | Id | Id | text | 50 |
 | ManufacturerId | Id del produttore | text | 50 |
 | Priority | Priorità nella visualizzazione dell'immagine | int |  |
+.

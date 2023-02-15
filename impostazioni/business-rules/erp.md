@@ -7,3 +7,4 @@
 ## Type
 
 **Tipo:** String
+.

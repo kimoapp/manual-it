@@ -94,3 +94,4 @@
 
 **Tipo:** Valori separati da pipe  
 **Valore di default:** 1\|2\|3\|4\|5
+.

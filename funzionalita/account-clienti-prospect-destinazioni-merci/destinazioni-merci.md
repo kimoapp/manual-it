@@ -9,3 +9,4 @@ Questa funzionalità può essere abilitata dal seguente Ruolo Agente:
 
 1. Può creare destinazioni merci al volo nei documenti di vendita
 
+.

@@ -22,3 +22,4 @@ description: Spese di spedizione
 | StartDate | Data inizio validità | date |  |
 | TransportModeId | Id modalità di trasporto | text | 50 |
 | VatRateId | Id dell'aliquota IVA | text | 50 |
+.

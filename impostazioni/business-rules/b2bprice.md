@@ -13,3 +13,4 @@
 ## HideEndCustomerPriceIfLessOrEqualToPrice
 
 **Tipo:** Boolean
+.

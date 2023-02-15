@@ -19,3 +19,4 @@ Il file Excel per essere considerato valido deve rispettare 3 semplici caratteri
 ### ![](<../../.gitbook/assets/Screenshot 2022-09-14 at 12.53.24.png>)
 
 [https://www.dropbox.com/s/ftpho4nusqwhvam/CartFromExcel-Example.xlsx?dl=0](https://www.dropbox.com/s/ftpho4nusqwhvam/CartFromExcel-Example.xlsx?dl=0)
+.

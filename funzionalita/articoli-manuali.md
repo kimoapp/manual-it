@@ -46,3 +46,4 @@ Per permettere agli agenti di modificare informazioni che tipicamente sarebbero 
 #### Layout
 
 Il layout a cui far riferimento è sempre DocumentLineEditorLayout, per permettere di visualizzare più informazioni rispetto a quanto già presente abbiamo gestito la Rule IsManualDocumentLine. Con questa Rule andiamo a modificare la visibilità degli elementi facendo si che di default (per le righe documento standard) alcuni campi risultino nascosti, mentre nelle righe manuali siano visibili.
+.

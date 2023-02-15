@@ -18,3 +18,4 @@
 
 **Tipo:** Valori separati da pipe  
 **Valore di default:** Customer\|Document\|ReceivableInstallment
+.

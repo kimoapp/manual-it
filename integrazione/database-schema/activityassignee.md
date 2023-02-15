@@ -24,3 +24,4 @@ description: Utenti a cui è stata assegnata l'attività
 ## AssigneeType
 
 * 1: User
+.

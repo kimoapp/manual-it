@@ -32,3 +32,4 @@ Al termine sarà possibile confermare o meno l'utilizzo del "Touch ID" o del "Fa
 
 9\. Questa prima sincronizzazione ha scaricato solamente i dati dell'utente, ignorando i file (es. immagini degli articoli, PDF, ...). Questo per far sì che l'utente possa operare su Kimo il prima possibile, anche in assenza di questi file.\
 Per scaricare i file, eseguite una nuova sincronizzazione dal menù Sincronizza.
+.

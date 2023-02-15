@@ -8,3 +8,4 @@ Per fare ciò, occorre definire delle [Business Rules](../business-rules/) descr
 1. [Password](../business-rules/password.md) \(per gli utenti di tipo Agente e Direzionale\)
 2. [B2b\Password](../business-rules/b2bpassword.md) \(per gli utenti di tipo Cliente per il B2B\)
 
+.

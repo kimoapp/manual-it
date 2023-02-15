@@ -24,3 +24,4 @@ description: Classificazioni di vendita nell'Erp Sirio
 | ItemSalesClassification8 | Classificazione per listini | text | 50 |
 | ItemSalesClassification9 | Classificazione per listini | text | 50 |
 | ItemSalesClassificationCategoryId | Id categoria classificazione listini | text | 50 |
+.

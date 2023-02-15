@@ -8,3 +8,4 @@ Dopo aver salvato le modifiche sarà necessario eseguire una preparazione dati d
 {% hint style="warning" %}
 I clienti visualizzati da un agente sono definiti nella tabella SalesAgentPerAccount, se si vogliono visualizzare i clienti del vecchio agente modificare nel gestionale la tabella di associazione Agente-Cliente ed eseguire un import completo della tabella SalesAgentPerAccount.
 {% endhint %}
+.

@@ -13,3 +13,4 @@
 | WarehouseAvailability |  |
 | WarehouseId |  |
 
+.

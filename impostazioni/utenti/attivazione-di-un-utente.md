@@ -14,3 +14,4 @@ permette di inviare nuovamente la mail di attivazione.
 
 In caso di necessità (es. mancata ricezione da parte dell'utente dell'e-mail di attivazione) è possibile accedere al link di attivazione dell'utente premendo il tasto <img src="../../.gitbook/assets/tasto-di-attivazione.PNG" alt="" data-size="original">presente nell'elenco Utenti.\
 Si sottolinea che questa funzionalità va usata solo in caso di problemi con l'email di attivazione perché l'impostazione della password è una procedura di esclusiva pertinenza dell'Utente.\
+.

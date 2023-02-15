@@ -16,3 +16,4 @@ Il campo ManufacturerId deve essere valorizzato con il codice del produttore in 
 
 
 Dopo aver eseguito le configurazioni indicate, accedendo all'app SFA sarà possibile visualizzare uno scenario aggiuntivo all'interno del dettaglio articolo; in questo scenario verrà visualizzata la scheda articolo Idrolab.\
+.

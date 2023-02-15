@@ -1,4 +1,4 @@
-﻿# Table of contents
+# Table of contents
 
 * [Piacere, sono Kimo](README.md)
 * [Introduzione](introduzione/README.md)
@@ -363,3 +363,4 @@
     * [Schede marketing](funzionalita/crm/schede-marketing.md)
     * [Contatti](funzionalita/crm/contatti.md)
 * [Supporto](contatti.md)
+.

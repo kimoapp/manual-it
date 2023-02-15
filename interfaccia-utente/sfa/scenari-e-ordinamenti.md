@@ -33,3 +33,4 @@ Ciascun criterio di ordinamento specifica un elenco di campi dello user case con
 Per ciascun criterio di ordinamento è possibile specificare la priorità.\
 Ogni volta che viene visualizzato uno scenario che dispone di  criteri di ordinamento premendo l'apposito tasto è possibile visualizzare la lista dei criteri di ordinamento visualizzati in base alla priorità assegnata.
 
+.

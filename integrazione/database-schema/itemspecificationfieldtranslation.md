@@ -15,3 +15,4 @@ description: Traduzioni in lingua dei campi delle classificazioni
 | Id | Id | text | 50 |
 | ItemSpecificationFieldId | Id del campo | text | 50 |
 | LanguageId |  | text | 50 |
+.

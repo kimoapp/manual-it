@@ -21,3 +21,4 @@ description: Varianti articolo
 | VariableItemId | Id dell'articolo variante | text | 50 |
 | VariableValueId1 | Valore variante | text | 50 |
 | VariableValueId2 | Valore variante | text | 50 |
+.

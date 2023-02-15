@@ -47,3 +47,4 @@ Questo consente di applicare condizioni di vendita diverse per lo stesso articol
 Per inserire due volte lo stesso articolo, nell'editor di riga è presente un menù con alcune funzioni, tra queste "Nuova riga" e "Duplica riga".\
 Nuova riga crea una nuova di documento con i dati proposti di default per l'articolo, mentre Duplica riga crea una nuova riga di documento mantenendo nell'editor i dati della riga visualizzata.\
 Se sono presenti più righe che referenziano lo stesso articolo è possibile spostarsi tra le varie righe mediante l'apposito navigatore in alto a sinistra.
+.

@@ -17,3 +17,4 @@ All'interno dell'area dedicata nelle informazioni del carrello l'utente avrà
 ****
 
 **Salvataggio nuovi valori**Nel momento in cui l’utente va a salvare le nuove impostazioni, i valori selezionati vengono impostati sia come default a livello di carrello (usandoli ogni volta viene aggiunta una nuova riga), sia vengono applicati a tutte le righe già esistenti, sovrascrivendo i valori precedenti (NON faremo una gestione più granulare, chiedendo all’utente se vuole mantenere alcune delle modifiche fatte a livello di riga).
+.

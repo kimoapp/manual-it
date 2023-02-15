@@ -52,3 +52,4 @@ Se i codici (articolo, produttore, articolo-produttore) contengono caratteri "pa
 Ad esempio il codice articolo "ARTICOLO A" diventa "ARTICOLO%20A".
 {% endhint %}
 
+.

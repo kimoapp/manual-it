@@ -28,3 +28,4 @@ Attivando la sezione "Advanced" vengono mostrati i seguenti filtri:
 6. Marchio: se valorizzato visualizza gli utenti con il marchio selezionato.
 7. Tipo documento: se valorizzato visualizza gli utenti abilitati al Tipo Documento selezionato.
 8. Tipo Report: se valorizzato visualizza gli utenti abilitati al Tipo Report selezionato.
+.

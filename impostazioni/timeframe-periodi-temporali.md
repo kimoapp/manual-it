@@ -116,3 +116,4 @@ Di seguito è riportato l'elenco delle chiavi utilizzabili per definire i timefr
 | YearToEndOfCurrentMonth | 2020-01-01 | 2020-06-16 | Dal 1° gennaio a fine mese corrente |
 | YearToEndOfLastMonth | 2020-01-01 | 2020-05-31 | Dal 1° gennaio a fine mese scorso |
 
+.
