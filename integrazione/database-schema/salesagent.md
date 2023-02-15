@@ -13,7 +13,7 @@ description: Agenti
 | AddressCity | Città | text | 40 |
 | AddressCountry | Paese | text | 20 |
 | AddressCountrySubdivision | Provincia | text | 20 |
-| AddressLine | Indirizzo | text | 80 |
+| AddressLine | Indirizzo | text | 200 |
 | AddressPostCode | CAP | text | 20 |
 | Description | Descrizione | text | 100 |
 | Fax | Fax | text | 50 |

@@ -61,6 +61,7 @@ description: Righe dei Documenti da Erp
 | [FulfillmentStatus](erpdocumentline.md#fulfillmentstatus) | Stato evasione riga documento | enum |  |
 | GrossCost | Costo lordo | dec |  |
 | Id | Id della riga documento | text | 50 |
+| [InPromotion](erpdocumentline.md#inpromotion) | In promozione | enum |  |
 | IsDiscountEdited | Indica se lo sconto è stato modificato | bool |  |
 | IsUnitPriceEdited | Identifica se il prezzo unitario è stato modificato | bool |  |
 | ItemChargesAmount | Valore delle spese per l'articolo \(RAEE, ...\) | dec |  |
@@ -91,6 +92,7 @@ description: Righe dei Documenti da Erp
 | PriceListId | Id del listino | text | 50 |
 | PriceListInfo | Info sul listino | text | text |
 | ProductionDate |  | date |  |
+| PromotionDescription | Descrizione promozione | text | text |
 | RetailDiscount1 | Sconto | dec |  |
 | RetailDiscount2 | Sconto | dec |  |
 | RetailDiscount3 | Sconto | dec |  |
@@ -131,6 +133,11 @@ description: Righe dei Documenti da Erp
 * 2: Partial
 * 3: Completed
 * 4: ForcedComplete
+
+## InPromotion
+
+* 0: No
+* 1: Yes
 
 ## LineType
 

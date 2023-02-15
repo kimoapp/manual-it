@@ -10,6 +10,7 @@
 | [**GroupByAssociatedItems**](b2bitem.md#groupbyassociateditems) | Indica se nei risultati della ricerca gli articoli debbono essere mostrati raggruppati |
 | [**KeywordSearchFields**](b2bitem.md#keywordsearchfields) | Campi per la ricerca testuale |
 | [**KeywordSearchFieldsWithWeight**](b2bitem.md#keywordsearchfieldswithweight) | Campi per la ricerca testuale pesata |
+| [**ReassortmentSummaries**](b2bitem.md#reassortmentsummaries) | Riepilogo riassortimenti |
 | [**SearchOperator**](b2bitem.md#searchoperator) | Operatore per la ricerca sul catalogo |
 | [**SearchType**](b2bitem.md#searchtype) | Tipo di ricerca sul catalogo |
 | [**SortFields**](b2bitem.md#sortfields) | Campi per l'ordinamento |
@@ -84,6 +85,10 @@
 
 **Tipo:** Valori separati da pipe  
 **Valore di default:** {'Id': 1.0, 'Description': 1.0}
+
+## ReassortmentSummaries
+
+**Tipo:** Valori separati da pipe
 
 ## SearchOperator
 

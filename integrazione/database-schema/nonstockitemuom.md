@@ -13,6 +13,8 @@ description: Unità di misura degli articoli non a stock
 | :--- | :--- | :--- | :--- |
 | Barcode | Codice a barre | text | 50 |
 | [ChargeForUnpackaged](nonstockitemuom.md#chargeforunpackaged) | Addebita fuori confezione \(sfusi\) | enum |  |
+| FreeDecimal1 | Campo decimale libero | dec |  |
+| FreeDecimal2 | Campo decimale libero | dec |  |
 | Id | Id | text | 50 |
 | ItemId | Id dell'articolo | text | 50 |
 | Label |  | text | 20 |

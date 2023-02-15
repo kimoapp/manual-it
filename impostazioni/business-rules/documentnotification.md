@@ -19,6 +19,7 @@
 | [**OnConfirmedSendMailToCreatorRecipientMails**](documentnotification.md#onconfirmedsendmailtocreatorrecipientmails) | Se abilitato, le mail di conferma documento vengono inviate agli indirizzi aggiuntivi specificati per l'utente |
 | [**SendOnCartApprovalRequest**](documentnotification.md#sendoncartapprovalrequest) | Indica se notificare la richiesta approvazione di un carrello |
 | [**SendOnConfirmed**](documentnotification.md#sendonconfirmed) | Indica se notificare la conferma di un documento |
+| [**ShouldSendCsvReportOnCartConfirmed**](documentnotification.md#shouldsendcsvreportoncartconfirmed) | Indica se necessario allegare il report Csv alla mail di conferma carrello |
 
 ## OnCartSentForApprovalRequestMailBodyTemplate
 
@@ -166,5 +167,9 @@
 **Tipo:** Boolean
 
 ## SendOnConfirmed
+
+**Tipo:** Boolean
+
+## ShouldSendCsvReportOnCartConfirmed
 
 **Tipo:** Boolean

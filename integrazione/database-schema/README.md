@@ -106,9 +106,11 @@
 | [PointsPerSaleBalance](pointspersalebalance.md) | Saldo punti vendita |
 | [PriceList](pricelist.md) | Listini prezzi |
 | [PricePerQuantityRange](priceperquantityrange.md) | Prezzi per scaglione quantità |
+| [PriceRounding](pricerounding.md) | Arrotondamento prezzi |
 | [Promotion](promotion.md) | Promozioni |
 | [PromotionCustomerGroup](promotioncustomergroup.md) | Gruppi promozione clienti |
 | [PromotionFilter](promotionfilter.md) | Filtri promozioni |
+| [PromotionImage](promotionimage.md) | Immagini promozioni \(percorsi dei file\) |
 | [PromotionLine](promotionline.md) | Righe promozioni |
 | [Reassortment](reassortment.md) | Riassortimenti |
 | [ReassortmentLine](reassortmentline.md) | Righe dei riassortimenti |
@@ -144,6 +146,10 @@
 | [Variable](variable.md) | Varianti |
 | [VariableValue](variablevalue.md) | Valori per le varianti |
 | [VatRate](vatrate.md) | Aliquote IVA |
+| [VisibilityFilter](visibilityfilter.md) | Anagrafica filtri visibilità |
+| [VisibilityFilterPerAccount](visibilityfilterperaccount.md) | Anagrafica filtri |
+| [VisibilityFilterPerItem](visibilityfilterperitem.md) | Anagrafica filtri |
+| [VisibilityFilterPerSalesAgent](visibilityfilterpersalesagent.md) | Filtri di visibilità per agente |
 | [Warehouse](warehouse.md) | Magazzini |
 | [WarehousePerSalesAgent](warehousepersalesagent.md) | Magazzini per agente |
 | [Zone](zone.md) | Zone |

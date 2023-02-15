@@ -14,7 +14,7 @@ description: Contatti
 | AddressCity | Città | text | 40 |
 | AddressCountry | Paese | text | 20 |
 | AddressCountrySubdivision | Provincia | text | 20 |
-| AddressLine | Indirizzo | text | 80 |
+| AddressLine | Indirizzo | text | 200 |
 | AddressPostCode | CAP | text | 20 |
 | Birthday | Data di nascita | date |  |
 | Birthplace | Luogo di nascita | text | 50 |

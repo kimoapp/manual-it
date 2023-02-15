@@ -15,7 +15,7 @@ description: Account (clienti, prospect, destinazioni merci)
 | AddressCity | Città | text | 40 |
 | AddressCountry | Paese | text | 20 |
 | AddressCountrySubdivision | Provincia | text | 20 |
-| AddressLine | Indirizzo | text | 80 |
+| AddressLine | Indirizzo | text | 200 |
 | AddressPostCode | CAP | text | 20 |
 | BankAbi | Codice ABI | text | 5 |
 | BankCab | Codice CAB | text | 5 |
@@ -79,6 +79,7 @@ description: Account (clienti, prospect, destinazioni merci)
 | InvoiceDiscountId | Id dello sconto fattura | text | 50 |
 | IpaCode | Codice IPA | text | 20 |
 | IsDefaultShipmentSite | Indica se l'indirizzo del cliente è quello di default per la consegna | bool |  |
+| IsDefaultShipmentSite2 | Indica se l'indirizzo del cliente è quello di default per la consegna \(2\) | bool |  |
 | IsDeleted | Indica se il record è stato cancellato | bool |  |
 | LanguageId | Id della lingua | text | 50 |
 | LastModifiedTimeStamp | Data dell'ultima modifica | dt |  |

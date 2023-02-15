@@ -16,3 +16,5 @@
 * 5 =&gt; Storico documenti
 * 6 =&gt; Documenti aziendali
 * 7 =&gt; Cambia password
+* 9 =&gt; Scarica listino
+* 10 =&gt; Help

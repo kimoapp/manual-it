@@ -6,6 +6,7 @@
 | [**CheckoutActionPriority**](b2bcart.md#checkoutactionpriority) | Ordine azioni di checkout |
 | [**ConstraintFields**](b2bcart.md#constraintfields) | Campi che costituiscono un vincolo obbligatorio |
 | [**CreditLimitCheck**](b2bcart.md#creditlimitcheck) | Tipo di controllo sul fido al checkout |
+| [**CustomPricesPolicy**](b2bcart.md#custompricespolicy) | Policy 'custom' per prezzi/sconti a livello di carrello |
 | [**MenuItems**](b2bcart.md#menuitems) | Elementi del menu |
 | [**ShipmentSiteIsMandatory**](b2bcart.md#shipmentsiteismandatory) | Destinazione merci obbligatoria |
 | [**ValidatePricesObsolescence**](b2bcart.md#validatepricesobsolescence) | Abilita la validazione dei prezzi al checkout |
@@ -52,6 +53,10 @@
 * 0 =&gt; Nessun controllo
 * 1 =&gt; Importo totale \(con IVA e spese accessorie incluse\)
 * 2 =&gt; Totale merce \(IVA esclusa\)
+
+## CustomPricesPolicy
+
+**Tipo:** String
 
 ## MenuItems
 

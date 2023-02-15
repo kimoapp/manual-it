@@ -13,7 +13,7 @@ description: Magazzini
 | AddressCity | Città | text | 40 |
 | AddressCountry | Paese | text | 20 |
 | AddressCountrySubdivision | Provincia | text | 20 |
-| AddressLine | Indirizzo | text | 80 |
+| AddressLine | Indirizzo | text | 200 |
 | AddressPostCode | CAP | text | 20 |
 | CanCollect | Ci si può ritirare la merce al banco | bool |  |
 | CanShip | Può spedire la merce | bool |  |
@@ -25,6 +25,7 @@ description: Magazzini
 | FreeText2 | Campo testo libero | text | text |
 | FreeText3 | Campo testo libero | text | text |
 | Id | Id | text | 50 |
+| LeadTime | Tempo di approvvigionamento | int |  |
 | LogisticAreaId | Id dell'area logistica | text | 50 |
 | LogisticCenterId | Id del centro logistico | text | 50 |
 | Mail | Mail | text | 100 |

@@ -7,13 +7,14 @@ description: Righe dei controlli commerciali sui documenti di vendita
 **Chiavi**
 
 * _Id_
-* SalesControlId, AccountEncodingType, AccountEncodingKey, ItemEncodingType, ItemEncodingKey, VariableItemId, VariableId1, VariableValueId1, VariableId2, VariableValueId2, UomId, SalesAgentId, DocumentTypeId, SeasonId, TrademarkId, CurrencyId, PromotionId, StartDate, EndDate, StartQuantityRange, EndQuantityRange, StartAmountRange, EndAmountRange
+* SalesControlId, AccountEncodingType, AccountEncodingKey, ItemEncodingType, ItemEncodingKey, VariableItemId, VariableId1, VariableValueId1, VariableId2, VariableValueId2, UomId, SalesAgentId, DocumentFamilyId, DocumentTypeId, SaleTypeId, SeasonId, TrademarkId, CurrencyId, PromotionId, StartDate, EndDate, StartQuantityRange, EndQuantityRange, StartAmountRange, EndAmountRange
 
 | Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
 | AccountEncodingKey | Chiave identificativa per i clienti \(codice, gruppo, ...\) | text | 50 |
 | [AccountEncodingType](salescontrolline.md#accountencodingtype) | Tipo della chiave identificativa per i clienti | enum |  |
 | CurrencyId | Id della valuta | text | 50 |
+| [DocumentFamilyId](salescontrolline.md#documentfamilyid) | Id della famiglia documento | enum |  |
 | DocumentTypeId | Id del tipo documento | text | 50 |
 | EndAmountRange | Fine Scaglione importo | dec |  |
 | EndDate | Data fine validità | date |  |
@@ -33,6 +34,7 @@ description: Righe dei controlli commerciali sui documenti di vendita
 | PromotionId | Id della promozione | text | 50 |
 | SalesAgentId | Id dell'agente | text | 50 |
 | SalesControlId | Id del controllo commerciale | text | 50 |
+| SaleTypeId | Id del tipo vendita | text | 50 |
 | SeasonId | Id della stagione | text | 50 |
 | SeverityLevel | Livello di serietà | enum |  |
 | StartAmountRange | Inizio Scaglione importo | dec |  |
@@ -41,6 +43,7 @@ description: Righe dei controlli commerciali sui documenti di vendita
 | TrademarkId | Id del trademark | text | 50 |
 | UomId | Id dell'unità di misura \(di vendita o di imballo\) | text | 20 |
 | Value | Valore \(vedi documentazione dei Controlli Commerciali\) | dec |  |
+| ValueAsText | Valore testuale \(per specifici controlli commerciali\) | text | text |
 | VariableId1 | Id variante | text | 50 |
 | VariableId2 | Id variante | text | 50 |
 | VariableItemId | Id dell'articolo variante | text | 50 |
@@ -55,6 +58,17 @@ description: Righe dei controlli commerciali sui documenti di vendita
 * 3: CustomerGroup
 * 6: StatisticClass
 * 7: ShipmentSiteCountry
+
+## DocumentFamilyId
+
+* 0: Undefined
+* 1: SalesOrders
+* 2: SalesQuotes
+* 3: SalesInvoices
+* 4: NoteCredito
+* 5: DeliveryNotes
+* 6: Inventories
+* 7: WorkSessions
 
 ## ItemEncodingType
 

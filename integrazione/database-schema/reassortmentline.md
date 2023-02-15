@@ -25,6 +25,7 @@ description: Righe dei riassortimenti
 | CurrentDiscount7 | Sconto | dec |  |
 | CurrentInPromotion | In promozione | bool |  |
 | CurrentNetUnitPrice | Prezzo unitario netto | dec |  |
+| CurrentPriceListId | Listino | text | 50 |
 | CurrentSaleTypeId | Tipo vendita | text | 50 |
 | CurrentUnitPrice | Prezzo unitario | dec |  |
 | ErpStatusId1 |  | text | 50 |
@@ -49,6 +50,10 @@ description: Righe dei riassortimenti
 | FreeText1 | Campo testo libero | text | text |
 | FreeText2 | Campo testo libero | text | text |
 | FreeText3 | Campo testo libero | text | text |
+| GiftFreeQty | Quantità in omaggio nelle promo N+M | dec |  |
+| GiftItemId | Indica il codice dell'articolo da dare in omaggio nelle promo N+M \(se vuoto indica lo stesso articolo\) | text | 50 |
+| GiftPaidQty | Quantità di vendita nelle promo N+M | dec |  |
+| [GiftQtyMode](reassortmentline.md#giftqtymode) | Indica se la quantità in omaggio è da considerarsi compresa, nelle promo N+M | enum |  |
 | Id | Id della riga del riassortimento | text | 50 |
 | ItemDescription | Descrizione articolo | text | 130 |
 | ItemId | Id articolo | text | 50 |
@@ -60,10 +65,13 @@ description: Righe dei riassortimenti
 | LastSaleDiscount5 | Sconto | dec |  |
 | LastSaleDiscount6 | Sconto | dec |  |
 | LastSaleDiscount7 | Sconto | dec |  |
+| LastSaleDocumentLineNumber | Numero riga documento di origine dell'ultima vendita | int |  |
+| LastSaleDocumentNumber | Numero documento di origine dell'ultima vendita | text | 50 |
 | LastSaleInPromotion | Flag indicante se l'ultima vendita era in promozione | bool |  |
 | LastSaleNetUnitPrice | Prezzo unitario netto | dec |  |
 | LastSaleNumberOfPacks | Numero confezioni ultima vendita | dec |  |
 | LastSalePackUnitQty | Quantità ultima vendita espressa nell'unità di misura unitaria di imballo | dec |  |
+| LastSalePriceListId | Listino dell'ultima vendita | text | 50 |
 | LastSaleSalesQty | Quantità ultima vendita espressa nell'unità di misura di vendita | dec |  |
 | LastSaleSaleTypeId | Tipo vendita dell'ultima vendita | text | 50 |
 | LastSaleUnitPrice | Prezzo unitario | dec |  |
@@ -75,6 +83,8 @@ description: Righe dei riassortimenti
 | Notes | Note | text | text |
 | PackUnitUomId | Id dell'unità di misura unitaria di imballo | text | 20 |
 | PackUomId | Id dell'unità di misura di imballo | text | 20 |
+| PromotionPackUomId |  | text | 20 |
+| PromotionReference | Riferimento alla promozione | text | 50 |
 | ReassortmentId | Id del riassortimento | text | 50 |
 | SalesUomId | Id dell'unità di misura di vendita | text | 20 |
 | SeasonId | Id della stagione | text | 50 |
@@ -97,6 +107,11 @@ description: Righe dei riassortimenti
 
 * 0: Active
 * 1: Deactivated
+
+## GiftQtyMode
+
+* 0: Quantità gratuita 'inclusa' in quella a pagamento
+* 1: Quantità gratuita NON 'inclusa' in quella a pagamento
 
 ## LineType
 

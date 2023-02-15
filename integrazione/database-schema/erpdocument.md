@@ -13,7 +13,7 @@ description: Documenti da Erp
 | AccountAddressCity | Città | text | 40 |
 | AccountAddressCountry | Paese | text | 20 |
 | AccountAddressCountrySubdivision | Provincia | text | 20 |
-| AccountAddressLine | Indirizzo | text | 80 |
+| AccountAddressLine | Indirizzo | text | 200 |
 | AccountAddressPostCode | CAP | text | 20 |
 | AccountFiscalCode | Codice fiscale | text | 30 |
 | AccountId | Id del cliente | text | 50 |
@@ -36,7 +36,7 @@ description: Documenti da Erp
 | BillingAccountAddressCity | Città | text | 40 |
 | BillingAccountAddressCountry | Paese | text | 20 |
 | BillingAccountAddressCountrySubdivision | Provincia | text | 20 |
-| BillingAccountAddressLine | Indirizzo | text | 80 |
+| BillingAccountAddressLine | Indirizzo | text | 200 |
 | BillingAccountAddressPostCode | CAP | text | 20 |
 | BillingAccountFiscalCode | Codice fiscale | text | 30 |
 | BillingAccountId | Id del cliente di fatturazione | text | 50 |
@@ -119,7 +119,7 @@ description: Documenti da Erp
 | ShipmentSite2AddressCity | Città | text | 40 |
 | ShipmentSite2AddressCountry | Paese | text | 20 |
 | ShipmentSite2AddressCountrySubdivision | Provincia | text | 20 |
-| ShipmentSite2AddressLine | Indirizzo | text | 80 |
+| ShipmentSite2AddressLine | Indirizzo | text | 200 |
 | ShipmentSite2AddressPostCode | CAP | text | 20 |
 | ShipmentSite2Fax | Fax | text | 50 |
 | ShipmentSite2Id | Id | text | 50 |
@@ -133,7 +133,7 @@ description: Documenti da Erp
 | ShipmentSiteAddressCity | Città | text | 40 |
 | ShipmentSiteAddressCountry | Paese | text | 20 |
 | ShipmentSiteAddressCountrySubdivision | Provincia | text | 20 |
-| ShipmentSiteAddressLine | Indirizzo | text | 80 |
+| ShipmentSiteAddressLine | Indirizzo | text | 200 |
 | ShipmentSiteAddressPostCode | CAP | text | 20 |
 | ShipmentSiteFax | Fax | text | 50 |
 | ShipmentSiteId | Id | text | 50 |

@@ -23,6 +23,7 @@ description: Sconti nell'Erp Nav
 | [FindNext](navsaleslinediscount.md#findnext) | Usato in Dynamics AX | enum |  |
 | Id | Id | text | 50 |
 | [MultipleQuantity](navsaleslinediscount.md#multiplequantity) | Quantità multipla | dec |  |
+| PriceListInfo | Info listino | text | text |
 | RecId | Usato in Dynamics AX | text | 50 |
 | SalesAgentId | Id dell'agente | text | 50 |
 | SalesCode | Codice vendita | text | 50 |

@@ -26,6 +26,7 @@
 * SplitByTrademarkAndSeason
 * SplitByWarehouse
 * SplitByWarehouseAndCollectOnSite
+* SplitByWarehouseAndCollectOnSiteAndCollectionOnSiteDate
 * Standard
 * Wald
 
