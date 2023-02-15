@@ -4,7 +4,7 @@
 
 ![schema logico integrazione](../.gitbook/assets/kimo-integrator-schema.png)
 
-Kimo usa un ETL (extract, transform, load) proprietario per accedere ai dati su database relazionali, con accesso via ODBC e OleDB.
+Kimo usa un ETL (Extract, Transform, Load) proprietario per accedere ai dati su database relazionali, con accesso via ODBC e OleDB.
 
 Si consiglia l’adozione di un database di integrazione (o **integration database**) dove il sistema informativo rende disponibile in lettura a Kimo i propri dati (tramite tabelle e/o viste), e dove Kimo scrive i dati di ritorno (tabelle), tutto secondo le seguenti fasi:
 
