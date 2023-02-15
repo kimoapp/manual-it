@@ -36,4 +36,3 @@ description: Unità di misura degli articoli non a stock
 * 0: AllowDivisibility
 * 1: WarnIfDivided
 * 2: DoNotAllowDivisibility
-.

@@ -44,4 +44,3 @@
 | StartQuantityRange |  |
 | UnitPrice |  |
 
-.

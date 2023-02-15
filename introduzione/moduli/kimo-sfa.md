@@ -8,4 +8,3 @@ Il modulo SFA è disponibile sia come App per iPad (vedi la [procedura di instal
 
 La WebApp fornisce per gli utenti di tipo Direzionale anche delle funzionalità per la gestione della forza vendita (metriche, statistiche, ...).\
 L'indirizzo per accedervi è "/webapp" (es. https://kimo.mycompany.com/webapp).\
-.

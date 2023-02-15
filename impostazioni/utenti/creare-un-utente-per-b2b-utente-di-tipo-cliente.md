@@ -10,4 +10,3 @@ Per creare un nuovo utente di tipo Cliente, accedere alla Console di Amministraz
 
 Nella maschera di modifica dell'utente B2B è possibile specificare le destinazioni merci da rendere visibili per l'utente creato.
 
-.

@@ -51,4 +51,3 @@
 ## VisibleLineDiscounts
 
 **Tipo:** Valori separati da pipe
-.

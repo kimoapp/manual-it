@@ -66,4 +66,3 @@ Destinazione Merci non trovata
 {% endswagger-response %}
 {% endswagger %}
 
-.

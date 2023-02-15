@@ -115,4 +115,3 @@ __
 ## Personalizzazione immagine di default per gli articoli che non hanno un'immagine
 
 Può essere utilizzata un'immagine personalizzata inserendo il file "itemDefault.png" nella cartella "server\Sites\B2b\Custom\images".
-.

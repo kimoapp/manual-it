@@ -20,4 +20,3 @@ Es.
 | Account | 1 | 10 | Mario Rossi |
 | Account | 1 | 20 | Luigi Bianchi |
 
-.

@@ -36,4 +36,3 @@
 | PrivacyConsent |  |
 | Title |  |
 
-.

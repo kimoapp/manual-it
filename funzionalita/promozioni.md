@@ -97,4 +97,3 @@ L'attivazione di una promozione può essere eseguita nei seguenti modi:
 
 * Attivazione automatica:
   * Nella tabella delle promozioni è presente un campo, ActivationMode, che definisce la modalità di attivazione della promozione, utilizzando la modalità automatica (1) l'articolo, già all'interno del catalogo, mostrerà ed utilizzerà il prezzo calcolato con la condizione di vendita definita nella promozione
-.

@@ -22,4 +22,3 @@ L'entità Contact può far riferimento ad alcune anagrafiche di base definibili 
 
 Tutte le informazioni relative ai contatti creati e/o modificati in Kimo SFA saranno consultabili in sola lettura nell'apposita sezione della Web App.
 
-.

@@ -14,4 +14,3 @@ Es. Disponibilità Item
 | Item1      | Rosso    | Non disponibile | \uf165 | <p> </p><p><img src="../.gitbook/assets/thumbsdown.PNG" alt="" data-size="original"></p>   | color: #FF0000; font-family: FontAwesomeRegular; font-size: 20; |
 | Item1      | Giallo   | In arrivo       | \uf107 | <img src="../.gitbook/assets/clock.PNG" alt="" data-size="original">                       | color: #FFD300; font-family: FontAwesomeRegular; font-size: 20; |
 | Item1      | Verde    | Disponibile     | \uf164 | <p> </p><p><img src="../.gitbook/assets/thumbsup (1).PNG" alt="" data-size="original"></p> | color: #009933; font-family: FontAwesomeRegular; font-size: 20; |
-.

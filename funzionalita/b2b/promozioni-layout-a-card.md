@@ -34,4 +34,3 @@ Tale modalità di visualizzazione può essere impostata come modalità di defaul
 ### Come si caricano le immagini
 
 Le immagini delle card dovranno essere caricate nella cartella **“public\files\cards\promotions”** dell'ambiente di Kimo di interesse**.**
-.

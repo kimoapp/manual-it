@@ -17,4 +17,3 @@
 ## Username
 
 **Tipo:** String
-.

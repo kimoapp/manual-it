@@ -76,4 +76,3 @@ description: Ricerca account
 | SalesAgentId | Id dell'agente di riferimento |
 | UnpaidInstallmentsAmount | Indica l'importo degli insoluti del cliente |
 
-.

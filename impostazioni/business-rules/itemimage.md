@@ -7,4 +7,3 @@
 ## ShouldFilterByActiveItems
 
 **Tipo:** Boolean
-.

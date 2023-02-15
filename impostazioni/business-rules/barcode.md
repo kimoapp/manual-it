@@ -12,4 +12,3 @@
 ## Suffix
 
 **Tipo:** String
-.

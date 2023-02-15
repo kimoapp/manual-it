@@ -38,4 +38,3 @@ Per ciascun entità da valorizzare è possibile specificare solo un sottoinsieme
 
 
 
-.

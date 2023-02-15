@@ -183,4 +183,3 @@ Non va più usato per identificare un account come prospect \(usare a tale scopo
 ## NickName
 
 Nome usato 'comunemente' per indicare l'account, può essere differente dalla ragione sociale \(es. nome con cui è conosciuto un bar\)
-.

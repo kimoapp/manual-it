@@ -12,4 +12,3 @@ description: \[OBSOLETO - usare i FreeLookup\] Filtro 'generico' per un cliente
 | :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
-.

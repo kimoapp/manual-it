@@ -42,4 +42,3 @@ Il menù Import/Export è visibile nella parte in alto a destra dello schermo.
 
 
 ###
-.

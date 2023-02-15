@@ -2,4 +2,3 @@
 
 | Valore | Descrizione |
 | :--- | :--- |
-.

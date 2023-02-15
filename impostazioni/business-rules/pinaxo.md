@@ -8,4 +8,3 @@
 
 **Tipo:** String  
 **Valore di default:** https://pinaxo.com
-.

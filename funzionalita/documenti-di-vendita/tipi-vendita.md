@@ -16,4 +16,3 @@ Il Codice Erp assegnato al tipo vendita deve necessariamente essere presente in 
 
 
 
-.

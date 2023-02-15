@@ -12,4 +12,3 @@ L'immagine non è personalizzabile per ogni utente, ma a livello di azienda. In 
 
 2. Salvare le immagini nella cartella "{Istanza Kimo}\Public\Files\Resources".
 3. Alla sincronizzazione dell'utente, le immagini saranno aggiornate sul dispositivo.
-.

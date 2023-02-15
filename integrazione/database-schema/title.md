@@ -12,4 +12,3 @@ description: Titolo di una persona (es. Dott., Ing., ...)
 | :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
-.

@@ -4,4 +4,3 @@ La Console di Amministrazione è un'applicazione che permette la parametrizzazio
 
 L'indirizzo per accedere alla console è "/admin" \(es. https://kimo.mycompany.com/admin\).
 
-.

@@ -12,4 +12,3 @@ La gestione del Prospect è vincolata alla seguenti autorizzazioni:
 
 
 
-.

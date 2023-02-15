@@ -35,4 +35,3 @@ Le comunicazioni sono una funzionalità accessibile solo online.
 {% endhint %}
 
 &#x20;
-.

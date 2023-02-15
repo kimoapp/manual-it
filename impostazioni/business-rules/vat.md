@@ -12,4 +12,3 @@
 ## ItemVatRateId
 
 **Tipo:** String
-.

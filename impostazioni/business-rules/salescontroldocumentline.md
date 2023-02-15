@@ -18,4 +18,3 @@
 ## ShouldApplyForLineWithUneditedPriceAndDiscount
 
 **Tipo:** Boolean
-.

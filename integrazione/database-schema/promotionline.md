@@ -83,4 +83,3 @@ Se la quantità è 50 e la quantità multipla è 10, lo scaglione può essere ap
 ## QtyDivisibilityRule
 
 * 0: Default
-.

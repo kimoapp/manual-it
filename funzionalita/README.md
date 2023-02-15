@@ -9,4 +9,3 @@ Ogni utente può essere assegnato a diversi ruoli. In Kimo sono gestite tre ripo
 3. direzione
 
 Per ogni tipologia, possiamo creare dei ruoli per andare a definire le funzionalità che vogliamo attivare agli utenti che appartengono a quel ruolo specifico.
-.

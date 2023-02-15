@@ -24,4 +24,3 @@ description: Editor destinazioni merci (es. per definirne una nuova nei document
 | Phone |  |
 | ShouldRegisterOnErp |  |
 
-.

@@ -16,4 +16,3 @@
 ## ShowOnDocument\_AddItem\_WhenEmpty
 
 **Tipo:** Boolean
-.

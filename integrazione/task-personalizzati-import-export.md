@@ -15,4 +15,3 @@ La caratteristica più importante di uno script eseguito in questa modalità, ri
 L'esecuzione di un task personalizzato in fase di export richiede la scrittura di un "plugin", una DLL contenente le istruzioni da eseguire. Tale DLL deve essere realizzata con particolari specifiche per poter essere riconosciuta da Kimo come plugin.  
 Contattare il team di sviluppo di Kimo per ulteriori informazioni.
 
-.

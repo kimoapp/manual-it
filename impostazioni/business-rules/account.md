@@ -65,4 +65,3 @@
 ## VatNumberMandatoryIfIsOrganization
 
 **Tipo:** Boolean
-.

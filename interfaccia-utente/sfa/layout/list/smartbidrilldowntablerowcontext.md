@@ -53,4 +53,3 @@
 | TrademarkId |  |
 | Year |  |
 
-.

@@ -51,4 +51,3 @@ Per ciascun articolo modello è possibile gestire varianti di tipo diverso.\
 | MATERIALE  | KEVLAR      | 2            | KEVLAR  |
 
 In fase di inserimento ordine, per gli articoli a variante, viene proposto un editor della riga che facilita la selezione delle varianti e l'inserimento delle quantità di vendita: [Editor riga](../documenti-di-vendita/inserimento-riga.md#editor-riga-articoli-a-variante)
-.

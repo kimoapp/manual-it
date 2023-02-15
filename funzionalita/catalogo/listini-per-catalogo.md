@@ -14,4 +14,3 @@ Nel caso si presentino due condizioni che fanno riferimento a listini diversi, v
 
 ![Form inserimento nuovo listino per catalogo](../../.gitbook/assets/newlistino.PNG)
 
-.

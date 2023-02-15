@@ -19,4 +19,3 @@ I possibili tipi di risposta sono:
 
 Le Schede Marketing sono visualizzabili e creabili all'interno del dettaglio Account.\
 Ad ogni Account è possibile associare una sola Scheda Cliente.\
-.

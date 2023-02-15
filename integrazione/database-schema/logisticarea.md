@@ -12,4 +12,3 @@ description: Aree logistiche
 | :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | 100 |
 | Id | Id | text | 50 |
-.

@@ -22,4 +22,3 @@
 | SelectedCount |  |
 | TotalResidualDueAmount |  |
 
-.

@@ -176,4 +176,3 @@
 ## WarningDaysWithExpiredDocuments
 
 **Tipo:** Nullable`1
-.

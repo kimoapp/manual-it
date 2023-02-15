@@ -161,4 +161,3 @@ Testing $test.CustomMethod(${val})
 Testing $test.CustomMethod($val)
 ```
 
-.

@@ -227,4 +227,3 @@ Di seguito riportiamo alcuni esempi di json  nel formato atteso:
 }
 ```
 {% endcode %}
-.

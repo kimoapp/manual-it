@@ -27,4 +27,3 @@ description: Costo articoli (netto, lordo, ...)
 
 * 0: Regualar
 * 1: NetCost
-.

@@ -19,4 +19,3 @@ description: Righe delle Schede Marketing
 | LastModifiedUserId | Id dell'agente che ha effettuato l'ultima modifica | text | 50 |
 | SyncReference | Riferimento | text | 50 |
 | Value | Valore | text | text |
-.

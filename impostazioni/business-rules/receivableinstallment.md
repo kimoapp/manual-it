@@ -31,4 +31,3 @@
 
 * ReceivableId
 * ReceivableNumber
-.

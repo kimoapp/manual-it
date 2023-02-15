@@ -12,4 +12,3 @@ I due livelli sono:
 ![](../../.gitbook/assets/simulator-screen-shot-ipad-6th-generation-2019-08-05-at-14.38.19\_framed.png)
 
 * Warning: Viene segnalato un messaggio che identificare la validazione fallita, la riga può comunque essere aggiunta e il documento inviato
-.

@@ -39,4 +39,3 @@
 | UnitPrice |  |
 | UnitsPerSalesUom |  |
 
-.

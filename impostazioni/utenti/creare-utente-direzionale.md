@@ -23,4 +23,3 @@ L'utente può essere "cancellato" premendo il tasto <img src="../../.gitbook/ass
 Successivamente alla creazione del nuovo utente, accedere alla maschera di dettaglio (tramite il pulsante<img src="../../.gitbook/assets/image.png" alt="" data-size="original">presente nella lista degli utenti) per impostare le ulteriori informazioni (es. configurazione per i layout, serie numeratore, ...) come da maschera seguente:
 
 ![](../../.gitbook/assets/screenshot-2019-06-18-at-15.33.47.png)
-.

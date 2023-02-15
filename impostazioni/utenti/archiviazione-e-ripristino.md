@@ -11,4 +11,3 @@ La cancellazione avviene solo a livello logico, impostando l'utente come "archiv
 \
 Un utente "cancellato" può essere ripristinato premendo il tasto "disarchivia utente" <img src="../../.gitbook/assets/disarchivia.PNG" alt="" data-size="original"> : questo tasto viene visualizzato solo per gli utenti archiviati che normalmente non sono visibili. \
 Per rendere visibili questi Utenti utilizzare il filtro di ricerca avanzata "Mostra anche gli utenti archiviati".&#x20;
-.

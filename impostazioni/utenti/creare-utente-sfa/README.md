@@ -34,4 +34,3 @@ Successivamente alla creazione del nuovo utente, accedere alla maschera di detta
 Al termine della creazione dell'utente è necessario effettuare una "Preparazione dati di sincronizzazione", altrimenti non sarà possibile sincronizzarne i dati dall'App. Per fare ciò selezionare dal menù in alto a destra la voce "Import" e successivamente eseguire lo step relativo alla "Preparazione dati di sincronizzazione". Questa procedura può essere di durata variabile in base ai dati presenti nel database (solitamente compresa tra i 15 e i 30 minuti).\
 In alcune situazioni potrebbe essere necessario anche importare i dati dall'Erp, se quest'ultimo non metteva finora a disposizione di Kimo i dati collegati al nuovo agente (es. i relativi clienti).
 {% endhint %}
-.

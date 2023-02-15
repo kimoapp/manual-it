@@ -12,4 +12,3 @@
 ## SaleType
 
 **Tipo:** String
-.

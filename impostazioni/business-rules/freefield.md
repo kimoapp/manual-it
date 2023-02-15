@@ -14,4 +14,3 @@
 * 1 =&gt; Prezzo unitario
 * 2 =&gt; Importo totale
 * 3 =&gt; Quantità
-.

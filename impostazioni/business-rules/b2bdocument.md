@@ -36,4 +36,3 @@
 ## ReportTypeId
 
 **Tipo:** String
-.

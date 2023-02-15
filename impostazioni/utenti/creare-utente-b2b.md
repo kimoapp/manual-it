@@ -12,4 +12,3 @@ Per creare un nuovo utente di tipo Cliente, accedere alla [WebApp](../../introdu
 
 L' utente appena creato sarà visibile anche nella [Console di Amministrazione](../../introduzione/moduli/console-admin.md).
 
-.

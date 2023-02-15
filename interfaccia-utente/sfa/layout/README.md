@@ -181,4 +181,3 @@ Per rendere l'operazione il più semplice possibile si può usare la seguente pr
 Il tasto <img src="../../../.gitbook/assets/image (34).png" alt="" data-size="original"> apre la maschera di dettaglio del layout.
 
 ![](<../../../.gitbook/assets/image (46).png>)
-.

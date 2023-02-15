@@ -12,4 +12,3 @@
 
 * 0 =&gt; DoNotFilterByShipmentSite
 * 1 =&gt; FilterByShipmentSite
-.

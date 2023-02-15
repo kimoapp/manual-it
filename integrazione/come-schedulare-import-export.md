@@ -27,4 +27,3 @@ E' possibile specificare specifiche liste di destinatari in base all'esito dell'
 
 L'utilizzo di uno script rende possibile l'invocazione schedulata del servizio.\
 Per esempio nel caso di Windows si può utilizzare il tool "Task Scheduler".&#x20;
-.

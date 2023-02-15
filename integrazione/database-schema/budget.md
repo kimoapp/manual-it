@@ -60,4 +60,3 @@ description: Budget
 * 9: StartedUploadToServer
 * 10: EditingPending
 * -1: Undefined
-.

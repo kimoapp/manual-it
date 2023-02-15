@@ -9,4 +9,3 @@ Le funzionalità associate all'Entità Account sono regolate dalle seguenti Auto
 1. Può vedere gli account
 2. Può vedere la mappa per gli account
 
-.

@@ -125,4 +125,3 @@ il campo **Status** può assumere i seguenti valori:
 ```
 {% endswagger-response %}
 {% endswagger %}
-.

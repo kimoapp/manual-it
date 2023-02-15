@@ -168,4 +168,3 @@
 ## SendOnConfirmed
 
 **Tipo:** Boolean
-.

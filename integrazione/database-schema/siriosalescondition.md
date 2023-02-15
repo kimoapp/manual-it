@@ -66,4 +66,3 @@ description: Condizioni di vendita nell'Erp Sirio
 | StartDate | Data inizio validità | date |  |
 | UnitPrice | Prezzo unitario | dec |  |
 | UnitPriceIncludingVat | Prezzo unitario ivato | dec |  |
-.

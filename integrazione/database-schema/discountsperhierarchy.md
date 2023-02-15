@@ -29,4 +29,3 @@ description: Sconti per gerarchia
 | ItemId | Id dell'articolo | text | 50 |
 | ManufacturerId | Id del produttore | text | 50 |
 | StartDate | Data inizio validità | date |  |
-.

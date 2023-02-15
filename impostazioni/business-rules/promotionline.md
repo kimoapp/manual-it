@@ -12,4 +12,3 @@
 * 0 =&gt; Default
 * 1 =&gt; InitSalesQtyFromSuggestedQuantity\_OnPromotionInitialization
 * 2 =&gt; SkipMatchingDocumentLines
-.

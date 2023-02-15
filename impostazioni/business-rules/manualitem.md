@@ -17,4 +17,3 @@
 ## VatRateId
 
 **Tipo:** String
-.

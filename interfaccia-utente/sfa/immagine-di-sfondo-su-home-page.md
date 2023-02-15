@@ -30,4 +30,3 @@ TemplateBgLayout.eps
 {% hint style="warning" %}
 Se si è già loggati su Kimo sul device (ovvero non è la prima sincronizzazione), sarà necessario uscire da Kimo e rientrare per vedere le immagini.
 {% endhint %}
-.

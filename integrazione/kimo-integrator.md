@@ -36,4 +36,3 @@ Per definire un filtro è necessario specificare i seguenti valori:
 3. CustomQuery: select sql effettuata sul database d'integrazione Erp. La tabella risultante può essere mappata in Import verso Kimo. Se la struttura della tabella risultante replica la struttura della tabella Kimo la mappatura non è necessaria.
 4. SystemId: sistema informativo da cui leggere i dati&#x20;
 
-.

@@ -17,4 +17,3 @@ Le informazioni da visualizzare per ciascun articolo sono personalizzabili ma il
 In SFA è possibile definire un [Layout](../../interfaccia-utente/sfa/layout/) personalizzato: in questo caso il Layout di riferimento è [ItemSearch](../../interfaccia-utente/sfa/layout/list/itemssearchcontext.md).   
 In B2B il Layout è predefinito, ma si può definire quali campi visualizzare \(contattare il [Supporto](../../contatti.md) Kimo per questo tipo di personalizzazione\).
 
-.

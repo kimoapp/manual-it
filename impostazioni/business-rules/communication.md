@@ -12,4 +12,3 @@
 ## Categories
 
 **Tipo:** Valori separati da pipe
-.

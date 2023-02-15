@@ -9,4 +9,3 @@ Sono definite all'interno della [Console di Amministrazione](../../introduzione/
 ![](<../../.gitbook/assets/image (28).png>)
 
 Nelle pagine elencate all'interno di questa sezione della documentazione sono elencate le Business Rules, raggruppate per ambito di applicazione.
-.

@@ -87,4 +87,3 @@ Ad un Campo possono essere applicate una o più regole di editing.
 #### **Contesto**
 
 Vedi il paragrafo [Contesto](entity-metadata.md#contesto).
-.

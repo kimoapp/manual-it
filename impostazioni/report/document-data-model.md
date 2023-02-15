@@ -377,4 +377,3 @@
 * 3: DiscountOnGoo&#x20;
 * 4: Promotion
 
-.

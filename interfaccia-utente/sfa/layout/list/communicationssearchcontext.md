@@ -13,4 +13,3 @@
 | Thumbnail |  |
 | Title |  |
 
-.

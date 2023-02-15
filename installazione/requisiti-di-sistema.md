@@ -25,4 +25,3 @@
 2. App Android: device con Android 8.1 o superiore&#x20;
 3. App iOS: device Apple con iOS 10 o superiore
 
-.

@@ -12,4 +12,3 @@
 
 * 0 =&gt; Login
 * 1 =&gt; CartConfirmation
-.

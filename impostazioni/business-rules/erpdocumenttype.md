@@ -7,4 +7,3 @@
 ## {ErpDocumentTypeId}\CanTransformToDocument
 
 **Tipo:** Boolean
-.

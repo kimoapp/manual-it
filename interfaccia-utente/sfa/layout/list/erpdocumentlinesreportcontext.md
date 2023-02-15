@@ -48,4 +48,3 @@
 | Line.UnitPrice |  |
 | Line.UnitsPerSalesUom |  |
 
-.
