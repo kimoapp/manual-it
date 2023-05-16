@@ -4,7 +4,7 @@ Le Business Rules (Regole di Business) sono parametri di sistema che Kimo utiliz
 
 Sono definite all'interno della [Console di Amministrazione](../../introduzione/moduli/console-admin.md), all'interno della sezione "Impostazioni".
 
-![](../../.gitbook/assets/businessrule.PNG)
+![](<../../.gitbook/assets/businessrule (1).PNG>)
 
 ![](<../../.gitbook/assets/image (28).png>)
 

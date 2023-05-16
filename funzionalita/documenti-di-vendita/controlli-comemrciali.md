@@ -2,7 +2,7 @@
 
 È possibile effettuare delle validazione all'interno della testata e delle righe del documento.\
 Queste validazioni vanno configurate in fase di integrazione con l'Erp.\
-Le tabelle a cui fare riferimento per la gestione di questi dati sono [SalesControlDocument](broken-reference) e [SalesControlDocumentLine](broken-reference).\
+Le tabelle a cui fare riferimento per la gestione di questi dati sono [SalesControlDocument](../../impostazioni/business-rules/salescontroldocument.md) e [SalesControlDocumentLine](../../impostazioni/business-rules/salescontroldocumentline.md).\
 I messaggi di errore restituiti dalle validazione possono avere due livelli di severità, che indicano il comportamento da tenere in caso di fallimento validazioni.\
 Le validazioni a livello di testata documento sono eseguite all'invio del Documento.\
 I due livelli sono:

@@ -25,8 +25,8 @@ Entità di riferimento.
 Il contesto specifica uno o più ambiti applicativi in cui il metadato si applica.\
 Il contesto è espresso nel formato Json array ma la sintassi è diversa per ciascuna entità.
 
-es. Entità= Document indica che il metadato si applica a tutti i documenti (Ordini, Offerte...). \
-Contesto =  \["Family=2", "Type=INITIAL"] indica che il metadato si applica all'entità Documento di tipo Offerta o Preventivo o a Documenti con stato non ancora assegnato.&#x20;
+es. Entità= Document indica che il metadato si applica a tutti i documenti (Ordini, Offerte...).\
+Contesto = \["Family=2", "Type=INITIAL"] indica che il metadato si applica all'entità Documento di tipo Offerta o Preventivo o a Documenti con stato non ancora assegnato.
 
 | Entità                | Sintassi del Contesto                                                                                                                                                                                                                                                                       |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -42,7 +42,7 @@ Contesto =  \["Family=2", "Type=INITIAL"] indica che il metadato si applica all'
 #### Origine
 
 L'attributo definisce l'applicazione del metadato in base all'origine del dato.\
-Il parametro può assumere i seguenti valori:&#x20;
+Il parametro può assumere i seguenti valori:
 
 * 0 = Erp
 * 1 = Creata su Mobile
@@ -52,7 +52,7 @@ Il parametro può assumere i seguenti valori:&#x20;
 #### Padre
 
 Se l'attributo Padre è non valorizzato, il metadato è considerarsi base per l'entità specificata.\
-Se l'attributo **** Padre è valorizzato con "Base" il metadato estende il metadato base definito per dell'entità.\
+Se l'attributo \*\*\*\* Padre è valorizzato con "Base" il metadato estende il metadato base definito per dell'entità.\
 \
 Immaginiamo che per l'entità DocumentLine sia definito un metadato base con una serie di regole di editing che non prevedono la possibilità di alterare il prezzo.\
 Se per la stessa entità voglio concedere, solo ad una certa categoria di utenti, la possibilità di modificare il prezzo, posso definire un nuovo metadato per l'entità DocumentLine che referenzia il metadato base e che concede l'autorizzazione alla lista di utenti desiderati.\
@@ -63,26 +63,26 @@ In questo modo è possibile gestire in modo centralizzato le regole di editing d
 Indica che i metadati specificati per l'entità si applicano solo ad una lista di utilizzatori.\
 E' possibile specificare per ciascuna tipologia di utilizzatori una lista multipla di elementi.
 
-![](<../.gitbook/assets/image (41).png>)
+![](<../.gitbook/assets/image (1).png>)
 
-&#x20;Se l'attributo non è valorizzato le regole si applicano a tutti gli utilizzatori.
+Se l'attributo non è valorizzato le regole si applicano a tutti gli utilizzatori.
 
 ### Metadati di campo
 
-Un metadato sul campo definisce se un campo può essere sottoposto ad aggiornamento e quali vincoli deve rispettare.&#x20;
+Un metadato sul campo definisce se un campo può essere sottoposto ad aggiornamento e quali vincoli deve rispettare.
 
 ![](../.gitbook/assets/metadatocampo.PNG)
 
 Ad un Campo possono essere applicate una o più regole di editing.
 
-| Attributo         | Descrizione                                                                                                                                                                                         | Tipo   |
-| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| Editabile         | <p>Indica se il campo può essere modificato. <br>Può assumere i valori: 0=No 1=Si.</p>                                                                                                              | bool   |
-| Lunghezza Massima | Applicabile solo per i campi di tipo string. Indica la lunghezza massima che può assumere il valore.                                                                                                | int    |
-| Resettabile       | <p>Indica se deve essere visibile il tasto "Reset" che consente di azzerare il campo. <br>Può assumere i valori: 0=No 1=Si.</p>                                                                     | bool   |
-| Nullable          | <p>Indica se il campo può essere impostato a NULL. <br>Può assumere i valori: 0=No 1=Si.</p>                                                                                                        | bool   |
-| Obbligatorietà    | <p>Indica se la valorizzazione del campo è obbligatoria. <br>Può assumere i valori: 0=No 1=Si.</p>                                                                                                  | bool   |
-| Pattern Regex     | <p>Indica un'espressione regolare verificata in fase di salvataggio dell'entità. La sintassi da usare è quella del linguaggio C#. <br>es. controllo sul numero di telefono (^$)|(^[0-9]{1,14}$)</p> | string |
+| Attributo         | Descrizione                                                                                                                                                                        | Tipo             |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| Editabile         | <p>Indica se il campo può essere modificato.<br>Può assumere i valori: 0=No 1=Si.</p>                                                                                              | bool             |
+| Lunghezza Massima | Applicabile solo per i campi di tipo string. Indica la lunghezza massima che può assumere il valore.                                                                               | int              |
+| Resettabile       | <p>Indica se deve essere visibile il tasto "Reset" che consente di azzerare il campo.<br>Può assumere i valori: 0=No 1=Si.</p>                                                     | bool             |
+| Nullable          | <p>Indica se il campo può essere impostato a NULL.<br>Può assumere i valori: 0=No 1=Si.</p>                                                                                        | bool             |
+| Obbligatorietà    | <p>Indica se la valorizzazione del campo è obbligatoria.<br>Può assumere i valori: 0=No 1=Si.</p>                                                                                  | bool             |
+| Pattern Regex     | <p>Indica un'espressione regolare verificata in fase di salvataggio dell'entità. La sintassi da usare è quella del linguaggio C#.<br>es. controllo sul numero di telefono (^$)</p> | (^\[0-9]{1,14}$) |
 
 #### **Contesto**
 

@@ -25,7 +25,7 @@ Altre entità relazionate all'Articolo sono:
 | [ItemLotOfflineAvailability](../../integrazione/database-schema/itemlotofflineavailability.md) | Disponibilità 'offline' dei lotti                                       |
 | [ItemOfflineAvailability](../../integrazione/database-schema/itemofflineavailability.md)       | Disponibilità 'offline' degli articoli                                  |
 | [ItemSeries](../../integrazione/database-schema/itemseries.md)                                 | Serie articolo                                                          |
-| [ItemSpecification](broken-reference)                                                          | Specifiche tecniche degli articoli                                      |
+| [ItemSpecification](broken-reference/)                                                         | Specifiche tecniche degli articoli                                      |
 | [ItemSpecificationValue](../../integrazione/database-schema/itemspecificationvalue.md)         | Valori delle specifiche tecniche degli articoli                         |
 | [ItemTranslation](../../integrazione/database-schema/itemtranslation.md)                       | Traduzioni in lingua dei FreeLookup                                     |
 | [ItemUom](../../integrazione/database-schema/itemuom.md)                                       | Unità di misura degli articoli                                          |
@@ -42,12 +42,12 @@ Aprendo un articolo è possibile visualizzare le seguenti tipologie di schede in
 
 ### Disponibilità
 
-Esistono due gestioni della disponibilità: &#x20;
+Esistono due gestioni della disponibilità:
 
-* [Offline](../../integrazione/database-schema/itemofflineavailability.md): è la disponibilità visualizzata di default da Kimo e fa riferimento all'ultimo dato ricevuto dall' Erp. L' Entità in cui viene memorizzata la disponibilità è [ItemOffLineAvailability](../../integrazione/database-schema/itemofflineavailability.md). La presenza di campi di tipo [ErpStatus](../../impostazioni/stati-erp.md) consente di visualizzare la disponibilità graficamente usando icone FontAwesome.&#x20;
-* Online: in Kimo è possibile richiedere all'Erp la disponibilità aggiornata: questa informazione aggiorna il valore della disponibilità offline. Questa funzionalità richiede la connessione attiva ([contattare il supporto tecnico](../crm/contatti.md)). \
+* [Offline](../../integrazione/database-schema/itemofflineavailability.md): è la disponibilità visualizzata di default da Kimo e fa riferimento all'ultimo dato ricevuto dall' Erp. L' Entità in cui viene memorizzata la disponibilità è [ItemOffLineAvailability](../../integrazione/database-schema/itemofflineavailability.md). La presenza di campi di tipo [ErpStatus](../../impostazioni/stati-erp.md) consente di visualizzare la disponibilità graficamente usando icone FontAwesome.
+* Online: in Kimo è possibile richiedere all'Erp la disponibilità aggiornata: questa informazione aggiorna il valore della disponibilità offline. Questa funzionalità richiede la connessione attiva ([contattare il supporto tecnico](../crm/contatti.md)).\
   Per abilitare questa funzionalità è necessaria una configurazione a livello di integrazione Erp.\
-  La funzionalità è riservata agli utenti con Ruolo di tipo Agente  e con l'autorizzazione ["Può vedere la disponibilità online"](../../impostazioni/ruoli.md#definizione-di-un-ruolo-per-agenti) attiva.
+  La funzionalità è riservata agli utenti con Ruolo di tipo Agente e con l'autorizzazione ["Può vedere la disponibilità online"](../../impostazioni/ruoli.md#definizione-di-un-ruolo-per-agenti) attiva.
 
 ## Immagini
 
@@ -81,8 +81,8 @@ Cliccando in ogni singolo elemento dell'elenco verrà visualizzato il relativo f
 
 ## Articoli associati
 
-| Tipologia   | Icona                                                                                    | Descrizione                                                         |
-| ----------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| Correlati   |  <img src="../../.gitbook/assets/relateditems-2x.png" alt="" data-size="original">       | Articoli che potrebbero essere venduti insieme Es. Bundle.          |
-| Alternativi | <img src="../../.gitbook/assets/alternativeitems-2x.png" alt="" data-size="original">    | Articoli con le stesse caratteristiche dell'articolo di riferimento |
-| Sostitutivi |  <img src="../../.gitbook/assets/substitutiveitems-2x.png" alt="" data-size="original">  |   Articoli che andranno a sostituire il modello precedente          |
+| Tipologia   | Icona                                                                                  | Descrizione                                                         |
+| ----------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| Correlati   | <img src="../../.gitbook/assets/relateditems-2x (1).png" alt="" data-size="original">  | Articoli che potrebbero essere venduti insieme Es. Bundle.          |
+| Alternativi | <img src="../../.gitbook/assets/alternativeitems-2x.png" alt="" data-size="original">  | Articoli con le stesse caratteristiche dell'articolo di riferimento |
+| Sostitutivi | <img src="../../.gitbook/assets/substitutiveitems-2x.png" alt="" data-size="original"> | Articoli che andranno a sostituire il modello precedente            |
