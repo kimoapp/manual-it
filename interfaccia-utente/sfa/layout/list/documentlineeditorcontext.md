@@ -103,6 +103,7 @@
 | TotalDiscount |  |
 | UnitPrice |  |
 | UnitsPerPack |  |
+| UnitsPerPackWithIcon |  |
 | UnitsPerSalesUom |  |
 | VariableMatrix |  |
 | Warehouse |  |

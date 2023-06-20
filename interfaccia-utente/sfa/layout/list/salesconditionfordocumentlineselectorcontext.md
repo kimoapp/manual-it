@@ -40,6 +40,7 @@
 | PromotionLine\_SaleTypeId |  |
 | PromotionLine\_StartDate |  |
 | PromotionLine\_SuggestedQty |  |
+| PromotionLine\_UnitsPerPackWithIcon |  |
 | QuantityRange |  |
 | StartQuantityRange |  |
 | UnitPrice |  |

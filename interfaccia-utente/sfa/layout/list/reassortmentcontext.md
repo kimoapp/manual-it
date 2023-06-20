@@ -27,12 +27,14 @@
 | CurrentUnitPrice |  |
 | Discounts |  |
 | Document\_AverageNetUnitPrice |  |
+| Document\_CustomerGroupId |  |
 | Document\_DeliveryDate |  |
 | Document\_DiscountFromRetailPrice |  |
 | Document\_DiscountOnGrossCost |  |
 | Document\_Discounts |  |
 | Document\_EndShipmentDate |  |
 | Document\_FreeDecimal1 \[1..3\] |  |
+| Document\_FreeLookup1Description \[1..2\] |  |
 | Document\_FreeText1 \[1..3\] |  |
 | Document\_FulfillmentStatus |  |
 | Document\_GrossCost |  |
@@ -83,6 +85,7 @@
 | Document\_TotalDiscount |  |
 | Document\_TotalPrice |  |
 | Document\_UnitPrice |  |
+| Document\_UnitsPerPackWithIcon |  |
 | Document\_UnitsPerSalesUom |  |
 | Document\_ValidityStatusIcon |  |
 | Document\_Variable1ValueId |  |
@@ -126,5 +129,6 @@
 | TotalShippedQty |  |
 | UnitPrice |  |
 | UnitsPerPack |  |
+| UnitsPerPackWithIcon |  |
 | WarehouseAvailability |  |
 

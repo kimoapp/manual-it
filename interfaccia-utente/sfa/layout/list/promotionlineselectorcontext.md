@@ -22,4 +22,5 @@
 | SaleTypeId |  |
 | StartDate |  |
 | SuggestedQty |  |
+| UnitsPerPackWithIcon |  |
 

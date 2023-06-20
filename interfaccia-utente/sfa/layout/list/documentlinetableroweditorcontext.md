@@ -19,12 +19,14 @@
 | AvailabilityErpStatus1 \[1..3\] |  |
 | AvailabilityFreeDecimal1 \[1..2\] |  |
 | AverageNetUnitPrice |  |
+| CustomerGroupId |  |
 | DeliveryDate |  |
 | DiscountFromRetailPrice |  |
 | DiscountOnGrossCost |  |
 | Discounts |  |
 | EndShipmentDate |  |
 | FreeDecimal1 \[1..3\] |  |
+| FreeLookup1Description \[1..2\] |  |
 | FreeText1 \[1..3\] |  |
 | FulfillmentStatus |  |
 | GlobalAvailability |  |
@@ -79,6 +81,7 @@
 | TotalDiscount |  |
 | TotalPrice |  |
 | UnitPrice |  |
+| UnitsPerPackWithIcon |  |
 | UnitsPerSalesUom |  |
 | ValidityStatusIcon |  |
 | Variable1ValueId |  |

@@ -3,6 +3,7 @@
 | Valore | Descrizione |
 | :--- | :--- |
 | [**AdvancedSearchFields**](cart.md#advancedsearchfields) | Campi per la ricerca avanzata |
+| [**CartLinesSortingType**](cart.md#cartlinessortingtype) | Tipo di ordinamento delle righe carrello |
 | [**CsvDelimiterChar**](cart.md#csvdelimiterchar) | Carattere separatore utilizzato nel report CSV |
 | [**CsvSchema**](cart.md#csvschema) | Definizione schema del report Csv del carrello |
 | [**KeywordSearchFields**](cart.md#keywordsearchfields) | Campi per la ricerca testuale |
@@ -16,6 +17,15 @@
 
 * ShowOnlyAssignedToCurrentSalesAgent
 * Timeframe
+
+## CartLinesSortingType
+
+**Tipo:** Enum  
+**Valore di default:** 0  
+**Valori:**
+
+* 0 =&gt; Reversed
+* 1 =&gt; Standard
 
 ## CsvDelimiterChar
 

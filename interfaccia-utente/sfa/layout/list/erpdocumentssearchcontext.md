@@ -24,6 +24,7 @@
 | ErpDocumentTypeCode |  |
 | ErpDocumentTypeId |  |
 | ErpStatus1 \[1..3\] |  |
+| ExpectedClosingDate |  |
 | FreeDecimal1 \[1..5\] |  |
 | FreeLookup1Description \[1..5\] |  |
 | FreeText1 \[1..5\] |  |

@@ -48,6 +48,7 @@
 | SuggestedQty |  |
 | TotalPrice |  |
 | UnitPrice |  |
+| UnitsPerPackWithIcon |  |
 | UnitsPerSalesUom |  |
 | WarehouseAvailability |  |
 | WarehousesAvailabilities |  |

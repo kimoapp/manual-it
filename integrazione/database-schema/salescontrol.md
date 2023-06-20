@@ -57,6 +57,8 @@ description: Controlli commerciali sui documenti di vendita
 * 26: Quantità massima pari a quella presente nella relativa ReassortmentLine
 * 27: Importo minimo reso
 * 28: Importo minimo documento calcolato con moltiplicatore sull'importo reso
+* 29: Le promozioni devono passare per il processo di approvazione
+* 30: Cliente bloccato
 
 ## SaleTypeTargetContributeTo
 

@@ -8,6 +8,7 @@
 | [**CreditLimitCheck**](b2bcart.md#creditlimitcheck) | Tipo di controllo sul fido al checkout |
 | [**CustomPricesPolicy**](b2bcart.md#custompricespolicy) | Policy 'custom' per prezzi/sconti a livello di carrello |
 | [**MenuItems**](b2bcart.md#menuitems) | Elementi del menu |
+| [**QuantityDecimalsBehaviour**](b2bcart.md#quantitydecimalsbehaviour) | Inserimento quantità decimali permesso o impedito |
 | [**ShipmentSiteIsMandatory**](b2bcart.md#shipmentsiteismandatory) | Destinazione merci obbligatoria |
 | [**ValidatePricesObsolescence**](b2bcart.md#validatepricesobsolescence) | Abilita la validazione dei prezzi al checkout |
 | [**WarehousesForCollectOnSite**](b2bcart.md#warehousesforcollectonsite) | Magazzini per il ritiro al banco |
@@ -71,6 +72,14 @@
 * 6 =&gt; Carica da Excel
 * 7 =&gt; Carrelli in gestione
 * 8 =&gt; Storico carrelli
+
+## QuantityDecimalsBehaviour
+
+**Tipo:** Enum  
+**Valori:**
+
+* 0 =&gt; Impedisci l'inserimento di quantità decimali
+* 1 =&gt; Permetti inserimento di quantità decimali
 
 ## ShipmentSiteIsMandatory
 

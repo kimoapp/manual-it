@@ -37,12 +37,14 @@
 | Description | Descrizione breve dell'articolo |
 | Discounts |  |
 | Document\_AverageNetUnitPrice |  |
+| Document\_CustomerGroupId |  |
 | Document\_DeliveryDate |  |
 | Document\_DiscountFromRetailPrice |  |
 | Document\_DiscountOnGrossCost |  |
 | Document\_Discounts |  |
 | Document\_EndShipmentDate |  |
 | Document\_FreeDecimal1 \[1..3\] |  |
+| Document\_FreeLookup1Description \[1..2\] |  |
 | Document\_FreeText1 \[1..3\] |  |
 | Document\_FulfillmentStatus |  |
 | Document\_GrossCost |  |
@@ -93,6 +95,7 @@
 | Document\_TotalDiscount |  |
 | Document\_TotalPrice |  |
 | Document\_UnitPrice |  |
+| Document\_UnitsPerPackWithIcon |  |
 | Document\_UnitsPerSalesUom |  |
 | Document\_ValidityStatusIcon |  |
 | Document\_Variable1ValueId |  |
@@ -155,6 +158,7 @@
 | Promotion\_SuggestedQty |  |
 | Promotion\_TotalPrice |  |
 | Promotion\_UnitPrice |  |
+| Promotion\_UnitsPerPackWithIcon |  |
 | Promotion\_UnitsPerSalesUom |  |
 | PromotionsInfo |  |
 | PromotionStatusIcon |  |
@@ -169,6 +173,7 @@
 | TrademarkId | Id del marchio |
 | UnitPrice |  |
 | UnitsPerPack | Unità per confezione |
+| UnitsPerPackWithIcon |  |
 | VatRateId | Id dell'aliquota IVA |
 | WarehouseAvailability |  |
 | WarehousesAvailabilities |  |

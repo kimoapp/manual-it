@@ -17,8 +17,10 @@
 | [**OnConfirmedSendMailToAccount**](documentnotification.md#onconfirmedsendmailtoaccount) | Se abilitato, alla conferma del documento viene automaticamente inviata la mail all'indirizzo del cliente |
 | [**OnConfirmedSendMailToCreator**](documentnotification.md#onconfirmedsendmailtocreator) | Se abilitato, alla conferma del documento viene automaticamente inviata la mail all'indirizzo dell'utente che ha creato il documento |
 | [**OnConfirmedSendMailToCreatorRecipientMails**](documentnotification.md#onconfirmedsendmailtocreatorrecipientmails) | Se abilitato, le mail di conferma documento vengono inviate agli indirizzi aggiuntivi specificati per l'utente |
+| [**OnConfirmedSendMailToWarehouse**](documentnotification.md#onconfirmedsendmailtowarehouse) | Se abilitato, alla conferma del documento viene automaticamente inviata la mail all'indirizzo del megazzino |
 | [**SendOnCartApprovalRequest**](documentnotification.md#sendoncartapprovalrequest) | Indica se notificare la richiesta approvazione di un carrello |
 | [**SendOnConfirmed**](documentnotification.md#sendonconfirmed) | Indica se notificare la conferma di un documento |
+| [**ShouldSendConfirmationToAccount\_SourceField**](documentnotification.md#shouldsendconfirmationtoaccount_sourcefield) | Campo da utilizzare per determinare se alla conferma del documento deve essere inviata automaticamente la mail all'indirizzo del cliente  |
 | [**ShouldSendCsvReportOnCartConfirmed**](documentnotification.md#shouldsendcsvreportoncartconfirmed) | Indica se necessario allegare il report Csv alla mail di conferma carrello |
 
 ## OnCartSentForApprovalRequestMailBodyTemplate
@@ -162,6 +164,17 @@
 * 2 =&gt; Cc
 * 3 =&gt; Bcc
 
+## OnConfirmedSendMailToWarehouse
+
+**Tipo:** Enum  
+**Valore di default:** 0  
+**Valori:**
+
+* 0 =&gt; None
+* 1 =&gt; To
+* 2 =&gt; Cc
+* 3 =&gt; Bcc
+
 ## SendOnCartApprovalRequest
 
 **Tipo:** Boolean
@@ -169,6 +182,19 @@
 ## SendOnConfirmed
 
 **Tipo:** Boolean
+
+## ShouldSendConfirmationToAccount\_SourceField
+
+**Tipo:** String  
+**Valori:**
+
+* FreeBoolean1
+* FreeBoolean2
+* FreeBoolean3
+* FreeBoolean4
+* FreeBoolean5
+* FreeBoolean6
+* FreeBoolean7
 
 ## ShouldSendCsvReportOnCartConfirmed
 

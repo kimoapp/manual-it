@@ -18,3 +18,4 @@
 * 7 =&gt; Cambia password
 * 9 =&gt; Scarica listino
 * 10 =&gt; Help
+* 11 =&gt; Modalità Ninja

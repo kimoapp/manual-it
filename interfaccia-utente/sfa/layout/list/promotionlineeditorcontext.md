@@ -47,6 +47,7 @@
 | PromotionLine\_SaleTypeId |  |
 | PromotionLine\_StartDate |  |
 | PromotionLine\_SuggestedQty |  |
+| PromotionLine\_UnitsPerPackWithIcon |  |
 | PromotionLineDiscounts |  |
 | SalesQty |  |
 | SalesUom |  |
@@ -54,6 +55,7 @@
 | TotalAmountPanel |  |
 | UnitPrice |  |
 | UnitsPerPack |  |
+| UnitsPerPackWithIcon |  |
 | UnitsPerSalesUom |  |
 | Warehouse |  |
 

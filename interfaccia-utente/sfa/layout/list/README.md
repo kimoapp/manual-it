@@ -125,6 +125,8 @@
 ## Documenti da Erp
 
 * **Editor**
+  * [ *\{ErpDocumentArchiving\}*](erpdocumentarchivingcontext.md)
+
   * [ *\{ErpDocumentHeaderEditor\}*](erpdocumentheadereditorcontext.md)
 
 * **Editor > Elenco righe**
