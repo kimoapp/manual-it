@@ -10,9 +10,10 @@
 ## AdvancedSearchFields
 
 **Tipo:** Valori separati da pipe  
-**Valore di default:** SearchType\|Timeframe  
+**Valore di default:** SearchType\|Timeframe\|ExpirationStatus  
 **Valori:**
 
+* ExpirationStatus
 * SearchType
 * Timeframe
 

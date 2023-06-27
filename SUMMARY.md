@@ -74,6 +74,7 @@
     * [ItemAvailability](impostazioni/business-rules/itemavailability.md)
     * [Item](impostazioni/business-rules/item.md)
     * [ItemImage](impostazioni/business-rules/itemimage.md)
+    * [ItemPriceListFile](impostazioni/business-rules/itempricelistfile.md)
     * [ItemUom](impostazioni/business-rules/itemuom.md)
     * [ManualItem](impostazioni/business-rules/manualitem.md)
     * [MapAccounts](impostazioni/business-rules/mapaccounts.md)

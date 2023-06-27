@@ -107,6 +107,8 @@ description: Righe dei riassortimenti
 
 * 0: Active
 * 1: Deactivated
+* 2: ActiveOnSFA
+* 3: ActiveOnB2B
 
 ## GiftQtyMode
 
