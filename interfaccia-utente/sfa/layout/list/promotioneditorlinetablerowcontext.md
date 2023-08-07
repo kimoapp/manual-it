@@ -26,6 +26,7 @@
 | GiftQuantities |  |
 | GlobalAvailability |  |
 | ImposedUnitPrice |  |
+| Item.FreeDecimal1 \[1..3\] |  |
 | ItemCode |  |
 | ItemDescription |  |
 | ItemEncodedId |  |

@@ -137,6 +137,7 @@
 | Promotion\_GiftItemId |  |
 | Promotion\_GiftQuantities |  |
 | Promotion\_ImposedUnitPrice |  |
+| Promotion\_Item.FreeDecimal1 \[1..3\] |  |
 | Promotion\_ItemCode |  |
 | Promotion\_ItemDescription |  |
 | Promotion\_ItemEncodedId |  |
