@@ -10,6 +10,7 @@
 | AvailabilityAsFreeText |  |
 | FreeDecimal1 \[1..2\] |  |
 | LogisticCenterAvailability |  |
+| StartAvailabilityDate |  |
 | WarehouseAvailability |  |
 | WarehouseDescription |  |
 | WarehouseId |  |

@@ -11,6 +11,7 @@
 | [**QuantityDecimalsBehaviour**](b2bcart.md#quantitydecimalsbehaviour) | Inserimento quantità decimali permesso o impedito |
 | [**ShipmentSiteIsMandatory**](b2bcart.md#shipmentsiteismandatory) | Destinazione merci obbligatoria |
 | [**ValidatePricesObsolescence**](b2bcart.md#validatepricesobsolescence) | Abilita la validazione dei prezzi al checkout |
+| [**WarehouseInitSourcePriority**](b2bcart.md#warehouseinitsourcepriority) | Scaletta delle priorità con cui inizializzare il magazzino del carrello |
 | [**WarehousesForCollectOnSite**](b2bcart.md#warehousesforcollectonsite) | Magazzini per il ritiro al banco |
 
 ## CartNameTemplate
@@ -72,6 +73,7 @@
 * 6 =&gt; Carica da Excel
 * 7 =&gt; Carrelli in gestione
 * 8 =&gt; Storico carrelli
+* 9 =&gt; Report preventivo cliente finale
 
 ## QuantityDecimalsBehaviour
 
@@ -89,6 +91,17 @@
 
 **Tipo:** Boolean  
 **Valore di default:** True
+
+## WarehouseInitSourcePriority
+
+**Tipo:** Valori separati da pipe  
+**Valore di default:** Account  
+**Valori:**
+
+* Account
+* EntityDefaultValue
+* ShipmentSite
+* User
 
 ## WarehousesForCollectOnSite
 

@@ -8,7 +8,7 @@
 ## EndCustomerPriceSources
 
 **Tipo:** Valori separati da pipe  
-**Valore di default:** RetailPriceList\|Markup  
+**Valore di default:** Markup  
 **Valori:**
 
 * ItemEndCustomerPrice

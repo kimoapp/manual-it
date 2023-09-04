@@ -170,6 +170,7 @@
 | RetailUnitPrice |  |
 | SalesUom |  |
 | SeasonId | Id della stagione |
+| StartAvailabilityDate |  |
 | SubstitutiveItems |  |
 | TrademarkId | Id del marchio |
 | UnitPrice |  |

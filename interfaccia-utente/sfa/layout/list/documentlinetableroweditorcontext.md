@@ -77,6 +77,7 @@
 | SourceReferenceTypeCode |  |
 | SourceReferenceTypeDescription |  |
 | SourceReferenceTypeId |  |
+| StartAvailabilityDate |  |
 | StartShipmentDate |  |
 | TotalDiscount |  |
 | TotalPrice |  |

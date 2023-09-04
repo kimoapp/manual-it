@@ -98,6 +98,7 @@
 | SourceReferenceTypeCode |  |
 | SourceReferenceTypeDescription |  |
 | SourceReferenceTypeId |  |
+| StartAvailabilityDate |  |
 | StartShipmentDate |  |
 | TotalAmountPanel |  |
 | TotalDiscount |  |

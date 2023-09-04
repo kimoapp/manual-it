@@ -8,6 +8,7 @@
 | [**Filters**](b2bitem.md#filters) | Filtri |
 | [**FuzzinessPrefixLength**](b2bitem.md#fuzzinessprefixlength) | Numero di caratteri iniziali da non considerare come errori di digitazione |
 | [**GroupByAssociatedItems**](b2bitem.md#groupbyassociateditems) | Indica se nei risultati della ricerca gli articoli debbono essere mostrati raggruppati |
+| [**ImageActionType**](b2bitem.md#imageactiontype) | Comportamento al click sull'immagine articolo |
 | [**KeywordSearchFields**](b2bitem.md#keywordsearchfields) | Campi per la ricerca testuale |
 | [**KeywordSearchFieldsWithWeight**](b2bitem.md#keywordsearchfieldswithweight) | Campi per la ricerca testuale pesata |
 | [**ReassortmentSummaries**](b2bitem.md#reassortmentsummaries) | Riepilogo riassortimenti |
@@ -75,6 +76,15 @@
 ## GroupByAssociatedItems
 
 **Tipo:** Boolean
+
+## ImageActionType
+
+**Tipo:** Enum  
+**Valore di default:** 0  
+**Valori:**
+
+* 0 =&gt; ShowImage
+* 1 =&gt; OpenItemForm
 
 ## KeywordSearchFields
 

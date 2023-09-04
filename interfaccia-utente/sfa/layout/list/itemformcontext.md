@@ -62,6 +62,7 @@
 | Series |  |
 | SeriesDescription |  |
 | SeriesId |  |
+| StartAvailabilityDate |  |
 | Trademark |  |
 | TrademarkId |  |
 | TrademarkName |  |

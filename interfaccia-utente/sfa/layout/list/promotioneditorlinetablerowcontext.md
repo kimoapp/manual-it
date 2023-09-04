@@ -46,6 +46,7 @@
 | SaleTypeDescription |  |
 | SaleTypeIcon |  |
 | SaleTypeId |  |
+| StartAvailabilityDate |  |
 | SuggestedQty |  |
 | TotalPrice |  |
 | UnitPrice |  |

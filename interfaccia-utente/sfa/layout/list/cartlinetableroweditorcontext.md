@@ -21,6 +21,7 @@
 | ManufacturerItemId |  |
 | NetUnitPrice |  |
 | SalesQtyWithUom |  |
+| StartAvailabilityDate |  |
 | TotalPrice |  |
 | UnitPrice |  |
 | WarehouseAvailability |  |

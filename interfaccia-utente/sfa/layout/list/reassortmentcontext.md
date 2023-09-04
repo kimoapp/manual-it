@@ -120,6 +120,7 @@
 | PackUom |  |
 | PromotionStatusIcon |  |
 | SalesUomId |  |
+| StartAvailabilityDate |  |
 | TotalAmount |  |
 | TotalNumberOfPacks |  |
 | TotalNumberOfPurchases |  |
