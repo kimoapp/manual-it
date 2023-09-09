@@ -24,7 +24,7 @@ description: Controlli commerciali sui documenti di vendita
 
 ## MessageVerbosityLevel
 
-* 0: Default
+* 0: ShowValue
 * 1: DoNotShowValue
 
 ## SalesControlType
