@@ -180,7 +180,7 @@
 * **Informazioni**
   * [ *\{CustomerScheduledPaymentsTableRow\}*](customerscheduledpaymentstablerowcontext.md)
 
-  * [ *\{ReceivableBookTableRow\}*](receivablebooktablerowcontext.md)
+  * [ *\{ReceivableBook\}*](receivablebookcontext.md)
 
 
 ## Promozioni

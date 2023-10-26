@@ -64,6 +64,7 @@ description: Ricerca account
 | LogisticClosingDays | Giorni di chiusura per operazioni logisitiche |
 | LogisticOpeningDays | Giorni di apertura per operazioni logisitiche |
 | Mail | Mail |
+| MailButton |  |
 | MobilePhone | Telefono mobile |
 | Name | Ragione sociale |
 | Name2 | Ragione sociale 2 |

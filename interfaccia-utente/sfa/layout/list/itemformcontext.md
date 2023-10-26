@@ -34,6 +34,9 @@
 | ItemCollection |  |
 | ItemCollectionId |  |
 | ItemCollectionName |  |
+| ItemDiscountGroup |  |
+| ItemDiscountGroupId |  |
+| ItemDiscountGroupName |  |
 | ItemGroupLevel1 \[1..4\] |  |
 | ItemGroupLevel1Description \[1..4\] |  |
 | ItemGroupLevel1Id \[1..4\] |  |

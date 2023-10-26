@@ -21,3 +21,4 @@
 * 11 =&gt; Modalità Ninja
 * 12 =&gt; Impostazioni report per cliente finale
 * 13 =&gt; Gestione utenti
+* 14 =&gt; Documenti di vendita

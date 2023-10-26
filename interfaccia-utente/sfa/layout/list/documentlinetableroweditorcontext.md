@@ -86,6 +86,7 @@
 | UnitsPerSalesUom |  |
 | ValidityStatusIcon |  |
 | Variable1ValueId |  |
+| VatRateId |  |
 | WarehouseAvailability |  |
 | WarehouseDescription |  |
 | WarehouseId |  |

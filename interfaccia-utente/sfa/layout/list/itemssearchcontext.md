@@ -99,6 +99,7 @@
 | Document\_UnitsPerSalesUom |  |
 | Document\_ValidityStatusIcon |  |
 | Document\_Variable1ValueId |  |
+| Document\_VatRateId |  |
 | Document\_WarehouseDescription |  |
 | Document\_WarehouseId |  |
 | EncodedId |  |
