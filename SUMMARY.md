@@ -1,4 +1,4 @@
-# Table of contents
+﻿# Table of contents
 
 * [Piacere, sono Kimo](README.md)
 * [Introduzione](introduzione/README.md)
@@ -171,7 +171,7 @@
         * [PromotionLineEditor](interfaccia-utente/sfa/layout/list/promotionlineeditorcontext.md)
         * [PromotionLineSelector](interfaccia-utente/sfa/layout/list/promotionlineselectorcontext.md)
         * [Reassortment](interfaccia-utente/sfa/layout/list/reassortmentcontext.md)
-        * [ReceivableBookTableRow](interfaccia-utente/sfa/layout/list/receivablebooktablerowcontext.md)
+        * [ReceivableBook](interfaccia-utente/sfa/layout/list/receivablebookcontext.md)
         * [ReceivableInstallmentEditor](interfaccia-utente/sfa/layout/list/receivableinstallmenteditorcontext.md)
         * [ReceivableInstallmentsMultipleCashEditor](interfaccia-utente/sfa/layout/list/receivableinstallmentsmultiplecasheditorcontext.md)
         * [ReceivablesBookReport](interfaccia-utente/sfa/layout/list/receivablesbookreportcontext.md)
