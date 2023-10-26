@@ -1,4 +1,4 @@
-﻿# Table of contents
+# Table of contents
 
 * [Piacere, sono Kimo](README.md)
 * [Introduzione](introduzione/README.md)
@@ -171,7 +171,7 @@
         * [PromotionLineEditor](interfaccia-utente/sfa/layout/list/promotionlineeditorcontext.md)
         * [PromotionLineSelector](interfaccia-utente/sfa/layout/list/promotionlineselectorcontext.md)
         * [Reassortment](interfaccia-utente/sfa/layout/list/reassortmentcontext.md)
-        * [ReceivableBook](interfaccia-utente/sfa/layout/list/receivablebookcontext.md)
+        * [ReceivableBookTableRow](interfaccia-utente/sfa/layout/list/receivablebooktablerowcontext.md)
         * [ReceivableInstallmentEditor](interfaccia-utente/sfa/layout/list/receivableinstallmenteditorcontext.md)
         * [ReceivableInstallmentsMultipleCashEditor](interfaccia-utente/sfa/layout/list/receivableinstallmentsmultiplecasheditorcontext.md)
         * [ReceivablesBookReport](interfaccia-utente/sfa/layout/list/receivablesbookreportcontext.md)
@@ -186,7 +186,7 @@
   * [B2B](interfaccia-utente/b2b/README.md)
     * [Risorse grafiche per Kimo B2B](interfaccia-utente/b2b/risorse-grafiche-per-kimo-b2b.md)
 * [Integrazione](integrazione/README.md)
-  * [Kimo integrator](integrazione/kimo-integrator.md)
+  * [Kimo integrator](integrazione/kimo-integrator/README.md)
     * [Integrator System Settings](integrazione/kimo-integrator/integrator-system-settings.md)
     * [Funzioni di trasformazione "speciali"](integrazione/kimo-integrator/funzioni-di-trasformazione-speciali.md)
   * [Database schema](integrazione/database-schema/README.md)

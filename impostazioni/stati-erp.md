@@ -9,8 +9,8 @@ Per ciascun stato erp è possibile inoltre definire: lo stile (in formato CSS) e
 
 Es. Disponibilità Item
 
-| Tipo Stato | Value Id | Descrizione     | Icona  | Anteprima                                                                 | Stile                                                           |
-| ---------- | -------- | --------------- | ------ | ------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| Item1      | Rosso    | Non disponibile | \uf165 | <img src="../.gitbook/assets/thumbsdown.PNG" alt="" data-size="original"> | color: #FF0000; font-family: FontAwesomeRegular; font-size: 20; |
-| Item1      | Giallo   | In arrivo       | \uf107 | <img src="../.gitbook/assets/clock.PNG" alt="" data-size="original">      | color: #FFD300; font-family: FontAwesomeRegular; font-size: 20; |
-| Item1      | Verde    | Disponibile     | \uf164 | <img src="../.gitbook/assets/thumbsup.PNG" alt="" data-size="original">   | color: #009933; font-family: FontAwesomeRegular; font-size: 20; |
+| Tipo Stato | Value Id | Descrizione     | Icona  | Anteprima                                                                       | Stile                                                           |
+| ---------- | -------- | --------------- | ------ | ------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| Item1      | Rosso    | Non disponibile | \uf165 | <img src="../.gitbook/assets/thumbsdown.PNG" alt="" data-size="original">       | color: #FF0000; font-family: FontAwesomeRegular; font-size: 20; |
+| Item1      | Giallo   | In arrivo       | \uf107 | <img src="../.gitbook/assets/clock.PNG" alt="" data-size="original">            | color: #FFD300; font-family: FontAwesomeRegular; font-size: 20; |
+| Item1      | Verde    | Disponibile     | \uf164 | <img src="../.gitbook/assets/thumbsup (1) (1).PNG" alt="" data-size="original"> | color: #009933; font-family: FontAwesomeRegular; font-size: 20; |

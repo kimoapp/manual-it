@@ -83,6 +83,6 @@ Cliccando in ogni singolo elemento dell'elenco verrà visualizzato il relativo f
 
 | Tipologia   | Icona                                                                                  | Descrizione                                                         |
 | ----------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| Correlati   | <img src="../../.gitbook/assets/relateditems-2x (1).png" alt="" data-size="original">  | Articoli che potrebbero essere venduti insieme Es. Bundle.          |
+| Correlati   | <img src="../../.gitbook/assets/relateditems-2x.png" alt="" data-size="original">      | Articoli che potrebbero essere venduti insieme Es. Bundle.          |
 | Alternativi | <img src="../../.gitbook/assets/alternativeitems-2x.png" alt="" data-size="original">  | Articoli con le stesse caratteristiche dell'articolo di riferimento |
 | Sostitutivi | <img src="../../.gitbook/assets/substitutiveitems-2x.png" alt="" data-size="original"> | Articoli che andranno a sostituire il modello precedente            |
