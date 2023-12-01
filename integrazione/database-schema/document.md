@@ -70,10 +70,13 @@ description:
 | Discount3 | Sconto | dec |  |
 | DiscountOverRetailAmount | Sconto su imponibile retail | dec |  |
 | DiscountOverRetailAmountIncludingVat | Sconto su importo retail IVA compresa | dec |  |
+| DocumentConfirmationTimeStamp | Data conferma documento | date |  |
 | DocumentDate | Data documento | date |  |
 | [DocumentFamilyId](document.md#documentfamilyid) | Id della famiglia documento | enum |  |
-| DocumentMarkup | Ricarico | dec |  |
-| DocumentMarkupOnNetCost | Margine | dec |  |
+| DocumentMarkup | Ricarico percentuale | dec |  |
+| DocumentMarkupAmount | Ricarico in valore | dec |  |
+| DocumentMarkupAmountOnNetCost | Margine in valore | dec |  |
+| DocumentMarkupOnNetCost | Margine percentuale | dec |  |
 | DocumentReference | Documento di riferimento | text | text |
 | [DocumentStatus](document.md#documentstatus) | Stato del documento | enum |  |
 | DocumentTypeId | Id del tipo documento | text | 50 |

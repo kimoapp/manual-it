@@ -49,6 +49,7 @@
 | [FreeLookup](freelookup.md) | FreeLookup |
 | [FreeLookupTranslation](freelookuptranslation.md) | Traduzioni in lingua dei FreeLookup |
 | [GoodsAspect](goodsaspect.md) | Aspetto beni |
+| [IndicatorThreshold](indicatorthreshold.md) | Soglie degli indicatori |
 | [InvoiceDiscount](invoicediscount.md) | Sconto fattura |
 | [InvoiceDiscountParams](invoicediscountparams.md) | Parametri per lo Sconto fattura |
 | [Item](item.md) | Articoli |

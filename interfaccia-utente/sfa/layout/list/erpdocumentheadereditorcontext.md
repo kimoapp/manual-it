@@ -25,6 +25,14 @@
 | DeliveryDateType |  |
 | Discounts |  |
 | DocumentDate |  |
+| DocumentMarkup |  |
+| DocumentMarkupAmount |  |
+| DocumentMarkupAmountIcon |  |
+| DocumentMarkupAmountOnNetCost |  |
+| DocumentMarkupAmountOnNetCostIcon |  |
+| DocumentMarkupIcon |  |
+| DocumentMarkupOnNetCost |  |
+| DocumentMarkupOnNetCostIcon |  |
 | DocumentReference |  |
 | EndShipmentDate |  |
 | ErpStatus1 \[1..3\] |  |

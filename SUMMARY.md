@@ -237,6 +237,7 @@
     * [FreeLookup](integrazione/database-schema/freelookup.md)
     * [FreeLookupTranslation](integrazione/database-schema/freelookuptranslation.md)
     * [GoodsAspect](integrazione/database-schema/goodsaspect.md)
+    * [IndicatorThreshold](integrazione/database-schema/indicatorthreshold.md)
     * [InvoiceDiscount](integrazione/database-schema/invoicediscount.md)
     * [InvoiceDiscountParams](integrazione/database-schema/invoicediscountparams.md)
     * [Item](integrazione/database-schema/item.md)

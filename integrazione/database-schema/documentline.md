@@ -67,8 +67,10 @@ description:
 | ItemDiscountGroupId | Id del gruppo sconti articolo | text | 50 |
 | ItemId | Id dell'articolo | text | 50 |
 | LastModifiedUserId | Id dell'agente che ha effettuato l'ultima modifica | text | 50 |
-| LineMarkup | Ricarico | dec |  |
-| LineMarkupOnNetCost | Margine | dec |  |
+| LineMarkup | Ricarico percentuale | dec |  |
+| LineMarkupAmount | Ricarico in valore | dec |  |
+| LineMarkupAmountOnNetCost | Margine in valore | dec |  |
+| LineMarkupOnNetCost | Margine percentuale | dec |  |
 | LineNumber | Riga documento | int |  |
 | [LineStatus](documentline.md#linestatus) | Stato della riga | enum |  |
 | [LineType](documentline.md#linetype) | Tipo riga | enum |  |

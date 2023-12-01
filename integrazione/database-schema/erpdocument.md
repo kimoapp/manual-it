@@ -59,7 +59,12 @@ description: Documenti da Erp
 | Discount1 | Sconto | dec |  |
 | Discount2 | Sconto | dec |  |
 | Discount3 | Sconto | dec |  |
+| DocumentConfirmationDate | Data di conferma del documento | date |  |
 | DocumentDate | Data del documento | date |  |
+| DocumentMarkup | Ricarico percentuale | dec |  |
+| DocumentMarkupAmount | Ricarico in valore | dec |  |
+| DocumentMarkupAmountOnNetCost | Margine in valore | dec |  |
+| DocumentMarkupOnNetCost | Margine percentuale | dec |  |
 | DocumentReference | Riferimento del documento | text | text |
 | EndShipmentDate | Data di fine consegna | date |  |
 | ErpDocumentTypeId | Id del tipo documento | text | 50 |

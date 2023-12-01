@@ -59,6 +59,8 @@ description: Controlli commerciali sui documenti di vendita
 * 28: Importo minimo documento calcolato con moltiplicatore sull'importo reso
 * 29: Le promozioni devono passare per il processo di approvazione
 * 30: Cliente bloccato
+* 31: Margine minimo percentuale
+* 32: Margine minimo in valore
 
 ## SaleTypeTargetContributeTo
 

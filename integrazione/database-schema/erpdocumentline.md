@@ -73,6 +73,10 @@ description: Righe dei Documenti da Erp
 | ItemId | Tipo dell'articolo | text | 50 |
 | ItemLineId | Id della linea | text | 50 |
 | ItemSeriesId | Id serie articolo | text | 50 |
+| LineMarkup | Ricarico percentuale | dec |  |
+| LineMarkupAmount | Ricarico in valore | dec |  |
+| LineMarkupAmountOnNetCost | Margine in valore | dec |  |
+| LineMarkupOnNetCost | Margine percentuale | dec |  |
 | LineNumber | Numero riga | int |  |
 | [LineType](erpdocumentline.md#linetype) | Tipo riga documento | enum |  |
 | Lot | Lotto | text | 50 |
