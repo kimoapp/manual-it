@@ -1,4 +1,4 @@
-﻿# Table of contents
+# Table of contents
 
 * [Piacere, sono Kimo](README.md)
 * [Introduzione](introduzione/README.md)
@@ -377,4 +377,5 @@
     * [Attività](funzionalita/crm/attivita.md)
     * [Schede marketing](funzionalita/crm/schede-marketing.md)
     * [Contatti](funzionalita/crm/contatti.md)
+  * [Gestione avanzata dei preventivi](funzionalita/gestione-avanzata-dei-preventivi.md)
 * [Supporto](contatti.md)
