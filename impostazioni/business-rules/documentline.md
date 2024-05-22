@@ -11,6 +11,7 @@
 | [**ShouldApplyVatOnItemChargesAmount**](documentline.md#shouldapplyvatonitemchargesamount) | Indica se l'IVA deve essere applicata anche ai costi aggiuntivi dell'articolo |
 | [**ShouldIncludeItemChargeAmountOnRetailTotalAmount**](documentline.md#shouldincludeitemchargeamountonretailtotalamount) | Indica se l'importo Retail della riga deve considerare anche i costi aggiuntivi dell'articolo |
 | [**ShouldInitUnitPriceFromIdrolab**](documentline.md#shouldinitunitpricefromidrolab) | Indica se il prezzo va inizializzato da Idrolab |
+| [**ShouldInitUnitPriceFromIlDataPool**](documentline.md#shouldinitunitpricefromildatapool) | Indica se il prezzo va inizializzato da IldataPool |
 | [**ShouldLockDiscountsOnUnitPriceEditing**](documentline.md#shouldlockdiscountsonunitpriceediting) | Indica se bloccare gli sconti quando viene modificato il prezzo unitario |
 | [**ShouldResetDiscountsOnUnitPriceEditing**](documentline.md#shouldresetdiscountsonunitpriceediting) | Indica se azzerare gli sconti quando viene modificato il prezzo unitario |
 | [**SqlesQtyStepperBehavior**](documentline.md#sqlesqtystepperbehavior) |  |
@@ -55,6 +56,10 @@
 **Tipo:** Boolean
 
 ## ShouldInitUnitPriceFromIdrolab
+
+**Tipo:** Boolean
+
+## ShouldInitUnitPriceFromIlDataPool
 
 **Tipo:** Boolean
 

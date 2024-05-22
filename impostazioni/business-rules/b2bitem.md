@@ -13,6 +13,7 @@
 | [**KeywordSearchFieldsWithWeight**](b2bitem.md#keywordsearchfieldswithweight) | Campi per la ricerca testuale pesata |
 | [**ReassortmentSummaries**](b2bitem.md#reassortmentsummaries) | Riepilogo riassortimenti |
 | [**SearchOperator**](b2bitem.md#searchoperator) | Operatore per la ricerca sul catalogo |
+| [**SearchResultPageSize**](b2bitem.md#searchresultpagesize) | Numero di articoli per pagina da restituire nella ricerca paginata |
 | [**SearchType**](b2bitem.md#searchtype) | Tipo di ricerca sul catalogo |
 | [**SortFields**](b2bitem.md#sortfields) | Campi per l'ordinamento |
 
@@ -108,6 +109,11 @@
 
 * 0 =&gt; Or
 * 1 =&gt; And
+
+## SearchResultPageSize
+
+**Tipo:** Int32  
+**Valore di default:** 30
 
 ## SearchType
 

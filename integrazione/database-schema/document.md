@@ -23,6 +23,8 @@ description:
 | AccountNickName | Nickname cliente | text | 100 |
 | AccountVatNumber | Partita Iva | text | 30 |
 | AgreedAmount | Importo concordato | dec |  |
+| AlternativeNumber | Numero dell'alternativà | text | 50 |
+| AlternativesAggregationId | Id dell'aggregato di riferimento del documento | text | 50 |
 | Amount | Totale documento | dec |  |
 | AmountIncludingVat | Totale documento incluso di IVA | dec |  |
 | [AppOrigin](document.md#apporigin) | App da cui è stato generato il documento | enum |  |
@@ -73,11 +75,12 @@ description:
 | DocumentConfirmationTimeStamp | Data conferma documento | date |  |
 | DocumentDate | Data documento | date |  |
 | [DocumentFamilyId](document.md#documentfamilyid) | Id della famiglia documento | enum |  |
+| DocumentLineGroups | Raggruppamento righe nel documento | text | text |
 | DocumentMarkup | Ricarico percentuale | dec |  |
 | DocumentMarkupAmount | Ricarico in valore | dec |  |
-| DocumentMarkupAmountOnNetCost | Margine in valore | dec |  |
-| DocumentMarkupOnNetCost | Margine percentuale | dec |  |
 | DocumentReference | Documento di riferimento | text | text |
+| DocumentSaleMargin | Margine percentuale | dec |  |
+| DocumentSaleMarginAmount | Margine in valore | dec |  |
 | [DocumentStatus](document.md#documentstatus) | Stato del documento | enum |  |
 | DocumentTypeId | Id del tipo documento | text | 50 |
 | EndShipmentDate | Fine data spedizione | date |  |
@@ -118,6 +121,7 @@ description:
 | IsDeleted | Indica se il record è stato cancellato | bool |  |
 | IsFatturaPA | Indica se il documento è una FatturaPA | bool |  |
 | ItemCollectionId | Id della collezione | text | 50 |
+| LanguageId | Id della lingua di riferimento del documento | text | 20 |
 | LastModifiedTimeStamp | Data dell'ultima modifica | dt |  |
 | LastModifiedUserId | Id dell'agente che ha effettuato l'ultima modifica | text | 50 |
 | LegalNoticeAcceptance | Accettazione 'clausole vessatorie' | bool |  |
@@ -140,6 +144,7 @@ description:
 | Notes | Note | text | text |
 | Number | Numero documento | text | 50 |
 | NumbersRegistryId | Id del numero registrazione | text | 50 |
+| OpportunityId | Id opportunità di riferimento del documento | text | 50 |
 | PaidAmount | Importo incassato | dec |  |
 | PaymentForcedlyClosed | Pagamento chiuso forzatamente | bool |  |
 | PaymentMethodDiscount1 | Sconto legato al metodo di pagamento | dec |  |

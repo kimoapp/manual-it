@@ -23,11 +23,15 @@
 | [CatalogPriceList](catalogpricelist.md) | Listini da usare per visualizzare i prezzi nel catalogo |
 | [CompanyRole](companyrole.md) | Ruolo aziendale |
 | [Contact](contact.md) | Contatti |
+| [ContactPerOpportunity](contactperopportunity.md) | Contatti per opportunità |
 | [Country](country.md) | Paese \(nazione\) |
 | [Currency](currency.md) | Valuta |
 | [CustomerDiscountGroup](customerdiscountgroup.md) | Gruppi sconti clienti |
+| [CustomerDiscountGroupTranslation](customerdiscountgrouptranslation.md) | Traduzioni in lingua dei gruppi sconti clienti |
 | [CustomerGroup](customergroup.md) | Gruppi clienti |
+| [CustomerGroupTranslation](customergrouptranslation.md) | Traduzioni in lingua dei gruppi clienti |
 | [CustomerPriceGroup](customerpricegroup.md) | Gruppi prezzi clienti |
+| [CustomerPriceGroupTranslation](customerpricegrouptranslation.md) | Traduzioni in lingua dei gruppi prezzi clienti |
 | [DeliveryDateType](deliverydatetype.md) | Tipi di date di consegna |
 | [DiagnosticPriceTestCase](diagnosticpricetestcase.md) | Test diagnostica prezzi |
 | [DiscountsPerHierarchy](discountsperhierarchy.md) | Sconti per gerarchia |
@@ -42,7 +46,9 @@
 | [EntitySyncReferenceForContact](entitysyncreferenceforcontact.md) | SyncReference delle entità create o modificate in Kimo |
 | [EntitySyncReferenceForEntityGeoposition](entitysyncreferenceforentitygeoposition.md) | SyncReference delle entità create o modificate in Kimo |
 | [EntitySyncReferenceForMarketingForm](entitysyncreferenceformarketingform.md) | SyncReference delle entità create o modificate in Kimo |
+| [EntitySyncReferenceForOpportunity](entitysyncreferenceforopportunity.md) | SyncReference delle entità create o modificate in Kimo |
 | [EntitySyncReferenceForReceivableInstallment](entitysyncreferenceforreceivableinstallment.md) | SyncReference delle entità create o modificate in Kimo |
+| [EntitySyncReferenceForReturnMerchandiseAuthorization](entitysyncreferenceforreturnmerchandiseauthorization.md) | SyncReference delle entità create o modificate in Kimo |
 | [ErpDocument](erpdocument.md) | Documenti da Erp |
 | [ErpDocumentLine](erpdocumentline.md) | Righe dei Documenti da Erp |
 | [ErpDocumentPerSalesAgent](erpdocumentpersalesagent.md) | Filtro dei Documenti da Erp per specifici agenti |
@@ -58,17 +64,21 @@
 | [ItemCharge](itemcharge.md) | Spese per articoli |
 | [ItemChargeType](itemchargetype.md) | Tipi di spese per articoli \(es. RAEE\) |
 | [ItemCollection](itemcollection.md) | Collezione articoli |
+| [ItemCollectionTranslation](itemcollectiontranslation.md) | Traduzioni in lingua delle collezioni articoli |
 | [ItemCost](itemcost.md) | Costo articoli \(netto, lordo, ...\) |
+| [ItemCrossReference](itemcrossreference.md) | Cross Reference |
 | [ItemDiscountGroup](itemdiscountgroup.md) | Gruppi sconti articoli |
 | [ItemGender](itemgender.md) | Genere articoli |
 | [ItemGroup](itemgroup.md) | Gruppi merceologici |
 | [ItemGroupTranslation](itemgrouptranslation.md) | Traduzioni in lingua dei gruppi merceologici |
 | [ItemImage](itemimage.md) | Immagini articoli \(percorsi dei file\) |
 | [ItemLine](itemline.md) | Linea articolo |
+| [ItemLineTranslation](itemlinetranslation.md) | Traduzioni in lingua delle linee articolo |
 | [ItemListPrice](itemlistprice.md) | Prezzi per articolo |
 | [ItemLotOfflineAvailability](itemlotofflineavailability.md) | Disponibilità 'offline' dei lotti |
 | [ItemOfflineAvailability](itemofflineavailability.md) | Disponibilità 'offline' degli articoli |
 | [ItemSeries](itemseries.md) | Serie articolo |
+| [ItemSeriesTranslation](itemseriestranslation.md) | Traduzioni in lingua delle serie articolo |
 | [ItemSpecificationField](itemspecificationfield.md) | Specifiche tecniche |
 | [ItemSpecificationFieldPerGroup](itemspecificationfieldpergroup.md) | Associazione Classificazioni - Specifiche |
 | [ItemSpecificationFieldTranslation](itemspecificationfieldtranslation.md) | Traduzioni in lingua dei campi delle classificazioni |
@@ -101,8 +111,10 @@
 | [NavSalesPrice](navsalesprice.md) | Prezzi di vendita nell'Erp Nav |
 | [NonStockItem](nonstockitem.md) | Articoli non a stock |
 | [NonStockItemUom](nonstockitemuom.md) | Unità di misura degli articoli non a stock |
+| [Opportunity](opportunity.md) | Opportunità |
 | [PaymentMethod](paymentmethod.md) | Modalità di Pagamento \(Termini e Condizioni\) |
 | [PaymentType](paymenttype.md) | Tipo di pagamento \(tipo effetto\) |
+| [Phase](phase.md) | Fase |
 | [PointsPerSale](pointspersale.md) | Punti per la vendita di articoli |
 | [PointsPerSaleBalance](pointspersalebalance.md) | Saldo punti vendita |
 | [PriceList](pricelist.md) | Listini prezzi |
@@ -119,6 +131,8 @@
 | [ReceivableInstallment](receivableinstallment.md) | Scadenzario |
 | [RegistrationDocumentType](registrationdocumenttype.md) | Tipi di documenti di registrazione |
 | [ResponsibleForTransport](responsiblefortransport.md) | Cura trasporto |
+| [ReturnMerchandiseAuthorization](returnmerchandiseauthorization.md) | Return Merchandise Authorization |
+| [ReturnMerchandiseAuthorizationAttachment](returnmerchandiseauthorizationattachment.md) | Allegati associati a una richiesta Rma |
 | [SalesAgent](salesagent.md) | Agenti |
 | [SalesAgentPerAccount](salesagentperaccount.md) | Associazione account - agenti |
 | [SalesConditionPriority](salesconditionpriority.md) | Priorità delle condizioni di vendita |
@@ -135,6 +149,7 @@
 | [SirioItemSalesClassification](sirioitemsalesclassification.md) | Classificazioni di vendita nell'Erp Sirio |
 | [SirioSalesCondition](siriosalescondition.md) | Condizioni di vendita nell'Erp Sirio |
 | [StatisticClass](statisticclass.md) | Classi statistiche |
+| [StatisticClassTranslation](statisticclasstranslation.md) | Traduzioni in lingua delle classi statistiche |
 | [StatisticReport](statisticreport.md) | Report statistici |
 | [Title](title.md) | Titolo di una persona \(es. Dott., Ing., ...\) |
 | [Trademark](trademark.md) | Marchi |

@@ -21,6 +21,7 @@ description: Righe dei Documenti da Erp
 | Discount5 | Sconto | dec |  |
 | Discount6 | Sconto | dec |  |
 | Discount7 | Sconto | dec |  |
+| DocumentLineGroupId | Id del raggruppamento | text | 50 |
 | ErpDocumentId | Id del documento a cui la riga appartiene | text | 50 |
 | ErpStatusId1 |  | text | 50 |
 | ErpStatusId2 |  | text | 50 |
@@ -75,9 +76,9 @@ description: Righe dei Documenti da Erp
 | ItemSeriesId | Id serie articolo | text | 50 |
 | LineMarkup | Ricarico percentuale | dec |  |
 | LineMarkupAmount | Ricarico in valore | dec |  |
-| LineMarkupAmountOnNetCost | Margine in valore | dec |  |
-| LineMarkupOnNetCost | Margine percentuale | dec |  |
 | LineNumber | Numero riga | int |  |
+| LineSaleMargin | Margine percentuale | dec |  |
+| LineSaleMarginAmount | Margine in valore | dec |  |
 | [LineType](erpdocumentline.md#linetype) | Tipo riga documento | enum |  |
 | Lot | Lotto | text | 50 |
 | LotDate |  | date |  |
@@ -151,3 +152,4 @@ description: Righe dei Documenti da Erp
 * 3: ModelItem
 * 4: VariableItem
 * 5: Idrolab
+* 8: IlDataPool

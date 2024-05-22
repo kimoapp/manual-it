@@ -13,9 +13,12 @@
 **Valore di default:** ShipmentSiteFilterMode\|ItemGroupLevel1\|ItemGroupLevel2  
 **Valori:**
 
+* BitwiseFreeBoolean
+* ItemCollection
 * ItemErpStatus
 * ItemFreeBoolean
 * ItemGroupLevel
+* ItemSeries
 * Manufacturer
 * ShipmentSiteFilterMode
 * Trademark

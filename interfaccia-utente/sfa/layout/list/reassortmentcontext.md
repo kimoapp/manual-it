@@ -38,7 +38,7 @@
 | Document\_FreeText1 \[1..3\] |  |
 | Document\_FulfillmentStatus |  |
 | Document\_GrossCost |  |
-| Document\_Item.ErpStatus1 \[1..2\] |  |
+| Document\_Item.ErpStatus1 \[1..3\] |  |
 | Document\_ItemChargesAmount |  |
 | Document\_ItemChargesTypeDescription |  |
 | Document\_ItemCode |  |
@@ -49,11 +49,11 @@
 | Document\_LineMarkup |  |
 | Document\_LineMarkupAmount |  |
 | Document\_LineMarkupAmountIcon |  |
-| Document\_LineMarkupAmountOnNetCost |  |
-| Document\_LineMarkupAmountOnNetCostIcon |  |
 | Document\_LineMarkupIcon |  |
-| Document\_LineMarkupOnNetCost |  |
-| Document\_LineMarkupOnNetCostIcon |  |
+| Document\_LineSaleMargin |  |
+| Document\_LineSaleMarginAmount |  |
+| Document\_LineSaleMarginAmountIcon |  |
+| Document\_LineSaleMarginIcon |  |
 | Document\_ManufacturerId |  |
 | Document\_ManufacturerItemId |  |
 | Document\_NetCost |  |

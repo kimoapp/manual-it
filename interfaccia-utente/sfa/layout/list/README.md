@@ -164,6 +164,9 @@
 * **Elenchi / ricerca**
   * [ *\{DocumentsSearch\}*](documentssearchcontext.md)
 
+* **Informazioni**
+  * [ *\{DocumentLineGroupHeader\}*](documentlinegroupheadercontext.md)
+
 * **Report**
   * [ *\{DocumentReport\}*](documentreportcontext.md)
 

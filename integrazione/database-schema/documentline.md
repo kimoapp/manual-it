@@ -35,6 +35,7 @@ description:
 | Discount7 | Sconto | dec |  |
 | DiscountOnGrossCost | Sconto sul costo lordo | dec |  |
 | DocumentId | Id del documento | text | 50 |
+| DocumentLineGroupId | Id del raggruppamento | text | 50 |
 | EndQuantityRange | Fine Scaglione quantità | dec |  |
 | EndShipmentDate | Fine data spedizione | date |  |
 | ExpiryDate |  | date |  |
@@ -69,9 +70,9 @@ description:
 | LastModifiedUserId | Id dell'agente che ha effettuato l'ultima modifica | text | 50 |
 | LineMarkup | Ricarico percentuale | dec |  |
 | LineMarkupAmount | Ricarico in valore | dec |  |
-| LineMarkupAmountOnNetCost | Margine in valore | dec |  |
-| LineMarkupOnNetCost | Margine percentuale | dec |  |
 | LineNumber | Riga documento | int |  |
+| LineSaleMargin | Margine percentuale | dec |  |
+| LineSaleMarginAmount | Margine in valore | dec |  |
 | [LineStatus](documentline.md#linestatus) | Stato della riga | enum |  |
 | [LineType](documentline.md#linetype) | Tipo riga | enum |  |
 | LoseRemaining | Perdita residuo | bool |  |
@@ -178,6 +179,7 @@ description:
 * 3: ModelItem
 * 4: VariableItem
 * 5: Idrolab
+* 8: IlDataPool
 
 ## MultipleQuantity
 

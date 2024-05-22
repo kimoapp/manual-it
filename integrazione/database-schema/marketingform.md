@@ -22,6 +22,10 @@ description: Schede Marketing
 | LastModifiedTimeStamp | Data dell'ultima modifica | dt |  |
 | LastModifiedUserId | Id dell'agente che ha effettuato l'ultima modifica | text | 50 |
 | RegistryTypeId | Id del tipo di registrazione | text | 50 |
+| RelatedEntityDescription | Descrizione dell'entità collegata | text | text |
+| RelatedEntityId | Id dell'entità collegata | text | 50 |
+| [RelatedEntityType](marketingform.md#relatedentitytype) | Tipo dell'entità collegata | enum |  |
+| RelatedEntityTypeId | Id del tipo dell'entità collegata | text | 50 |
 | SyncReference | Riferimento | text | 50 |
 | UploadToServerTimeStamp |  | dt |  |
 
@@ -39,3 +43,11 @@ description: Schede Marketing
 * 9: StartedUploadToServer
 * 10: EditingPending
 * -1: Undefined
+
+## RelatedEntityType
+
+* 0: Undefined
+* 1: ErpDocument
+* 2: Document
+* 3: BudgetLine
+* 4: Opportunity

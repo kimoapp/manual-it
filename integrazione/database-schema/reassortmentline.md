@@ -123,6 +123,7 @@ description: Righe dei riassortimenti
 * 3: ModelItem
 * 4: VariableItem
 * 5: Idrolab
+* 8: IlDataPool
 
 ## LockedFields
 

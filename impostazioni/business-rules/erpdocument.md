@@ -53,6 +53,7 @@
 * 0 =&gt; Applica i filtri di default
 * 1 =&gt; Filtra i documenti per 'proprietario' \(owner\)
 * 2 =&gt; Filtra le righe dei documenti per 'proprietario' \(owner\), mostrando comunque le testate
+* 3 =&gt; Filtra i documenti in base all'assegnazione definita nella ErpDocumentPerSalesAgent
 
 ## ItemLiveSearch
 

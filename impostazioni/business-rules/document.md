@@ -15,6 +15,7 @@
 | [**HighlightShipmentSiteExistence**](document.md#highlightshipmentsiteexistence) | Indica se il controllo per la selezione delle destinazioni merci deve mettere in evidenza l'esistenza di destinazioni merci |
 | [**InfoToShowOnOpen**](document.md#infotoshowonopen) | Informazioni da mostrare all'apertura dell'editor del documento |
 | [**MaxDaysWithExpiredDocuments**](document.md#maxdayswithexpireddocuments) | Numero massimo di giorni per cui possono essere consentiti documenti scaduti |
+| [**MenuItems**](document.md#menuitems) | Elementi del menu |
 | [**PricesReferenceDateUpdateMode**](document.md#pricesreferencedateupdatemode) | Modalità di aggiornamento della data di riferimento per il calcolo dei prezzi |
 | [**QuantitiesSummaryTemplate**](document.md#quantitiessummarytemplate) |  |
 | [**ReportSignatureRequireMode**](document.md#reportsignaturerequiremode) | Modalità di avviso per report non firmato |
@@ -85,6 +86,30 @@
 ## MaxDaysWithExpiredDocuments
 
 **Tipo:** Nullable`1
+
+## MenuItems
+
+**Tipo:** Valori separati da pipe  
+**Valori:**
+
+* 0 =&gt; DeleteDocument
+* 1 =&gt; RejectDocument
+* 2 =&gt; Reassortment
+* 3 =&gt; TransformSalesQuoteToOrder
+* 4 =&gt; CopyDocument
+* 5 =&gt; CheckoutAndOrUploadDocument
+* 6 =&gt; CheckoutDocument
+* 7 =&gt; ReopenDocument
+* 8 =&gt; DownloadReportAsPdf
+* 9 =&gt; ShowPromotions
+* 10 =&gt; DownloadOnlineAvailabilities
+* 11 =&gt; ShowTotalGroupedQuantities
+* 12 =&gt; GoToOnlinePayment
+* 13 =&gt; ViewActivitiesFromDocument
+* 14 =&gt; LoadAccountForm
+* 15 =&gt; LoadAccountNotes
+* 16 =&gt; RecalculatePrices
+* 17 =&gt; ApproveDocument
 
 ## PricesReferenceDateUpdateMode
 

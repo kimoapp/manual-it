@@ -31,7 +31,7 @@
 | FulfillmentStatus |  |
 | GlobalAvailability |  |
 | GrossCost |  |
-| Item.ErpStatus1 \[1..2\] |  |
+| Item.ErpStatus1 \[1..3\] |  |
 | ItemChargesAmount |  |
 | ItemChargesTypeDescription |  |
 | ItemCode |  |
@@ -42,11 +42,11 @@
 | LineMarkup |  |
 | LineMarkupAmount |  |
 | LineMarkupAmountIcon |  |
-| LineMarkupAmountOnNetCost |  |
-| LineMarkupAmountOnNetCostIcon |  |
 | LineMarkupIcon |  |
-| LineMarkupOnNetCost |  |
-| LineMarkupOnNetCostIcon |  |
+| LineSaleMargin |  |
+| LineSaleMarginAmount |  |
+| LineSaleMarginAmountIcon |  |
+| LineSaleMarginIcon |  |
 | LogisticCenterAvailability |  |
 | ManufacturerId |  |
 | ManufacturerItemId |  |

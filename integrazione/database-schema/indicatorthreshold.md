@@ -20,5 +20,7 @@ description: Soglie degli indicatori
 
 ## Type
 
-* 0: MarginPercentage
-* 1: Margin
+* 0: MarkupPercentage
+* 1: MarkupAmount
+* 2: SaleMarginPercentage
+* 3: SaleMarginAmount

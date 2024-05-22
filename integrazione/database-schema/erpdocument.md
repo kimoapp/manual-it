@@ -23,6 +23,8 @@ description: Documenti da Erp
 | AccountNickName | Nickname cliente | text | 100 |
 | AccountVatNumber | Partita Iva | text | 30 |
 | AgreedAmount | Importo concordato | dec |  |
+| AlternativeNumber | Numero dell'alternativà | text | 50 |
+| AlternativesAggregationId | Id dell'aggregato di riferimento del documento | text | 50 |
 | Amount | Totale documento | dec |  |
 | AmountIncludingVat | Totale documento incluso di IVA | dec |  |
 | BankAbi | Codice ABI | text | 5 |
@@ -61,11 +63,12 @@ description: Documenti da Erp
 | Discount3 | Sconto | dec |  |
 | DocumentConfirmationDate | Data di conferma del documento | date |  |
 | DocumentDate | Data del documento | date |  |
+| DocumentLineGroups | Raggruppamento righe nel documento | text | text |
 | DocumentMarkup | Ricarico percentuale | dec |  |
 | DocumentMarkupAmount | Ricarico in valore | dec |  |
-| DocumentMarkupAmountOnNetCost | Margine in valore | dec |  |
-| DocumentMarkupOnNetCost | Margine percentuale | dec |  |
 | DocumentReference | Riferimento del documento | text | text |
+| DocumentSaleMargin | Margine percentuale | dec |  |
+| DocumentSaleMarginAmount | Margine in valore | dec |  |
 | EndShipmentDate | Data di fine consegna | date |  |
 | ErpDocumentTypeId | Id del tipo documento | text | 50 |
 | ErpStatusId1 |  | text | 50 |
@@ -104,6 +107,7 @@ description: Documenti da Erp
 | Id | Id del documento | text | 50 |
 | InvoiceDiscountId | Id sconto fattura | text | 50 |
 | InvoiceDiscountValue | Importo sconto fattura | dec |  |
+| LanguageId | Id della lingua | text | 20 |
 | Markup | Ricarico | dec |  |
 | Notes | Note | text | text |
 | Number | Numero documento | text | 50 |

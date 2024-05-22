@@ -11,6 +11,7 @@ description: Articoli
 | Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
 | BaseSalesUomId | Id dell'unità di misura di vendita base | text | 10 |
+| BitwiseValues | Gestione dei Bitwise | text | text |
 | ChannelsEnabled | Indica per quali canali è abilitato l'articolo \(se non specificato vale per tutti i canali\) | enum |  |
 | CollectionId | Id della collezione | text | 50 |
 | CreationDate | Data di creazione | dt |  |
@@ -19,6 +20,7 @@ description: Articoli
 | EndCustomerPrice | Prezzo articolo al cliente finale | dec |  |
 | ErpStatusId1 |  | text | 50 |
 | ErpStatusId2 |  | text | 50 |
+| ErpStatusId3 |  | text | 50 |
 | FreeBoolean1 | Campo booleano libero | bool |  |
 | FreeBoolean2 | Campo booleano libero | bool |  |
 | FreeBoolean3 | Campo booleano libero | bool |  |
@@ -69,6 +71,7 @@ description: Articoli
 * 5: Idrolab
 * 6: Jolly
 * 7: NonStockItem
+* 8: IlDataPool
 
 ## LotManagementType
 

@@ -28,12 +28,12 @@
 | DocumentMarkup |  |
 | DocumentMarkupAmount |  |
 | DocumentMarkupAmountIcon |  |
-| DocumentMarkupAmountOnNetCost |  |
-| DocumentMarkupAmountOnNetCostIcon |  |
 | DocumentMarkupIcon |  |
-| DocumentMarkupOnNetCost |  |
-| DocumentMarkupOnNetCostIcon |  |
 | DocumentReference |  |
+| DocumentSaleMargin |  |
+| DocumentSaleMarginAmount |  |
+| DocumentSaleMarginAmountIcon |  |
+| DocumentSaleMarginIcon |  |
 | EndShipmentDate |  |
 | ErpStatus1 \[1..3\] |  |
 | ExpectedClosingDate |  |

@@ -3,10 +3,12 @@
 | Valore | Descrizione |
 | :--- | :--- |
 | [**AdvancedSearchFields**](cart.md#advancedsearchfields) | Campi per la ricerca avanzata |
+| [**CarLinesExportationFileType**](cart.md#carlinesexportationfiletype) | Tipo di report da usare |
+| [**CartLinesExportationFields**](cart.md#cartlinesexportationfields) | Definizione schema del report del carrello |
 | [**CartLinesSortingType**](cart.md#cartlinessortingtype) | Tipo di ordinamento delle righe carrello |
 | [**CsvDelimiterChar**](cart.md#csvdelimiterchar) | Carattere separatore utilizzato nel report CSV |
-| [**CsvSchema**](cart.md#csvschema) | Definizione schema del report Csv del carrello |
 | [**KeywordSearchFields**](cart.md#keywordsearchfields) | Campi per la ricerca testuale |
+| [**ShouldIgnoreAvailabilitySalesControlsAccordingToLoseRemaining**](cart.md#shouldignoreavailabilitysalescontrolsaccordingtoloseremaining) | Ignora i controlli commerciali sulle disponibilità in assenza della perdita residuo |
 | [**Timeframes**](cart.md#timeframes) | Periodi |
 
 ## AdvancedSearchFields
@@ -18,20 +20,12 @@
 * ShowOnlyAssignedToCurrentSalesAgent
 * Timeframe
 
-## CartLinesSortingType
+## CarLinesExportationFileType
 
-**Tipo:** Enum  
-**Valore di default:** 0  
-**Valori:**
+**Tipo:** String  
+**Valore di default:** Csv
 
-* 0 =&gt; Reversed
-* 1 =&gt; Standard
-
-## CsvDelimiterChar
-
-**Tipo:** String
-
-## CsvSchema
+## CartLinesExportationFields
 
 **Tipo:** Valori separati da pipe  
 **Valore di default:** CartName\|LineNumber\|DocumentDate\|ItemId\|ItemDescription\|SalesQty\|LineNotes\|UnitPrice\|NetUnitPrice\|LineDiscounts  
@@ -72,6 +66,19 @@
 * VariableValue1Id
 * VariableValue2Id
 
+## CartLinesSortingType
+
+**Tipo:** Enum  
+**Valore di default:** 0  
+**Valori:**
+
+* 0 =&gt; Reversed
+* 1 =&gt; Standard
+
+## CsvDelimiterChar
+
+**Tipo:** String
+
 ## KeywordSearchFields
 
 **Tipo:** Valori separati da pipe  
@@ -82,6 +89,15 @@
 * AccountFullName
 * CartName
 * UserFullName
+
+## ShouldIgnoreAvailabilitySalesControlsAccordingToLoseRemaining
+
+**Tipo:** Enum  
+**Valori:**
+
+* 0 =&gt; No
+* 1 =&gt; WhenLoseRemainingIsFalse
+* 2 =&gt; WhenLoseRemainingIsTrue
 
 ## Timeframes
 

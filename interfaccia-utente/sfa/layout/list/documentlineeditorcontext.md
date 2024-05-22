@@ -45,7 +45,7 @@
 | GlobalAvailability |  |
 | GrossCost |  |
 | Item.EndCustomerPrice |  |
-| Item.ErpStatus1 \[1..2\] |  |
+| Item.ErpStatus1 \[1..3\] |  |
 | Item.FreeDecimal1 \[1..3\] |  |
 | Item.FreeText1 \[1..5\] |  |
 | ItemChargesAmount |  |
@@ -57,11 +57,11 @@
 | LineMarkup |  |
 | LineMarkupAmount |  |
 | LineMarkupAmountIcon |  |
-| LineMarkupAmountOnNetCost |  |
-| LineMarkupAmountOnNetCostIcon |  |
 | LineMarkupIcon |  |
-| LineMarkupOnNetCost |  |
-| LineMarkupOnNetCostIcon |  |
+| LineSaleMargin |  |
+| LineSaleMarginAmount |  |
+| LineSaleMarginAmountIcon |  |
+| LineSaleMarginIcon |  |
 | LogisticCenterAvailability |  |
 | LoseRemaining |  |
 | LotAvailability |  |

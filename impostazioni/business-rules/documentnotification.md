@@ -21,7 +21,7 @@
 | [**SendOnCartApprovalRequest**](documentnotification.md#sendoncartapprovalrequest) | Indica se notificare la richiesta approvazione di un carrello |
 | [**SendOnConfirmed**](documentnotification.md#sendonconfirmed) | Indica se notificare la conferma di un documento |
 | [**ShouldSendConfirmationToAccount\_SourceField**](documentnotification.md#shouldsendconfirmationtoaccount_sourcefield) | Campo da utilizzare per determinare se alla conferma del documento deve essere inviata automaticamente la mail all'indirizzo del cliente  |
-| [**ShouldSendCsvReportOnCartConfirmed**](documentnotification.md#shouldsendcsvreportoncartconfirmed) | Indica se necessario allegare il report Csv alla mail di conferma carrello |
+| [**ShouldSendLinesExportationOnCartConfirmed**](documentnotification.md#shouldsendlinesexportationoncartconfirmed) | Indica se necessario allegare il file Csv/Excel alla mail di conferma carrello |
 
 ## OnCartSentForApprovalRequestMailBodyTemplate
 
@@ -196,6 +196,6 @@
 * FreeBoolean6
 * FreeBoolean7
 
-## ShouldSendCsvReportOnCartConfirmed
+## ShouldSendLinesExportationOnCartConfirmed
 
 **Tipo:** Boolean

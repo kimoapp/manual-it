@@ -37,12 +37,12 @@
 | DocumentMarkup |  |
 | DocumentMarkupAmount |  |
 | DocumentMarkupAmountIcon |  |
-| DocumentMarkupAmountOnNetCost |  |
-| DocumentMarkupAmountOnNetCostIcon |  |
 | DocumentMarkupIcon |  |
-| DocumentMarkupOnNetCost |  |
-| DocumentMarkupOnNetCostIcon |  |
 | DocumentReference |  |
+| DocumentSaleMargin |  |
+| DocumentSaleMarginAmount |  |
+| DocumentSaleMarginAmountIcon |  |
+| DocumentSaleMarginIcon |  |
 | EndShipmentDate |  |
 | ExpectedClosingDate |  |
 | FreeBoolean1 \[1..7\] |  |

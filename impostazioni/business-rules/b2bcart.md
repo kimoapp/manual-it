@@ -74,6 +74,7 @@
 * 7 =&gt; Carrelli in gestione
 * 8 =&gt; Storico carrelli
 * 9 =&gt; Report preventivo cliente finale
+* 10 =&gt; Exportazione carrello su file \(Excel/Csv\)
 
 ## QuantityDecimalsBehaviour
 
