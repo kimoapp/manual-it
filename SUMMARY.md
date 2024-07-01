@@ -1,4 +1,4 @@
-﻿# Table of contents
+# Table of contents
 
 * [Piacere, sono Kimo](README.md)
 * [Introduzione](introduzione/README.md)
@@ -378,7 +378,8 @@
   * [Articoli manuali](funzionalita/articoli-manuali.md)
   * [Documenti aziendali e personali](funzionalita/pdf-per-companydocuments-e-userdocuments.md)
   * [Statistiche](funzionalita/statistiche.md)
-  * [Comunicazioni](funzionalita/comunicazioni.md)
+  * [Comunicazioni](funzionalita/comunicazioni/README.md)
+    * [Public API](funzionalita/comunicazioni/public-api.md)
   * [Partite aperte](funzionalita/partite-aperte.md)
   * [Account (Clienti/Prospect/Destinazioni Merci)](funzionalita/account-clienti-prospect-destinazioni-merci/README.md)
     * [Clienti](funzionalita/account-clienti-prospect-destinazioni-merci/clienti.md)
