@@ -16,7 +16,7 @@
 | [**ShouldResetDiscountsOnUnitPriceEditing**](documentline.md#shouldresetdiscountsonunitpriceediting) | Indica se azzerare gli sconti quando viene modificato il prezzo unitario |
 | [**SqlesQtyStepperBehavior**](documentline.md#sqlesqtystepperbehavior) |  |
 | [**UnitsPerPackDivisibilityRule\_Field**](documentline.md#unitsperpackdivisibilityrule_field) |  |
-| [**ViewMode**](documentline.md#viewmode) | Modalità di visualizzaione delle linee di un documento |
+| [**ViewMode**](documentline.md#viewmode) | Modalità di visualizzazione delle linee di un documento |
 | [**VisibleDiscounts**](documentline.md#visiblediscounts) | Sconti visualizzati all'interno dell'editor |
 
 ## DefaultNumberOfPacks
