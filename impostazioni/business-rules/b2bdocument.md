@@ -23,6 +23,7 @@
 **Valori:**
 
 * Febos
+* SplitByLoseRemaining
 * SplitByTrademarkAndSeason
 * SplitByWarehouse
 * SplitByWarehouseAndCollectOnSite

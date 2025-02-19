@@ -27,7 +27,13 @@
 | ActualPreviousQuantity |  |
 | ActualProgress |  |
 | ActualQuantity |  |
+| BudgetDescription |  |
 | BudgetFreeText1 \[1..3\] |  |
+| BudgetId |  |
+| BudgetItemCollectionId |  |
+| BudgetItemLineId |  |
+| BudgetItemSeriesId |  |
+| BudgetManufacturerId |  |
 | BudgetSeasonId |  |
 | BudgetTrademarkId |  |
 | HasRelatedActivitiesSymbol |  |

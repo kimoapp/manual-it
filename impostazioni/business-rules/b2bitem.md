@@ -8,6 +8,7 @@
 | [**Filters**](b2bitem.md#filters) | Filtri |
 | [**FuzzinessPrefixLength**](b2bitem.md#fuzzinessprefixlength) | Numero di caratteri iniziali da non considerare come errori di digitazione |
 | [**GroupByAssociatedItems**](b2bitem.md#groupbyassociateditems) | Indica se nei risultati della ricerca gli articoli debbono essere mostrati raggruppati |
+| [**GroupSortField**](b2bitem.md#groupsortfield) | Campi per l'ordinamento all'interno del gruppo articolo |
 | [**ImageActionType**](b2bitem.md#imageactiontype) | Comportamento al click sull'immagine articolo |
 | [**KeywordSearchFields**](b2bitem.md#keywordsearchfields) | Campi per la ricerca testuale |
 | [**KeywordSearchFieldsWithWeight**](b2bitem.md#keywordsearchfieldswithweight) | Campi per la ricerca testuale pesata |
@@ -38,6 +39,7 @@
 * ItemCollection
 * ItemGroups
 * ItemLine
+* ItemSeries
 * ItemSpecificationGroups
 * Manufacturer
 * OnlyItemsInPromotion
@@ -56,6 +58,7 @@
 * ItemCollection
 * ItemGroups
 * ItemLine
+* ItemSeries
 * ItemSpecificationGroups
 * Manufacturer
 * OnlyItemsInPromotion
@@ -77,6 +80,14 @@
 ## GroupByAssociatedItems
 
 **Tipo:** Boolean
+
+## GroupSortField
+
+**Tipo:** String  
+**Valori:**
+
+* Description
+* Id
 
 ## ImageActionType
 

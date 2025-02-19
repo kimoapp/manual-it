@@ -1,13 +1,7 @@
-# DocumentsSearch
+# DocumentAlternatives
 
-**Context:** DocumentsSearchContext  
-**Default Layout:** DocumentsSearchLayout
-
-## Contesti
-
-| Id | Descrizione |
-| :--- | :--- |
-| ApprovalWorkflow |  |
+**Context:** DocumentAlternativesContext  
+**Default Layout:** DocumentAlternativesLayout
 
 ## Campi
 
@@ -41,17 +35,14 @@
 | DocumentSaleMarginAmountIcon |  |
 | DocumentSaleMarginIcon |  |
 | DocumentType |  |
-| EntityStatus |  |
 | ExpectedClosingDate |  |
 | FreeDecimal1 \[1..5\] |  |
-| FreeLookup1Description \[1..5\] |  |
 | FreeText1 \[1..5\] |  |
 | HasRelatedActivitiesSymbol |  |
 | Notes |  |
 | Number |  |
 | Season |  |
 | SeasonDescription |  |
-| ShipmentDescription |  |
 | ShipmentSiteAddress |  |
 | ShipmentSiteCity |  |
 | ShipmentSiteCode |  |

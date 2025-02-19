@@ -14,6 +14,7 @@ description: Schede Marketing
 | AccountId | Id del cliente | text | 50 |
 | CreationDate | Data di creazione | dt |  |
 | CreatorId | Id dell'agente che ha creato il record | text | 50 |
+| Description | Descrizione | text | text |
 | [EntityStatus](marketingform.md#entitystatus) | Campo che definisce lo stato del record | enum |  |
 | FormFamilyId | Id della famiglia della scheda marketing | text | 50 |
 | FormTypeId | Id del tipo di scheda marketing | text | 50 |

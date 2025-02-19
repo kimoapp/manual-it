@@ -1,8 +1,8 @@
 ---
-description: Return Merchandise Authorization
+description: Return Merchandise Authorization (Rma)
 ---
 
-# ReturnMerchandiseAuthorization
+# Rma
 
 **Chiavi**
 
@@ -14,10 +14,11 @@ description: Return Merchandise Authorization
 | Amount | Importo | dec |  |
 | CreationDate | Data di creazione | dt |  |
 | CreatorId | Id dell'agente che ha creato il record | text | 50 |
-| [EntityStatus](returnmerchandiseauthorization.md#entitystatus) | Campo che definisce lo stato del record | enum |  |
+| [EntityStatus](rma.md#entitystatus) | Campo che definisce lo stato del record | enum |  |
+| ErpDocumentId | Id del documento da erp di riferimento | text | 50 |
 | ErpDocumentLineId | Id riga del Documento da erp | text | 50 |
 | ErpDocumentLineReference | Riga del Documento da erp di riferimento | text | 50 |
-| ErpDocumentReference | Documentoda erp di riferimento | text | 50 |
+| ErpDocumentReference | Documento da erp di riferimento | text | 50 |
 | FreeBoolean1 | Campo booleano libero | bool |  |
 | FreeBoolean2 | Campo booleano libero | bool |  |
 | FreeBoolean3 | Campo booleano libero | bool |  |
@@ -45,9 +46,10 @@ description: Return Merchandise Authorization
 | LastModifiedTimeStamp | Data dell'ultima modifica | dt |  |
 | LastModifiedUserId | Id dell'agente che ha effettuato l'ultima modifica | text | 50 |
 | Notes | Note | text | text |
+| RmaDate | Data dell'Rma | date |  |
 | SalesQty | Quantità di vendita | dec |  |
 | SalesUomId | Unità di misura di vendita | text | 50 |
-| [Status](returnmerchandiseauthorization.md#status) | Stato del rma | enum |  |
+| [Status](rma.md#status) | Stato del rma | enum |  |
 | SyncReference | Riferimento | text | 50 |
 | UnitsPerPack | Unità per confezione | dec |  |
 | UploadToServerTimeStamp |  | dt |  |
@@ -69,5 +71,6 @@ description: Return Merchandise Authorization
 
 ## Status
 
-* 0: Undefined
-* 1: Open
+* 0: Open
+* 1: Confirmed
+* -1: Undefined

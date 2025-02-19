@@ -2,7 +2,12 @@
 
 | Valore | Descrizione |
 | :--- | :--- |
+| [**ComplexPromotionEnabled**](b2bpromotion.md#complexpromotionenabled) | Campi per l'ordinamento |
 | [**SortFields**](b2bpromotion.md#sortfields) | Campi per l'ordinamento |
+
+## ComplexPromotionEnabled
+
+**Tipo:** Boolean
 
 ## SortFields
 

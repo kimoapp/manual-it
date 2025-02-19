@@ -8,6 +8,7 @@
 | Id | Descrizione |
 | :--- | :--- |
 | AvailabilityAsFreeText |  |
+| AvailabilityFreeDecimal1 \[1..2\] |  |
 | AvailabilityLastUpdateDate |  |
 | BaseSalesUomId |  |
 | BitwiseFreeBoolean |  |

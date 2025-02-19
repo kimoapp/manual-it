@@ -33,6 +33,7 @@
 | [CustomerPriceGroup](customerpricegroup.md) | Gruppi prezzi clienti |
 | [CustomerPriceGroupTranslation](customerpricegrouptranslation.md) | Traduzioni in lingua dei gruppi prezzi clienti |
 | [DeliveryDateType](deliverydatetype.md) | Tipi di date di consegna |
+| [DeliveryRoute](deliveryroute.md) | Giri di consegna |
 | [DiagnosticPriceTestCase](diagnosticpricetestcase.md) | Test diagnostica prezzi |
 | [DiscountsPerHierarchy](discountsperhierarchy.md) | Sconti per gerarchia |
 | [DiscountsPerItemGroup](discountsperitemgroup.md) | Sconti per gruppo merceologico |
@@ -48,7 +49,7 @@
 | [EntitySyncReferenceForMarketingForm](entitysyncreferenceformarketingform.md) | SyncReference delle entità create o modificate in Kimo |
 | [EntitySyncReferenceForOpportunity](entitysyncreferenceforopportunity.md) | SyncReference delle entità create o modificate in Kimo |
 | [EntitySyncReferenceForReceivableInstallment](entitysyncreferenceforreceivableinstallment.md) | SyncReference delle entità create o modificate in Kimo |
-| [EntitySyncReferenceForReturnMerchandiseAuthorization](entitysyncreferenceforreturnmerchandiseauthorization.md) | SyncReference delle entità create o modificate in Kimo |
+| [EntitySyncReferenceForRma](entitysyncreferenceforrma.md) | SyncReference delle entità create o modificate in Kimo |
 | [ErpDocument](erpdocument.md) | Documenti da Erp |
 | [ErpDocumentLine](erpdocumentline.md) | Righe dei Documenti da Erp |
 | [ErpDocumentPerSalesAgent](erpdocumentpersalesagent.md) | Filtro dei Documenti da Erp per specifici agenti |
@@ -112,9 +113,12 @@
 | [NonStockItem](nonstockitem.md) | Articoli non a stock |
 | [NonStockItemUom](nonstockitemuom.md) | Unità di misura degli articoli non a stock |
 | [Opportunity](opportunity.md) | Opportunità |
+| [OpportunityLeavingReason](opportunityleavingreason.md) | Motivi associati alla mancata conversione di un'opportunità di vendita. |
+| [OpportunityPhase](opportunityphase.md) | Fase |
+| [OpportunityReferralSource](opportunityreferralsource.md) | Come ci avete conosciuto |
 | [PaymentMethod](paymentmethod.md) | Modalità di Pagamento \(Termini e Condizioni\) |
+| [PaymentTerm](paymentterm.md) | Termine di Pagamento |
 | [PaymentType](paymenttype.md) | Tipo di pagamento \(tipo effetto\) |
-| [Phase](phase.md) | Fase |
 | [PointsPerSale](pointspersale.md) | Punti per la vendita di articoli |
 | [PointsPerSaleBalance](pointspersalebalance.md) | Saldo punti vendita |
 | [PriceList](pricelist.md) | Listini prezzi |
@@ -131,8 +135,8 @@
 | [ReceivableInstallment](receivableinstallment.md) | Scadenzario |
 | [RegistrationDocumentType](registrationdocumenttype.md) | Tipi di documenti di registrazione |
 | [ResponsibleForTransport](responsiblefortransport.md) | Cura trasporto |
-| [ReturnMerchandiseAuthorization](returnmerchandiseauthorization.md) | Return Merchandise Authorization |
-| [ReturnMerchandiseAuthorizationAttachment](returnmerchandiseauthorizationattachment.md) | Allegati associati a una richiesta Rma |
+| [Rma](rma.md) | Return Merchandise Authorization \(Rma\) |
+| [RmaAttachment](rmaattachment.md) | Allegati associati a una richiesta Rma |
 | [SalesAgent](salesagent.md) | Agenti |
 | [SalesAgentPerAccount](salesagentperaccount.md) | Associazione account - agenti |
 | [SalesConditionPriority](salesconditionpriority.md) | Priorità delle condizioni di vendita |

@@ -61,6 +61,9 @@ description: Controlli commerciali sui documenti di vendita
 * 30: Cliente bloccato
 * 31: Margine minimo percentuale
 * 32: Margine minimo in valore
+* 33: Importo minimo del documento in presenza di una promozione specifica
+* 34: Controllo commerciale generico in cui è possibile specificare un messaggio custom
+* 35: Non è possibile confermare ordini su un Prospect
 
 ## SaleTypeTargetContributeTo
 
@@ -71,7 +74,7 @@ description: Controlli commerciali sui documenti di vendita
 * 8: PromotionSale
 * 16: PromotionSale\_NotFreeGift
 * 32: PromotionSale\_FreeGift
-* 64: ReturnMerchandiseAuthorization
+* 64: Rma
 
 ## SaleTypeTargetSubjectTo
 
@@ -82,7 +85,7 @@ description: Controlli commerciali sui documenti di vendita
 * 8: PromotionSale
 * 16: PromotionSale\_NotFreeGift
 * 32: PromotionSale\_FreeGift
-* 64: ReturnMerchandiseAuthorization
+* 64: Rma
 
 ## SeverityLevel
 

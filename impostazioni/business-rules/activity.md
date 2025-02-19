@@ -6,8 +6,10 @@
 | [**ActivityFromBudgetLineEntityDescriptionTemplate**](activity.md#activityfrombudgetlineentitydescriptiontemplate) | Template per la descrizione delle attività create dalle righe budget |
 | [**ActivityFromDocumentEntityDescriptionTemplate**](activity.md#activityfromdocumententitydescriptiontemplate) | Template per la descrizione delle attività create dai Documenti |
 | [**ActivityFromErpDocumentEntityDescriptionTemplate**](activity.md#activityfromerpdocumententitydescriptiontemplate) | Template per la descrizione delle attività create dai Documenti da Erp |
+| [**AdvancedSearchFields**](activity.md#advancedsearchfields) | Campi per la ricerca avanzata |
 | [**CanCreateActivitiesWithoutAccount**](activity.md#cancreateactivitieswithoutaccount) | È possibile create attività non legate ad un account |
 | [**CanEditCompletedActivitiesFromErp**](activity.md#caneditcompletedactivitiesfromerp) | È possibile modificare attività che arrivano dal Sistema Esterno come completate |
+| [**EntitiesToUploadOnSave**](activity.md#entitiestouploadonsave) | Entità da inviare al server durante il salvataggio di un attività |
 | [**KeywordSearchFields**](activity.md#keywordsearchfields) | Campi per la ricerca testuale |
 | [**ShouldFilterByUserTrademarks**](activity.md#shouldfilterbyusertrademarks) | Indica se le attività vanno filtrare \(in fase di sync\) inviando ad un utente solo quelle dei trademark per cui è abilitato |
 
@@ -61,6 +63,14 @@
 * DocumentTypeDescription
 * DocumentTypeId
 
+## AdvancedSearchFields
+
+**Tipo:** Valori separati da pipe  
+**Valore di default:**   
+**Valori:**
+
+* User
+
 ## CanCreateActivitiesWithoutAccount
 
 **Tipo:** Boolean  
@@ -70,6 +80,10 @@
 
 **Tipo:** Boolean  
 **Valore di default:** True
+
+## EntitiesToUploadOnSave
+
+**Tipo:** Valori separati da pipe
 
 ## KeywordSearchFields
 

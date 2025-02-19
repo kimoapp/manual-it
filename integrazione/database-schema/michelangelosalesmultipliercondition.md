@@ -11,6 +11,7 @@ description: Condizioni di ricarico nell'Erp Michelangelo
 
 | Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
+| ConditionPrefixType | Tipo prefisso condizione | text | 50 |
 | CurrencyId | Id della valuta | text | 50 |
 | DiscardOnNetCost | Condizione di ricarico da scartare se costo è netto | bool |  |
 | EndDate | Data fine validità | date |  |
@@ -18,6 +19,7 @@ description: Condizioni di ricarico nell'Erp Michelangelo
 | ImposedUnitPrice | Prezzo unitario imposto | dec |  |
 | ItemId | Id dell'articolo | text | 50 |
 | Multiplier | Ricarico | dec |  |
+| MultiplierCode | Codice ricarico | text | 50 |
 | ReferenceCostTypeId | Id del costo di riferimento | text | 50 |
 | SalesAgentId | Id dell'agente | text | 50 |
 | SalesDiscountCategoryId | Id della categoria sconto vendita | text | 2 |

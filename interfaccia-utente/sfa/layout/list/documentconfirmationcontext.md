@@ -1,7 +1,7 @@
-# DocumentReport
+# DocumentConfirmation
 
-**Context:** DocumentReportContext  
-**Default Layout:** DocumentReportLayout
+**Context:** DocumentConfirmationContext  
+**Default Layout:** DocumentConfirmationLayout
 
 ## Campi
 

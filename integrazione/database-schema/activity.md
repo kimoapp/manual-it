@@ -53,6 +53,7 @@ description: Attività
 | RelatedEntityId | Id dell'entità collegata | text | 50 |
 | [RelatedEntityType](activity.md#relatedentitytype) | Tipo dell'entità collegata | enum |  |
 | RelatedEntityTypeId | Id del tipo dell'entità collegata | text | 50 |
+| ReminderRecipients | Destinatari del promemoria dell'attività | text | text |
 | SeasonId | Id della stagione | text | 50 |
 | StartDate | Data inizio attività | dt |  |
 | [Status](activity.md#status) | Stato dell'attività | enum |  |

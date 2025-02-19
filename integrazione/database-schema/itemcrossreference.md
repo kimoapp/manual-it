@@ -20,3 +20,4 @@ description: Cross Reference
 ## EncodingType
 
 * 0: Undefined
+* 1: Barcode

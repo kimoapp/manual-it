@@ -39,6 +39,7 @@ description: Account (clienti, prospect, destinazioni merci)
 | CustomerPriceGroupId | Id del gruppo prezzi cliente | text | 50 |
 | [CustomerTypeId](account.md#customertypeid) | Indica se il cliente è una persona fisica o un'organizzazione | enum |  |
 | DeliveryDateTypeId | Id del tipo di data consegna | text | 50 |
+| DeliveryRouteId | Id del giro di consegna | text | 50 |
 | Discount1 | Sconto | dec |  |
 | Discount2 | Sconto | dec |  |
 | Discount3 | Sconto | dec |  |
@@ -105,6 +106,7 @@ description: Account (clienti, prospect, destinazioni merci)
 | Notes | Note | text | text |
 | OpeningDays | Giorni di apertura o chiusura | text | 30 |
 | PaymentMethodId | Id del metodo di pagamento | text | 50 |
+| PaymentTermId | Id del termine di pagamento | text | 50 |
 | Phone | Telefono | text | 100 |
 | Phone2 | Telefono | text | 50 |
 | PriceListId | Id del listino associato al cliente | text | 50 |

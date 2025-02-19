@@ -49,6 +49,7 @@
 | Document\_FulfillmentStatus |  |
 | Document\_GrossCost |  |
 | Document\_Item.ErpStatus1 \[1..3\] |  |
+| Document\_Item.FreeText1 \[1..5\] |  |
 | Document\_ItemChargesAmount |  |
 | Document\_ItemChargesTypeDescription |  |
 | Document\_ItemCode |  |
@@ -125,6 +126,14 @@
 | ItemGroupLevel2Id | Id gruppo articoli livello 2 |
 | ItemGroupLevel3Id | Id gruppo articoli livello 3 |
 | ItemGroupLevel4Id | Id gruppo articoli livello 4 |
+| ItemMarkup |  |
+| ItemMarkupAmount |  |
+| ItemMarkupAmountIcon |  |
+| ItemMarkupIcon |  |
+| ItemSaleMargin |  |
+| ItemSaleMarginAmount |  |
+| ItemSaleMarginAmountIcon |  |
+| ItemSaleMarginIcon |  |
 | ItemSeriesId | Id serie articolo |
 | LineId | Id della linea |
 | LogisticCenterAvailability |  |
@@ -185,6 +194,7 @@
 | UnitPrice |  |
 | UnitsPerPack | Unità per confezione |
 | UnitsPerPackWithIcon |  |
+| ValidityStatusIcon |  |
 | VatRateId | Id dell'aliquota IVA |
 | WarehouseAvailability |  |
 | WarehousesAvailabilities |  |

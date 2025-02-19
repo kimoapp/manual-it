@@ -3,6 +3,12 @@
 **Context:** BudgetsDrillDownTableRowContext  
 **Default Layout:** BudgetsDrillDownTableRowLayout
 
+## Regole
+
+| Id | Descrizione |
+| :--- | :--- |
+| IsFreeText1EqualTo \[1..3\] |  |
+
 ## Campi
 
 | Id | Descrizione |
@@ -31,6 +37,8 @@
 | BudgetQuantity |  |
 | Description |  |
 | ErpStatus1 \[1..3\] |  |
+| ItemCollectionId |  |
+| ItemLineId |  |
 | LineCurrentAmountVsBudgetAmountProgress |  |
 | LinesAmount |  |
 | LinesCurrentAmount |  |
@@ -41,5 +49,6 @@
 | LinesQuantity |  |
 | LinesRevisedAmount |  |
 | LinesRevisedQuantity |  |
+| ManufacturerId |  |
 | Title |  |
 

@@ -2,6 +2,7 @@
 
 | Valore | Descrizione |
 | :--- | :--- |
+| [**BudgetLineSearchPriority**](document.md#budgetlinesearchpriority) |  |
 | [**CanSkipSalesControlsValidationsUsingUnlockCode**](document.md#canskipsalescontrolsvalidationsusingunlockcode) |  |
 | [**CigCodeMandatoryIfIsFatturaPA**](document.md#cigcodemandatoryifisfatturapa) | Il Codice Identificativo Gara è obbligatorio se il tipo di documento è FatturaPA |
 | [**CollectOnSiteIsMandatoryToChangeWarehouse**](document.md#collectonsiteismandatorytochangewarehouse) | Può essere modificato il magazzino solo se si utilizza il ritiro al banco |
@@ -21,17 +22,25 @@
 | [**ReportSignatureRequireMode**](document.md#reportsignaturerequiremode) | Modalità di avviso per report non firmato |
 | [**ShipmentSiteIsMandatoryIfCustomerHasAtLeastOne**](document.md#shipmentsiteismandatoryifcustomerhasatleastone) | La destinazioni merci deve essere selezionata se il cliente ne ha almeno una |
 | [**ShouldApplyShipmentParamsOnDocumentLine**](document.md#shouldapplyshipmentparamsondocumentline) | Indica se i parametri di spedizione devono essere applicati alle linee del documento |
+| [**ShouldApplyTrademarkPerAccountOnSfa**](document.md#shouldapplytrademarkperaccountonsfa) | Applicare il filtro del marchio per account |
+| [**ShouldApplyVisibilityFilterPerAccountOnSfa**](document.md#shouldapplyvisibilityfilterperaccountonsfa) | Applicare il filtro di visibilità per account |
 | [**ShouldAskArchivingReason**](document.md#shouldaskarchivingreason) | Indica se deve essere richiesta la causale di archiviazione |
 | [**ShouldIgnoreAvailabilitySalesControlsAccordingToLoseRemaining**](document.md#shouldignoreavailabilitysalescontrolsaccordingtoloseremaining) | Ignora i controlli commerciali sulle disponibilità in assenza della perdita residuo |
+| [**ShouldSelectBudgetLineForItem**](document.md#shouldselectbudgetlineforitem) |  |
 | [**ShouldUpdateAvailabilitiesBeforeDocumentCheckout**](document.md#shouldupdateavailabilitiesbeforedocumentcheckout) | Aggiorna le disponibilità della merce prima di effettuare il checkout |
 | [**ShouldUpdateDeliveryDateAccordingToFulfillmentDate**](document.md#shouldupdatedeliverydateaccordingtofulfillmentdate) | Ricalcola la data di consegna in base alla data di evadibilità della merce |
 | [**TakeShipmentSiteAsDefaultIfHasOnlyOne**](document.md#takeshipmentsiteasdefaultifhasonlyone) | Se è presente una sola destinazione merci per un cliente, viene selezionata di default all'interno dei documenti |
 | [**TotalAmountDiscountsPriority**](document.md#totalamountdiscountspriority) | Definisce la priorità con cui vengono applicati gli sconti nel totale documento |
-| [**ValuesToTakeFromShipmentSite**](document.md#valuestotakefromshipmentsite) | Template per la descrizione delle attività create dai Documenti da Erp |
+| [**ValuesToTakeFromShipmentSite**](document.md#valuestotakefromshipmentsite) | Valori della destinazione merci che devono andare a sovrascrivere quelli del documento |
 | [**VisibleDiscounts**](document.md#visiblediscounts) | Indica gli sconti da visualizzare all'interno dell'editor documento |
 | [**VisibleLineDiscounts**](document.md#visiblelinediscounts) | Indica gli sconti da visualizzare all'interno dell'editor delle linee di un documento |
 | [**VisiblePaymentDiscounts**](document.md#visiblepaymentdiscounts) | Indica gli sconti associati al metodo di pagamento da visualizzare all'interno dell'editor documento |
 | [**WarningDaysWithExpiredDocuments**](document.md#warningdayswithexpireddocuments) | Numero di giorni dopo la scadenza del documento in cui dare un messaggio di warning |
+
+## BudgetLineSearchPriority
+
+**Tipo:** Valori separati da pipe  
+**Valore di default:** Trademark+Season+Manufacturer\|Trademark+Manufacturer\|Trademark
 
 ## CanSkipSalesControlsValidationsUsingUnlockCode
 
@@ -110,6 +119,10 @@
 * 15 =&gt; LoadAccountNotes
 * 16 =&gt; RecalculatePrices
 * 17 =&gt; ApproveDocument
+* 18 =&gt; DuplicateAlternative
+* 19 =&gt; NewAlternative
+* 20 =&gt; ChangeAlternative
+* 21 =&gt; OpenDocumentConfirmationView
 
 ## PricesReferenceDateUpdateMode
 
@@ -139,6 +152,14 @@
 
 **Tipo:** Boolean
 
+## ShouldApplyTrademarkPerAccountOnSfa
+
+**Tipo:** Boolean
+
+## ShouldApplyVisibilityFilterPerAccountOnSfa
+
+**Tipo:** Boolean
+
 ## ShouldAskArchivingReason
 
 **Tipo:** Boolean
@@ -151,6 +172,10 @@
 * 0 =&gt; No
 * 1 =&gt; WhenLoseRemainingIsFalse
 * 2 =&gt; WhenLoseRemainingIsTrue
+
+## ShouldSelectBudgetLineForItem
+
+**Tipo:** Boolean
 
 ## ShouldUpdateAvailabilitiesBeforeDocumentCheckout
 
@@ -177,13 +202,17 @@
 **Tipo:** Valori separati da pipe  
 **Valori:**
 
+* Carrier
 * CustomerDiscountGroup
 * CustomerGroup
 * CustomerPriceGroup
 * Discounts
 * PaymentMethod
 * PriceList
+* ResponsibleForTransport
 * RetailPriceList
+* ShipmentMethod
+* TransportMode
 * VatRate
 
 ## VisibleDiscounts

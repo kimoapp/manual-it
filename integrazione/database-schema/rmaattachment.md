@@ -2,12 +2,12 @@
 description: Allegati associati a una richiesta Rma
 ---
 
-# ReturnMerchandiseAuthorizationAttachment
+# RmaAttachment
 
 **Chiavi**
 
 * _Id_
-* ReturnMerchandiseAuthorizationId, FilePath
+* RmaId, FilePath
 
 | Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
@@ -18,5 +18,5 @@ description: Allegati associati a una richiesta Rma
 | Id | Id | text | 50 |
 | IsDeleted | Indica se il record è stato cancellato | bool |  |
 | LastModifiedUserId | Id dell'agente che ha effettuato l'ultima modifica | text | 50 |
-| ReturnMerchandiseAuthorizationId | Codice RMA | text | 50 |
+| RmaId | Codice RMA | text | 50 |
 | SyncReference | Riferimento | text | 50 |

@@ -1,7 +1,7 @@
-# BudgetLinesForAccount
+# BudgetLinePickerEditor
 
-**Context:** BudgetLinesForAccountContext  
-**Default Layout:** BudgetLinesForAccountTableRowLayout
+**Context:** BudgetLinePickerEditor  
+**Default Layout:** BudgetLinesPickerTableRowLayout
 
 ## Campi
 

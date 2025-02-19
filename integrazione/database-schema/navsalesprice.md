@@ -59,8 +59,8 @@ Se la quantità è 50 e la quantità multipla è 10, lo scaglione può essere ap
 ## SalesType
 
 * 0: Customer
-* 1: CustomerDiscountGroup
-* 1: CustomerDiscountGroup
+* 1: CustomerPriceGroup
+* 1: CustomerPriceGroup
 * 2: AllCustomers
 * 3: Campaign
 

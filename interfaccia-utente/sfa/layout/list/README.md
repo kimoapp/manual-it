@@ -83,6 +83,9 @@
 
   * [ *\{BudgetLinesForAccount\}*](budgetlinesforaccountcontext.md)
 
+* **Selettori**
+  * [ *\{BudgetLinePickerEditor\}*](budgetlinepickereditor.md)
+
 
 ## Carrelli
 
@@ -162,12 +165,16 @@
   * [ *\{SalesConditionForDocumentLineSelector\}*](salesconditionfordocumentlineselectorcontext.md)
 
 * **Elenchi / ricerca**
+  * [ *\{DocumentAlternatives\}*](documentalternativescontext.md)
+
   * [ *\{DocumentsSearch\}*](documentssearchcontext.md)
 
 * **Informazioni**
   * [ *\{DocumentLineGroupHeader\}*](documentlinegroupheadercontext.md)
 
 * **Report**
+  * [ *\{DocumentConfirmation\}*](documentconfirmationcontext.md)
+
   * [ *\{DocumentReport\}*](documentreportcontext.md)
 
   * [ *\{DocumentReportRecipient\}*](documentreportrecipientcontext.md)

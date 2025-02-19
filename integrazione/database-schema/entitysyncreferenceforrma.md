@@ -2,7 +2,7 @@
 description: SyncReference delle entità create o modificate in Kimo
 ---
 
-# EntitySyncReferenceForReturnMerchandiseAuthorization
+# EntitySyncReferenceForRma
 
 **Chiavi**
 

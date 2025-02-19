@@ -14,6 +14,8 @@ description:
 | AmountIncludingVat | Totale documento incluso di IVA | dec |  |
 | [AvailabilityMode](documentline.md#availabilitymode) | Modalità disponibilità | enum |  |
 | AvailabilityRuleId | Id della regola di disponibilità | text | 50 |
+| BudgetId | Id del budget da cui è stato creato il documento | text | 50 |
+| BudgetLineId | Id della riga del budget da cui è stato creato il documento | text | 50 |
 | [ChargeForUnpackaged](documentline.md#chargeforunpackaged) | Addebita fuori confezione \(sfusi\) | enum |  |
 | CheckoutAvailabilityAsFreeText | Campo testo libero in cui riportare la disponibilità strutturata come richiesto dal cliente | text | text |
 | CheckoutGlobalAvailability | Disponibilità Globale | dec |  |
@@ -64,9 +66,13 @@ description:
 | IsUnitPriceEdited | Indica se il prezzo unitario è stato modificato | bool |  |
 | ItemChargesAmount | Valore delle spese per l'articolo \(RAEE, ...\) | dec |  |
 | ItemChargesTypeDescription | Descrizione delle spese per l'articolo applicate \(RAEE, ...\) | text | text |
+| ItemCollectionId | Id della collezione | text | 50 |
 | ItemDescription | Descrizione articolo | text | 130 |
 | ItemDiscountGroupId | Id del gruppo sconti articolo | text | 50 |
 | ItemId | Id dell'articolo | text | 50 |
+| ItemLineId | Id della line articolo | text | 50 |
+| ItemSeriesId | Id della serie articolo | text | 50 |
+| ItemWeight | Peso dell'articolo | dec |  |
 | LastModifiedUserId | Id dell'agente che ha effettuato l'ultima modifica | text | 50 |
 | LineMarkup | Ricarico percentuale | dec |  |
 | LineMarkupAmount | Ricarico in valore | dec |  |
@@ -142,6 +148,8 @@ description:
 | SyncReference | Riferimento | text | 50 |
 | Tag | Tag | text | 100 |
 | TotalDiscount | Totale sconto | dec |  |
+| TotalWeight | Totale peso della riga | dec |  |
+| TrademarkId | Id del marchio | text | 50 |
 | UnitPrice | prezzo unitario | dec |  |
 | UnitsPerPack | Unità per confezione | dec |  |
 | UomLabel |  | text | 20 |
@@ -207,4 +215,4 @@ Se la quantità è 50 e la quantità multipla è 10, lo scaglione può essere ap
 * 2: TaxableFreeSample
 * 3: DiscountOnGoods
 * 4: Promotion
-* 5: ReturnMerchandiseAuthorization
+* 5: Rma

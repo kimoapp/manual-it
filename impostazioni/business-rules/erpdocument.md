@@ -9,6 +9,7 @@
 | [**ItemLiveSearch**](erpdocument.md#itemlivesearch) | Abilita la ricerca 'live' degli articoli |
 | [**KeywordSearchFields**](erpdocument.md#keywordsearchfields) | Campi per la ricerca testuale |
 | [**MaxDaysWithExpiredDocuments**](erpdocument.md#maxdayswithexpireddocuments) | Numero massimo di giorni per cui possono essere consentiti documenti scaduti |
+| [**OnlineEditOperationResultMap**](erpdocument.md#onlineeditoperationresultmap) | Mapping tra il risultato delle azioni online restituite dal gestionale e quelli attesi da Kimo |
 | [**ShouldAskArchivingReason**](erpdocument.md#shouldaskarchivingreason) | Indica se deve essere richiesta la causale di archiviazione |
 | [**Timeframes**](erpdocument.md#timeframes) | Periodi |
 | [**TotalAmountType**](erpdocument.md#totalamounttype) | Tipo di totale da visualizzare nel footer |
@@ -38,6 +39,7 @@
 * 0 =&gt; Undefined
 * 1 =&gt; Archiving
 * 2 =&gt; ExpectedClosingDateEdit
+* 3 =&gt; ForceLineClosing
 
 ## ExpectedClosingDatePostponeDays
 
@@ -72,6 +74,18 @@
 ## MaxDaysWithExpiredDocuments
 
 **Tipo:** Nullable`1
+
+## OnlineEditOperationResultMap
+
+**Tipo:** Enum  
+**Valori:**
+
+* 0 =&gt; WaitingForResult
+* 1 =&gt; Ok
+* 2 =&gt; GenericError
+* 3 =&gt; ErpTimedOut
+* 4 =&gt; ErpDocumentAlreadyArchivedOnErp
+* 5 =&gt; ErpDocumentAlreadyArchivedOnKimo
 
 ## ShouldAskArchivingReason
 

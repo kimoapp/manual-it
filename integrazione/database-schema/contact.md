@@ -52,6 +52,7 @@ description: Contatti
 | MobilePhone | Cellulare | text | 50 |
 | Notes | Note | text | text |
 | Notes2 | Note 2 | text | text |
+| [PersonalityType](contact.md#personalitytype) | Tipo personalità | enum |  |
 | Phone | Telefono | text | 100 |
 | Phone2 | Telefono | text | 50 |
 | PrivacyConsent | Flag consenso privacy | bool |  |
@@ -73,3 +74,11 @@ description: Contatti
 * 9: StartedUploadToServer
 * 10: EditingPending
 * -1: Undefined
+
+## PersonalityType
+
+* 0: Undefined
+* 1: Logical
+* 2: Assertive
+* 3: Sensitive
+* 4: Showman

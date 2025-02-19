@@ -12,6 +12,7 @@ description: Condizioni di vendita nell'Erp Michelangelo
 | Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
 | Commission | Provvigione | dec |  |
+| ConditionPrefixType | Tipo prefisso condizione | text | 50 |
 | CurrencyId | Id della valuta | text | 50 |
 | CustomerGroup1\_Discount1 | Sconto | dec |  |
 | CustomerGroup1\_Discount2 | Sconto | dec |  |
@@ -79,6 +80,7 @@ description: Condizioni di vendita nell'Erp Michelangelo
 | ItemCostReferenceDate | Data riferimento costi | date |  |
 | JumpStringByCustomerGroup | Fascia | text | 30 |
 | Multiplier | Ricarico | dec |  |
+| MultiplierCode | Codice ricarico | text | 50 |
 | QuantityRange1\_Discount | Sconto | dec |  |
 | QuantityRange1\_ImposedUnitPrice | Prezzo unitario imposto | dec |  |
 | QuantityRange1\_Quantity | Quantità | dec |  |

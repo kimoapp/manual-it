@@ -39,6 +39,7 @@
 | Document\_FulfillmentStatus |  |
 | Document\_GrossCost |  |
 | Document\_Item.ErpStatus1 \[1..3\] |  |
+| Document\_Item.FreeText1 \[1..5\] |  |
 | Document\_ItemChargesAmount |  |
 | Document\_ItemChargesTypeDescription |  |
 | Document\_ItemCode |  |
@@ -111,6 +112,14 @@
 | ItemEncodedId |  |
 | ItemId |  |
 | ItemImage |  |
+| ItemMarkup |  |
+| ItemMarkupAmount |  |
+| ItemMarkupAmountIcon |  |
+| ItemMarkupIcon |  |
+| ItemSaleMargin |  |
+| ItemSaleMarginAmount |  |
+| ItemSaleMarginAmountIcon |  |
+| ItemSaleMarginIcon |  |
 | LastSaleDate |  |
 | LastSaleDiscount |  |
 | LastSaleNetUnitPrice |  |

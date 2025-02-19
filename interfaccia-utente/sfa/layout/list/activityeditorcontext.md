@@ -12,6 +12,7 @@
 | AccountName |  |
 | AccountName2 |  |
 | ActivityType |  |
+| Assignee |  |
 | Contact |  |
 | Contact\_AddressCity |  |
 | Contact\_AddressCountry |  |

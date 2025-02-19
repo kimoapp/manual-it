@@ -67,6 +67,10 @@ description:
 | CustomerPriceGroupId | Id del gruppo prezzo cliente | text | 50 |
 | DeliveryDate | Data consegna | date |  |
 | DeliveryDateTypeId | Tipo data consegna | text | 50 |
+| DeliveryRouteDays | Giorni di consegna | text | 50 |
+| DeliveryRouteFrequency | Frequenza delle consegne | text | 50 |
+| DeliveryRouteId | Id del giro di consegna | text | 50 |
+| DeliveryRouteTimes | Orari di consegna | text | 50 |
 | Discount1 | Sconto | dec |  |
 | Discount2 | Sconto | dec |  |
 | Discount3 | Sconto | dec |  |
@@ -121,6 +125,8 @@ description:
 | IsDeleted | Indica se il record è stato cancellato | bool |  |
 | IsFatturaPA | Indica se il documento è una FatturaPA | bool |  |
 | ItemCollectionId | Id della collezione | text | 50 |
+| ItemLineId | Id della line articolo | text | 50 |
+| ItemSeriesId | Id della serie articolo | text | 50 |
 | LanguageId | Id della lingua di riferimento del documento | text | 20 |
 | LastModifiedTimeStamp | Data dell'ultima modifica | dt |  |
 | LastModifiedUserId | Id dell'agente che ha effettuato l'ultima modifica | text | 50 |
@@ -151,6 +157,10 @@ description:
 | PaymentMethodDiscount2 | Sconto legato al metodo di pagamento | dec |  |
 | PaymentMethodDiscount3 | Sconto legato al metodo di pagamento | dec |  |
 | PaymentMethodId | Id del metodo di pagamento | text | 50 |
+| PaymentTermDiscount1 | Sconto di pagamento legato al termine di pagamento | dec |  |
+| PaymentTermDiscount2 | Sconto di pagamento legato al termine di pagamento | dec |  |
+| PaymentTermDiscount3 | Sconto di pagamento legato al termine di pagamento | dec |  |
+| PaymentTermId | Id del termine di pagamento | text | 50 |
 | PointsPerSale | Punti per la vendita | dec |  |
 | Prebuy | Gestione 'prebuy' | bool |  |
 | PriceListId | Id del listino | text | 50 |
@@ -205,6 +215,7 @@ description:
 | SyncReference | Riferimento | text | 50 |
 | TotalAverageDiscount | Sconto medio totale | dec |  |
 | TotalFulfillment | Evasione integrale | bool |  |
+| TotalWeight | Totale peso del documento | dec |  |
 | TrademarkId | Id del marchio | text | 50 |
 | TransportModeId | Id del mezzo di trasporto | text | 50 |
 | UploadToServerTimeStamp |  | dt |  |

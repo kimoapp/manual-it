@@ -41,12 +41,19 @@ description: Opportunità
 | IsDeleted | Indica se il record è stato cancellato | bool |  |
 | LastModifiedTimeStamp | Data dell'ultima modifica | dt |  |
 | LastModifiedUserId | Id dell'agente che ha effettuato l'ultima modifica | text | 50 |
+| LeavingNotes | Note sull'abbandono | text | text |
+| LeavingReasonId | Id del motivo di abbandono | text | 50 |
 | Name | Nome | text | text |
 | Notes | Note | text | text |
 | PhaseId | Fase | text | 50 |
+| ReferralAccountId | Id dell'account di riferimento | text | 50 |
+| ReferralContactId | Id del contatto di riferimento | text | 50 |
+| ReferralNotes | Note sul riferimento | text | text |
+| ReferralSourceId | Id della fonte di riferimento | text | 50 |
 | SyncReference | Riferimento | text | 50 |
 | UploadToServerTimeStamp |  | dt |  |
 | Value | Valore | dec |  |
+| WizardProgressInfo | Rappresenta lo stato di avanzato del wizard | text | text |
 
 ## EntityStatus
 

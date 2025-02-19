@@ -17,5 +17,12 @@ description: Contatti per opportunità
 | Id | Id | text | 50 |
 | IsDeleted | Indica se il record è stato cancellato | bool |  |
 | LastModifiedUserId | Id dell'agente che ha effettuato l'ultima modifica | text | 50 |
+| [LeaderType](contactperopportunity.md#leadertype) | Tipo di leader | enum |  |
 | OpportunityId | Codice opportunità | text | 50 |
 | SyncReference | Riferimento | text | 50 |
+
+## LeaderType
+
+* 0: Undefined
+* 1: HiddenLeader
+* 2: KnownLeader

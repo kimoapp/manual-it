@@ -12,6 +12,7 @@ description: Promozioni
 | :--- | :--- | :--- | :--- |
 | [ActivationMode](promotion.md#activationmode) | Modalità di attivazione | enum |  |
 | AlternativePaymentId | Id del pagamento alternativo | text | 50 |
+| AlternativePaymentTermId | Id del termine di pagamento alternativo | text | 50 |
 | [CustomerDiscountsRule](promotion.md#customerdiscountsrule) | Regola per lo sconto cliente | enum |  |
 | Description | Descrizione | text | text |
 | Discount1 | Sconto | dec |  |
@@ -83,3 +84,4 @@ description: Promozioni
 * 2: N+M
 * 3: N+M mono-referenza \(solo un articolo\)
 * 4: Riservate per il Calcolo Prezzi
+* 5: Promozione per intero documento

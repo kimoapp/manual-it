@@ -38,6 +38,7 @@ description: Budget
 | ItemSeriesId | Id della serie articolo | text | 50 |
 | LastModifiedTimeStamp | Data dell'ultima modifica | dt |  |
 | LastModifiedUserId | Id dell'agente che ha effettuato l'ultima modifica | text | 50 |
+| ManufacturerId | Id del produttore | text | 50 |
 | Quantity | Quantità | dec |  |
 | SalesAgentId |  | text | 50 |
 | SeasonId | Id della stagione | text | 50 |

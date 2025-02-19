@@ -11,6 +11,7 @@
 | [**QuantityDecimalsBehaviour**](b2bcart.md#quantitydecimalsbehaviour) | Inserimento quantità decimali permesso o impedito |
 | [**ShipmentSiteIsMandatory**](b2bcart.md#shipmentsiteismandatory) | Destinazione merci obbligatoria |
 | [**ValidatePricesObsolescence**](b2bcart.md#validatepricesobsolescence) | Abilita la validazione dei prezzi al checkout |
+| [**ValuesToTakeFromShipmentSite**](b2bcart.md#valuestotakefromshipmentsite) | Valori della destinazione merci che devono andare a sovrascrivere quelli del carrello |
 | [**WarehouseInitSourcePriority**](b2bcart.md#warehouseinitsourcepriority) | Scaletta delle priorità con cui inizializzare il magazzino del carrello |
 | [**WarehousesForCollectOnSite**](b2bcart.md#warehousesforcollectonsite) | Magazzini per il ritiro al banco |
 
@@ -92,6 +93,16 @@
 
 **Tipo:** Boolean  
 **Valore di default:** True
+
+## ValuesToTakeFromShipmentSite
+
+**Tipo:** Valori separati da pipe  
+**Valori:**
+
+* Carrier
+* ResponsibleForTransport
+* ShipmentMethod
+* TransportMode
 
 ## WarehouseInitSourcePriority
 

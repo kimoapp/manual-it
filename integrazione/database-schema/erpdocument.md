@@ -107,6 +107,8 @@ description: Documenti da Erp
 | Id | Id del documento | text | 50 |
 | InvoiceDiscountId | Id sconto fattura | text | 50 |
 | InvoiceDiscountValue | Importo sconto fattura | dec |  |
+| ItemLineId | Id della line articolo | text | 50 |
+| ItemSeriesId | Id della serie articolo | text | 50 |
 | LanguageId | Id della lingua | text | 20 |
 | Markup | Ricarico | dec |  |
 | Notes | Note | text | text |
@@ -115,6 +117,10 @@ description: Documenti da Erp
 | PaymentMethodDiscount2 | Sconto di pagamento legato al metodo di pagamento | dec |  |
 | PaymentMethodDiscount3 | Sconto di pagamento legato al metodo di pagamento | dec |  |
 | PaymentMethodId | Id del metodo di pagamento | text | 50 |
+| PaymentTermDiscount1 | Sconto di pagamento legato al termine di pagamento | dec |  |
+| PaymentTermDiscount2 | Sconto di pagamento legato al termine di pagamento | dec |  |
+| PaymentTermDiscount3 | Sconto di pagamento legato al termine di pagamento | dec |  |
+| PaymentTermId | Id del termine di pagamento | text | 50 |
 | PriceListId | Id del listino | text | 50 |
 | PricesReferenceDate | Data di riferimento dei prezzi | date |  |
 | PrivateNotes | Note private | text | text |
@@ -157,6 +163,7 @@ description: Documenti da Erp
 | [SourceReferenceType](erpdocument.md#sourcereferencetype) |  | enum |  |
 | StartShipmentDate | Data d'inizio della consegna | date |  |
 | StatisticClassId | Id della classe statistica | text | 50 |
+| TotalWeight | Totale peso del documento | dec |  |
 | TrademarkId | Id del marchio | text | 50 |
 | TransportModeId | Id del mezzo di trasporto | text | 50 |
 | VatAmount | Importo IVA | dec |  |

@@ -69,6 +69,7 @@
 | ManufacturerId |  |
 | ManufacturerItemId |  |
 | ManufacturerName |  |
+| NetCost |  |
 | NetRetailUnitPriceOverAverageRetailDiscount |  |
 | NetRetailUnitPriceOverAverageRetailDiscountIncludingVat |  |
 | NetUnitPrice |  |

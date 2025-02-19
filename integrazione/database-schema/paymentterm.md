@@ -1,8 +1,8 @@
 ---
-description: Fase
+description: Termine di Pagamento
 ---
 
-# Phase
+# PaymentTerm
 
 **Chiavi**
 
@@ -11,9 +11,8 @@ description: Fase
 | Campo | Descrizione | Tipo | Dimensione |
 | :--- | :--- | :--- | :--- |
 | Description | Descrizione | text | 100 |
+| Discount1 | Sconto | dec |  |
+| Discount2 | Sconto | dec |  |
+| Discount3 | Sconto | dec |  |
 | Id | Id | text | 50 |
-| [Status](phase.md#status) |  | enum |  |
-
-## Status
-
-* 0: Undefined
+| UseMode |  | text | 50 |

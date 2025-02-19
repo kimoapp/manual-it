@@ -32,6 +32,7 @@
 | GlobalAvailability |  |
 | GrossCost |  |
 | Item.ErpStatus1 \[1..3\] |  |
+| Item.FreeText1 \[1..5\] |  |
 | ItemChargesAmount |  |
 | ItemChargesTypeDescription |  |
 | ItemCode |  |

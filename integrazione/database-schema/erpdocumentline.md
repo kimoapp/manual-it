@@ -12,6 +12,8 @@ description: Righe dei Documenti da Erp
 | :--- | :--- | :--- | :--- |
 | Amount | Totale documento | dec |  |
 | AmountIncludingVat | Totale documento incluso di IVA | dec |  |
+| BudgetId | Id del budget da cui è stato creato il documento | text | 50 |
+| BudgetLineId | Id della riga del budget da cui è stato creato il documento | text | 50 |
 | DeliveryDate | Data di consegna | date |  |
 | DeliveryDateTypeId | Id del tipo consegna | text | 50 |
 | Discount1 | Sconto | dec |  |
@@ -74,6 +76,7 @@ description: Righe dei Documenti da Erp
 | ItemId | Tipo dell'articolo | text | 50 |
 | ItemLineId | Id della linea | text | 50 |
 | ItemSeriesId | Id serie articolo | text | 50 |
+| ItemWeight | Peso dell'articolo | dec |  |
 | LineMarkup | Ricarico percentuale | dec |  |
 | LineMarkupAmount | Ricarico in valore | dec |  |
 | LineNumber | Numero riga | int |  |
@@ -117,6 +120,7 @@ description: Righe dei Documenti da Erp
 | SourceReference | Numero del documento di riferimento | text | 50 |
 | SourceReferenceType | Tipo del documento di riferimento | enum |  |
 | StatisticReferenceDate | Data di riferimento per le statistiche tramite smart BI | date |  |
+| TotalWeight | Totale peso della riga | dec |  |
 | TrademarkId | Id del marchio | text | 50 |
 | UnitPrice | Prezzo unitario | dec |  |
 | UnitsPerPack | Unità per confezione | dec |  |

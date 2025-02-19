@@ -17,6 +17,7 @@
 | [**OnConfirmedSendMailToAccount**](documentnotification.md#onconfirmedsendmailtoaccount) | Se abilitato, alla conferma del documento viene automaticamente inviata la mail all'indirizzo del cliente |
 | [**OnConfirmedSendMailToCreator**](documentnotification.md#onconfirmedsendmailtocreator) | Se abilitato, alla conferma del documento viene automaticamente inviata la mail all'indirizzo dell'utente che ha creato il documento |
 | [**OnConfirmedSendMailToCreatorRecipientMails**](documentnotification.md#onconfirmedsendmailtocreatorrecipientmails) | Se abilitato, le mail di conferma documento vengono inviate agli indirizzi aggiuntivi specificati per l'utente |
+| [**OnConfirmedSendMailToShipmentSite**](documentnotification.md#onconfirmedsendmailtoshipmentsite) | Se abilitato, alla conferma del documento viene automaticamente inviata la mail all'indirizzo della destinazione merce |
 | [**OnConfirmedSendMailToWarehouse**](documentnotification.md#onconfirmedsendmailtowarehouse) | Se abilitato, alla conferma del documento viene automaticamente inviata la mail all'indirizzo del megazzino |
 | [**SendOnCartApprovalRequest**](documentnotification.md#sendoncartapprovalrequest) | Indica se notificare la richiesta approvazione di un carrello |
 | [**SendOnConfirmed**](documentnotification.md#sendonconfirmed) | Indica se notificare la conferma di un documento |
@@ -154,6 +155,17 @@
 * 3 =&gt; Bcc
 
 ## OnConfirmedSendMailToCreatorRecipientMails
+
+**Tipo:** Enum  
+**Valore di default:** 0  
+**Valori:**
+
+* 0 =&gt; None
+* 1 =&gt; To
+* 2 =&gt; Cc
+* 3 =&gt; Bcc
+
+## OnConfirmedSendMailToShipmentSite
 
 **Tipo:** Enum  
 **Valore di default:** 0  
