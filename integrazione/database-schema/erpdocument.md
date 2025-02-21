@@ -163,6 +163,7 @@ description: Documenti da Erp
 | [SourceReferenceType](erpdocument.md#sourcereferencetype) |  | enum |  |
 | StartShipmentDate | Data d'inizio della consegna | date |  |
 | StatisticClassId | Id della classe statistica | text | 50 |
+| TotalVolume | Totale volume del documento | dec |  |
 | TotalWeight | Totale peso del documento | dec |  |
 | TrademarkId | Id del marchio | text | 50 |
 | TransportModeId | Id del mezzo di trasporto | text | 50 |

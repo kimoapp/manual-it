@@ -215,6 +215,7 @@ description:
 | SyncReference | Riferimento | text | 50 |
 | TotalAverageDiscount | Sconto medio totale | dec |  |
 | TotalFulfillment | Evasione integrale | bool |  |
+| TotalVolume | Totale volume del documento | dec |  |
 | TotalWeight | Totale peso del documento | dec |  |
 | TrademarkId | Id del marchio | text | 50 |
 | TransportModeId | Id del mezzo di trasporto | text | 50 |

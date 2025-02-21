@@ -25,7 +25,9 @@ description:
 | CollectOnSiteDateTime | Data/ora del ritiro della merce | date |  |
 | CreationDate | Data di creazione | dt |  |
 | CreatorId | Id dell'agente che ha creato il record | text | 50 |
+| CustomerDiscountGroupId | Id del gruppo sconti cliente | text | 50 |
 | CustomerGroupId | Id del gruppo cliente | text | 50 |
+| CustomerPriceGroupId | Id del gruppo prezzi cliente | text | 50 |
 | DeliveryDate | Data consegna | date |  |
 | DeliveryDateTypeId | Tipo data di consegna | text | 50 |
 | Discount1 | Sconto | dec |  |
@@ -72,6 +74,7 @@ description:
 | ItemId | Id dell'articolo | text | 50 |
 | ItemLineId | Id della line articolo | text | 50 |
 | ItemSeriesId | Id della serie articolo | text | 50 |
+| ItemVolume | Volume dell'articolo | dec |  |
 | ItemWeight | Peso dell'articolo | dec |  |
 | LastModifiedUserId | Id dell'agente che ha effettuato l'ultima modifica | text | 50 |
 | LineMarkup | Ricarico percentuale | dec |  |
@@ -148,6 +151,7 @@ description:
 | SyncReference | Riferimento | text | 50 |
 | Tag | Tag | text | 100 |
 | TotalDiscount | Totale sconto | dec |  |
+| TotalVolume | Totale volume della riga | dec |  |
 | TotalWeight | Totale peso della riga | dec |  |
 | TrademarkId | Id del marchio | text | 50 |
 | UnitPrice | prezzo unitario | dec |  |

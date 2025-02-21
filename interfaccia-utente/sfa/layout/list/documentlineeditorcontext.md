@@ -25,6 +25,7 @@
 | AverageNetUnitPrice |  |
 | CollectOnSite |  |
 | CollectOnSiteDateTime |  |
+| CustomerDiscountGroup |  |
 | CustomerGroup |  |
 | DeliveryDate |  |
 | DiscountFromRetailPrice |  |
