@@ -37,6 +37,7 @@
 | Description | Descrizione breve dell'articolo |
 | Discounts |  |
 | Document\_AverageNetUnitPrice |  |
+| Document\_CustomerDiscountGroupId |  |
 | Document\_CustomerGroupId |  |
 | Document\_DeliveryDate |  |
 | Document\_DiscountFromRetailPrice |  |
@@ -66,6 +67,7 @@
 | Document\_LineSaleMarginAmountIcon |  |
 | Document\_LineSaleMarginIcon |  |
 | Document\_ManufacturerId |  |
+| Document\_ManufacturerImage |  |
 | Document\_ManufacturerItemId |  |
 | Document\_NetCost |  |
 | Document\_NetRetailUnitPriceOverAverageRetailDiscount |  |
@@ -103,6 +105,7 @@
 | Document\_StartShipmentDate |  |
 | Document\_TotalDiscount |  |
 | Document\_TotalPrice |  |
+| Document\_TrademarkImage |  |
 | Document\_UnitPrice |  |
 | Document\_UnitsPerPackWithIcon |  |
 | Document\_UnitsPerSalesUom |  |
@@ -139,6 +142,7 @@
 | LogisticCenterAvailability |  |
 | LongDescription | Descrizione lunga dell'articolo |
 | ManufacturerId | Id del produttore |
+| ManufacturerImage |  |
 | ManufacturerItemId | Id dell'articolo produttore |
 | NetUnitPrice |  |
 | Notes | Note |
@@ -163,12 +167,17 @@
 | Promotion\_ItemImage |  |
 | Promotion\_MandatoryIcon |  |
 | Promotion\_ManufacturerId |  |
+| Promotion\_ManufacturerImage |  |
 | Promotion\_ManufacturerItemId |  |
 | Promotion\_MaxQty |  |
 | Promotion\_MinQty |  |
 | Promotion\_NetUnitPrice |  |
+| Promotion\_NumberOfPacksStepperMinus |  |
+| Promotion\_NumberOfPacksStepperPlus |  |
 | Promotion\_NumberOfPacksWithUom |  |
 | Promotion\_PackUnitQtyWithUom |  |
+| Promotion\_SalesQtyStepperMinus |  |
+| Promotion\_SalesQtyStepperPlus |  |
 | Promotion\_SalesQtyWithUom |  |
 | Promotion\_SaleTypeCode |  |
 | Promotion\_SaleTypeDescription |  |
@@ -176,6 +185,7 @@
 | Promotion\_SaleTypeId |  |
 | Promotion\_SuggestedQty |  |
 | Promotion\_TotalPrice |  |
+| Promotion\_TrademarkImage |  |
 | Promotion\_UnitPrice |  |
 | Promotion\_UnitsPerPackWithIcon |  |
 | Promotion\_UnitsPerSalesUom |  |
@@ -191,6 +201,7 @@
 | StartAvailabilityDate |  |
 | SubstitutiveItems |  |
 | TrademarkId | Id del marchio |
+| TrademarkImage |  |
 | UnitPrice |  |
 | UnitsPerPack | Unità per confezione |
 | UnitsPerPackWithIcon |  |

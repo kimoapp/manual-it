@@ -6,6 +6,7 @@ description: Cross Reference
 
 **Chiavi**
 
+* _Id_
 * ItemId, EncodingType, EncodingKey, ItemCrossReferenceCode
 
 | Campo | Descrizione | Tipo | Dimensione |

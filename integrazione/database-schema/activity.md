@@ -12,6 +12,10 @@ description: Attività
 | :--- | :--- | :--- | :--- |
 | AccountId | Id del cliente | text | 50 |
 | ActivityTypeId | Id del tipo attività | text | 50 |
+| CheckinLatitude | Latitudine della posizione in cui è stato eseguito il check-in | dec |  |
+| CheckinLongitude | Longitudine della posizione in cui è stato eseguito il check-in | dec |  |
+| [CheckinStatus](activity.md#checkinstatus) | Destinatari del promemoria dell'attività | enum |  |
+| CheckinTimeStamp | Destinatari del promemoria dell'attività | date |  |
 | ContactId | Contatto | text | 50 |
 | CreationDate | Data di creazione | dt |  |
 | CreatorId | Id dell'agente che ha creato il record | text | 50 |
@@ -61,6 +65,10 @@ description: Attività
 | SyncReference | Riferimento | text | 50 |
 | TrademarkId | Id del marchio | text | 50 |
 | UploadToServerTimeStamp |  | dt |  |
+
+## CheckinStatus
+
+* 0: Unknown
 
 ## EntityStatus
 

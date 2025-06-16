@@ -5,6 +5,7 @@
 | [**AdvancedSearchFields**](reassortment.md#advancedsearchfields) | Campi per la ricerca avanzata |
 | [**DocumentContextTitleTemplate**](reassortment.md#documentcontexttitletemplate) |  |
 | [**KeywordSearchFields**](reassortment.md#keywordsearchfields) | Campi per la ricerca testuale |
+| [**PageSize**](reassortment.md#pagesize) | Numero di elementi visualizzati nella ricerca dei riassortimenti |
 | [**ShipmentSiteFilterMode**](reassortment.md#shipmentsitefiltermode) | Indica se i riassortimenti devono essere filtrati o meno per la destinazione merci |
 | [**ShowItemInDocumentMode**](reassortment.md#showitemindocumentmode) | Indica la modalità con cui mostrare se un articolo è già stato inserito nei documenti di vendita |
 | [**TitleTemplate**](reassortment.md#titletemplate) |  |
@@ -37,6 +38,11 @@
 
 * ReassortmentLine.ItemDescription
 * ReassortmentLine.ItemId
+
+## PageSize
+
+**Tipo:** Int32  
+**Valore di default:** 300
 
 ## ShipmentSiteFilterMode
 

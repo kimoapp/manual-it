@@ -192,6 +192,7 @@ description:
 * 4: VariableItem
 * 5: Idrolab
 * 8: IlDataPool
+* 9: ItemKit
 
 ## MultipleQuantity
 

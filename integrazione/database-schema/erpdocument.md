@@ -27,6 +27,7 @@ description: Documenti da Erp
 | AlternativesAggregationId | Id dell'aggregato di riferimento del documento | text | 50 |
 | Amount | Totale documento | dec |  |
 | AmountIncludingVat | Totale documento incluso di IVA | dec |  |
+| ArchivingReasonId | Id della causale di archiviazione | text | 50 |
 | BankAbi | Codice ABI | text | 5 |
 | BankCab | Codice CAB | text | 5 |
 | BankCc | Codice CC | text | 20 |
@@ -69,6 +70,7 @@ description: Documenti da Erp
 | DocumentReference | Riferimento del documento | text | text |
 | DocumentSaleMargin | Margine percentuale | dec |  |
 | DocumentSaleMarginAmount | Margine in valore | dec |  |
+| [DocumentStatus](erpdocument.md#documentstatus) | Stato del documento | enum |  |
 | EndShipmentDate | Data di fine consegna | date |  |
 | ErpDocumentTypeId | Id del tipo documento | text | 50 |
 | ErpStatusId1 |  | text | 50 |
@@ -173,6 +175,17 @@ description: Documenti da Erp
 | VatRateValue | Valore aliquota | dec |  |
 | WarehouseId | Id del magazzino | text | 50 |
 | ZoneId | Id della zona | text | 50 |
+
+## DocumentStatus
+
+* 0: Open
+* 1: Confirmed
+* 2: SalesQuoteTransformedToOrder
+* 3: Archived
+* 4: ApprovalByManagerRequired
+* 5: ApprovalByAccountRequired
+* 6: RejectedByAccount
+* -1: Undefined
 
 ## FulfillmentStatus
 

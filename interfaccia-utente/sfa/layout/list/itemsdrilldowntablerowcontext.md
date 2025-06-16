@@ -26,10 +26,12 @@
 | ItemSeriesId |  |
 | ItemSeriesImage |  |
 | ManufacturerId |  |
+| ManufacturerImage |  |
 | ManufacturerName |  |
 | SeasonDescription |  |
 | SeasonId |  |
 | Title |  |
 | TrademarkDescription |  |
 | TrademarkId |  |
+| TrademarkImage |  |
 

@@ -42,6 +42,7 @@ description: Articoli non a stock
 | GenderId | Id genere | text | 50 |
 | Id | Id | text | 50 |
 | IsVisibleOnItemsSearch | Indica se l'articolo debba essere nascosto in fase di ricerca | bool |  |
+| ItemClassificationId | Id della classificazione articolo | text | 100 |
 | ItemDiscountGroupId | Id del gruppo sconti articolo | text | 50 |
 | ItemGroupLevel1Id | Id gruppo articoli livello 1 | text | 50 |
 | ItemGroupLevel2Id | Id gruppo articoli livello 2 | text | 50 |
@@ -49,6 +50,7 @@ description: Articoli non a stock
 | ItemGroupLevel4Id | Id gruppo articoli livello 4 | text | 50 |
 | ItemSeriesId | Id serie articolo | text | 50 |
 | [ItemType](nonstockitem.md#itemtype) | Tipo articolo | enum |  |
+| [KitMode](nonstockitem.md#kitmode) | Comportamento articolo Kit | enum |  |
 | LeadTime | Tempo di approvvigionamento | int |  |
 | LineId | Id della linea | text | 50 |
 | LongDescription | Descrizione lunga dell'articolo | text | text |
@@ -72,6 +74,13 @@ description: Articoli non a stock
 * 6: Jolly
 * 7: NonStockItem
 * 8: IlDataPool
+* 9: Kit
+
+## KitMode
+
+* 0: Undefined
+* 1: SumKitElementsPrices
+* 2: TakeItemKitPrice
 
 ## LotManagementType
 

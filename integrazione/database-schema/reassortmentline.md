@@ -124,6 +124,7 @@ description: Righe dei riassortimenti
 * 4: VariableItem
 * 5: Idrolab
 * 8: IlDataPool
+* 9: ItemKit
 
 ## LockedFields
 

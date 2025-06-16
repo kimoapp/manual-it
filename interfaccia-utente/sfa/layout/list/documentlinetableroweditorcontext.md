@@ -19,6 +19,7 @@
 | AvailabilityErpStatus1 \[1..3\] |  |
 | AvailabilityFreeDecimal1 \[1..2\] |  |
 | AverageNetUnitPrice |  |
+| CustomerDiscountGroupId |  |
 | CustomerGroupId |  |
 | DeliveryDate |  |
 | DiscountFromRetailPrice |  |
@@ -50,6 +51,7 @@
 | LineSaleMarginIcon |  |
 | LogisticCenterAvailability |  |
 | ManufacturerId |  |
+| ManufacturerImage |  |
 | ManufacturerItemId |  |
 | NetCost |  |
 | NetRetailUnitPriceOverAverageRetailDiscount |  |
@@ -90,6 +92,7 @@
 | StartShipmentDate |  |
 | TotalDiscount |  |
 | TotalPrice |  |
+| TrademarkImage |  |
 | UnitPrice |  |
 | UnitsPerPackWithIcon |  |
 | UnitsPerSalesUom |  |

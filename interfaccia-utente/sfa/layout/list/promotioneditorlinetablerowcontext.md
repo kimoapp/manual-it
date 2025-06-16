@@ -3,6 +3,13 @@
 **Context:** PromotionEditorLineTableRowContext  
 **Default Layout:** PromotionEditorLineTableRowLayout
 
+## Contesti
+
+| Id | Descrizione |
+| :--- | :--- |
+| Promotion.Added | Attivo quando l'articolo è stato aggiunto alla promozione |
+| Promotion.NotAdded | Attivo quando l'articolo non è stato ancora aggiunto alla promozione |
+
 ## Regole
 
 | Id | Descrizione |
@@ -35,12 +42,17 @@
 | LogisticCenterAvailability |  |
 | MandatoryIcon |  |
 | ManufacturerId |  |
+| ManufacturerImage |  |
 | ManufacturerItemId |  |
 | MaxQty |  |
 | MinQty |  |
 | NetUnitPrice |  |
+| NumberOfPacksStepperMinus |  |
+| NumberOfPacksStepperPlus |  |
 | NumberOfPacksWithUom |  |
 | PackUnitQtyWithUom |  |
+| SalesQtyStepperMinus |  |
+| SalesQtyStepperPlus |  |
 | SalesQtyWithUom |  |
 | SaleTypeCode |  |
 | SaleTypeDescription |  |
@@ -49,6 +61,7 @@
 | StartAvailabilityDate |  |
 | SuggestedQty |  |
 | TotalPrice |  |
+| TrademarkImage |  |
 | UnitPrice |  |
 | UnitsPerPackWithIcon |  |
 | UnitsPerSalesUom |  |

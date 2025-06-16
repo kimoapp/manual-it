@@ -47,6 +47,33 @@ description: Promozioni
 | QuantityRange4\_Discount | Sconto | dec |  |
 | QuantityRange4\_ImposedUnitPrice | Prezzo unitario imposto | dec |  |
 | QuantityRange4\_Quantity | Quantità | dec |  |
+| Range1\_Discount | Sconto | dec |  |
+| Range1\_DiscountColumn | Posizione in cui applicare lo sconto | int |  |
+| Range1\_DiscountType | Tipologia di sconto applicata | text | 50 |
+| Range1\_GiftFreeQty | Quantità omaggiata | dec |  |
+| Range1\_GiftItemId | Codice articolo omaggiato | text | 50 |
+| [Range1\_GiftQtyApplicationMode](promotion.md#range1_giftqtyapplicationmode) | Modalità di calcolo della quantità omaggio | enum |  |
+| Range1\_GiftSaleTypeId | Tipo vendita dell'articolo omaggiato | text | 50 |
+| Range1\_MinAmount | Importo minimo | dec |  |
+| Range1\_MinQuantity | Quantità minima | dec |  |
+| Range2\_Discount | Sconto | dec |  |
+| Range2\_DiscountColumn | Posizione in cui applicare lo sconto | int |  |
+| Range2\_DiscountType | Tipologia di sconto applicata | text | 50 |
+| Range2\_GiftFreeQty | Quantità omaggiata | dec |  |
+| Range2\_GiftItemId | Codice articolo omaggiato | text | 50 |
+| [Range2\_GiftQtyApplicationMode](promotion.md#range2_giftqtyapplicationmode) | Modalità di calcolo della quantità omaggio | enum |  |
+| Range2\_GiftSaleTypeId | Tipo vendita dell'articolo omaggiato | text | 50 |
+| Range2\_MinAmount | Importo minimo | dec |  |
+| Range2\_MinQuantity | Quantità minima | dec |  |
+| Range3\_Discount | Sconto | dec |  |
+| Range3\_DiscountColumn | Posizione in cui applicare lo sconto | int |  |
+| Range3\_DiscountType | Tipologia di sconto applicata | text | 50 |
+| Range3\_GiftFreeQty | Quantità omaggiata | dec |  |
+| Range3\_GiftItemId | Codice articolo omaggiato | text | 50 |
+| [Range3\_GiftQtyApplicationMode](promotion.md#range3_giftqtyapplicationmode) | Modalità di calcolo della quantità omaggio | enum |  |
+| Range3\_GiftSaleTypeId | Tipo vendita dell'articolo omaggiato | text | 50 |
+| Range3\_MinAmount | Importo minimo | dec |  |
+| Range3\_MinQuantity | Quantità minima | dec |  |
 | SalesControlsExcludedContributeTo | Lista dei controlli commerciali a cui NON contribuisce la promozione \(* per tutti\) | text | text |
 | SalesControlsExcludedSubjectTo | Lista dei controlli commerciali a cui NON è soggetta la promozione \(* per tutti\) | text | text |
 | SaleTypeId | Tipo vendita | text | 50 |
@@ -85,3 +112,20 @@ description: Promozioni
 * 3: N+M mono-referenza \(solo un articolo\)
 * 4: Riservate per il Calcolo Prezzi
 * 5: Promozione per intero documento
+* 6: Promozione ad obiettivo Importo con possibilità di scaglioni
+* 7: Promozione ad obiettivo Quantità con possibilità di scaglioni
+
+## Range1\_GiftQtyApplicationMode
+
+* 0: GiftFreeQty
+* 1: CalculatedGiftFreeQty
+
+## Range2\_GiftQtyApplicationMode
+
+* 0: GiftFreeQty
+* 1: CalculatedGiftFreeQty
+
+## Range3\_GiftQtyApplicationMode
+
+* 0: GiftFreeQty
+* 1: CalculatedGiftFreeQty

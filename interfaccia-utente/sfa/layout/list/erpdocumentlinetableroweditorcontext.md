@@ -32,6 +32,7 @@
 | Lot |  |
 | LotDate |  |
 | ManufacturerId |  |
+| ManufacturerImage |  |
 | ManufacturerItemId |  |
 | NetCost |  |
 | NetUnitPrice |  |
@@ -44,6 +45,7 @@
 | SaleTypeIcon |  |
 | ShippedQty |  |
 | TotalPrice |  |
+| TrademarkImage |  |
 | UnitPrice |  |
 | UnitsPerSalesUom |  |
 

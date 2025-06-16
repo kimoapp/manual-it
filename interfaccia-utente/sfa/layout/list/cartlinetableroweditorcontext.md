@@ -18,11 +18,13 @@
 | ItemImage |  |
 | LogisticCenterAvailability |  |
 | ManufacturerId |  |
+| ManufacturerImage |  |
 | ManufacturerItemId |  |
 | NetUnitPrice |  |
 | SalesQtyWithUom |  |
 | StartAvailabilityDate |  |
 | TotalPrice |  |
+| TrademarkImage |  |
 | UnitPrice |  |
 | WarehouseAvailability |  |
 

@@ -30,6 +30,8 @@
 | ActualPreviousQuantity |  |
 | ActualProgress |  |
 | ActualQuantity |  |
+| ActualQuantityProgress |  |
+| ActualVsForecastProgress |  |
 | BudgetAmount |  |
 | BudgetAveragePrice |  |
 | BudgetFreeDecimal1 \[1..6\] |  |
@@ -50,5 +52,6 @@
 | LinesRevisedAmount |  |
 | LinesRevisedQuantity |  |
 | ManufacturerId |  |
+| NumberOfAccountsForCurrentLevel |  |
 | Title |  |
 

@@ -77,6 +77,8 @@ description: Righe dei controlli commerciali sui documenti di vendita
 * 2: ItemSeries
 * 3: ItemCollectedOnSite
 * 4: ItemFromReassortmentType
+* 5: Manufacturer
+* 6: Trademark
 
 ## MultipleQuantity
 

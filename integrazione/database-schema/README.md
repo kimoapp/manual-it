@@ -64,6 +64,7 @@
 | [ItemAttachment](itemattachment.md) | Allegati articoli |
 | [ItemCharge](itemcharge.md) | Spese per articoli |
 | [ItemChargeType](itemchargetype.md) | Tipi di spese per articoli \(es. RAEE\) |
+| [ItemClassification](itemclassification.md) | Classificazione articoli |
 | [ItemCollection](itemcollection.md) | Collezione articoli |
 | [ItemCollectionTranslation](itemcollectiontranslation.md) | Traduzioni in lingua delle collezioni articoli |
 | [ItemCost](itemcost.md) | Costo articoli \(netto, lordo, ...\) |
