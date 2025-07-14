@@ -64,6 +64,7 @@ description: Controlli commerciali sui documenti di vendita
 * 33: Importo minimo del documento in presenza di una promozione specifica
 * 34: Controllo commerciale generico in cui è possibile specificare un messaggio custom
 * 35: Non è possibile confermare ordini su un Prospect
+* 36: Controllo commerciale su fido disponibile
 
 ## SaleTypeTargetContributeTo
 

@@ -25,6 +25,7 @@
 * ErpStatus
 * FreeBoolean
 * FreeLookup
+* ItemClassification
 * ItemCollection
 * ItemGroupLevel
 * ItemLine

@@ -15,6 +15,7 @@
 | :--- | :--- |
 | ActualAmount |  |
 | ActualAmountVsLineCurrentAmountProgress |  |
+| ActualAmountVsLinesAmountProgress |  |
 | ActualAveragePrice |  |
 | ActualForecastAmount |  |
 | ActualForecastAmountVsLineCurrentAmountProgress |  |

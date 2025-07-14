@@ -100,6 +100,7 @@
     * [ReceivableBookMail](impostazioni/business-rules/receivablebookmail.md)
     * [ReceivableInstallment](impostazioni/business-rules/receivableinstallment.md)
     * [Rma](impostazioni/business-rules/rma.md)
+    * [SalesAgent](impostazioni/business-rules/salesagent.md)
     * [SalesControl](impostazioni/business-rules/salescontrol.md)
     * [SalesControlDocument](impostazioni/business-rules/salescontroldocument.md)
     * [SalesControlDocumentLine](impostazioni/business-rules/salescontroldocumentline.md)
