@@ -1,6 +1,6 @@
 # Promozioni
 
-https://app.gitbook.com/o/-Kv3UZ4g8dSfYFvyl9tO/s/-LPpk5IsUPUlxEIxH-lc/funzionalita/promozioniIn Kimo è possibile configurare 3 tipi di promozioni:
+In Kimo è possibile configurare 3 tipi di promozioni:
 
 * **Classic**: Permette di definire una condizione di vendita che modifica prezzo e/o sconti di uno o più articoli
 * **Kit**: Permette di definire una confezione di articoli vendibili in quantità prestabilite a livello di promozione, la quantità di vendita è il risultato della moltiplicazione tra i campi SuggestedQty e NumberOfKits
@@ -25,7 +25,7 @@ I tipi di Encoding disponibili sono:
 
 In aggiunta ai campi EncodingType ed EncodingKey è possibile filtrare per 10 magazzini differenti; i magazzini sono rappresentati da 10 differenti campi della tabella col nome WarehouseId(X).\
 Il campo WarehousesIncluded indica se devono essere inclusi o esclusi quelli specificati.\
-Se si vogliono abilitare tutti i magazzini gestiti è sufficiente inserire 0 nel flag WarehousesIncluded  e lasciare null i campi WarehouseId(X).
+Se si vogliono abilitare tutti i magazzini gestiti è sufficiente inserire 0 nel flag WarehousesIncluded e lasciare null i campi WarehouseId(X).
 
 ### Promotion
 
@@ -60,15 +60,15 @@ Gli articoli inclusi nella promozione possono essere indicati a livello di Promo
 * ItemLine: Famiglia statistica fornitore
 * MAGO\_IG: Gruppo merceologico con livello specifico (Specifica per clienti MAGO)
 
-In base al tipo di Encoding inserito, andrà specificato nell'EncodingKey il codice a cui applicare la promozione (Es: Nel caso di EncodingType = AR il campo EncodingKey va valorizzato col codice di un articolo). \
+In base al tipo di Encoding inserito, andrà specificato nell'EncodingKey il codice a cui applicare la promozione (Es: Nel caso di EncodingType = AR il campo EncodingKey va valorizzato col codice di un articolo).\
 Anche in questo caso i due campi sono regolati dal flag 'Included' che indica se la categoria indicata deve avere una funzione inclusiva o esclusiva.
 
 Principali campi che permettono di alterare il funzionamento della riga in promozione:
 
 * **MaxDiscount** -> Definisce lo sconto massimo per la riga della promozione
 * **GiftPaidQty** -> Nelle promozioni N+M indica la quantità N
-* **GiftFreeQty** ->  Nelle promozioni N+M indica la quantità M
-* **GiftQtyMode** -> Indica se la quantità in omaggio è inclusa nel valore GiftPaidQty ( Es: Promo 2+1 -> Se 0 GiftPaidQty  è 3, se 1 GiftPaidQty è 2)
+* **GiftFreeQty** -> Nelle promozioni N+M indica la quantità M
+* **GiftQtyMode** -> Indica se la quantità in omaggio è inclusa nel valore GiftPaidQty ( Es: Promo 2+1 -> Se 0 GiftPaidQty è 3, se 1 GiftPaidQty è 2)
 * **GiftItemId** -> Codice dell'articolo in omaggio: in promozioni N + M in cui l'articolo in omaggio è diverso da quello venduto
 * **QuantityRangeN\_Quantity** -> Quantità di inizio
 * **QuantityRangeN\_Discounts** -> Sconti personalizzati per la quantità indicata
@@ -79,21 +79,20 @@ Principali campi che permettono di alterare il funzionamento della riga in promo
 L'attivazione di una promozione può essere eseguita nei seguenti modi:
 
 * Accedendo all'editor delle promozioni:
-  *   È possibile accedere all'editor delle promozioni tramite l'apposita funzionalità presente nel menù,&#x20;
+  *   È possibile accedere all'editor delle promozioni tramite l'apposita funzionalità presente nel menù,
 
       si verrà reindirizzati all'elenco delle promozioni; una volta scelta la promozione verrà visualizzato l'elenco degli articoli presenti al suo interno.
 
-![](<../.gitbook/assets/Simulator Screen Shot - iPad Pro (9.7-inch) - 2019-10-14 at 15.48.28\_framed.png>)
+![](<../.gitbook/assets/Simulator Screen Shot - iPad Pro (9.7-inch) - 2019-10-14 at 15.48.28_framed.png>)
 
-* Tappando la stellina: Per gli articoli in cui è presente almeno una promozione c'è la possibilità di configurare il layout facendo si che venga visualizzata la stellina delle promozioni <img src="../.gitbook/assets/Screenshot 2019-10-14 at 14.28.04.png" alt="" data-size="original"> . Tappando su questa stellina si potrà accedere direttamente all'interno dell'editor della riga promozione.\
-
+* Tappando la stellina: Per gli articoli in cui è presente almeno una promozione c'è la possibilità di configurare il layout facendo si che venga visualizzata la stellina delle promozioni <img src="../.gitbook/assets/Screenshot 2019-10-14 at 14.28.04.png" alt="" data-size="original"> . Tappando su questa stellina si potrà accedere direttamente all'interno dell'editor della riga promozione.\\
 * Cambiando condizione di vendita nell'editor della riga documento:
   *   Per poter eseguire questa operazione deve essere stato appositamente
 
       configurato il layout [DocumentLineEditor](../interfaccia-utente/sfa/layout/list/documentlineeditorcontext.md).\
       N.B. Non tutte le promozione possono essere attivate con questo metodo, le promozioni complesse devono necessariamente essere attivate dall'editor
 
-![](<../.gitbook/assets/Simulator Screen Shot - iPad Pro (9.7-inch) - 2019-10-14 at 15.56.53\_framed.png>)
+![](<../.gitbook/assets/Simulator Screen Shot - iPad Pro (9.7-inch) - 2019-10-14 at 15.56.53_framed.png>)
 
 * Attivazione automatica:
   * Nella tabella delle promozioni è presente un campo, ActivationMode, che definisce la modalità di attivazione della promozione, utilizzando la modalità automatica (1) l'articolo, già all'interno del catalogo, mostrerà ed utilizzerà il prezzo calcolato con la condizione di vendita definita nella promozione
