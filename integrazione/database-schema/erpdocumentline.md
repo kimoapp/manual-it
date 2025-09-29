@@ -87,6 +87,7 @@ description: Righe dei Documenti da Erp
 | LineSaleMargin | Margine percentuale | dec |  |
 | LineSaleMarginAmount | Margine in valore | dec |  |
 | [LineType](erpdocumentline.md#linetype) | Tipo riga documento | enum |  |
+| LoseRemaining | Perdita residuo | bool |  |
 | Lot | Lotto | text | 50 |
 | LotDate |  | date |  |
 | ManufacturerId | Id produttore | text | 50 |

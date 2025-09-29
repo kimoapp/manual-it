@@ -20,6 +20,8 @@
 | [BudgetPerSalesAgent](budgetpersalesagent.md) | Associazione dei Budget agli agenti |
 | [BusinessRuleFromErp](businessrulefromerp.md) | Valori per Business Rule definite sull'Erp |
 | [Carrier](carrier.md) | Vettore |
+| [CarrierPerCountrySubdivision](carrierpercountrysubdivision.md) | Vettori per provincia |
+| [CarrierPerZone](carrierperzone.md) | Vettori per zona |
 | [CatalogPriceList](catalogpricelist.md) | Listini da usare per visualizzare i prezzi nel catalogo |
 | [CompanyRole](companyrole.md) | Ruolo aziendale |
 | [Contact](contact.md) | Contatti |
@@ -79,6 +81,7 @@
 | [ItemListPrice](itemlistprice.md) | Prezzi per articolo |
 | [ItemLotOfflineAvailability](itemlotofflineavailability.md) | Disponibilità 'offline' dei lotti |
 | [ItemOfflineAvailability](itemofflineavailability.md) | Disponibilità 'offline' degli articoli |
+| [ItemPerPromotionItemGroup](itemperpromotionitemgroup.md) | Associazione Item - PromotionItemGroup |
 | [ItemSeries](itemseries.md) | Serie articolo |
 | [ItemSeriesTranslation](itemseriestranslation.md) | Traduzioni in lingua delle serie articolo |
 | [ItemSpecificationField](itemspecificationfield.md) | Specifiche tecniche |
@@ -129,6 +132,7 @@
 | [PromotionCustomerGroup](promotioncustomergroup.md) | Gruppi promozione clienti |
 | [PromotionFilter](promotionfilter.md) | Filtri promozioni |
 | [PromotionImage](promotionimage.md) | Immagini promozioni \(percorsi dei file\) |
+| [PromotionItemGroup](promotionitemgroup.md) | Gruppi promozione articoli |
 | [PromotionLine](promotionline.md) | Righe promozioni |
 | [Reassortment](reassortment.md) | Riassortimenti |
 | [ReassortmentLine](reassortmentline.md) | Righe dei riassortimenti |
@@ -145,6 +149,8 @@
 | [SalesControlLine](salescontrolline.md) | Righe dei controlli commerciali sui documenti di vendita |
 | [SalesDiscountCategory](salesdiscountcategory.md) | Categoria sconto vendita |
 | [SaleTypePerItem](saletypeperitem.md) | Tipi di vendita per articolo |
+| [SapS4HanaDiscount](saps4hanadiscount.md) | Sconti nell'Erp SAP S/4HANA |
+| [SapS4HanaPrice](saps4hanaprice.md) | Prezzi di vendita nell'Erp SAP S/4HANA |
 | [Season](season.md) | Stagioni di vendita |
 | [SeasonGroup](seasongroup.md) | Gruppi di stagioni di vendita |
 | [SeasonPerSeasonGroup](seasonperseasongroup.md) | Associazione stagioni di vendita ai relativi gruppi |

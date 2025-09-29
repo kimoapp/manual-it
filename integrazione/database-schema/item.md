@@ -21,6 +21,8 @@ description: Articoli
 | ErpStatusId1 |  | text | 50 |
 | ErpStatusId2 |  | text | 50 |
 | ErpStatusId3 |  | text | 50 |
+| ErpStatusId4 |  | text | 50 |
+| ErpStatusId5 |  | text | 50 |
 | FreeBoolean1 | Campo booleano libero | bool |  |
 | FreeBoolean2 | Campo booleano libero | bool |  |
 | FreeBoolean3 | Campo booleano libero | bool |  |
@@ -42,7 +44,7 @@ description: Articoli
 | GenderId | Id genere | text | 50 |
 | Id | Id | text | 50 |
 | IsVisibleOnItemsSearch | Indica se l'articolo debba essere nascosto in fase di ricerca | bool |  |
-| ItemClassificationId | Id della classificazione articolo | text | 100 |
+| ItemClassificationId | Id della classificazione articolo | text | 50 |
 | ItemDiscountGroupId | Id del gruppo sconti articolo | text | 50 |
 | ItemGroupLevel1Id | Id gruppo articoli livello 1 | text | 50 |
 | ItemGroupLevel2Id | Id gruppo articoli livello 2 | text | 50 |

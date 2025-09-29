@@ -10,7 +10,7 @@
 | ItemCollectionDescription |  |
 | ItemCollectionId |  |
 | ItemCollectionImage |  |
-| ItemErpStatus1 \[1..3\] |  |
+| ItemErpStatus1 \[1..5\] |  |
 | ItemGroupLevel1Description |  |
 | ItemGroupLevel1Id |  |
 | ItemGroupLevel2Description |  |

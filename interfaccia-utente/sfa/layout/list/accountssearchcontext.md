@@ -52,7 +52,7 @@ description: Ricerca account
 | Code |  |
 | CustomerPriceGroupDescription |  |
 | CustomerPriceGroupId | Id del gruppo prezzi cliente |
-| ErpStatus1 \[1..3\] |  |
+| ErpStatus1 \[1..5\] |  |
 | ExpiredInstallmentsAmount | Importo delle partite aperte scadute |
 | Fax | Fax |
 | FreeBoolean1 \[1..7\] |  |

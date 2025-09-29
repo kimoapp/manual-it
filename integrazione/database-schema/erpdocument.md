@@ -112,6 +112,7 @@ description: Documenti da Erp
 | ItemLineId | Id della line articolo | text | 50 |
 | ItemSeriesId | Id della serie articolo | text | 50 |
 | LanguageId | Id della lingua | text | 20 |
+| LoseRemaining | Perdita residuo | bool |  |
 | Markup | Ricarico | dec |  |
 | Notes | Note | text | text |
 | Number | Numero documento | text | 50 |
@@ -185,6 +186,7 @@ description: Documenti da Erp
 * 4: ApprovalByManagerRequired
 * 5: ApprovalByAccountRequired
 * 6: RejectedByAccount
+* 7: ApprovedByManager
 * -1: Undefined
 
 ## FulfillmentStatus

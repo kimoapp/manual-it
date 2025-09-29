@@ -51,6 +51,7 @@
 | NumberOfPacksStepperPlus |  |
 | NumberOfPacksWithUom |  |
 | PackUnitQtyWithUom |  |
+| PriceDiscounts |  |
 | SalesQtyStepperMinus |  |
 | SalesQtyStepperPlus |  |
 | SalesQtyWithUom |  |

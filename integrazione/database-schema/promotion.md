@@ -93,6 +93,7 @@ description: Promozioni
 * 4: TakeGrossUnitPrice
 * 5: TakeNetUnitPrice
 * 6: TakeStandardPrice
+* 7: IncludeForCustomerGroupOnSap
 
 ## GiftQtyMode
 

@@ -27,6 +27,7 @@
 * FreeLookup
 * ItemClassification
 * ItemCollection
+* ItemDiscountGroup
 * ItemGroupLevel
 * ItemLine
 * ItemSeries

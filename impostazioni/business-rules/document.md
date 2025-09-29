@@ -20,6 +20,8 @@
 | [**PricesReferenceDateUpdateMode**](document.md#pricesreferencedateupdatemode) | Modalità di aggiornamento della data di riferimento per il calcolo dei prezzi |
 | [**QuantitiesSummaryTemplate**](document.md#quantitiessummarytemplate) |  |
 | [**ReportSignatureRequireMode**](document.md#reportsignaturerequiremode) | Modalità di avviso per report non firmato |
+| [**SfaAutoArchiveCutOffDate**](document.md#sfaautoarchivecutoffdate) | Data limite oltre la quale i documenti verranno archiviati automaticamente |
+| [**SfaAutoArchiveReasonId**](document.md#sfaautoarchivereasonid) | Causale da utilizzare per l'archiviazione automatica dei documenti |
 | [**ShipmentSiteIsMandatoryIfCustomerHasAtLeastOne**](document.md#shipmentsiteismandatoryifcustomerhasatleastone) | La destinazioni merci deve essere selezionata se il cliente ne ha almeno una |
 | [**ShouldApplyShipmentParamsOnDocumentLine**](document.md#shouldapplyshipmentparamsondocumentline) | Indica se i parametri di spedizione devono essere applicati alle linee del documento |
 | [**ShouldApplyTrademarkPerAccountOnSfa**](document.md#shouldapplytrademarkperaccountonsfa) | Applicare il filtro del marchio per account |
@@ -118,11 +120,13 @@
 * 14 =&gt; LoadAccountForm
 * 15 =&gt; LoadAccountNotes
 * 16 =&gt; RecalculatePrices
-* 17 =&gt; ApproveDocument
+* 17 =&gt; ApproveAndCheckoutDocument
 * 18 =&gt; DuplicateAlternative
 * 19 =&gt; NewAlternative
 * 20 =&gt; ChangeAlternative
 * 21 =&gt; OpenDocumentConfirmationView
+* 22 =&gt; SendDocumentForApproval
+* 23 =&gt; ApproveDocument
 
 ## PricesReferenceDateUpdateMode
 
@@ -143,6 +147,14 @@
 
 * 0 =&gt; No
 * 1 =&gt; Warning
+
+## SfaAutoArchiveCutOffDate
+
+**Tipo:** Nullable`1
+
+## SfaAutoArchiveReasonId
+
+**Tipo:** String
 
 ## ShipmentSiteIsMandatoryIfCustomerHasAtLeastOne
 

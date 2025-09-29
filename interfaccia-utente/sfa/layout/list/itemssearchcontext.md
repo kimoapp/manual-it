@@ -49,7 +49,7 @@
 | Document\_FreeText1 \[1..3\] |  |
 | Document\_FulfillmentStatus |  |
 | Document\_GrossCost |  |
-| Document\_Item.ErpStatus1 \[1..3\] |  |
+| Document\_Item.ErpStatus1 \[1..5\] |  |
 | Document\_Item.FreeText1 \[1..5\] |  |
 | Document\_ItemChargesAmount |  |
 | Document\_ItemChargesTypeDescription |  |
@@ -116,7 +116,7 @@
 | Document\_WarehouseId |  |
 | EncodedId |  |
 | EndCustomerPrice | Prezzo articolo al cliente finale |
-| ErpStatus1 \[1..3\] |  |
+| ErpStatus1 \[1..5\] |  |
 | FreeBoolean1 \[1..5\] |  |
 | FreeDecimal1 \[1..3\] |  |
 | FreeLookup1Description \[1..3\] |  |
@@ -176,6 +176,7 @@
 | Promotion\_NumberOfPacksStepperPlus |  |
 | Promotion\_NumberOfPacksWithUom |  |
 | Promotion\_PackUnitQtyWithUom |  |
+| Promotion\_PriceDiscounts |  |
 | Promotion\_SalesQtyStepperMinus |  |
 | Promotion\_SalesQtyStepperPlus |  |
 | Promotion\_SalesQtyWithUom |  |

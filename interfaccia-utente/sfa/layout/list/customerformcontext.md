@@ -67,11 +67,12 @@ description: Scheda con le informazioni di un account
 | DeliveryDateType |  |
 | DeliveryDateTypeDescription |  |
 | DeliveryDateTypeId |  |
+| Description |  |
 | Discounts |  |
-| ErpStatus1 \[1..3\] |  |
-| ErpStatus1Code \[1..3\] |  |
-| ErpStatus1Description \[1..3\] |  |
-| ErpStatus1Id \[1..3\] |  |
+| ErpStatus1 \[1..5\] |  |
+| ErpStatus1Code \[1..5\] |  |
+| ErpStatus1Description \[1..5\] |  |
+| ErpStatus1Id \[1..5\] |  |
 | ExpiredInstallmentsAmount |  |
 | Fax |  |
 | FiscalCode |  |
@@ -92,6 +93,7 @@ description: Scheda con le informazioni di un account
 | HeadOfficeName |  |
 | HeadOfficeVisibilityStyle |  |
 | Id |  |
+| Id |  |
 | InvoiceDiscount |  |
 | InvoiceDiscountDescription |  |
 | InvoiceDiscountId |  |
@@ -110,6 +112,7 @@ description: Scheda con le informazioni di un account
 | LogisticPhone2 |  |
 | LogisticTailLiftServiceCheckbox |  |
 | Mail |  |
+| MinQty |  |
 | MobilePhone |  |
 | Name |  |
 | Name2 |  |

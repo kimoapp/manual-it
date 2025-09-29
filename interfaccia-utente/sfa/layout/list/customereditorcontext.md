@@ -68,6 +68,7 @@ description: Editor per creazione e modifica di clienti e prospect
 | ResponsibleForTransport |  |
 | ShipmentMethod |  |
 | StatisticClass |  |
+| Trademark |  |
 | TransportMode |  |
 | UniqueOfficeCode |  |
 | VatNumber |  |

@@ -14,7 +14,9 @@
 **Valore di default:** SearchType\|Timeframe\|ExpirationStatus  
 **Valori:**
 
+* Customer
 * ExpirationStatus
+* FreeBoolean
 * SearchType
 * Timeframe
 

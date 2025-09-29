@@ -38,6 +38,7 @@ description: Righe promozioni
 | [MultipleQty](promotionline.md#multipleqty) | Quantità multipla | dec |  |
 | NextSalesCondition | Prossima condizione di vendita da ricercare | text | 50 |
 | Notes | Note | text | text |
+| PackUomId | Indica il PackUom da utilizzare per gli articoli | text | 20 |
 | PromotionId | Id della promozione | text | 50 |
 | [QtyDivisibilityRule](promotionline.md#qtydivisibilityrule) | Indica se la quantità totale deve essere divisibile per l'unità per confezione | enum |  |
 | QuantityRange1\_Discount | Sconto | dec |  |

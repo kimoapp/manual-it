@@ -9,6 +9,7 @@
 | [**PromotionDiscountsPositionMode**](pricecalculation.md#promotiondiscountspositionmode) | Posizione degli sconti provenienti dalle promozioni \(testata o righe\) |
 | [**RetailPriceDecimalDigitsRounding**](pricecalculation.md#retailpricedecimaldigitsrounding) | Numero di cifre decimali nei prezzi retail |
 | [**RetailPricesIncludeVat**](pricecalculation.md#retailpricesincludevat) | I prezzi retail includono l'IVA |
+| [**ShouldForcePriceRecalculationOnQuantityEdit**](pricecalculation.md#shouldforcepricerecalculationonquantityedit) | Forza il ricalcolo del prezzo ad ogni edit della quantità |
 | [**ShouldShowAllPricesFromPriceCalculator**](pricecalculation.md#shouldshowallpricesfrompricecalculator) | Nella lista di tutte le condizioni di vendita mostra tutti i prezzi ottenibile dall'algoritmo di calcolo prezzi |
 | [**TotalAmountDecimalDigitsRounding**](pricecalculation.md#totalamountdecimaldigitsrounding) | Numero di cifre decimali negli importi totali |
 | [**UnitPriceDecimalDigitsRounding**](pricecalculation.md#unitpricedecimaldigitsrounding) | Numero di cifre decimali nei prezzi unitari |
@@ -55,6 +56,10 @@
 
 * 0 =&gt; No
 * 1 =&gt; Yes
+
+## ShouldForcePriceRecalculationOnQuantityEdit
+
+**Tipo:** Boolean
 
 ## ShouldShowAllPricesFromPriceCalculator
 

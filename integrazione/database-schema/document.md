@@ -256,6 +256,7 @@ description:
 * 4: ApprovalByManagerRequired
 * 5: ApprovalByAccountRequired
 * 6: RejectedByAccount
+* 7: ApprovedByManager
 * -1: Undefined
 
 ## EntityStatus

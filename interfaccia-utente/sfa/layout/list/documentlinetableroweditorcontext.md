@@ -32,7 +32,7 @@
 | FulfillmentStatus |  |
 | GlobalAvailability |  |
 | GrossCost |  |
-| Item.ErpStatus1 \[1..3\] |  |
+| Item.ErpStatus1 \[1..5\] |  |
 | Item.FreeText1 \[1..5\] |  |
 | ItemChargesAmount |  |
 | ItemChargesTypeDescription |  |

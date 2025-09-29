@@ -49,6 +49,8 @@ description: Account (clienti, prospect, destinazioni merci)
 | ErpStatusId1 |  | text | 50 |
 | ErpStatusId2 |  | text | 50 |
 | ErpStatusId3 |  | text | 50 |
+| ErpStatusId4 |  | text | 50 |
+| ErpStatusId5 |  | text | 50 |
 | ExceptionsPriceListId | Id del listino eccezioni associato al cliente | text | 50 |
 | Fax | Fax | text | 50 |
 | FiscalCode | Codice fiscale | text | 30 |

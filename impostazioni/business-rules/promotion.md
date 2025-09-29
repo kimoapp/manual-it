@@ -8,6 +8,7 @@
 | [**PriceDiscountsRuleForGiftLine**](promotion.md#pricediscountsruleforgiftline) | Regola di calcolo del prezzo per le righe con articoli in omaggio |
 | [**SaleTypeIdForGiftItems**](promotion.md#saletypeidforgiftitems) | Id interno del tipo vendita da usare per gli articoli in omaggio nelle promozioni di tipo N+M |
 | [**SortFields**](promotion.md#sortfields) | Campi per l'ordinamento |
+| [**ValidationContext**](promotion.md#validationcontext) | Context da utilizzare quando viene fatta la validazione delle promozioni |
 | [**VisibleLineDiscounts**](promotion.md#visiblelinediscounts) | Numero di sconti visibili nell'editor delle promozioni |
 
 ## ActivationFrequency
@@ -47,6 +48,10 @@
 * Id
 * Notes
 * Number
+
+## ValidationContext
+
+**Tipo:** String
 
 ## VisibleLineDiscounts
 
