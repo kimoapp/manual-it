@@ -15,6 +15,7 @@
 
 | Id | Descrizione |
 | :--- | :--- |
+| AlternativeItems |  |
 | AvailabilityAsFreeText |  |
 | AvailabilityErpStatus1 \[1..3\] |  |
 | AvailabilityFreeDecimal1 \[1..2\] |  |
@@ -66,12 +67,14 @@
 | OriginalDiscounts |  |
 | OriginalNetUnitPrice |  |
 | OriginalPriceListInfo |  |
+| OriginalSparePartItems |  |
 | OriginalUnitPrice |  |
 | PackUnitQtyWithUom |  |
 | PointsPerSale |  |
 | PriceListInfo |  |
 | PromotionId |  |
 | PromotionStatusIcon |  |
+| RelatedItems |  |
 | RemoveLineButton |  |
 | RetailDiscounts |  |
 | RetailNetUnitPrice |  |
@@ -88,8 +91,10 @@
 | SourceReferenceTypeCode |  |
 | SourceReferenceTypeDescription |  |
 | SourceReferenceTypeId |  |
+| SparePartItems |  |
 | StartAvailabilityDate |  |
 | StartShipmentDate |  |
+| SubstitutiveItems |  |
 | TotalDiscount |  |
 | TotalPrice |  |
 | TrademarkImage |  |
@@ -102,4 +107,5 @@
 | WarehouseAvailability |  |
 | WarehouseDescription |  |
 | WarehouseId |  |
+| WarehousesAvailabilities |  |
 

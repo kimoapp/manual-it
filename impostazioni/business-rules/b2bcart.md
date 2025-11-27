@@ -9,7 +9,9 @@
 | [**CustomPricesPolicy**](b2bcart.md#custompricespolicy) | Policy 'custom' per prezzi/sconti a livello di carrello |
 | [**MenuItems**](b2bcart.md#menuitems) | Elementi del menu |
 | [**QuantityDecimalsBehaviour**](b2bcart.md#quantitydecimalsbehaviour) | Inserimento quantità decimali permesso o impedito |
+| [**ShipmentMethodForCollectOnSite**](b2bcart.md#shipmentmethodforcollectonsite) | Metodo di spedizione da applicare quando si attiva il ritiro al banco |
 | [**ShipmentSiteIsMandatory**](b2bcart.md#shipmentsiteismandatory) | Destinazione merci obbligatoria |
+| [**TransportModeForCollectOnSite**](b2bcart.md#transportmodeforcollectonsite) | Modalità di trasporto da applicare quando si attiva il ritiro al banco |
 | [**ValidatePricesObsolescence**](b2bcart.md#validatepricesobsolescence) | Abilita la validazione dei prezzi al checkout |
 | [**ValuesToTakeFromShipmentSite**](b2bcart.md#valuestotakefromshipmentsite) | Valori della destinazione merci che devono andare a sovrascrivere quelli del carrello |
 | [**WarehouseInitSourcePriority**](b2bcart.md#warehouseinitsourcepriority) | Scaletta delle priorità con cui inizializzare il magazzino del carrello |
@@ -85,9 +87,17 @@
 * 0 =&gt; Impedisci l'inserimento di quantità decimali
 * 1 =&gt; Permetti inserimento di quantità decimali
 
+## ShipmentMethodForCollectOnSite
+
+**Tipo:** String
+
 ## ShipmentSiteIsMandatory
 
 **Tipo:** Boolean
+
+## TransportModeForCollectOnSite
+
+**Tipo:** String
 
 ## ValidatePricesObsolescence
 

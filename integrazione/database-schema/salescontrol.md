@@ -65,6 +65,7 @@ description: Controlli commerciali sui documenti di vendita
 * 34: Controllo commerciale generico in cui è possibile specificare un messaggio custom
 * 35: Non è possibile confermare ordini su un Prospect
 * 36: Controllo commerciale su fido disponibile
+* 37: Prezzo unitario modificato
 
 ## SaleTypeTargetContributeTo
 

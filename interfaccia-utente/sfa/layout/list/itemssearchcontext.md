@@ -36,6 +36,7 @@
 | CollectionId | Id della collezione |
 | Description | Descrizione breve dell'articolo |
 | Discounts |  |
+| Document\_AlternativeItems |  |
 | Document\_AverageNetUnitPrice |  |
 | Document\_CustomerDiscountGroupId |  |
 | Document\_CustomerGroupId |  |
@@ -81,12 +82,14 @@
 | Document\_OriginalDiscounts |  |
 | Document\_OriginalNetUnitPrice |  |
 | Document\_OriginalPriceListInfo |  |
+| Document\_OriginalSparePartItems |  |
 | Document\_OriginalUnitPrice |  |
 | Document\_PackUnitQtyWithUom |  |
 | Document\_PointsPerSale |  |
 | Document\_PriceListInfo |  |
 | Document\_PromotionId |  |
 | Document\_PromotionStatusIcon |  |
+| Document\_RelatedItems |  |
 | Document\_RetailDiscounts |  |
 | Document\_RetailNetUnitPrice |  |
 | Document\_RetailUnitPrice |  |
@@ -102,7 +105,9 @@
 | Document\_SourceReferenceTypeCode |  |
 | Document\_SourceReferenceTypeDescription |  |
 | Document\_SourceReferenceTypeId |  |
+| Document\_SparePartItems |  |
 | Document\_StartShipmentDate |  |
+| Document\_SubstitutiveItems |  |
 | Document\_TotalDiscount |  |
 | Document\_TotalPrice |  |
 | Document\_TrademarkImage |  |
@@ -114,6 +119,7 @@
 | Document\_VatRateId |  |
 | Document\_WarehouseDescription |  |
 | Document\_WarehouseId |  |
+| Document\_WarehousesAvailabilities |  |
 | EncodedId |  |
 | EndCustomerPrice | Prezzo articolo al cliente finale |
 | ErpStatus1 \[1..5\] |  |
@@ -146,6 +152,7 @@
 | ManufacturerItemId | Id dell'articolo produttore |
 | NetUnitPrice |  |
 | Notes | Note |
+| OriginalSparePartItems |  |
 | PackUnitUom |  |
 | PackUom | Unità di misura d'imballo |
 | PriceListInfo |  |
@@ -199,6 +206,7 @@
 | RetailUnitPrice |  |
 | SalesUom |  |
 | SeasonId | Id della stagione |
+| SparePartItems |  |
 | StartAvailabilityDate |  |
 | SubstitutiveItems |  |
 | TrademarkId | Id del marchio |

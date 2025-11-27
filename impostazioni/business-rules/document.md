@@ -22,6 +22,7 @@
 | [**ReportSignatureRequireMode**](document.md#reportsignaturerequiremode) | Modalità di avviso per report non firmato |
 | [**SfaAutoArchiveCutOffDate**](document.md#sfaautoarchivecutoffdate) | Data limite oltre la quale i documenti verranno archiviati automaticamente |
 | [**SfaAutoArchiveReasonId**](document.md#sfaautoarchivereasonid) | Causale da utilizzare per l'archiviazione automatica dei documenti |
+| [**ShipmentMethodForCollectOnSite**](document.md#shipmentmethodforcollectonsite) | Metodo di spedizione da applicare quando si attiva il ritiro al banco |
 | [**ShipmentSiteIsMandatoryIfCustomerHasAtLeastOne**](document.md#shipmentsiteismandatoryifcustomerhasatleastone) | La destinazioni merci deve essere selezionata se il cliente ne ha almeno una |
 | [**ShouldApplyShipmentParamsOnDocumentLine**](document.md#shouldapplyshipmentparamsondocumentline) | Indica se i parametri di spedizione devono essere applicati alle linee del documento |
 | [**ShouldApplyTrademarkPerAccountOnSfa**](document.md#shouldapplytrademarkperaccountonsfa) | Applicare il filtro del marchio per account |
@@ -33,6 +34,7 @@
 | [**ShouldUpdateDeliveryDateAccordingToFulfillmentDate**](document.md#shouldupdatedeliverydateaccordingtofulfillmentdate) | Ricalcola la data di consegna in base alla data di evadibilità della merce |
 | [**TakeShipmentSiteAsDefaultIfHasOnlyOne**](document.md#takeshipmentsiteasdefaultifhasonlyone) | Se è presente una sola destinazione merci per un cliente, viene selezionata di default all'interno dei documenti |
 | [**TotalAmountDiscountsPriority**](document.md#totalamountdiscountspriority) | Definisce la priorità con cui vengono applicati gli sconti nel totale documento |
+| [**TransportModeForCollectOnSite**](document.md#transportmodeforcollectonsite) | Modalità di trasporto da applicare quando si attiva il ritiro al banco |
 | [**ValuesToTakeFromShipmentSite**](document.md#valuestotakefromshipmentsite) | Valori della destinazione merci che devono andare a sovrascrivere quelli del documento |
 | [**VisibleDiscounts**](document.md#visiblediscounts) | Indica gli sconti da visualizzare all'interno dell'editor documento |
 | [**VisibleLineDiscounts**](document.md#visiblelinediscounts) | Indica gli sconti da visualizzare all'interno dell'editor delle linee di un documento |
@@ -156,6 +158,10 @@
 
 **Tipo:** String
 
+## ShipmentMethodForCollectOnSite
+
+**Tipo:** String
+
 ## ShipmentSiteIsMandatoryIfCustomerHasAtLeastOne
 
 **Tipo:** Boolean
@@ -208,6 +214,10 @@
 
 * 1 =&gt; DocumentDiscounts
 * 2 =&gt; DocumentPaymentDiscounts
+
+## TransportModeForCollectOnSite
+
+**Tipo:** String
 
 ## ValuesToTakeFromShipmentSite
 

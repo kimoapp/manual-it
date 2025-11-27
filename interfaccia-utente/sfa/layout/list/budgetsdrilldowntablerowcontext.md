@@ -23,6 +23,10 @@
 | ActualForecastProgress |  |
 | ActualForecastQuantity |  |
 | ActualFreeDecimal1 \[1..6\] |  |
+| ActualFreeDecimal1VsBudgetFreeDecimal1Progress |  |
+| ActualFreeDecimal1VsLineFreeDecimal1Progress |  |
+| ActualFreeDecimal2VsBudgetFreeDecimal2Progress |  |
+| ActualFreeDecimal2VsLineFreeDecimal2Progress |  |
 | ActualFreeDecimal4VsActualFreeDecimal3AveragePrice |  |
 | ActualFreeDecimal4VsLineCurrentAmountProgress |  |
 | ActualPreviousAmount |  |
@@ -54,5 +58,6 @@
 | LinesRevisedQuantity |  |
 | ManufacturerId |  |
 | NumberOfAccountsForCurrentLevel |  |
+| NumberOfActualAccountsForCurrentLevel |  |
 | Title |  |
 

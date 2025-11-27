@@ -55,3 +55,5 @@ description: Articoli alternativi, sostitutivi o collegati
 * 3: Alternative
 * 4: Grouped
 * 5: Kit
+* 6: SparePart
+* 7: OriginalSparePart

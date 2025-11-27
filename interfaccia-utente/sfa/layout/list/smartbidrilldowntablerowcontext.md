@@ -38,6 +38,7 @@
 | LinesNumbersOfPacks |  |
 | LinesNumbersOfPacksPerYear1 \[1..5\] |  |
 | LinesSalesQtys |  |
+| LinesSalesQtysPerYear\_Delta1 \[1..5\] |  |
 | LinesSalesQtysPerYear1 \[1..5\] |  |
 | LinesYear1 \[1..5\] |  |
 | ManufacturerId |  |
