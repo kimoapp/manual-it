@@ -12,6 +12,7 @@
 | [**ImageActionType**](b2bitem.md#imageactiontype) | Comportamento al click sull'immagine articolo |
 | [**KeywordSearchFields**](b2bitem.md#keywordsearchfields) | Campi per la ricerca testuale |
 | [**KeywordSearchFieldsWithWeight**](b2bitem.md#keywordsearchfieldswithweight) | Campi per la ricerca testuale pesata |
+| [**KeywordSearchSingleWordExactMatchFields**](b2bitem.md#keywordsearchsinglewordexactmatchfields) | Campi per la ricerca esatta \(es. ItemId, Barcode, ItemCrossReference\) |
 | [**ReassortmentSummaries**](b2bitem.md#reassortmentsummaries) | Riepilogo riassortimenti |
 | [**SearchOperator**](b2bitem.md#searchoperator) | Operatore per la ricerca sul catalogo |
 | [**SearchResultPageSize**](b2bitem.md#searchresultpagesize) | Numero di articoli per pagina da restituire nella ricerca paginata |
@@ -107,6 +108,11 @@
 
 **Tipo:** Valori separati da pipe  
 **Valore di default:** {'Id': 1.0, 'Description': 1.0}
+
+## KeywordSearchSingleWordExactMatchFields
+
+**Tipo:** Valori separati da pipe  
+**Valore di default:** ItemId\|Barcode\|ItemCrossReference
 
 ## ReassortmentSummaries
 

@@ -4,6 +4,7 @@
 | :--- | :--- |
 | [**ActivationFrequency**](promotion.md#activationfrequency) | Indica se � possibile attivare pi� volte la stessa promozione all'interno di un documento |
 | [**ActivationWorkflow**](promotion.md#activationworkflow) | Modalit� di attivazione delle promozioni |
+| [**LinesToKeepOnDocumentWhenPromotionIsLeft**](promotion.md#linestokeepondocumentwhenpromotionisleft) |  |
 | [**LivePriceCalculation**](promotion.md#livepricecalculation) | Abilita il calcolo dei prezzi 'live' nell'editor delle promozioni |
 | [**PriceDiscountsRuleForGiftLine**](promotion.md#pricediscountsruleforgiftline) | Regola di calcolo del prezzo per le righe con articoli in omaggio |
 | [**SaleTypeIdForGiftItems**](promotion.md#saletypeidforgiftitems) | Id interno del tipo vendita da usare per gli articoli in omaggio nelle promozioni di tipo N+M |
@@ -26,6 +27,15 @@
 
 * 0 =&gt; ShowDetailsAndRequireConfirmation
 * 1 =&gt; QuickActivation
+
+## LinesToKeepOnDocumentWhenPromotionIsLeft
+
+**Tipo:** Enum  
+**Valori:**
+
+* 0 =&gt; OnlyLinesWithNormalSaleTypeMode
+* 1 =&gt; AllLines
+* 2 =&gt; AllLinesExceptMandatoryLines
 
 ## LivePriceCalculation
 

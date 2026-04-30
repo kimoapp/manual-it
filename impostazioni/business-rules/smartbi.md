@@ -3,6 +3,8 @@
 | Valore | Descrizione |
 | :--- | :--- |
 | [**AdvancedSearchFields**](smartbi.md#advancedsearchfields) | Campi per la ricerca avanzata |
+| [**FiscalYearEndDate**](smartbi.md#fiscalyearenddate) | Data limite oltre la quale i documenti verranno archiviati automaticamente |
+| [**FiscalYearStartDate**](smartbi.md#fiscalyearstartdate) | Data limite oltre la quale i documenti verranno archiviati automaticamente |
 | [**Timeframes**](smartbi.md#timeframes) | Periodi |
 
 ## AdvancedSearchFields
@@ -32,6 +34,14 @@
 * Timeframe
 * Trademark
 * Trademarks
+
+## FiscalYearEndDate
+
+**Tipo:** Nullable`1
+
+## FiscalYearStartDate
+
+**Tipo:** Nullable`1
 
 ## Timeframes
 

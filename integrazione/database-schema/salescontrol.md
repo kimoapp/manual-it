@@ -66,6 +66,8 @@ description: Controlli commerciali sui documenti di vendita
 * 35: Non è possibile confermare ordini su un Prospect
 * 36: Controllo commerciale su fido disponibile
 * 37: Prezzo unitario modificato
+* 38: Valore minimo saldo punti vendita
+* 39: Valore massimo saldo punti vendita
 
 ## SaleTypeTargetContributeTo
 

@@ -34,6 +34,7 @@
 | LinesAmountPerYear\_DeltaPercentual1 \[1..5\] |  |
 | LinesAmountPerYear1 \[1..5\] |  |
 | LinesErpStatus1 \[1..3\] |  |
+| LinesFiscalYear1 \[1..5\] |  |
 | LinesFreeDecimal1 \[1..10\] |  |
 | LinesNumbersOfPacks |  |
 | LinesNumbersOfPacksPerYear1 \[1..5\] |  |

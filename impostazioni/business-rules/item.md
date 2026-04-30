@@ -9,6 +9,7 @@
 | [**IdEncodingType**](item.md#idencodingtype) | Modalità di codifica dei codici articoli |
 | [**ItemFormUrlTemplate**](item.md#itemformurltemplate) | Template per comporre l'url della scheda articolo online |
 | [**KeywordSearchFields**](item.md#keywordsearchfields) | Campi per la ricerca testuale |
+| [**KeywordSearchFieldsWithWeight**](item.md#keywordsearchfieldswithweight) | Campi per la ricerca testuale pesata |
 | [**LiveSearch**](item.md#livesearch) | Abilita la ricerca 'live' degli articoli |
 | [**ScanBarcodesViaCamera**](item.md#scanbarcodesviacamera) | Abilita la ricerca dei barcode attraverso la fotocamera del dispositivo |
 | [**SortFields**](item.md#sortfields) |  |
@@ -80,6 +81,10 @@
 
 * Description
 * Id
+
+## KeywordSearchFieldsWithWeight
+
+**Tipo:** Valori separati da pipe
 
 ## LiveSearch
 

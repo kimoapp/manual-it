@@ -14,19 +14,27 @@
 | Id | Descrizione |
 | :--- | :--- |
 | ActualAmount |  |
+| ActualAmountVsActualPreviousAmountDeltaPercentual |  |
+| ActualAmountVsForecastAmountDeltaPercentual |  |
 | ActualAmountVsLineCurrentAmountProgress |  |
 | ActualAmountVsLinesAmountProgress |  |
 | ActualAveragePrice |  |
+| ActualDeltaPercentual |  |
 | ActualForecastAmount |  |
 | ActualForecastAmountVsLineCurrentAmountProgress |  |
 | ActualForecastAveragePrice |  |
+| ActualForecastDeltaPercentual |  |
 | ActualForecastProgress |  |
 | ActualForecastQuantity |  |
 | ActualFreeDecimal1 \[1..6\] |  |
+| ActualFreeDecimal1VsBudgetFreeDecimal1DeltaPercentual |  |
 | ActualFreeDecimal1VsBudgetFreeDecimal1Progress |  |
 | ActualFreeDecimal1VsLineFreeDecimal1Progress |  |
+| ActualFreeDecimal1VsLinesFreeDecimal1DeltaPercentual |  |
+| ActualFreeDecimal2VsBudgetFreeDecimal2DeltaPercentual |  |
 | ActualFreeDecimal2VsBudgetFreeDecimal2Progress |  |
 | ActualFreeDecimal2VsLineFreeDecimal2Progress |  |
+| ActualFreeDecimal2VsLinesFreeDecimal2DeltaPercentual |  |
 | ActualFreeDecimal4VsActualFreeDecimal3AveragePrice |  |
 | ActualFreeDecimal4VsLineCurrentAmountProgress |  |
 | ActualPreviousAmount |  |

@@ -11,6 +11,7 @@
 | [**QuantityDecimalsBehaviour**](b2bcart.md#quantitydecimalsbehaviour) | Inserimento quantità decimali permesso o impedito |
 | [**ShipmentMethodForCollectOnSite**](b2bcart.md#shipmentmethodforcollectonsite) | Metodo di spedizione da applicare quando si attiva il ritiro al banco |
 | [**ShipmentSiteIsMandatory**](b2bcart.md#shipmentsiteismandatory) | Destinazione merci obbligatoria |
+| [**ShouldApplyVatOnItemChargesAmount**](b2bcart.md#shouldapplyvatonitemchargesamount) | Indica se l'IVA deve essere applicata anche ai costi aggiuntivi dell'articolo |
 | [**TransportModeForCollectOnSite**](b2bcart.md#transportmodeforcollectonsite) | Modalità di trasporto da applicare quando si attiva il ritiro al banco |
 | [**ValidatePricesObsolescence**](b2bcart.md#validatepricesobsolescence) | Abilita la validazione dei prezzi al checkout |
 | [**ValuesToTakeFromShipmentSite**](b2bcart.md#valuestotakefromshipmentsite) | Valori della destinazione merci che devono andare a sovrascrivere quelli del carrello |
@@ -92,6 +93,10 @@
 **Tipo:** String
 
 ## ShipmentSiteIsMandatory
+
+**Tipo:** Boolean
+
+## ShouldApplyVatOnItemChargesAmount
 
 **Tipo:** Boolean
 

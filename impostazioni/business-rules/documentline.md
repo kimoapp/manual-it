@@ -9,6 +9,7 @@
 | [**RecalculatePriceOnUomChange**](documentline.md#recalculatepriceonuomchange) |  |
 | [**ReferenceQtyOnUomChange**](documentline.md#referenceqtyonuomchange) |  |
 | [**ShouldApplyVatOnItemChargesAmount**](documentline.md#shouldapplyvatonitemchargesamount) | Indica se l'IVA deve essere applicata anche ai costi aggiuntivi dell'articolo |
+| [**ShouldGroupItemsQtyForPromotionValidation**](documentline.md#shouldgroupitemsqtyforpromotionvalidation) | Indica se la quantità delle righe in promozione con lo stesso articolo devono essere sommate |
 | [**ShouldIncludeItemChargeAmountOnRetailTotalAmount**](documentline.md#shouldincludeitemchargeamountonretailtotalamount) | Indica se l'importo Retail della riga deve considerare anche i costi aggiuntivi dell'articolo |
 | [**ShouldInitUnitPriceFromIdrolab**](documentline.md#shouldinitunitpricefromidrolab) | Indica se il prezzo va inizializzato da Idrolab |
 | [**ShouldInitUnitPriceFromIlDataPool**](documentline.md#shouldinitunitpricefromildatapool) | Indica se il prezzo va inizializzato da IldataPool |
@@ -48,6 +49,10 @@
 * 1 =&gt; SalesQty
 
 ## ShouldApplyVatOnItemChargesAmount
+
+**Tipo:** Boolean
+
+## ShouldGroupItemsQtyForPromotionValidation
 
 **Tipo:** Boolean
 
