@@ -17,6 +17,7 @@
 * [Promozioni](./#promozioni)
 * [Registro incassi](./#registro-incassi)
 * [Riassortimenti](./#riassortimenti)
+* [Rma](./#rma)
 * [Signature](./#signature)
 * [Smart BI](./#smart-bi)
 * [Tentata Vendita](./#tentata-vendita)
@@ -228,6 +229,12 @@
 
 * **Informazioni**
   * [ *\{Reassortment\}*](reassortmentcontext.md)
+
+
+## Rma
+
+* **Editor**
+  * [Editor richieste di reso *\{RmaEditor\}*](rmaeditorcontext.md)
 
 
 ## Signature

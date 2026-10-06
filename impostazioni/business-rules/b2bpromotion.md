@@ -2,10 +2,15 @@
 
 | Valore | Descrizione |
 | :--- | :--- |
-| [**ComplexPromotionEnabled**](b2bpromotion.md#complexpromotionenabled) | Campi per l'ordinamento |
+| [**ComplexPromotionEnabled**](b2bpromotion.md#complexpromotionenabled) | Indica se le promozioni complesse sono state abilitate nel B2B |
+| [**EnableNPlusMPromotionsOnB2B**](b2bpromotion.md#enablenplusmpromotionsonb2b) | Indica se le promozioni N+M sono state abilitate nel B2B |
 | [**SortFields**](b2bpromotion.md#sortfields) | Campi per l'ordinamento |
 
 ## ComplexPromotionEnabled
+
+**Tipo:** Boolean
+
+## EnableNPlusMPromotionsOnB2B
 
 **Tipo:** Boolean
 

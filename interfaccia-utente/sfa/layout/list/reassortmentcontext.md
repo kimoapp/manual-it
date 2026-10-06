@@ -148,6 +148,7 @@
 | OriginalSparePartItems |  |
 | PackUnitUom |  |
 | PackUom |  |
+| PriceListInfo |  |
 | PromotionStatusIcon |  |
 | RelatedItems |  |
 | SalesUomId |  |

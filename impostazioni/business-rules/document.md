@@ -129,6 +129,7 @@
 * 21 =&gt; OpenDocumentConfirmationView
 * 22 =&gt; SendDocumentForApproval
 * 23 =&gt; ApproveDocument
+* 24 =&gt; ApproveApprovableLinesDocument
 
 ## PricesReferenceDateUpdateMode
 

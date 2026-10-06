@@ -29,6 +29,9 @@
 | FreeLookup1Code \[1..5\] |  |
 | FreeLookup1Description \[1..5\] |  |
 | FreeLookup1Id \[1..5\] |  |
+| FreeMultipleLookup1 \[1..3\] |  |
+| FreeMultipleLookup1Description \[1..3\] |  |
+| FreeMultipleLookup1Id \[1..3\] |  |
 | FreeText1 \[1..5\] |  |
 | FullName |  |
 | FullNameWithTitle |  |

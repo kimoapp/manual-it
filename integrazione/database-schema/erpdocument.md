@@ -187,6 +187,7 @@ description: Documenti da Erp
 * 5: ApprovalByAccountRequired
 * 6: RejectedByAccount
 * 7: ApprovedByManager
+* 8: ApprovedLines
 * -1: Undefined
 
 ## FulfillmentStatus

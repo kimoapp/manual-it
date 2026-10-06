@@ -17,6 +17,10 @@
 * CustomerGroup
 * CustomerGroups
 * Customers
+* DocumentStatus
+* DocumentStatuses
+* DocumentType
+* DocumentTypes
 * ErpDocumentType
 * ErpDocumentTypes
 * Item
@@ -31,6 +35,7 @@
 * Manufacturers
 * Season
 * Seasons
+* SmartBiSource
 * Timeframe
 * Trademark
 * Trademarks

@@ -39,6 +39,7 @@ description: Editor per creazione e modifica di clienti e prospect
 | FreeBoolean1 \[1..7\] |  |
 | FreeDecimal1 \[1..3\] |  |
 | FreeLookup1 \[1..5\] |  |
+| FreeMultipleLookup1 \[1..3\] |  |
 | FreeText1 \[1..5\] |  |
 | GoodsAspect |  |
 | IpaCode |  |

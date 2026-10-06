@@ -24,6 +24,7 @@
 * CustomerPriceGroup
 * ErpStatus
 * FreeLookup
+* FreeMultipleLookup
 * GeoDistance
 * PlaceFreeText
 * PlaceType

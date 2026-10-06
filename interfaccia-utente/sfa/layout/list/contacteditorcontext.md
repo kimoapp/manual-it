@@ -22,6 +22,7 @@
 | FiscalCode |  |
 | FreeBoolean1 \[1..5\] |  |
 | FreeLookup1 \[1..5\] |  |
+| FreeMultipleLookup1 \[1..3\] |  |
 | FreeText1 \[1..5\] |  |
 | Gender |  |
 | LastName |  |

@@ -5,6 +5,7 @@
 | [**EndCustomerPriceSources**](b2bprice.md#endcustomerpricesources) | Indica i tipi di visualizzazione del prezzo al pubblico abilitati |
 | [**HideEndCustomerPriceIfLessOrEqualToPrice**](b2bprice.md#hideendcustomerpriceiflessorequaltoprice) | Indica se il prezzo al pubblico va nascosto nel caso sia inferiore o uguale al prezzo |
 | [**UseMinValueForFirstQuantityRangeLowerBound**](b2bprice.md#useminvalueforfirstquantityrangelowerbound) | Indica se il primo intervallo di quantità deve usare MinValue come limite inferiore \(nessun limite minimo\). |
+| [**UseUnitsPerPackAsDefaultQtyWhenDivisibilityIsBlocking**](b2bprice.md#useunitsperpackasdefaultqtywhendivisibilityisblocking) | Indica se, per il prezzo di default del catalogo, quando la regola di divisibilità dell'UoM è bloccante si deve usare come quantità la UnitsPerPack \(in unità di vendita\) dell'UoM di default dell'articolo invece della quantità di default. |
 
 ## EndCustomerPriceSources
 
@@ -21,5 +22,9 @@
 **Tipo:** Boolean
 
 ## UseMinValueForFirstQuantityRangeLowerBound
+
+**Tipo:** Boolean
+
+## UseUnitsPerPackAsDefaultQtyWhenDivisibilityIsBlocking
 
 **Tipo:** Boolean

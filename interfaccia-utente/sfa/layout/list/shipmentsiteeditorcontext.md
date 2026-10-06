@@ -16,6 +16,7 @@ description: Editor destinazioni merci (es. per definirne una nuova nei document
 | AddressCountrySubdivision |  |
 | AddressLine |  |
 | AddressPostCode |  |
+| DocumentFreeLookup1 \[1..5\] |  |
 | Fax |  |
 | Mail |  |
 | MobilePhone |  |

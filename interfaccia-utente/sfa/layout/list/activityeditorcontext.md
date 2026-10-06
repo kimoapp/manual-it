@@ -29,6 +29,7 @@
 | Contact\_FiscalCode |  |
 | Contact\_FreeBoolean1 \[1..5\] |  |
 | Contact\_FreeLookup1 \[1..5\] |  |
+| Contact\_FreeMultipleLookup1 \[1..3\] |  |
 | Contact\_FreeText1 \[1..5\] |  |
 | Contact\_Gender |  |
 | Contact\_LastName |  |

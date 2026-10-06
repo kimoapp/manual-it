@@ -83,6 +83,7 @@ description: Righe dei controlli commerciali sui documenti di vendita
 * 8: ItemGroupLevel1
 * 9: ItemGroupLevel2
 * 10: ItemGroupLevel3
+* 11: SpecificItemFromReassortmentType
 
 ## MultipleQuantity
 

@@ -20,5 +20,5 @@ description: Cross Reference
 
 ## EncodingType
 
-* 0: Undefined
+* 0: SecondaryCode
 * 1: Barcode

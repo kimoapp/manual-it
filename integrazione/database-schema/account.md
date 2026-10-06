@@ -70,6 +70,9 @@ description: Account (clienti, prospect, destinazioni merci)
 | FreeLookup3 | Campo per dati tabellati | text | 50 |
 | FreeLookup4 | Campo per dati tabellati | text | 50 |
 | FreeLookup5 | Campo per dati tabellati | text | 50 |
+| FreeMultipleLookup1 | Campo per dati tabellati a selezione multipla | text | 300 |
+| FreeMultipleLookup2 | Campo per dati tabellati a selezione multipla | text | 300 |
+| FreeMultipleLookup3 | Campo per dati tabellati a selezione multipla | text | 300 |
 | FreeText1 | Campo testo libero | text | text |
 | FreeText2 | Campo testo libero | text | text |
 | FreeText3 | Campo testo libero | text | text |

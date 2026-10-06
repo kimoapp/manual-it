@@ -35,6 +35,9 @@ description: Contatti
 | FreeLookup3 | Campo per dati tabellati | text | 50 |
 | FreeLookup4 | Campo per dati tabellati | text | 50 |
 | FreeLookup5 | Campo per dati tabellati | text | 50 |
+| FreeMultipleLookup1 | Campo per dati tabellati a selezione multipla | text | 300 |
+| FreeMultipleLookup2 | Campo per dati tabellati a selezione multipla | text | 300 |
+| FreeMultipleLookup3 | Campo per dati tabellati a selezione multipla | text | 300 |
 | FreeText1 | Campo testo libero | text | 50 |
 | FreeText2 | Campo testo libero | text | 50 |
 | FreeText3 | Campo testo libero | text | 50 |

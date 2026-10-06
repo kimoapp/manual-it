@@ -182,6 +182,7 @@ description:
 
 * 0: Regular
 * 1: ApprovalRequired
+* 2: Approved
 
 ## LineType
 

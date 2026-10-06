@@ -5,10 +5,12 @@
 | [**Algorithm**](pricecalculation.md#algorithm) | Algoritmo per il calcolo dei prezzi |
 | [**MinimumNumberOfQuantityRangesToActivateNotification**](pricecalculation.md#minimumnumberofquantityrangestoactivatenotification) | Numero minimo di scaglioni quantità necessari per attivare la gestione degli scaglioni \(e non considerarli semplicemente come articoli di cui è richiesta una quantità minima\) |
 | [**PricePerQtyMultiplierMode**](pricecalculation.md#priceperqtymultipliermode) | Modalità di applicazione del moltiplicatore prezzi |
+| [**PriceReferenceDateSource**](pricecalculation.md#pricereferencedatesource) | Sorgente della data di riferimento per i prezzi \(data documento, data consegna, ...\) |
 | [**PriceRoundingThresholds**](pricecalculation.md#priceroundingthresholds) |  |
 | [**PromotionDiscountsPositionMode**](pricecalculation.md#promotiondiscountspositionmode) | Posizione degli sconti provenienti dalle promozioni \(testata o righe\) |
 | [**RetailPriceDecimalDigitsRounding**](pricecalculation.md#retailpricedecimaldigitsrounding) | Numero di cifre decimali nei prezzi retail |
 | [**RetailPricesIncludeVat**](pricecalculation.md#retailpricesincludevat) | I prezzi retail includono l'IVA |
+| [**ShouldExhaustStrikePromotionSalesConditions**](pricecalculation.md#shouldexhauststrikepromotionsalesconditions) | Nella lista delle condizioni di vendita mostra tutte le promozioni applicabili reiterando il calcolo prezzi Strike ed escludendo di volta in volta quelle già applicate |
 | [**ShouldForcePriceRecalculationOnQuantityEdit**](pricecalculation.md#shouldforcepricerecalculationonquantityedit) | Forza il ricalcolo del prezzo ad ogni edit della quantità |
 | [**ShouldShowAllPricesFromPriceCalculator**](pricecalculation.md#shouldshowallpricesfrompricecalculator) | Nella lista di tutte le condizioni di vendita mostra tutti i prezzi ottenibile dall'algoritmo di calcolo prezzi |
 | [**TotalAmountDecimalDigitsRounding**](pricecalculation.md#totalamountdecimaldigitsrounding) | Numero di cifre decimali negli importi totali |
@@ -31,6 +33,14 @@
 
 * 0 =&gt; Applicato sul totale del documento
 * 1 =&gt; Applicato sul prezzo unitario
+
+## PriceReferenceDateSource
+
+**Tipo:** Enum  
+**Valori:**
+
+* 0 =&gt; Data documento
+* 1 =&gt; Data di consegna
 
 ## PriceRoundingThresholds
 
@@ -56,6 +66,10 @@
 
 * 0 =&gt; No
 * 1 =&gt; Yes
+
+## ShouldExhaustStrikePromotionSalesConditions
+
+**Tipo:** Boolean
 
 ## ShouldForcePriceRecalculationOnQuantityEdit
 

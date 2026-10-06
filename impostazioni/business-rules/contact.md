@@ -15,6 +15,7 @@
 * AddressCountrySubdivision
 * AddressPostCode
 * FreeLookup
+* FreeMultipleLookup
 
 ## KeywordSearchFields
 

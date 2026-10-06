@@ -190,6 +190,7 @@
         * [ReceivableInstallmentsMultipleCashEditor](interfaccia-utente/sfa/layout/list/receivableinstallmentsmultiplecasheditorcontext.md)
         * [ReceivablesBookReport](interfaccia-utente/sfa/layout/list/receivablesbookreportcontext.md)
         * [ReceivablesBookReportRecipient](interfaccia-utente/sfa/layout/list/receivablesbookreportrecipientcontext.md)
+        * [RmaEditor](interfaccia-utente/sfa/layout/list/rmaeditorcontext.md)
         * [SalesConditionForDocumentLineSelector](interfaccia-utente/sfa/layout/list/salesconditionfordocumentlineselectorcontext.md)
         * [ShipmentSiteEditor](interfaccia-utente/sfa/layout/list/shipmentsiteeditorcontext.md)
         * [Signature](interfaccia-utente/sfa/layout/list/signature.md)
